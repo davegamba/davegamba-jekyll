@@ -79,6 +79,6 @@ In pratica ignorare completamente questi principi e trasgredirli tutti i giorni 
 - Sviluppare aerofagia, flatulenza, acidosi, stanchezza perenne dopo il pasto. Prima in fasi acute e successivamente, sei si prosegue con le scorrette associazioni alimentari, in fase cronica.
 - Fermentazioni e putrefazione costanti. Ovvero in pratica una proliferazione costante dei germi patogeni nell'intestino. Che non sono legati solo ai disturbi dei problemi digestivi, ma anche con organi apparentemente non connessi all'addome come raffreddori e problemi nasali, faringiti e gola in genere, otiti, cistiti e vaginiti.
 
-  Per comodità, ecco una tabella degli alimenti per avere un riassunto da ricordare :
+Per comodità, ecco una tabella degli alimenti per avere un riassunto da ricordare:
 
 ![problemi-digestione]({{ site.images_root }}associazioni-alimentari.png "associazione alimentari")

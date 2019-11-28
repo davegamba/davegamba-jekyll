@@ -1,0 +1,115 @@
+sass:
+    style: compressed
+    sass_dir: _sass
+
+# Site
+name: "Dave Gamba"
+title: "Dave Gamba"
+description: "Personal Trainer Online"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/static/favicon.ico'
+baseurl:
+google_analytics: 'UA-36559615-1'
+images_root: 'https://storage.googleapis.com/files.davegamba.com/'
+date_format: '%d/%m/%Y'
+comments: false
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+  davegamba:
+    name: Dave Gamba
+    display_name: Dave Gamba
+    email: info@davegamba.com
+    web: https://www.davegamba.com
+    twitter: https://twitter.com/DaveGambaPT
+    description: "Personal Trainer Online"
+  veronicaprocopio:
+    name: Veronica Procopio
+    display_name: Veronica Procopio
+  giorgiavisentini:
+    name: Giorgia Visentini
+    display_name: Giorgia Visentini
+    description: "Biologa nutrizionista"
+  ileniazelin:
+    name: Ilenia Zelin
+    display_name: Ilenia Zelin
+    description: "Chimico farmaceutica"
+  simonericcio:
+    name: Simone Riccio
+    display_name: Simone Riccio
+  paoloperego:
+    name: Paolo Perego
+    display_name: Paolo Perego
+  stefanomini:
+    name: Stefano Mini
+    display_name: Stefano Mini
+
+social:
+  - facebook:
+    link: https://www.facebook.com/dave.gamba
+    icon: facebook
+    label: Facebook
+  - youtube:
+    link: https://www.youtube.com/user/DaveGambaPT
+    icon: youtube
+    label: YouTube
+  - instagram:
+    link: https://www.instagram.com/dave.gamba/
+    icon: instagram
+    label: Instragram
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: davegamba
+      avatar: /assets/images/avatar/dave-gamba.png
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+owner:
+    name: "Dave Gamba"
+    data: "Partita IVA 09230900962"    
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat]
+
+api:
+    facebook:
+        appid: '508063409287796'
+        version: 'v3.3'
+
+jekyll-archives:
+    enabled: 'all'
+    layout: archive
+    permalinks:
+        year: '/:year/'
+        month: '/:year/:month/'
+        day: '/:year/:month/:day/'
+        tag: '/tag/:name/'
+        category: '/category/:name/'

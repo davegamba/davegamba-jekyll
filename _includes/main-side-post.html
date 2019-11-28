@@ -1,0 +1,24 @@
+<div class="mb-3 d-flex align-items-center">             
+	{% if include.post.image %}
+	<div class="col-md-4">
+		<a href="{{site.baseurl}}{{include.post.url}}">
+			<img class="w-100" src="{% if include.post.image contains "://" %}{{ include.post.image }}{% else %}{{site.images_root}}{{ include.post.image }}{% endif %}" alt="{{ include.post.title }}">
+		</a>
+	</div>
+	{% endif %}
+	<div class="col-md-8">
+		<h2 class="mb-2 h6 font-weight-bold">
+		<a class="text-dark" href="{{site.baseurl}}{{include.post.url}}">{{ include.post.title }}</a>
+		</h2>
+		<small class="d-block text-muted">
+			In <span class="catlist">
+			{% for category in include.post.categories %}
+			<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/category/{{ category | downcase | replace: " ", "-" }}">{{ category }}</a><span class="sep">, </span>
+			{% endfor %}
+			</span>                   
+		</small>
+		<small class="text-muted">
+			<i class="fa fa-clock"></i> {{ include.post.date | date: site.date_format }}
+		</small>
+	</div>
+</div>

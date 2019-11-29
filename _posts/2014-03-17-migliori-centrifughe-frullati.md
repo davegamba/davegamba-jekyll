@@ -39,7 +39,7 @@ Mescola con cucchianino di legno o plastica e bevi subito.
 - 2-3 cm di radice di zenzero, lavato e sbucciato
 - 1 cetriolo, sbucciato se non biologico
 
-Un'altra delle mie preferite perchè adoro le centrifughe con zenzero (come tutte le persone a costituzione ayurvedica calda); inoltre è una centrifuga particolarmente buona ed economica, ideale per chi ha problemi di fegato o deve ripulirsi dopo giorni di baldoria. Lava bene la barbabietola e inseriscila per prima nella centrifuga. Continua con il resto degli ingredienti, unendo il prezzemolo ai cetrioli per comodità. Mescola con un cucchiaino di plastica o legno e consuma subito.
+Un'altra delle mie preferite perché adoro le centrifughe con zenzero (come tutte le persone a costituzione ayurvedica calda); inoltre è una centrifuga particolarmente buona ed economica, ideale per chi ha problemi di fegato o deve ripulirsi dopo giorni di baldoria. Lava bene la barbabietola e inseriscila per prima nella centrifuga. Continua con il resto degli ingredienti, unendo il prezzemolo ai cetrioli per comodità. Mescola con un cucchiaino di plastica o legno e consuma subito.
 
 ![Centrifuga Carote]({{ site.images_root }}2014-03-17-migliori-centrifughe-frullati-3.png)
 

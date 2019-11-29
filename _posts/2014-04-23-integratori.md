@@ -14,7 +14,7 @@ In questa sezione voglio dare solo una breve panoramica degli integratori che ha
 
 > Ricordo alle persone nuove dell'argomento che gli integratori o supplementi NON sono droghe strane, ma vanno considerati Cibi a tutti gli effetti, dal momento che forniscono nutrienti e sono in genere estrapolati da altri cibi.
 > Le cosidette "droghe" sono in genere sostanze chimiche sintetizzate in laboratorio e hanno tutt'altra natura e scopo. È bene imparare fin da subito a non confondere le due cose.
-> È curioso che viviamo in una società che manda giù medicinali dannosissimi al primo malanno (solo perchè consigliati da certi medici) ma è restia a usare capsule di integratori alimentari per ottimizzare alimentazione e salute.
+> È curioso che viviamo in una società che manda giù medicinali dannosissimi al primo malanno (solo perché consigliati da certi medici) ma è restia a usare capsule di integratori alimentari per ottimizzare alimentazione e salute.
 
 GLI INTEGRATORI ALIMENTARI CHE USO REGOLARMENTE
 -----------------------------------------------

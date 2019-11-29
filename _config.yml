@@ -53,6 +53,13 @@ authors:
   stefanomini:
     name: Stefano Mini
     display_name: Stefano Mini
+  gianlucadebenedictis:
+    name: Gianluca De Benedictis
+    display_name: Gianluca De Benedictis
+  tommasominafra:
+    name: Tommaso Minafra
+    display_name: Tommaso Minafra
+    description: "Fisioterapista e Biologo"
 
 social:
   - facebook:

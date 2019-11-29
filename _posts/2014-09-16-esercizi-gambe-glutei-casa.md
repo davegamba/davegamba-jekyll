@@ -146,7 +146,7 @@ Se cominci da zero comincia da queste Schede per iniziare a sviluppare Gambe e G
 **Esempio: 4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.  
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con i secondi dati ad ogni Scheda.
 
-![Schede]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-2)
+![Schede]({{site.images_root}}scheda-rep.png)
 
 Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc.
 

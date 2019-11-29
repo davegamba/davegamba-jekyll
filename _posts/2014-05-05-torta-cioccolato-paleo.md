@@ -38,7 +38,7 @@ E sostituendoli con gli ingredienti più utili per la nostra risposta ormonale, 
 
 ![torta-cioccolato-paleo-1]({{site.images_root}}2014-05-05-torta-cioccolato-paleo-1.jpg)
 
-Posso assicurarti che rimarrai a bocca aperta, soprattutto perchè non starai mangiando ne farine, ne lieviti ne zucchero, ne latte. Dunque risulterà ideale anche per tutti i
+Posso assicurarti che rimarrai a bocca aperta, soprattutto perché non starai mangiando ne farine, ne lieviti ne zucchero, ne latte. Dunque risulterà ideale anche per tutti i
 
 *   CELIACI    
 *   INTOLLERANTI A LATTOSIO
@@ -79,7 +79,7 @@ Per la glassa:
 
 **Conservate in frigorifero!** Preparata? Mangiata? Gustata? Spero proprio di si! Devo essere sincero e ammettere che questa Ricetta non è mia ma tratta dal sito [DolciPaleo.com](http://www.dolcipaleo.com), dove trovi anche altre Ricette di Dolci sani gratuite, oltre il [**Libro completo di 30 Ricette**](http://www.dolcipaleo.com) che consiglio caldamente a chiunque vuole divertirsi in cucina sperimentando dolci golosi nuovi e che non causano danni.
 
-Lo consiglio caldamente (anche perchè sono gli stessi dolci che mangio io!),
+Lo consiglio caldamente (anche perché sono gli stessi dolci che mangio io!),
 
 Buon appetito
 

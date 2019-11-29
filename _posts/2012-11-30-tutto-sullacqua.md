@@ -123,7 +123,7 @@ Bere più acqua è solo un'abitudine, esattamente come tante altre.
 
 ## CHE TIPO DI ACQUA DEVO BERE?
 
-Rubinetto? Bottiglia? Direttamente dalla cascata? Non voglio dilungarmi troppo su questo perché ritengo che sia già stato scritto tanto a riguardo. Ognuno ha la sua opinione e la sostiene con le sue tesi. Personalmente non credo che bere l'acqua del rubinetto sia salutare, perchè le sostanze che vengono inserite non le ritengo cosi innocue come dichiarato. Tuttavia anche l'acqua in bottiglia non è innocente. Lo spreco di plastica per le bottiglie è uno dei più grandi problemi del pianeta. E non sembra rallentare.  Inoltre le sostanze nocive della plastica entrano comunque in contatto con l'acqua che poi beviamo.
+Rubinetto? Bottiglia? Direttamente dalla cascata? Non voglio dilungarmi troppo su questo perché ritengo che sia già stato scritto tanto a riguardo. Ognuno ha la sua opinione e la sostiene con le sue tesi. Personalmente non credo che bere l'acqua del rubinetto sia salutare, perché le sostanze che vengono inserite non le ritengo cosi innocue come dichiarato. Tuttavia anche l'acqua in bottiglia non è innocente. Lo spreco di plastica per le bottiglie è uno dei più grandi problemi del pianeta. E non sembra rallentare.  Inoltre le sostanze nocive della plastica entrano comunque in contatto con l'acqua che poi beviamo.
 Le soluzioni rimangono l'acqua in bottiglie di vetro e il depuratore (possibilmente a osmosi inversa). Naturalmente questo significa fare un piccolo investimento. Ma ne vale sicuramente la pena per l'alimento che consumiamo di più ogni giorno e che influenza di più fisico e salute. E comunque è un tipo di investimento del quale si rientra in pochi anni.
 
 ## COME BEVO DI PIÙ?
@@ -133,10 +133,10 @@ Si inizia semplicemente tenendo sempre una bottiglietta d'acqua accanto a sé. 
 La bottiglietta accanto serve anche per RICORDARSI DI BERE! Che non è una cosa da poco quando siamo persi nelle faccende della giornata. Tenere una bottiglietta sula scrivania a lavoro, accanto al computer a casa, a portata di mano in cucina e in salotto, significa non dimenticarsi di bere.
 Dopo una settimana di costanza si vedranno i primi effetti, in genere sulla pelle e sulle infiammazioni articolari (oltre che della pulizia del sangue che non è visibile).
 Nel giro di pochi giorni sarà ormai diventata un'abitudine riempirsi il bicchiere e ci si renderà conto di quanto poco si beveva prima.
-Come ulteriore riferimento, 1 bicchiere all'ora è l'ideale perchè il corpo consuma l'equivalente di circa un bicchiere all'ora di acqua.
+Come ulteriore riferimento, 1 bicchiere all'ora è l'ideale perché il corpo consuma l'equivalente di circa un bicchiere all'ora di acqua.
 
 Altro suggerimento:
 Meglio bere diversi bicchieri durante la giornata piuttosto che berla tutta insieme.
 
-Ora penso che abbiamo approfondito sufficientemente il perchè l'ACQUA SIA LA REGINA DELLA NUTRIZIONE.
+Ora penso che abbiamo approfondito sufficientemente il perché l'ACQUA SIA LA REGINA DELLA NUTRIZIONE.
 Qualsiasi stile alimentare o di vita viviamo, sedentari o sportivi, l'acqua è il primo semplice grande cambiamento che possiamo fare per stare meglio.

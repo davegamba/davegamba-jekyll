@@ -67,7 +67,7 @@ I 3 ESERCIZI CHE NON APPIATTIRANNO MAI IL TUO ADDOME
 	
 	Questo creerebbe un lavoro muscolare, altrimenti i due pesi si equilibriano! Ma in entrambi i casi questo esercizio è davvero stupido per la biomeccanica umana. Quindi come molte cose stupide, dannoso.
 	
-	Biomeccanicamente è forse il più dannoso perchè fa fare un movimento ai dischi lombari che non sono nati per fare: **PIEGARSI DI LATO**. I muscoli Obliqui non sono lì per piegarsi di lato. **Sono lì per farti RUOTARE**.
+	Biomeccanicamente è forse il più dannoso perché fa fare un movimento ai dischi lombari che non sono nati per fare: **PIEGARSI DI LATO**. I muscoli Obliqui non sono lì per piegarsi di lato. **Sono lì per farti RUOTARE**.
 	
 	Il busto può ruotare solo grazie agli Obliqui, ed è questa la loro funzione, dunque un piegamento di lato non ci dà nessun beneficio ma anzi **comprime i dischi vertebrali laterlamente**
 	
@@ -86,7 +86,7 @@ E li ho inseriti tutti nel mio **Allenamento Completo Per Gli Addominali** che t
 
 Quindi funzionaerà senz'altro per te.
 
-In conclusione quindi, se non hai ancora l'Addome che desideri è perchè:
+In conclusione quindi, se non hai ancora l'Addome che desideri è perché:
 1. Non stai allenando il tuo Addome
 2. Se lo stai allenando, stai facendo gli Esercizi sbagliati (come il 99% delle persone). Quindi sostituiscili subito con questi
 3. Non stai mangiando nella maniera ideale per le tua genetica

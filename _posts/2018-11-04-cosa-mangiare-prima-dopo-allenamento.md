@@ -67,14 +67,14 @@ Ci sono diverse cose che faccio a questo punto:
 
 1.  **Bevo un caffè**.  
     Quasi sempre bevo un caffè prima degli allenamenti più intensi.  
-    È vero che il caffè alza i livelli di cortisolo ma lo fa in seguito all'innalzamento dell'ormone Adrenalina, ovvero l'ormone ideale per eseguire uno sforzo impegnativo.Inoltre è tutto funzionale al nostro obiettivo perchè abbiamo detto che vogliamo creare uno _"stress volontario"_ durante l'Allenamento.
+    È vero che il caffè alza i livelli di cortisolo ma lo fa in seguito all'innalzamento dell'ormone Adrenalina, ovvero l'ormone ideale per eseguire uno sforzo impegnativo.Inoltre è tutto funzionale al nostro obiettivo perché abbiamo detto che vogliamo creare uno _"stress volontario"_ durante l'Allenamento.
     
     _**ATTENZIONE: NON MAI il caffè dopo l'allenamento**_ (abitudine frequente ahimè nelle palestre italiane).  
     Abbasserei Testo e GH col Cortisolo provocato dal caffè, proprio quando desidero che salgano.
     
 2.  **Se ne sento il bisogno prendo [Essence](https://wildfitters.it/products/essence).**
     Il suo scopo è di fornire **MICRO-nutrienti ad altissima assimibilità**. E anche ampia varietà di **antiossidanti**. Se non lo conosci già, Essence sono **32 vegetali Superfood mixati insieme**, che assumi con uno scoop. Praticamente ossigeno per le tue cellule. Ideale quando ci sentiamo fiacchi o con sistema immunitario basso, prima di allenarci. **[Essence si trova Qui](https://wildfitters.it/products/vegforce)**.
-3.  **Saltuariamente prendo EAA [BCAA: 10 BENEFICI DEGLI AMINOACIDI RAMIFICATI](https://www.davegamba.com/bcaa/), Aminoacidi Essenziali**.  
+3.  **Saltuariamente prendo EAA [BCAA: 10 BENEFICI DEGLI AMINOACIDI RAMIFICATI]({% post_url 2014-11-19-bcaa %}), Aminoacidi Essenziali**.  
     Sopratutto prima di una situazione 'performante', ovvero dove devo dare il meglio di me con allenamenti molto pesanti a livello di Forza pura. Consigliati sopratutto per gli uomini avanzati. Tra le marche che preferisco, Yamamoto.
 
 Un'altra ottima idea per gli atleti avanzati può essere aggiungere anche **Arginina** in proporzione con gli EAA, assunti per stimolare la vasodilatazione e il trasporto dei EAA stessi in circolo.
@@ -123,7 +123,7 @@ Per questo le consiglio nonostante non sia un sostenitore del [Latte commerciale
 
 Ciò che è di massima importanza quando parliamo di PROTEINE in polvere, ma integratori in generale, è la qualità.
 
-In questa epoca la gente preferisce risparmiare 2 lire sugli integratori, perchè la vedono come una cosa in più. Se è così è meglio non comprarli.
+In questa epoca la gente preferisce risparmiare 2 lire sugli integratori, perché la vedono come una cosa in più. Se è così è meglio non comprarli.
 
 Gli integratori di valore non sono _"una cosa in più"_.
 
@@ -140,7 +140,7 @@ In alternativa per chi non può o non vuole consumare Siero del latte, ci sono a
 
 **L'importante è NON ACQUISTARE LE PROTEINE DELLA SOIA.**
 
-Innanzitutto perchè straolate da materia prima di bassa qualità, e sopratutto per l'impatto negatico sul sistema omronale. A riguardo [ho già descritto ampiamente QUI](https://www.davegamba.com/soia-tutto-quello-che-devi-sapere/).
+Innanzitutto perché straolate da materia prima di bassa qualità, e sopratutto per l'impatto negatico sul sistema omronale. A riguardo [ho già descritto ampiamente QUI]({% post_url 2017-03-22-soia-tutto-quello-che-devi-sapere %}).
 
 Esistono alternative vegetali di gran lunga migliori, come proteine del Riso, della Canapa e dei Piselli.
 

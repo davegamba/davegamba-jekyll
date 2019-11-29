@@ -32,7 +32,7 @@ A mediare l'opposizione tra queste due donne è un terzo protagonista, **lo Spec
 
 È forse questo a cui ci hanno abituato? Che l'autostima in sé stessi derivi esclusivamente dalla nostra immagine riflessa?
 
-Che perchè una donna sia degna di amore e attenzioni, debba essere leggera come principesse, fate e ballerine?
+Che perché una donna sia degna di amore e attenzioni, debba essere leggera come principesse, fate e ballerine?
 
 Ma quali sono i meccanismi neurofisiologici che intervengono in questo processo?
 
@@ -92,7 +92,15 @@ Infine, 1 ragazza su 10 medita di ricorrere alla chirurgia plastica. [http://www
 DAL DISMORFISMO ALL'ANORESSIA-BULIMIA
 =====================================
 
-Studi recenti hanno dimostrato che accanto a fattori psicologici, l'anoressia è accompagnata anche da fondamenti biologici. Infatti, secondo Valerie Compan, biologa del CNRS di Montpellier, **_"il meccanismo di privazione di cibo per un anoressico stimola reazioni del tutto uguali alla dipendenza dalle sostanze stupefacenti. Il circuito della gratificazione stimolato dalle droghe causa un elevato rilascio di dopamina da parte del nucleo accubens, che determina sensazioni positive e di piacere."_** Ciò è responsabile dello "sballo" causato da molte droghe. Alcune sostanze, come l'ecstasy sopprimono l'appetito, oltre a rendere dipendenti. Il rifiuto di alimentarsi potrebbe, quindi, essere legato a un'**alterazione del circuito della gratificazione**. Altre ricerche sostengono che esistono fattori genetici ed ormonali che predispongono all'anoressia. Questo è solo un esempio di come il corpo non possa essere visto come una entità divisa in compartimenti stagni, ma sia l'unione di numerose parti, anche molto diverse tra loro. Prescindendo da quelli che sono disturbi effettivi, la maggior parte delle persone non è soddisfatta della propria immagina corporea, e questa insoddisfazione è quasi sempre generata da un'alterata percezione di sé. Per quanto possa sembrare un problema tutto al femminile, anche molti uomini possono cadere vittime del dismorfismo. Un esempio è la **vigoressia**, ossia l'ossessione verso lo sviluppo di una massa muscolare ipertrofica e la paura di non avere un corpo vigoroso.
+Studi recenti hanno dimostrato che accanto a fattori psicologici, l'anoressia è accompagnata anche da fondamenti biologici.
+
+Infatti, secondo Valerie Compan, biologa del CNRS di Montpellier, **_"il meccanismo di privazione di cibo per un anoressico stimola reazioni del tutto uguali alla dipendenza dalle sostanze stupefacenti. Il circuito della gratificazione stimolato dalle droghe causa un elevato rilascio di dopamina da parte del nucleo accubens, che determina sensazioni positive e di piacere."_** Ciò è responsabile dello "sballo" causato da molte droghe. Alcune sostanze, come l'ecstasy sopprimono l'appetito, oltre a rendere dipendenti. Il rifiuto di alimentarsi potrebbe, quindi, essere legato a un'**alterazione del circuito della gratificazione**. Altre ricerche sostengono che esistono fattori genetici ed ormonali che predispongono all'anoressia. Questo è solo un esempio di come il corpo non possa essere visto come una entità divisa in compartimenti stagni, ma sia l'unione di numerose parti, anche molto diverse tra loro.
+
+Prescindendo da quelli che sono disturbi effettivi, la maggior parte delle persone non è soddisfatta della propria immagina corporea, e questa insoddisfazione è quasi sempre generata da un'alterata percezione di sé.
+
+Per quanto possa sembrare un problema tutto al femminile, anche molti uomini possono cadere vittime del dismorfismo.
+
+Un esempio è la **vigoressia**, ossia l'ossessione verso lo sviluppo di una massa muscolare ipertrofica e la paura di non avere un corpo vigoroso.
 
 NON C'È DUNQUE SOLUZIONE A QUESTO CIRCOLO VIZIOSO?
 ===================================================
@@ -101,7 +109,11 @@ Fortunatamente una soluzione esiste. Infatti, l'immagine corporea, in quanto rea
 
 Alcune terapie psicologiche utilizzano proprio lo specchio nel trattamento dell'anoressia nervosa.
 
-Se vi capita di parlare con persone che hanno cambiato radicalmente il loro aspetto esteriore e/o superato il Dismorfismo, vi capiterà molto spesso di sentirgli dire, in riferimento alle foto del pre-cambiamento, di non riconoscere la propria immagine. _"Quella/o non sono io!", "ero un'altra persona!", "mi guardo e penso: non ricordo di essere io!"._ **Queste persone non soltanto sono riuscite a fare un percorso di miglioramento che ha giovato al loro fisico, ma sono riuscite soprattutto ad intervenire sulla loro immagine corporea**, sono andati oltre i difetti e hanno creduto in loro stesse prima di ottenere effettivi risultati. Hanno compreso che la loro bellezza personale andava oltre il numero sulla bilancia, o le misurazioni e percentuali. Quelli sono strumenti utili per tenere traccia, ma che non dicono sempre la verità sul reale aspetto e salute dell'individuo. **Hanno compreso che quello che ci rende degni di amore e attenzioni va oltre schemi stereotipati estetici, con cui la società ci bombarda.** È per questo che **è particolarmente importante farsi delle fotografie per tenere traccia dei propri miglioramenti.** Alcune volte i cm e i kg possono essere ingannevoli, non possono essere l'unico metro con cui misurare il fisico. Ci sono momenti in cui il corpo trattiene liquidi, quindi si risulta più pesanti, oppure si sta [perdendo massa grassa e si sta mettendo contemporaneamente massa magra](https://www.davegamba.com/consulenza-personal-trainer-online/), ma al netto del peso non vediamo differenza. Invece una fotografia non soltanto non ci può ingannare, ma ci può anche aiutare a prendere consapevolezza di sé, rieducare la propria immagine corporea e iniziare, finalmente, a piacersi.
+Se vi capita di parlare con persone che hanno cambiato radicalmente il loro aspetto esteriore e/o superato il Dismorfismo, vi capiterà molto spesso di sentirgli dire, in riferimento alle foto del pre-cambiamento, di non riconoscere la propria immagine. _"Quella/o non sono io!", "ero un'altra persona!", "mi guardo e penso: non ricordo di essere io!"._ **Queste persone non soltanto sono riuscite a fare un percorso di miglioramento che ha giovato al loro fisico, ma sono riuscite soprattutto ad intervenire sulla loro immagine corporea**, sono andati oltre i difetti e hanno creduto in loro stesse prima di ottenere effettivi risultati. Hanno compreso che la loro bellezza personale andava oltre il numero sulla bilancia, o le misurazioni e percentuali. Quelli sono strumenti utili per tenere traccia, ma che non dicono sempre la verità sul reale aspetto e salute dell'individuo. **Hanno compreso che quello che ci rende degni di amore e attenzioni va oltre schemi stereotipati estetici, con cui la società ci bombarda.** È per questo che **è particolarmente importante farsi delle fotografie per tenere traccia dei propri miglioramenti.** Alcune volte i cm e i kg possono essere ingannevoli, non possono essere l'unico metro con cui misurare il fisico.
+
+Ci sono momenti in cui il corpo trattiene liquidi, quindi si risulta più pesanti, oppure si sta perdendo massa grassa e si sta mettendo contemporaneamente massa magra, ma al netto del peso non vediamo differenza.
+
+Invece una fotografia non soltanto non ci può ingannare, ma ci può anche aiutare a prendere consapevolezza di sé, rieducare la propria immagine corporea e iniziare, finalmente, a piacersi.
 
 > Una persona bella e attraente non è una persona "magra" fine a sè stessa, bensì una persona SANA.
 > Che trasmette un'immagine di salute e serenità con sè stessa.

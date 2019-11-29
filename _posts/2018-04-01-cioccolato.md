@@ -52,10 +52,11 @@ A livello industriale la produzione di cioccolato avviene tramite **una serie di
 	*   **bianco**: burro di cacao, zucchero, vaniglia, latte o latte in polvere.
 	In alcuni paesi è consentito di tagliare il burro di cacao con altri grassi vegetali. Spesso viene aggiunta anche la lecitina di soia, che agisce come agente emulsionante favorendo una maggiore omogeneizzazione degli ingredienti.
 	_Il cioccolato fondente più pregiato arriva a contenere non meno del 70% di cacao (sia polvere sia burro)_.
-	![](https://static.davegamba.com/uploads/2018/03/cocoa-beans-499970_1920.jpg)
+	![Cocoa Beans]({{site.images_root}}2018-04-01-cioccolato-2.jpg)
 2.	La seconda fase è detta Concaggio **e prevede il lungo _mescolamento degli ingredienti_ a opera di apposite impastatrici e a temperature controllate**. Il Cioccolato più pregiato viene miscelato per non meno di una settimana. Terminata questa fase, il Cioccolato viene mantenuto fuso in serbatoi a 45-50°C. infine, grazie a questo procedimento vengono ossidati i tannini.
 3.	La terza fase è detta Tempraggio.
-	Poiché il burro di cacao tende a cristallizzare in maniera irregolare e disomogenea, il composto fuso viene sottoposto a un _**raffreddamento controllato, fintanto che si raggiunge la cristallizzazione ottimale**_. Lo scopo è quello di ottenere un cioccolato _in grado di spezzarsi_, e che quindi abbia un determinato grado di solidità, ma che possa anche sciogliersi morbidamente.
+	Poiché il burro di cacao tende a cristallizzare in maniera irregolare e disomogenea, il composto fuso viene sottoposto a un _**raffreddamento controllato, fintanto che si raggiunge la cristallizzazione ottimale**_.
+	Lo scopo è quello di ottenere un cioccolato _in grado di spezzarsi_, e che quindi abbia un determinato grado di solidità, ma che possa anche sciogliersi morbidamente.
 
 **Infine, il Cioccolato viene sottoposto alla fase del Modellamento.**
 Il composto viene versato in stampi sottoposti a leggere vibrazioni per eliminare le bollicine d'aria e per far assumere al cioccolato la forma desiderata.

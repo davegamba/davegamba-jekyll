@@ -28,7 +28,7 @@ Come spiegato da John Rusin, che ha sviluppato protocolli per massimizzare la p
 7 BENEFICI DEGLI ELASTICI
 -------------------------
 
-Se non hai ancora provato gli **Elastici in allenamento** ti invito a provarli perchè:
+Se non hai ancora provato gli **Elastici in allenamento** ti invito a provarli perché:
 
 1.	**Sono low-cost.**
 2.	**Sono portatili.**
@@ -61,11 +61,11 @@ Le fasce di resistenza sono popolari come attrezzi per sviluppare forza e potenz
 
 > **Più si allunga la banda, MAGGIORE è la resistenza generata.**
 
-Questa progressiva resistenza è una buona cosa perchè forza il tuo corpo a massimizzare l'impegno e la contrazione muscolare man mano che esegui il movimento.
+Questa progressiva resistenza è una buona cosa perché forza il tuo corpo a massimizzare l'impegno e la contrazione muscolare man mano che esegui il movimento.
 
 Gli atleti di forza ben sviluppati hanno bisogno di un approccio eclettico alla programmazione degli esercizi, e gli Elastici sono un modo ulteriore per sfidare il sistema.
 
-Gli Elastici possono essere aggiunti praticamente ad ogni movimento caricato… ma alcuni esercizi di resistenza sono meglio equipaggiati di altri.
+Gli Elastici possono essere aggiunti praticamente ad ogni movimento caricato... ma alcuni esercizi di resistenza sono meglio equipaggiati di altri.
 
 Per primo dando priorità ai movimenti composti da più giunture, puoi iniziare vedendo i benefici del tuo lavoro in potenza ed accelerazione molto presto...
 

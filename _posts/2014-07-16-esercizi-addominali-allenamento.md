@@ -207,7 +207,7 @@ Per facilitarlo è possibile sollevare solo le braccia e solo gambe a momenti al
 SCHEDE PER COMINCIARE
 =====================
 
-![Dave Gamba - Scheda]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-2.png)
+![Dave Gamba - Scheda]({{site.images_root}}scheda-rep.png)
 
 _**NB**_: Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc...
 

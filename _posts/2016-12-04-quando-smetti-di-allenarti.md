@@ -209,7 +209,7 @@ L'esercizio ha il potenziale di farti sentire meglio **mentalmente, fisicamente 
 
 Può liberare il tuo corpo dallo stress e diminuire i rischi di malattie croniche, presenti e future. Allenamenti regolari ti aiuteranno a rimanere concentrato, **focalizzato**, pensare chiaramente.
 
-_Allora, cosa ci porta non farlo?_ Beh, perchè porta via tempo, impegno e duro lavoro. In un parola, appunto, **Sforzo**.
+_Allora, cosa ci porta non farlo?_ Beh, perché porta via tempo, impegno e duro lavoro. In un parola, appunto, **Sforzo**.
 
 E questa deve essere una decisione personale di ognuno, di impegnarsi per qualcosa di più grande di quello che ha ora. Nessuno potrà forzarti a farlo.
 

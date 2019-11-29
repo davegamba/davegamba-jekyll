@@ -52,7 +52,7 @@ Ora possiamo vedere gli esercizi migliori.
 BICICLETTA
 ----------
 
-La Bicicletta è un esercizio dinamico invece, ma di gran lunga migliore dei Crunch, anche perchè in continuo movimento con un ottimo coinvolgimento degli stabilizzatori.
+La Bicicletta è un esercizio dinamico invece, ma di gran lunga migliore dei Crunch, anche perché in continuo movimento con un ottimo coinvolgimento degli stabilizzatori.
 
 Sdraiata a terra in pancia in su, solleva le gambe dritte da terra e porta un ginocchio e il gomito opposto a toccarsi.
 

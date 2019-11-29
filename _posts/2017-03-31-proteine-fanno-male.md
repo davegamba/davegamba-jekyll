@@ -161,15 +161,13 @@ Nei classici allevamenti, invece, molto spesso si abusa anche con l'utilizzo di 
 
 Un altro consiglio utile è quello di variare le fonti quotidianamente.
 
-La scelta è ampia se si considera la possibilità di spaziare da: **pesce** di vario tipo, **manzo**, **pollo**, **tacchino**, **uova**, ecc..
+La scelta è ampia se si considera la possibilità di spaziare da: **pesce** di vario tipo, **manzo**, **pollo**, **tacchino**, **uova**, ecc...
 
 Evitare cotture estreme in quanto potrebbero favorire la produzione di elementi dannosi che possono avere proprietà cancerogene.
 
-Oggi la difficoltà di garantire a tutti le proteine della carne ha portato l'uomo a cercare delle strategie per arginare il problema provando ad intensificare la [coltivazione della soia](https://www.davegamba.com/soia-tutto-quello-che-devi-sapere/) facendo ricorso anche all'utilizzo della manipolazione genetica.
+Oggi la difficoltà di garantire a tutti le proteine della carne ha portato l'uomo a cercare delle strategie per arginare il problema provando ad intensificare la [coltivazione della soia]({% post_url 2017-03-22-soia-tutto-quello-che-devi-sapere %}) facendo ricorso anche all'utilizzo della manipolazione genetica.
 
 Attualmente i ricercatori stanno considerando l'idea di studiare alimenti completamente innovativi, come le alghe. Attratti soprattutto dall'idea di crearne un allevamento a costo contenuto; cosa che non è stata possibile, date le spese per mantenere agitata l'acqua, i congegni che permettono la loro esposizione alla luce e un buon sistema di essiccamento.
-
-Di Dave Gamba e Ienia Zelin
 
 Domande (E Risposte) Frequenti
 ==============================
@@ -214,7 +212,7 @@ Avere questi dubbi è sano in ogni caso perché significa non ascoltare nessuna 
 *   **E volte le quantità suggerite mi sembrano davvero tante.**
 *   In effetti, se una persona svolge un'attività fisica normale-blanda suggerisco 1,5 g di proteine per kg.  
     **MA** analizziamo nello specifico l'obiettivo più ricercato dai maschietti, dopo il dimagrimento, ovvero la **Massa Muscolare**.  
-    **Se una persona fa Massa e/o Forza suggerisco da 1,5 a 2 gr (a seconda dell'esperienza)**.  
+    **Se una persona fa Massa e/o Forza suggerisco da 1,5 a 2 gr (a seconda dell'esperienza)**.
     Non di più, perché di più perché effettivamente non serve.  
     Ma è un fatto che fare massa muscolare significa "creare più muscoli" e questo non avverrà certo a carico di Carbo e Grassi che sono carburante energetico. **I mattoni dei tessuti sono Proteine**. Se vuoi più tessuto devi avere più mattoni (una volta dato il giusto stimolo allenante ovviamente)**.  
     I problemi di acidificazione del ph e surplus proteico non avvengono in questo panorama**, in quanto quelle proteine saranno tutte utilizzate per via dello stimolo dell'allenamento per la massa efficace (si spera). Non avviene dunque in questo quadro il temuto surplus di proteine, o di eccessive scorie azotate se ben equilibrate con Carbo e Grassi e acqua in abbondanza.  
@@ -222,12 +220,19 @@ Avere questi dubbi è sano in ogni caso perché significa non ascoltare nessuna 
     **Per il ricambio aminoacidico dei nostri tessuti e organi, servono nuovi aminoacidi ovvero Proteine**.  
     È inutile sostenere il contrario.
     
-    Da vegani si può benissimo vivere con 50g di proteine al giorno se proprio volete, sono il primo a dirlo. Ma stiamo parlando di un sedentario. Ma se un vegano fa massa, anche lui dovrà alzare il suo introito proteico e su questo non ci piove.  
+    Da vegani si può benissimo vivere con 50g di proteine al giorno se proprio volete, sono il primo a dirlo. Ma stiamo parlando di un sedentario.
+	
+	Ma se un vegano fa massa, anche lui dovrà alzare il suo introito proteico e su questo non ci piove.
+	
     **Il problema NON è "le Proteine fanno male". Il punto è usare la quantità di proteine giuste per sé e per l'attività fisica che si svolge.**
 *   Inoltre sempre più evidenze sembrano andare contro le proteine animali.
 *   A questo punto abbiamo risposto in tutto l'articolo precedentemente, ed è particolarmente importante in questo periodo storico perché riguarda **la provenienza delle Proteine**.  
-    Ora, magari anche tu hai seguito conferenze e studi sull'infiammazione da proteine animali, capisco benissimo, le conosco bene.E posso essere anche d'accordo per certi versi.**Ma potrei chiederti allo stesso modo: "E le infiammazioni date dall'insulina alta?"** che causa conseguenze più variopinte e gravi, volendo ben guardare, visto che influenza più direttamente il sistema ormonale, la tiroide e l'ipotalamo nello specifico.Seguendo il precetto che la proteina animale infiamma sempre, dovremmo dedicarci a una dieta vegana, giusto? Ma come facciamo a consumare proteine senza consumare insieme carbo complessi in un'alimentazione del genere? Impossibile. Visto che dovremmo mangiare quotidianamente legumi, che di media possiedono 50gr di carbo e 20 di prot.  
+    Ora, magari anche tu hai seguito conferenze e studi sull'infiammazione da proteine animali, capisco benissimo, le conosco bene.E posso essere anche d'accordo per certi versi.
+	
+	**Ma potrei chiederti allo stesso modo: "E le infiammazioni date dall'insulina alta?"** che causa conseguenze più variopinte e gravi, volendo ben guardare, visto che influenza più direttamente il sistema ormonale, la tiroide e l'ipotalamo nello specifico.Seguendo il precetto che la proteina animale infiamma sempre, dovremmo dedicarci a una dieta vegana, giusto? Ma come facciamo a consumare proteine senza consumare insieme carbo complessi in un'alimentazione del genere? Impossibile. Visto che dovremmo mangiare quotidianamente legumi, che di media possiedono 50gr di carbo e 20 di prot.
+	
     E non possiamo consumare kg di frutta secca visto che per ogni 15 gr di proteine mangiamo 50/60 gr di grassi... Un'alimentazione del genere è definita depurante e antinfiammatoria, **ma di non infiammatorio c'è solo frutta e verdura**.Tutto il resto è un danno, perché per alzare proteine bisogna alzare carbo a manetta (a meno che non si assumano proteine in polvere vegetali, cosa che consiglio se sono di qualità come le Sunwarrior). Inoltre non possiamo prescindere dal fatto che in natura non esistono omega3 validi per la risposta umana, visto che né Lino né Chia, né qualsiasi altro seme possiede le **proporzioni di EPA e DHA corrette per il corpo umano (come il pesce e il Krill)**.  
+	
     Tutto questo può essere perlomeno spunto di riflessione penso.
 
 **FORSE il problema delle proteine animali dipende dalla loro qualità.**
@@ -238,7 +243,7 @@ Avere questi dubbi è sano in ogni caso perché significa non ascoltare nessuna 
 
 **Forse** l'uovo di una gallina libera che prende il sole è diverso da quello di una gallina rinchiusa in una gabbia per sempre senza vedere la luce.
 
-**Forse** il latte intero di una mucca cresciuta ad erba è diverso dal latte scremato e a lunga conservazione di una mucca riempita di anabolizzanti e cresciuta a [cereali](https://www.davegamba.com/cereali-farina/ "CEREALI & FARINA TI STANNO AMMALANDO LENTAMENTE").
+**Forse** il latte intero di una mucca cresciuta ad erba è diverso dal latte scremato e a lunga conservazione di una mucca riempita di anabolizzanti e cresciuta a [cereali]({% post_url 2014-05-17-cereali-farina %}).
 
 **QUESTI, direi, sono i fattori che influenzano la risposta del nostro corpo a un cibo.**
 
@@ -277,7 +282,7 @@ Per riassumere:
 *   Non serve mangiarne camionate, oltre i 2gr per Kg corporeo (come dicono i bodybuilders).
 *   Sono fondamentalmente Mattoni.  
     Senza i quali non sopravvivremmo.  
-    Ciò che conta è che vengano da FONTI DI QUALITA'.  
+    Ciò che conta è che vengano da FONTI DI QUALITÀ.  
     Le quantità dipendono dalle proprie caratteristiche e dalle attività che svolgiamo abitualmente.  
     Da 1 a 2 gr per kg corporeo.
 

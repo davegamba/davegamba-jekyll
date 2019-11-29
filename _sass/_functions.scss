@@ -1,0 +1,20 @@
+@import "variables";
+@import "bootstrap/bootstrap";
+
+@mixin background-size($value: cover) {
+	-webkit-background-size: $value;
+	-moz-background-size: $value;
+	-o-background-size: $value;
+	background-size: $value;
+}
+@mixin alert($main: $white, $background: $primary, $link: $gray-500) {
+	color: $main;
+	background-color: $background;
+	border-color: $background;
+	hr {
+		border-top-color: $background;
+	}
+	.alert-link {
+		color: $link;
+	}
+}

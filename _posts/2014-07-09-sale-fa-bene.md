@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PERCHÈ IL SALE FA BENE: Tutti I Fatti Sul Sale"
+title: "PERCHÉ IL SALE FA BENE: Tutti I Fatti Sul Sale"
 date: 2014-07-09 08:46
 author: davegamba
 comments: true
@@ -16,7 +16,7 @@ Ora sto per dirti una cosa che potrebbe mettere a seria prova il tuo sistema di 
 
 Ecco l'ho detto. E non solo. **NON possiamo vivere nemmeno, senza Sale. E neppure con poco Sale.** Certo ci sono alcune cose da sapere prima però.
 
-Il problema è che la gente non conosce le differenze enormi che passano attraverso i diversi tipi di Sale (perchè non ci sono state insegnate da nessuno).
+Il problema è che la gente non conosce le differenze enormi che passano attraverso i diversi tipi di Sale (perché non ci sono state insegnate da nessuno).
 
 La differenza tra usare un tipo di Sale e un altro, fa la differenza pratica tra essere ammalati o sani, ammalarsi o guarire, nel lungo termine. Il punto è molto semplice:
 
@@ -82,7 +82,7 @@ Ad esempio, crescendo un bambino che è stato svezzato senza assolutamente Sali 
 
 Mentre un individuo che è abituato a consumare i suoi pasti principali con Sale integrale sano e senza limitazioni particolari, **sentirà sempre soddisfatta la sua voglia istintiva di salato** senza particolari problemi.
 
-Inoltre continuare a mangiare Sale Raffinato porta in un grave circolo vizioso, perchè
+Inoltre continuare a mangiare Sale Raffinato porta in un grave circolo vizioso, perché
 
 > il corpo richiede Sale per avere minerali, e noi gli diamo un Sale senza minerali che non fornisce nessun nutriente
 

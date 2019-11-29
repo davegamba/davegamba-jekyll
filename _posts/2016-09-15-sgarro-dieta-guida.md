@@ -61,7 +61,7 @@ Altrimenti tutto il discorso che vedremo in seguito, sui pro e contro, decade.
 PERCHÉ SGARRARE?
 =================
 
-Ha davvero senso sgarrare? E se si perchè?
+Ha davvero senso sgarrare? E se si perché?
 
 Vediamo le ragioni psicologiche e fisiche.
 

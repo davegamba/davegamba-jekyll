@@ -47,7 +47,7 @@ Nel mondo delle persone che si allenano muscolarmente in effetti, esistono alcun
 	A volte hanno la sfortuna di incontrare trainer poco validi, altre volte non hanno bene le idee chiare.
 2.	### Esiste una cerchia _media_ di persone muscolose.
 	Il loro unico obiettivo è crescere, apparire più grosse possibili.
-	Questo tipo di persone sono spesso sovrappeso anche di massa grassa e sempre "appannate" perchè mangiano senza controllo, si riempiono di proteine come se non avessero dei reni, e spesso assumono anche integratori senza una logica studiata.
+	Questo tipo di persone sono spesso sovrappeso anche di massa grassa e sempre "appannate" perché mangiano senza controllo, si riempiono di proteine come se non avessero dei reni, e spesso assumono anche integratori senza una logica studiata.
 	Conta solo crescere.
 3.	### Esiste poi una _piccola_ cerchia di persone muscolose e scolpite.
 	Questi in genere sono ottimi atleti.
@@ -132,7 +132,7 @@ E anche uno di quegli esercizi che vengono abbandonati prima, dal momento che no
 ALLENARE LA MASSA E LA FORZA IN UN NUOVO METODO:
 ------------------------------------------------
 
-L'ALTA INTENSITA' A CORPO LIBERO
+L'ALTA INTENSITÀ A CORPO LIBERO
 ================================
 
 Mi sono allenato con i Pesi come tutti per molti, moltissimi anni.
@@ -145,7 +145,7 @@ Ma ad un certo punto ho deciso di cambiare. Ho deciso dedicarmi al corpo libero,
 
 Ho scelto di vedere fin dove si poteva arrivare. Credo di aver provato tutti, ma proprio tutti gli allenamenti esistenti sul pianeta Terra.
 
-Non perchè sono matto (ok, anche) ma perchè **mi piace**. **Mi diverte sperimentare, provare e alla fine trovare la strada più veloce**.
+Non perché sono matto (ok, anche) ma perché **mi piace**. **Mi diverte sperimentare, provare e alla fine trovare la strada più veloce**.
 
 Sempre rimanendo concentrato sulla cosa più naturale per la fisiologia umana.
 

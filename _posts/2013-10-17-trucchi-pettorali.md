@@ -20,7 +20,7 @@ I 4 TRUCCHI PER I PETTORALI
 ===========================
 
 1.	### VELOCITÀ D'ESECUZIONE
-	Spesso i classici Piegamenti sulle braccia si lasciano stare perchè siamo convinti che soltanto con dei pesi alti possiamo rinforzarci e crescere.
+	Spesso i classici Piegamenti sulle braccia si lasciano stare perché siamo convinti che soltanto con dei pesi alti possiamo rinforzarci e crescere.
 	
 	Per quanto un allenamento con carichi alti sia molto utile, se ci è possibile eseguirlo in una palestra, in realtà la crescita muscolare è molto più complessa di così.
 	
@@ -36,7 +36,7 @@ I 4 TRUCCHI PER I PETTORALI
 	
 	Chi si allena da tempo avrà notato banalmente che una ripetizione eseguita lentamente è molto più pesante della stessa ripetizione, a parità di carico.
 	
-	Questo perchè il muscolo deve _resistere_ al carico, per così dire.
+	Questo perché il muscolo deve _resistere_ al carico, per così dire.
 	
 	Ed è proprio questo che vogliamo durante i piegamenti.
 	

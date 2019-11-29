@@ -92,7 +92,7 @@ Quest'arte si esercita quotidianamente? Ha senso praticarla anche saltuariamente
 
 La pratica del Qi gong non dovrebbe essere perseguita con ostinazione, non bisogna assolutamente accanirsi sui risultati.
 
-È molto più importante ricercare il rilassamento nelle nostre attività quotidiana perchè l'arte del Qi gong, al contrario di quanto si possa pensare, non è una mera tecnica di rilassamento da utilizzare dopo gli stress di fine giornata ma piuttosto richiede una predisposizione psicofisica che non può limitarsi al solo tempo della pratica.
+È molto più importante ricercare il rilassamento nelle nostre attività quotidiana perché l'arte del Qi gong, al contrario di quanto si possa pensare, non è una mera tecnica di rilassamento da utilizzare dopo gli stress di fine giornata ma piuttosto richiede una predisposizione psicofisica che non può limitarsi al solo tempo della pratica.
 
 Per rispondere alla domanda bisognerebbe praticare quando si è predisposti e quindi anche saltuariamente.
 

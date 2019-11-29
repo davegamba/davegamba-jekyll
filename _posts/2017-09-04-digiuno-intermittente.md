@@ -37,7 +37,7 @@ La malnutrizione è una situazione che rappresenta una carenza dei nutrienti fon
 
 Quest'ultima, ovviamente, porta a ripercussioni sullo stato di salute del soggetto. _That's bad._
 
-**MA IL DIGIUNO INTERMITTENTE E' UN'ALTRA COSA.**
+**MA IL DIGIUNO INTERMITTENTE È UN'ALTRA COSA.**
 
 Il Digiuno Intermittente non è astensione totale del cibo, _**nè necessariamente diminuzione del cibo introdotto**_ in una giornata.
 
@@ -68,7 +68,7 @@ Per fare questo, è necessario prendere in considerazione due diverse vie moleco
     È conosciuta anche come la via dell'ipertrofia. Viene attivata principalmente da substrati come aminoacidi, glucosio ed insulina.  
     Ha un ruolo importantissimo nella regolazione del bilancio energetico in quanto, a seguito della somministrazione di leucina (un aminoacido essenziale, il principale tra i tre aminoacidi ramificati).  
     La leucina può agire a livello dell'ipotalamo andando a ridurre lo stimolo dell'appetito.  
-    Se andiamo a porla anche sul piano dell'allenamento possiamo notare che è stimolata dal resistance training (termine affiliabile al classico [allenamento che prevede l'utilizzo di carichi](https://www.davegamba.com/come-aumentare-trazioni-alla-sbarra/)).
+    Se andiamo a porla anche sul piano dell'allenamento possiamo notare che è stimolata dal resistance training (termine affiliabile al classico [allenamento che prevede l'utilizzo di carichi]({% post_url 2013-01-23-come-aumentare-trazioni-alla-sbarra %})).
     
 *   Via della mitocondriogenesi che viene stimolata, diversamente, dall'endurance training (tipologia di allenamento solitamente finalizzato all'aumento della resistenza ed al lavoro aerobico).
     

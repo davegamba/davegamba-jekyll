@@ -40,7 +40,7 @@ Questo si deve al fatto che bruciando velocemente i carboidrati nel loro metabol
 **Se i livelli di zucchero calano nel mezzo della notte, il corpo si ritrova stressato nel tentativo di rialzare i livelli nel sangue**.
 Questo dà spesso un sali-scendi dei propri ritmi ormonali durante la notte, che disturbano il rilascio di Melatonina (ormone del sonno e del sistema immunitario), come come degli ormoni della crescita.
 
-Questo può portare a risvegliarsi sentendosi stanco e poco riposato. Questo è il motivo per cui i Tipi Proteici devono stare molto attenti a cosa mangiano per dessert o cosa bevono, perchè se assumono troppi zuccheri semplici potrebbero sviluppare seri problemi di sonno, oltre a _mal di testa cronici, fatica cronica, depressione, poca concentrazione mattutina, dolore al collo_ che spesso passano semplicemente regolande i livelli del sangue nelle ore prima di dormire.
+Questo può portare a risvegliarsi sentendosi stanco e poco riposato. Questo è il motivo per cui i Tipi Proteici devono stare molto attenti a cosa mangiano per dessert o cosa bevono, perché se assumono troppi zuccheri semplici potrebbero sviluppare seri problemi di sonno, oltre a _mal di testa cronici, fatica cronica, depressione, poca concentrazione mattutina, dolore al collo_ che spesso passano semplicemente regolande i livelli del sangue nelle ore prima di dormire.
 
 Questo Tipo deve stare particolarmente attento anche a tutti i dolciumi e le barrette commerciali, oltre naturalmente a tutti i grassi e proteine di bassa qualità.
 
@@ -53,7 +53,7 @@ Piuttosto un'ottima alternativa è la Stevia, fantastico dolcificante naturale.
 
 Molti Tipi Proteici, sopratutto coloro che devono perdere peso, si troveranno meglio a mangiare **frequentemente piccoli pasti bilanciati**.
 
-Ci sono molte teorie sulle quantità di proteine che si riescono a metabolizzare in un solo pasto, ma ciò che conta è che se dopo mangiato ti senti bene e con più energie (vedi sempre l'articolo il [Pasto Ideale](https://www.davegamba.com/2013/02/perche-la-dieta-non-funziona.html)) significa che evidentemente non stai mangiando troppe proteine.
+Ci sono molte teorie sulle quantità di proteine che si riescono a metabolizzare in un solo pasto, ma ciò che conta è che se dopo mangiato ti senti bene e con più energie (vedi sempre l'articolo il [Pasto Ideale]({% post_url 2013-03-03-pasto-ideale %})) significa che evidentemente non stai mangiando troppe proteine.
 
 #### TIPO CARBO
 
@@ -62,7 +62,7 @@ Cosi come i Tipi Proteici non ottimizzano la digestione dei carboidrati quando m
 
 Il Tipo Carbo deve, proporzionalmente, mangiare un dose maggiore di carboidrati ogni pasto e successivamente grassi e proteine (di cui ha comunque bisogno).
 
-Solo perchè un Tipo Carbo ha bisogno di più carboidrati, non significa che può mangiare qualsiasi dolciume o merendina e sentirsi apposto.
+Solo perché un Tipo Carbo ha bisogno di più carboidrati, non significa che può mangiare qualsiasi dolciume o merendina e sentirsi apposto.
 
 Il punto è che i Tipi Carbo si sentono meglio in una alimentazione da **70% di Carboidrati**, ma devono essere zuccheri che vengono da _cibo vero_ e non da cibi commerciali e industrializzati.
 
@@ -74,7 +74,7 @@ Se invece (come spesso accade a chi non sa di essere Carbo) non hanno soddisfatt
 
 Proprio per questo motivo loro devono **mangiare abbondantemente a colazione e pranzo se lo sentono, così da regolare la propria glicemia e sentirsi soddisfatti**.
 
-Un Tipo Carbo insoddisfatto vorrà mangiare qualsiasi dolciume e questa è la cosa peggiore che può succedere per la salute, anche se si tratta di dolci naturali e biologici (perchè caratteristica di qualsiasi dolve è avere un indice glicemico veramente altissimo).
+Un Tipo Carbo insoddisfatto vorrà mangiare qualsiasi dolciume e questa è la cosa peggiore che può succedere per la salute, anche se si tratta di dolci naturali e biologici (perché caratteristica di qualsiasi dolve è avere un indice glicemico veramente altissimo).
 
 Un dessert una o due volte la settimana non crea problemi, ma mangiare quotidianamente dolci come un Tipo Carbo insoddisfatto porta a una glicemia squilibrata, che finisce in un circolo vizioso di fame.
 
@@ -87,7 +87,7 @@ I pasti a base di grassi possono farli sentire intontiti e fiacchi, e sentiranno
 #### TIPO MISTO
 
 Se il Test ti ha dato come risultato il Tipo Misto, hai la fortuna di essere il più facile da nutrire.
-**Il Tipo Misto deve conoscere bene le caratteristiche elencate nei 2 precedenti Tipi**, perchè in qualità di Tipo Misto si ritroverà ad oscilllare spesso tra uno e l'altro.
+**Il Tipo Misto deve conoscere bene le caratteristiche elencate nei 2 precedenti Tipi**, perché in qualità di Tipo Misto si ritroverà ad oscilllare spesso tra uno e l'altro.
 
 I cambiamenti dipenderanno dalle proprie sensazioni, l'habitat in cui viviamo, e i propri livelli di stress psicologico, ormonale ed emotivo.
 Le oscillazioni **possono variare da pasto a pasto, da settimana a settimana o da mese a mese**. Come detto, dipende.

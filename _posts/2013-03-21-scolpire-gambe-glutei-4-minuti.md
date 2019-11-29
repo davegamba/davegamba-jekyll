@@ -7,11 +7,32 @@ comments: true
 image: 2013-03-21-scolpire-gambe-glutei-4-minuti.jpg
 categories: [Dimagrire]
 ---
-Ripropongo qui la traduzione del mio ultimo articolo per la rivista TenerifeNews. Questo è l'Allenamento base che propongo per scolpire Gambe e Glutei e iniziare bruciare grasso. A questi link troverai i Livelli più avanzati: [- Allenamento Dimagrante Livello Intermedio](https://www.davegamba.com/allenamento-dimagrire-casa-2/ "ALLENAMENTO PER DIMAGRIRE AL FEMMINILE – LIVELLO INTERMEDIO") [- Allenamento Dimagrante Livello Avanzato](https://www.davegamba.com/allenamento-dimagrire-casa-3/ "ALLENAMENTO PER DIMAGRIRE AL FEMMINILE – LIVELLO AVANZATO")   **Un allenamento breve e intenso per Gambe e Glutei** è davvero possibile e funzionale. Anzi, lo consiglio proprio a chiunque voglia iniziare ad allenarsi a casa senza attrezzi, con poco tempo a disposizione.  Una delle zone del corpo di maggiore interesse per le donne è certamente la zona di **Gambe e Glutei**. Ma spesso iscriversi in una palestra o iniziare a fare corsi può essere davvero impossibile, in particolare per chi ha poco tempo libero. Per questo motivo mi sono dedicato allo sviluppo di esercizi a corpo libero e **programmi d'allenamento brevi ma efficaci, che si potessero svolgere ovunque senza attrezzi**.  
+Ripropongo qui la traduzione del mio ultimo articolo per la rivista TenerifeNews.
+
+Questo è l'Allenamento base che propongo per scolpire Gambe e Glutei e iniziare bruciare grasso.
+
+A questi link troverai i Livelli più avanzati:
+
+- [Allenamento Dimagrante Livello Intermedio]({% post_url 2014-03-19-allenamento-dimagrire-casa-2 %})
+- [Allenamento Dimagrante Livello Avanzato]({% post_url 2014-04-01-allenamento-dimagrire-casa-3 %})
+
+**Un allenamento breve e intenso per Gambe e Glutei** è davvero possibile e funzionale.
+
+Anzi, lo consiglio proprio a chiunque voglia iniziare ad allenarsi a casa senza attrezzi, con poco tempo a disposizione.
+
+Una delle zone del corpo di maggiore interesse per le donne è certamente la zona di **Gambe e Glutei**.
+
+Ma spesso iscriversi in una palestra o iniziare a fare corsi può essere davvero impossibile, in particolare per chi ha poco tempo libero.
+
+Per questo motivo mi sono dedicato allo sviluppo di esercizi a corpo libero e **programmi d'allenamento brevi ma efficaci, che si potessero svolgere ovunque senza attrezzi**.  
 
 ## TABATA
 
-L'allenamento che segue si basa sul **metodo Tabata**, che prende il nome dal ricercatore che lo inventò. Questo scienziato studiò diversi tipi d'allenamento sulle piste di atletica leggera, alla ricerca dell'allenamento con la più intensa risposta muscolare. In pratica, questo è uno dei** migliori metodi di allenamento Brevi e Intensi**, perfetto per alcuni tipi di obiettivi in particolare, come innalzamento del Metabolismo Basale,  dimagrimento, miglioramento della risposta Ormonale e molti altri vantaggi fisiologici. Beh, oltre a farci risparmiare una montagna di tempo, naturalmente!  
+L'allenamento che segue si basa sul **metodo Tabata**, che prende il nome dal ricercatore che lo inventò.
+
+Questo scienziato studiò diversi tipi d'allenamento sulle piste di atletica leggera, alla ricerca dell'allenamento con la più intensa risposta muscolare.
+
+In pratica, questo è uno dei** migliori metodi di allenamento Brevi e Intensi**, perfetto per alcuni tipi di obiettivi in particolare, come innalzamento del Metabolismo Basale, dimagrimento, miglioramento della risposta Ormonale e molti altri vantaggi fisiologici. Beh, oltre a farci risparmiare una montagna di tempo, naturalmente!  
 
 ## L'ALLENAMENTO DA 4 MINUTI
 
@@ -27,7 +48,7 @@ Adesso vediamo come per eseguire la Scheda:
 2. Stop e riposa per 10 secondi.
 3. Ripeti 8 volte, per un totale quindi di 4 min.
 
-L'allenamento **dura solo 4 minuti**, ma una volta finito capirai il perchè. In questo metodo d'allenamento i muscoli lavorano e si esauriscono nel tempo effettivo di un allenamento classico (ovvero nello stesso tempo di lavoro pratico, o in gergo sotto Tensione muscolare), ma in un tempo totale sostanzialmente ridotto per via delle brevissime pause.
+L'allenamento **dura solo 4 minuti**, ma una volta finito capirai il perché. In questo metodo d'allenamento i muscoli lavorano e si esauriscono nel tempo effettivo di un allenamento classico (ovvero nello stesso tempo di lavoro pratico, o in gergo sotto Tensione muscolare), ma in un tempo totale sostanzialmente ridotto per via delle brevissime pause.
 
 ## PERCHÉ È COSI EFFICACE?
 

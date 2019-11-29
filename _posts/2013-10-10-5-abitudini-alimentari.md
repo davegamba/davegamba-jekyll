@@ -25,15 +25,15 @@ Tuttavia devo ammettere mio malgrado che quelle diete possiedono delle qualità:
 
 Ci sono alcuni **Passi base** che chiunque può fare per cominciare. E si possono iniziare a fare semplicemente, senza bisogno di stravolgere le nostre abitudini attuali. Senza approfondirli uno per uno, te li presento super-rapidamente:  
 
-## 1\. Sostituire lo Zucchero Bianco con Zucchero di Canna integrale
+## 1.... Sostituire lo Zucchero Bianco con Zucchero di Canna integrale
 
 Se esiste un vero nemico a tavola, si sa, quello è lo zucchero bianco. Molti non ci pensano, ma tra lo zucchero bianco e quello scuro passa un enorme differenza. Infatti lo zucchero di canna non è raffinato e il corpo lo digerisce meglio, senza creare i pericolosi picchi glicemici. Questo ci permette anche di non trasformarlo in grasso. Inoltre è altrettanto buono e dolce, se non di più!  
 
-## 2\. Bere il Tè verde
+## 2.... Bere il Tè verde
 
 Enormemente più sano del classico te nero, possiede anche un forte potere drenante e depurante. Ideale quindi per buttare fuori l'acqua in eccesso nella nostra pelle. È uno dei più potenti antiossdanti naturali. Stabilizzatore ormonale, aiuta a controllare il Cortisolo. Ti fa bene.   Se riesci, sostituiscilo anche a uno o più Caffè della giornata (puoi anche tenrere un Caffè al giorno, ma impara a gestirli bene. Vedi anche [il mio articolo su 5 cose da sapere sul Caffè]({% post_url 2013-03-24-effetti-caffe %})).  
 
-## 3\. Diminuire la Carne e aumentare il Pesce
+## 3.... Diminuire la Carne e aumentare il Pesce
 
 Molti nelle proprie abitudini alimentari (involontari) consumano carne ogni giorno e quasi in ogni pasto. Questo perché la carne ce la ritroviamo in quasi tutti i piatti pronti, salumi e contorni, paste etc etc. Questi tipi di carne in particolare, sono pieni di nitrati e grassi saturi che il nostro corpo fa fatica a liberarsi. Il pesce invece possiede caratteristiche molto differenti e i suoi grassi sono addirittura utili e sani per chi vuole dimagrire.
 
@@ -43,7 +43,7 @@ Molti nelle proprie abitudini alimentari (involontari) consumano carne ogni gior
 
 I grassi della Carne al contrario possono risultare dannosi in alcune situazioni (come la cottura dei grassi di carne rossa) per linea e salute interna.
 
-## 4\. Mangiare più Frutta e meno Pane
+## 4.... Mangiare più Frutta e meno Pane
 
 Il nostro corpo funziona a zuccheri e naturalmente di zuccheri abbiamo bisogno. **Ma non tutti gli zuccheri sono uguali!** In particolare, il fruttosio naturale della Frutta è molto diverso dai carboidrati della farina.
 

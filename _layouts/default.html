@@ -16,7 +16,7 @@
 	<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
 		<script>window.fbAsyncInit=function(){FB.init({appId:'{{ site.api.facebook.appid }}',autoLogAppEvents:true,xfbml:true,version:'{{ site.api.facebook.version }}'})};</script>
 		<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
-		<nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+		<nav id="top-menu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
 			<div class="container">
 				<a class="navbar-brand" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/images/static/header.svg" title="{{site.name}}" width="212" height="31"></a>
 				<button class="hamburger hamburger--collapse navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-mobile" aria-controls="navbar-mobile" aria-expanded="false" aria-label="Menu">

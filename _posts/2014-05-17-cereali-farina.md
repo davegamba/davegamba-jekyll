@@ -66,11 +66,13 @@ Quindi immagina che una specie vive per milioni di anni in un modo preciso, con 
 - che deve necessariamente essere lavorato per poterlo mangiare
 - e di cui non conosce gli effetti, a breve e lungo termine.
 
-Il caso vuole che, sempre circa 10.000 anni fa, hanno iniziato a svilupparsi centinaia di malattie che ancora ci portiamo dietro ai giorni nostri, e di cui parleremo tra poco. E dire che il ricercatore [**dr Weston Price,** lo aveva già fatto notare più di 85 anni fa nelle sue ricerche sulle tribù.]({% post_url 2014-05-07-scoperte-alimentari %}) Significa che ora non solo per questo dovremmo smettere di colpo di mangiare Cereali!? No.
+Il caso vuole che, sempre circa 10.000 anni fa, hanno iniziato a svilupparsi centinaia di malattie che ancora ci portiamo dietro ai giorni nostri, e di cui parleremo tra poco. E dire che il ricercatore [**dr Weston Price,** lo aveva già fatto notare più di 85 anni fa nelle sue ricerche sulle tribù.]({% post_url 2014-05-07-scoperte-alimentari %})
+
+Significa che ora non solo per questo dovremmo smettere di colpo di mangiare Cereali!? No.
 
 Come vedremo, non è quello in cui credo. Ma qui vogliamo fare un excursus storico che ci ha portato fino alle abitudini odierne ed è importante conoscere il percorso che abbiamo attraversato come specie.
 
-E PERCHÈ ABBIAMO INIZIATO E CONTINUATO A MANGIARLI?
+E PERCHÉ ABBIAMO INIZIATO E CONTINUATO A MANGIARLI?
 ----------------------------------------------------
 
 Le ragioni non sono difficili. Una volta sviluppati macchinari più complessi grazie allo sviluppo della nostra intelligenza, i grani sono risultati alimenti facili da coltivare, da avere tutto l'anno, che durano a lungo, facilmente conservabili, molto molto economici, in grado quindi di sfamare molte bocche anche in situazioni di povertà.
@@ -79,9 +81,13 @@ Le ragioni non sono difficili. Una volta sviluppati macchinari più complessi gr
 
 Infatti i grani o cereali hanno la caratteristica di **alzare subito l'Insulina**.
 
-Più velocemente di qualsiasi cibo conosciuto fino a quell'epoca (lo zucchero non era ancora arrivato). Come ho già mostrato in altri articoli (leggi anche [Quando il Cibo è una droga](https://www.davegamba.com/ho-sempre-fame/ "NON RIESCO A SMETTERE DI MANGIARE: QUANDO IL CIBO È UNA DROGA")), **il picco di Insulina alta dà sempre una sensazione di piacere al cervello**.
+Più velocemente di qualsiasi cibo conosciuto fino a quell'epoca (lo zucchero non era ancora arrivato).
 
-Questo è il motivo principale per cui gli zuccheri semplici ci sembrano così buoni. Il problema di un picco insulinico è che in seguito sarà seguito da un calo, che stimolerà un forte senso di fame di zuccheri, **producendo un circolo vizioso senza fine**.
+Come ho già mostrato in altri articoli (leggi anche [Quando il Cibo è una droga]({% post_url 2014-05-12-ho-sempre-fame %})), **il picco di Insulina alta dà sempre una sensazione di piacere al cervello**.
+
+Questo è il motivo principale per cui gli zuccheri semplici ci sembrano così buoni.
+
+Il problema di un picco insulinico è che in seguito sarà seguito da un calo, che stimolerà un forte senso di fame di zuccheri, **producendo un circolo vizioso senza fine**.
 
 Inoltre senza ri-approfondire anche qui le conseguenze ormonali dell'insulina alta, ricordo che un'accellerazione (eccessivamente) elevata dell'Insulina nel sangue stimolerà il Cortisolo di coneguenza (l'ormone catabolico per eccellenza) oltre a produrre un circolo di dipendenza da altri carbo veloci.
 
@@ -89,7 +95,7 @@ Inoltre senza ri-approfondire anche qui le conseguenze ormonali dell'insulina al
 
 **Dunque zuccheri, semplici o complessi che siano, richiamano sempre altri zuccheri**.
 
-A meno che non stimolino in minima parte l'insulina, in tal caso sono zuccheri sani anche per noi. Ma questi zuccheri sono quasi esclusivamente in **verdura e frutta** [(per conoscere i frutti migliori dal punto di vista insulinico, qui trovi la tabella completa)](https://www.davegamba.com/tabella-fruttosio-frutta/ "FRUTTOSIO NELLA FRUTTA: LA TABELLA QUANTITATIVA").
+A meno che non stimolino in minima parte l'insulina, in tal caso sono zuccheri sani anche per noi. Ma questi zuccheri sono quasi esclusivamente in **verdura e frutta** [(per conoscere i frutti migliori dal punto di vista insulinico, qui trovi la tabella completa)]({% post_url 2014-05-13-tabella-fruttosio-frutta %}).
 
 Questo cambiamento nell'alimentazione fu un punto di non-ritorno per il genere umano.
 
@@ -108,11 +114,15 @@ Le ragioni sono molteplici:
 
 Originariamente tutte questa immensa quantità di cibo era occupato da altri cibi, ricchissimi di vitamine biodiposnibili, minerali, micronutrienti, antiossidanti. Sostanze quasi totalmente assenti nei Cereali.
 
-È inutile che si continuino a pubblicizzare i nutrienti dei Cereali, perchè sono poverissimi in quasi tutto.
+È inutile che si continuino a pubblicizzare i nutrienti dei Cereali, perché sono poverissimi in quasi tutto.
 
-Solo perchè contengono un poco (pochissimo) di potassio o magnesio, e solo perchè molti non sanno che altri alimenti ne contengono in quantità di gran lunga maggiori, o semplicemente che **quelli dei cereali non sono granchè biodisponibili per il corpo umano**.
+Solo perché contengono un poco (pochissimo) di potassio o magnesio, e solo perché molti non sanno che altri alimenti ne contengono in quantità di gran lunga maggiori, o semplicemente che **quelli dei cereali non sono granchè biodisponibili per il corpo umano**.
 
-**Innanzitutto molte Proteine dei Cereali sono incompatibili con l'uomo a partire dal Glutine**, come chiarito bene nell'[articolo completo sul Glutine]({% post_url 2015-05-13-glutine %}). Ma non solo. Queste proteine creano reazioni più o meno gravi, **soprattutto nell'intestino**, a seconda nell'individuo. Queste proteine in pratica, col tempo, abbattono i microvilli del tuo intestino e permettendo che particelle di cibo circolino nel tuo sangue indisturbate.
+**Innanzitutto molte Proteine dei Cereali sono incompatibili con l'uomo a partire dal Glutine**, come chiarito bene nell'[articolo completo sul Glutine]({% post_url 2015-05-13-glutine %}). Ma non solo.
+
+Queste proteine creano reazioni più o meno gravi, **soprattutto nell'intestino**, a seconda nell'individuo.
+
+Queste proteine in pratica, col tempo, abbattono i microvilli del tuo intestino e permettendo che particelle di cibo circolino nel tuo sangue indisturbate.
 
 Questa patologia ha il nome di **Leaky Gut Syndome** (LGS) ovvero Sindrome dell'Intestino gocciolante.
 
@@ -127,7 +137,7 @@ Ecco dunque nascere diverse patologie di conseguenza in diversi individui, a cau
 MALATTIE AUTOIMMUNI
 -------------------
 
-In alcune persone, i Cereali possono arrivare ad **impedire al corpo di metabolizzare micro-nutruenti, come le Vitamine, ANCHE quando derivanti da altri cibi**, creando di fatto le malattie AutoImmuni (di cui abbiamo già parlato in [un altro articolo completo sulle Autoimmuni](https://www.davegamba.com/malattie-autoimmuni/ "MALATTIE AUTOIMMUNI: CAUSE E NUOVI APPROCCI")).
+In alcune persone, i Cereali possono arrivare ad **impedire al corpo di metabolizzare micro-nutruenti, come le Vitamine, ANCHE quando derivanti da altri cibi**, creando di fatto le malattie AutoImmuni (di cui abbiamo già parlato in [un altro articolo completo sulle Autoimmuni]({% post_url 2014-02-26-malattie-autoimmuni %})).
 
 Il collegamento tra Cereali e Intolleranze e Autoimmuni vanno di gran lunga oltre il discorso Glutine, per quanto il Glutine sia il problema maggiore.
 
@@ -157,21 +167,45 @@ Altrimenti nella pratica questo equivarrebbe a fame continua, sbalzi di umore, m
 SOVRAPPESO
 ----------
 
-Poteva mancare la più basica delle disfunzioni? **Infiammazzioni uguale ristagno di acqua nei tessuti. Senza considerare il fatto che nulla come la Farina o i Cereali trattiene più acqua sottocutanea, con un ristagno di liquidi cronico**. Naturalmente è sempre un problemi di quantità, ma questo meccanismo è bene ricordare che è sempre in atto. Proprio per imparare a bilanciarne il consumo durante la giornata Non devo dirti io che l'Insulina alta che abbiamo visto prima (con conseguente stimolo di ormoni catabolici, e quindi 'ingrassanti') velocizza il deposito di grassi nel tuo adipe, per uso futuro. Insulina alta significa immagazzinare velocemente se non si consumano quei carbo velocemente con un attività mentre sono in  circolo. O perlomeno così ragiona il tuo corpo. Ma difficilmente tu incontrerai un periodo di carestia o di digiuno, dove potrai usare queste scorte. Anzi, continuerai a mangiarli tutti i giorni, ancora ed ancora, aumentando semplicemente il tuo deposito personale di adipe.
+Poteva mancare la più basica delle disfunzioni?
+
+**Infiammazzioni uguale ristagno di acqua nei tessuti. Senza considerare il fatto che nulla come la Farina o i Cereali trattiene più acqua sottocutanea, con un ristagno di liquidi cronico**.
+
+Naturalmente è sempre un problemi di quantità, ma questo meccanismo è bene ricordare che è sempre in atto.
+
+Proprio per imparare a bilanciarne il consumo durante la giornata Non devo dirti io che l'Insulina alta che abbiamo visto prima (con conseguente stimolo di ormoni catabolici, e quindi "ingrassanti") velocizza il deposito di grassi nel tuo adipe, per uso futuro.
+
+Insulina alta significa immagazzinare velocemente se non si consumano quei carbo velocemente con un attività mentre sono in  circolo.
+
+O perlomeno così ragiona il tuo corpo. Ma difficilmente tu incontrerai un periodo di carestia o di digiuno, dove potrai usare queste scorte.
+
+Anzi, continuerai a mangiarli tutti i giorni, ancora ed ancora, aumentando semplicemente il tuo deposito personale di adipe.
 
 COLESTEROLO ALTO
 ----------------
 
-**Ho scritto TUTTO sulle causa del Colesterolo alto in [un articolo di 4000 parole](https://www.davegamba.com/colesterolo-alto/ "IL MITO DEL COLESTEROLO ALTO")** e quindi non mi andrò a ripetere qui. Se ancora non lo hai letto semplicemente [LEGGILO ora](https://www.davegamba.com/colesterolo-alto/ "IL MITO DEL COLESTEROLO ALTO"), perchè è un altro pilastro di questo blog e sei ti sta piacendo questo articolo, troverai moltissime info utili anche lì. Per darti un'infarinatura di cosa causano i Cereali, ti ricordo anche qui che il Colesterolo nel sangue si deve alzare in caso di infiammazioni nelle arterie, in quanto il Colesterolo giunge sul posto quando deve rimarginare una ferita nelle arterie, e noi chiamiamo questo 'crosta' sulla 'ferita' **Placca ateromatosa**. Ti riporto un estratto dall'articolo:
+**Ho scritto TUTTO sulle causa del Colesterolo alto in [un articolo di 4000 parole]({% post_url 2014-01-15-colesterolo-alto %})** e quindi non mi andrò a ripetere qui. Se ancora non lo hai letto semplicemente [LEGGILO ora]({% post_url 2014-01-15-colesterolo-alto %}), perché è un altro pilastro di questo blog e sei ti sta piacendo questo articolo, troverai moltissime info utili anche lì. Per darti un'infarinatura di cosa causano i Cereali, ti ricordo anche qui che il Colesterolo nel sangue si deve alzare in caso di infiammazioni nelle arterie, in quanto il Colesterolo giunge sul posto quando deve rimarginare una ferita nelle arterie, e noi chiamiamo questo "crosta" sulla "ferita" **Placca ateromatosa**.
 
-> \[...\] Gran parte delle persone vive con infiammazioni croniche nel circolo sanguigno, e questo quindi le porta ad avere costanti livelli di colesterolo alto. Ma il colesterolo non è la causa, è il sintomo (cioè il tentativo di riparare). **E da dove nascono tutte queste infiammazioni?** Dagli sbilanciamenti ormonali, dovuti quasi tutti all'innalzamento dell'insulina naturalmente. E come sappiamo questo accade per il largo consumo di **zuccheri, cereali e farine** (alla base della piramide alimentare della medicina tradizionale), il fumo, lo stress, i grassi trans-genici, i cibi cotti ad alte temperature. \[...\]
+Ti riporto un estratto dall'articolo:
 
-[** APRI L'ARTICOLO COMPLETO SUL COLESTEROLO ➢**](https://www.davegamba.com/colesterolo-alto/ "IL MITO DEL COLESTEROLO ALTO")
+> Gran parte delle persone vive con infiammazioni croniche nel circolo sanguigno, e questo quindi le porta ad avere costanti livelli di colesterolo alto. Ma il colesterolo non è la causa, è il sintomo (cioè il tentativo di riparare).
+
+**E da dove nascono tutte queste infiammazioni?** Dagli sbilanciamenti ormonali, dovuti quasi tutti all'innalzamento dell'insulina naturalmente.
+
+E come sappiamo questo accade per il largo consumo di **zuccheri, cereali e farine** (alla base della piramide alimentare della medicina tradizionale), il fumo, lo stress, i grassi trans-genici, i cibi cotti ad alte temperature.
+
+[APRI L'ARTICOLO COMPLETO SUL COLESTEROLO]({% post_url 2014-01-15-colesterolo-alto %})
 
 FITATI
 ------
 
-Infatti non solo i cereali sono scarsissimi in vitamine, ma molti contengono sostanze che ne diminuiscono l'assorbimento nell'intestino. Persino la sintesi di vitamina D (prodotta col sole che prendiamo) è inibita dal consumo di cereali. Infatti i Fitati dei grani (delle molecole molto complesse di fosforo) sono **responsabili per bloccare l'assorbimento di calcio ferro** e altri minerali in maniera irreversibile. Se pensi di aver bisogno di poco calcio e ferro, sappi che l'anemia è uno dei primi problemi del sangue dei paesi europei cosidetti civilizzati, e il ferro è il minerale che la coltivazione industriale ha diminuito maggiormente nei vegetali negli ultimi 100-200 anni.
+Infatti non solo i cereali sono scarsissimi in vitamine, ma molti contengono sostanze che ne diminuiscono l'assorbimento nell'intestino.
+
+Persino la sintesi di vitamina D (prodotta col sole che prendiamo) è inibita dal consumo di cereali.
+
+Infatti i Fitati dei grani (delle molecole molto complesse di fosforo) sono **responsabili per bloccare l'assorbimento di calcio ferro** e altri minerali in maniera irreversibile.
+
+Se pensi di aver bisogno di poco calcio e ferro, sappi che l'anemia è uno dei primi problemi del sangue dei paesi europei cosidetti civilizzati, e il ferro è il minerale che la coltivazione industriale ha diminuito maggiormente nei vegetali negli ultimi 100-200 anni.
 
 CERVELLO
 --------
@@ -195,7 +229,7 @@ E le malattie in generale (agenti patogeni, infiammazioni, funghi, etc) riescono
 
 **Ne consegue che l'Alimentazione deve favorire un ambiente alcalino e non acido.** Però qui è dove spesso casca l'asino.
 
-Perchè questo non significa non mangiare cibi acidi al sapore (ad esempio, il limone è un alimento molto alcalino per noi) perchè tutto dipende dalle reazioni chimiche di un alimento con i nostri succhi gastrici.
+Perchè questo non significa non mangiare cibi acidi al sapore (ad esempio, il limone è un alimento molto alcalino per noi) perché tutto dipende dalle reazioni chimiche di un alimento con i nostri succhi gastrici.
 
 A esempio, gli alimenti più acidi sono quelli che non si direbbe mai: lo Zucchero è molto molto acido (Ph 2), il Caffè è molto acido, e naturalmente i Cereali sono acidi (anche se in quantità diverse a seconda del cereale).
 
@@ -227,11 +261,11 @@ MANCANZA DI GRASSI
 
 Abbiamo tirato in ballo i Grassi, quindi parliamone un momento.
 
-Tutti i cibi pre-agricoltura che l'uomo consumava erano a base di Grassi, Grassi di vari tipi ma comunque sempre Grassi, che oggi sono tanto diffamati (perchè come luogo comune si crede ancora che i grassi ingrassino) questo è dovuto al sistema calorico come sistema di riferimento, [ho scritto riguardo l'argomento qui](https://www.davegamba.com/grassi/ "TUTTO QUELLO CHE NON TI HANNO DETTO SUI GRASSI")).
+Tutti i cibi pre-agricoltura che l'uomo consumava erano a base di Grassi, Grassi di vari tipi ma comunque sempre Grassi, che oggi sono tanto diffamati (perché come luogo comune si crede ancora che i grassi ingrassino) questo è dovuto al sistema calorico come sistema di riferimento, [ho scritto riguardo l'argomento qui]({% post_url 2013-11-30-grassi %})).
 
 Dunque si suggerisce di mangiare i Cereali, i quanto hanno una quantità di grasso pari quasi a zero.
 
-E a parità di peso contengono meno calorie. Se si usa il sistema calorico come riferimento, sembra logico fare così, no? Per questo è cosi importante avere dubbi sui **sistemi alla base di qualsiasi scienza**, perchè cambiare uno schema può sconvolgerne le leggi che ne conseguono.
+E a parità di peso contengono meno calorie. Se si usa il sistema calorico come riferimento, sembra logico fare così, no? Per questo è cosi importante avere dubbi sui **sistemi alla base di qualsiasi scienza**, perché cambiare uno schema può sconvolgerne le leggi che ne conseguono.
 
 E di certo quei pochi grassi dei Cereali non possiedono gli essenziali Omega3 di cui il nostro corpo ha un bisogno disperato, come l'aria che respiriamo... **Anzi i Cereali vanno a sbilanciare ulteriormente l'equilibrio tra Omega6 e 3** di cui abbiamo già parlato abbondantemente in altri articoli.
 
@@ -250,7 +284,7 @@ INSULINO-RESISTENZE - DIABETE TIPO 2 - LEPTINO-RESISTENZE- SINDROMI METABOLICHE
 
 Infatti la Lista di problemi non finisce certo qui, ma non possiamo analizzarli tutti nello spazio di questo articolo.
 
-Ma se l'aumento di malattia e farine in concomitanza negli ultimi 130 anni non ti è sufficiente a cambiare idea, perchè non vuoi assolutamente abbandonare le tradizioni che ti hanno inculcato, allora considera questo: quando un chicco di cereali viene macinato in farina, la superficie del grano stesso aumenta di circa 10.000 volte.
+Ma se l'aumento di malattia e farine in concomitanza negli ultimi 130 anni non ti è sufficiente a cambiare idea, perché non vuoi assolutamente abbandonare le tradizioni che ti hanno inculcato, allora considera questo: quando un chicco di cereali viene macinato in farina, la superficie del grano stesso aumenta di circa 10.000 volte.
 
 Per il corpo questo significa, che quella farina è praticamente identica allo zucchero, come velocità di circolazione di quegli zuccheri nel sangue.
 
@@ -320,7 +354,7 @@ I peggiori sono senz'altro sempre quelli contenenti glutine: Grano, Kamut, Orzo,
 
 Quelli senza glutine creano meno problemi: Riso, Miglio, Amaranto, Quinoa, Grano Saraceno (che in realtà è un fiore, non un grano). In particolare il Miglio è ottimo.
 
-E il Riso va bene, purchè bianco e non integrale (incredibilmente questo cereale è più sano non-integrale, perchè gran parte delle proteine più nocive sono contenute nel rivestimento esterno).
+E il Riso va bene, purchè bianco e non integrale (incredibilmente questo cereale è più sano non-integrale, perché gran parte delle proteine più nocive sono contenute nel rivestimento esterno).
 
 ### QUINDI NON VANNO MANGIATI PROPRIO MAI?
 
@@ -341,13 +375,13 @@ Inserire i cereali in momenti specifici e pianificati della settimana, in manier
 PERCHÉ I MEDICI (TRADIZIONALI) ALLORA CONSIGLIANO SEMPRE I CEREALI?
 --------------------------------------------------------------------
 
-Sottolineo **tradizionali**, perchè i medici aggiornati e moderni conoscono tutti i dati che ho esposto in questo articolo.
+Sottolineo **tradizionali**, perché i medici aggiornati e moderni conoscono tutti i dati che ho esposto in questo articolo.
 
 E di fatto io stesso mi sono dedicato in questi anni, proprio allo studio di questi medici innovativi, per giungere alle conclusioni presentate qui.
 
-I medici consigliano i cereali fondamentalmente perchè  seguono come sistema di riferimento energetico, il sistema Calorico.
+I medici consigliano i cereali fondamentalmente perché  seguono come sistema di riferimento energetico, il sistema Calorico.
 
-**Dunque escludono tutto ciò che è molto calorico e includono tutto ciò che lo è meno**. Perchè ripetono quello che hanno studiato sui testi delle università, e ripetono quello che hanno fatto i medici prima di loro, senza mettere in discussione niente, senza spirito critico, senza farsi domande, senza il benchè minimo dubbio. E senza dubbio non c'è crescita. O per dirlo con Voltaire **''Il dubbio è scomodo, ma solo gli imbecilli non ne hanno.''** Perchè mantenere le tradizioni è molto più facile apparentemente, che cercare un'evoluzione e sviluppare una scienza. Ma alla fine la medicina stessa si contraddice sempre perchè nemmeno tra medici vige unanimità. Eppure se il corpo umano fosse una semplice macchina, tutti i medici dovrebbero averla già capita facilmente ed essere d'accordo su come farla funzionare al meglio. Invece non è cosi. Forse perchè il corpo umano non è una macchina meccanica, e incasellabile entro dei valori numerici come le calorie, ma è uno strumento molto più complesso da conoscere.  Con sfumature che una mente solo razionale e ortodossa, non può e non è interessata ad osservare.
+**Dunque escludono tutto ciò che è molto calorico e includono tutto ciò che lo è meno**. Perchè ripetono quello che hanno studiato sui testi delle università, e ripetono quello che hanno fatto i medici prima di loro, senza mettere in discussione niente, senza spirito critico, senza farsi domande, senza il benchè minimo dubbio. E senza dubbio non c'è crescita. O per dirlo con Voltaire **''Il dubbio è scomodo, ma solo gli imbecilli non ne hanno.''** Perchè mantenere le tradizioni è molto più facile apparentemente, che cercare un'evoluzione e sviluppare una scienza. Ma alla fine la medicina stessa si contraddice sempre perché nemmeno tra medici vige unanimità. Eppure se il corpo umano fosse una semplice macchina, tutti i medici dovrebbero averla già capita facilmente ed essere d'accordo su come farla funzionare al meglio. Invece non è cosi. Forse perché il corpo umano non è una macchina meccanica, e incasellabile entro dei valori numerici come le calorie, ma è uno strumento molto più complesso da conoscere.  Con sfumature che una mente solo razionale e ortodossa, non può e non è interessata ad osservare.
 
 PENSIERI CONCLUSIVI
 ===================
@@ -357,7 +391,7 @@ Dunque ricapitolando, i problemi globali arrecati dai cereali nella storia umana
 - Aumento della popolazione, fino a raggiungere la sovrapopolazione odierna
 - Creazione di un società malata, più stanca, più debole, con un quoziente intellettivo in discesa.
 
-Ovvero, il contrario dell'evoluzione di una specie. Tutti questi dati portano necessariamente alla conclusione che i Cereali sono tossine per il corpo umano. Le proteine dei cereali attraversano l'intestino con grande facilità senza problemi, portando con se tutto quello che possono, entrando nel nostro sangue indisturbati. Nelle alimentazioni senza o con pochi cereali ho visto sui miei clienti un matematico calo del colesterolo, del peso, della pressione sanguigna alta, delle infiammazioni generiche (anche croniche) come artrosi, miglioramento delle dermatiti o acne, e aumentano in maniera incalcolabile dei livelli di energia. È naturale che un'alimentazione senza Cereali va organizzata bene. Ma i vantaggi che apporta sono innumerevoli. Capisco che pasta, dolci e crackers possano piacerti molto, anche a me piacciono, e capisco che il tuo dottore ti abbia incoraggiato a mangiarli, e lo so che adesso pensare di toglierli possa sembrare assurda. Ma sostituire i cereali con altro può essere il singolo passo più importante per la tua salute. **Puoi iniziare gradualmente, semplicemente diminuendoli dalle tue abitudini.** Se in particolare devi perdere peso, o soffri di una qualsiasi della patologie viste sopra, prova a togliere i cereali per 60 giorni e guarda sulla tua pelle se avvengono cambiamenti. Fai la prova nella pratica, senza ascoltare nessuno, e poi farai le tue valutazioni. Se non sarai soddisfatto potrai sempre tornare a mangiarli dopo. Anche se dubito che lo farai. Una volta che avrai sentito la leggerezza e la vitalità che probabilmente non provavi dall'infanzia, non vorrai tornare indietro. Se vuoi fare un percorso preciso e fatto bene e hai bisogno di aiuto, puoi sempre compilare il questionario qua sotto per avere il mio primo parere personale sulla tua situazione. Ma in ogni caso inizia a fare piccoli cambiamenti, perchè ti daranno enormi risultati col tempo. E se pensi che questo articolo ti sia stato utile, Condividilo (sempre qui sotto).
+Ovvero, il contrario dell'evoluzione di una specie. Tutti questi dati portano necessariamente alla conclusione che i Cereali sono tossine per il corpo umano. Le proteine dei cereali attraversano l'intestino con grande facilità senza problemi, portando con se tutto quello che possono, entrando nel nostro sangue indisturbati. Nelle alimentazioni senza o con pochi cereali ho visto sui miei clienti un matematico calo del colesterolo, del peso, della pressione sanguigna alta, delle infiammazioni generiche (anche croniche) come artrosi, miglioramento delle dermatiti o acne, e aumentano in maniera incalcolabile dei livelli di energia. È naturale che un'alimentazione senza Cereali va organizzata bene. Ma i vantaggi che apporta sono innumerevoli. Capisco che pasta, dolci e crackers possano piacerti molto, anche a me piacciono, e capisco che il tuo dottore ti abbia incoraggiato a mangiarli, e lo so che adesso pensare di toglierli possa sembrare assurda. Ma sostituire i cereali con altro può essere il singolo passo più importante per la tua salute. **Puoi iniziare gradualmente, semplicemente diminuendoli dalle tue abitudini.** Se in particolare devi perdere peso, o soffri di una qualsiasi della patologie viste sopra, prova a togliere i cereali per 60 giorni e guarda sulla tua pelle se avvengono cambiamenti. Fai la prova nella pratica, senza ascoltare nessuno, e poi farai le tue valutazioni. Se non sarai soddisfatto potrai sempre tornare a mangiarli dopo. Anche se dubito che lo farai. Una volta che avrai sentito la leggerezza e la vitalità che probabilmente non provavi dall'infanzia, non vorrai tornare indietro. Se vuoi fare un percorso preciso e fatto bene e hai bisogno di aiuto, puoi sempre compilare il questionario qua sotto per avere il mio primo parere personale sulla tua situazione. Ma in ogni caso inizia a fare piccoli cambiamenti, perché ti daranno enormi risultati col tempo. E se pensi che questo articolo ti sia stato utile, Condividilo (sempre qui sotto).
 
 BIBLIOGRAFIA
 ------------

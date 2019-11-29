@@ -13,7 +13,7 @@ Tempo fa ho avuto la fortuna di incontrare e conoscere successivamente, uno di q
 
 ![Cura dermatologica]({{site.images_root}}2012-12-10-cura-pelle-1.jpg)
 
-Questo medico che ho conosciuto ha fatto alcune scoperte innovative nella sua carriera riguardo le malattie epidermiche e la cura delle pelle. Visto che le sue scoperte non sono brevettabili farmacologicamente (perchè troppo semplici) non ha mai trovato grande diffusione ne popolarità. Quindi ho pensato di fargli un intervista io. Così che tutte le persone con i problemi sottoelencati possano trovare la strada della guarigione con questo Metodo.
+Questo medico che ho conosciuto ha fatto alcune scoperte innovative nella sua carriera riguardo le malattie epidermiche e la cura delle pelle. Visto che le sue scoperte non sono brevettabili farmacologicamente (perché troppo semplici) non ha mai trovato grande diffusione ne popolarità. Quindi ho pensato di fargli un intervista io. Così che tutte le persone con i problemi sottoelencati possano trovare la strada della guarigione con questo Metodo.
 
 Il **dott. Gilberto Ruffini** è un medico chirurgo specializzato in Ematologia clinica e di laboratorio; inoltre ha esercitato la professione di Dentista per 32 anni.
 
@@ -69,7 +69,7 @@ Il fine del dott. Ruffini non è di tipo economico ma divulgativo. Sta cercando 
 *   Per chi avesse bisogno di Contattare direttamente il dottor Ruffini o volesse maggiori informazioni, può rivolgersi a:
 	* **Contatto**: [paolo.ruffini73@gmail.com](mailto:paolo.ruffini73@gmail.com)
 	* **Sito ufficiale**: [www.metodoruffini.it](http://www.metodoruffini.it/)
-	* **Forum ufficiale** (con risposte a tutte le domande): [http://www.aerrepici.org/forum/forum.asp?FORUM\_ID=14](http://www.aerrepici.org/forum/forum.asp?FORUM_ID=14)
+	* **Forum ufficiale** (con risposte a tutte le domande): [http://www.aerrepici.org/forum/forum.asp?FORUM..._ID=14](http://www.aerrepici.org/forum/forum.asp?FORUM_ID=14)
 	* **Gruppo Facebook**: [https://www.facebook.com/groups/metodoruffini](https://www.facebook.com/groups/metodoruffini)
 	* **Canale YouTube**: [http://www.youtube.com/playlist?list=PL62A75F0310052FC6](http://www.youtube.com/playlist?list=PL62A75F0310052FC6)
 	

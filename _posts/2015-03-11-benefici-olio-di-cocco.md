@@ -16,7 +16,7 @@ Il cocco è un frutto ricchissimo di grassi, **circa il 33% del totale è grasso
 
 L'olio di cocco, o burro di cocco, non è altro che la parte grassa del frutto, estratta e condensata.
 
-Ma se è un frutto è cosi grasso significa che è molto calorico, quindi bisogna assolutamente starne lontani perchè farà ingrassare, giusto?!?
+Ma se è un frutto è cosi grasso significa che è molto calorico, quindi bisogna assolutamente starne lontani perché farà ingrassare, giusto?!?
 
 **SBAGLIATO.**
 

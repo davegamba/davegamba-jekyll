@@ -158,7 +158,7 @@ Mangiare un solo cibo sbagliato in meno è questione della determinazione di un 
 
 Allenarsi tutti i giorni ha bisogno della nostra determinazione per 2-3 ore al giorno, della nostra fatica e più importante del nostro Tempo.
 
-È ironico vedere gente che fatica per ore in palestra, perchè teme la fatica della dieta.
+È ironico vedere gente che fatica per ore in palestra, perché teme la fatica della dieta.
 
 Mangiare bene è una passeggiata tranquilla in confronto a quello sforzo massacrante quotidiano.
 

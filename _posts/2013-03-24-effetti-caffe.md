@@ -24,7 +24,7 @@ Mi arrivano molto spesso domande riguardo l'argomento "Effetti Caffè", e ho dec
 	
 	Possiamo dire che fisiologicamente **dopo un pasto ricco di grassi e proteine (dunque carni, pesce e oli) se ci sentiamo appesantiti**, **il Caffè velocizza il processo digestivo dello stomaco**.
 	
-	Invece **dopo un pasto ricco di soli carboidrati (pasta, pizza, dolci)**, **il caffè è sconsigliato** perchè può favorire il mal di testa ed altri disturbi.
+	Invece **dopo un pasto ricco di soli carboidrati (pasta, pizza, dolci)**, **il caffè è sconsigliato** perché può favorire il mal di testa ed altri disturbi.
 	
 	Dunque come sempre
 	
@@ -35,7 +35,7 @@ Mi arrivano molto spesso domande riguardo l'argomento "Effetti Caffè", e ho dec
 	
 	Quando beviamo un tazzina di caffè entro breve tempo si scarica in noi un rilascio di **Adrenalina**, un ormone che migliora le nostre capacità di **concentrazione e reattività**.
 	
-	Però questo accade perchè in natura l'Adrenalina entra in circolo in una situazione di pericolo.
+	Però questo accade perché in natura l'Adrenalina entra in circolo in una situazione di pericolo.
 	
 	Una di quelle situazioni che in biologia si chiamano in genere di **"Fuggi-o-Combatti"**. **Dunque in una situazione di pericolo, di stress**.
 	
@@ -57,7 +57,7 @@ Mi arrivano molto spesso domande riguardo l'argomento "Effetti Caffè", e ho dec
 	Quasi in tutte le persone che interrompono il consumo di caffè bruscamente nascono mal di testa molto forti, nasuee, debolezza generica. Questa è la dimostrazione chiara degli effetti del caffè (e del potere) che possiede sul nostro sistema nervoso, e di come sia importante gestirla senza abusarne.
 4.	Rimane sempre una buona idea comunque, mantenere moderate le dosi di caffè durante la giornata, **idealmente su un caffè al giorno al massimo**.
 
-	Infatti i rischi della caffè non derivano sala sostanza in sè, bensì dalle dosi troppo alte. E anche  dal momento sbagliato della giornata in cui assumerlo, come ad esempio la prima cosa al mattino oppure **in generale a stomaco vuoto**). Infatti per lo Stomaco il Caffè è un vero è proprio **acido** a lungo andare. Nelle abitudini italiane in particolare, c'è quella di bere un caffè espresso a stomaco vuoto, come prima cosa al mattino. Questa non è una buona idea. Gran parte dei [problemi di stomaco](https://www.davegamba.com/problemi-digestione/ "PROBLEMI DI DIGESTIONE: 5 SOLUZIONI CON LE ASSOCIAZIONI ALIMENTARI") in età adulta derivano proprio da questo:
+	Infatti i rischi della caffè non derivano sala sostanza in sè, bensì dalle dosi troppo alte. E anche dal momento sbagliato della giornata in cui assumerlo, come ad esempio la prima cosa al mattino oppure **in generale a stomaco vuoto**). Infatti per lo Stomaco il Caffè è un vero è proprio **acido** a lungo andare. Nelle abitudini italiane in particolare, c'è quella di bere un caffè espresso a stomaco vuoto, come prima cosa al mattino. Questa non è una buona idea. Gran parte dei [problemi di stomaco]({% post_url 2012-11-24-problemi-digestione %}) in età adulta derivano proprio da questo:
 	
 	> un consumo di Caffè a stomaco vuoto che ha deteriorato le pareti gastriche
 	

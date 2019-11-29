@@ -7,9 +7,21 @@ comments: true
 image: 2013-03-03-pasto-ideale.jpg
 categories: [AAArticoli Fondamentali, Alimentazione, benessere, pasto ideale, pasto perfetto, punti benessere]
 ---
-Puoi considerare questo articolo un sintetico promemoria di tutte le cose essenziali per raggiungere il fisico e la salute ideale. Non approfondiremo nessun tema in particolare qui. Bensì vedremo cosa significa fare un 'PASTO PERFETTO'. A cosa ci serve saperlo? Ci serve per avere **un riferimento col quale confrontare tutti i Pasti che faremo**, buoni o meno. Beh, inteso per la salute e la forma fisica, si intende. Se sappiamo cosa dà un Pasto perfetto abbiamo la possibilità di valutare tutti i nostri pasti ed eventualmente 'sistemarli'. In realtà adesso vedremo che capire il Pasto ideale singifica nella pratica
+Puoi considerare questo articolo un sintetico promemoria di tutte le cose essenziali per raggiungere il fisico e la salute ideale.
 
-> ### capire le Sensazioni dopo mangiato
+Non approfondiremo nessun tema in particolare qui.
+
+Bensì vedremo cosa significa fare un "PASTO PERFETTO".
+
+A cosa ci serve saperlo? Ci serve per avere **un riferimento col quale confrontare tutti i Pasti che faremo**, buoni o meno.
+
+Beh, inteso per la salute e la forma fisica, si intende.
+
+Se sappiamo cosa dà un Pasto perfetto abbiamo la possibilità di valutare tutti i nostri pasti ed eventualmente "sistemarli".
+
+In realtà adesso vedremo che capire il Pasto ideale singifica nella pratica
+
+### capire le Sensazioni dopo mangiato
 
 In una frase: **se sai come dovresti sentirti, sai se hai mangiato bene per il tuo fisico**.
 Si può dire che l'intero studio della nutrizione gira intorno a questo. Il proprio Pasto Ideale è il naturale centro di gravità, intorno a cui tutto il resto viene di conseguenza:
@@ -19,7 +31,7 @@ Si può dire che l'intero studio della nutrizione gira intorno a questo. Il prop
 - migliori performance sportive
 - meno acciacchi dell'età, etc etc
 
-Se infatti una macchina riceve un carburante e cure perfette, perchè dovrebbe smettere di funzionare? Inoltre è fondamentale conoscerlo qualsiasi sia il proprio obiettivo: è valido sia per perdere peso, che per vincere una gara, che per diventare più forti muscolarmente. Se si mangia secondo il proprio Pasto Ideale è naturale perdere il peso in eccesso, raggiungere il proprio peso forma, superare diverse patologie fisiche, migliorare la forza e la performance con il giusto allenamento. Però probabilmente il Pasto Ideale è diverso da come lo immagini tu.
+Se infatti una macchina riceve un carburante e cure perfette, perché dovrebbe smettere di funzionare? Inoltre è fondamentale conoscerlo qualsiasi sia il proprio obiettivo: è valido sia per perdere peso, che per vincere una gara, che per diventare più forti muscolarmente. Se si mangia secondo il proprio Pasto Ideale è naturale perdere il peso in eccesso, raggiungere il proprio peso forma, superare diverse patologie fisiche, migliorare la forza e la performance con il giusto allenamento. Però probabilmente il Pasto Ideale è diverso da come lo immagini tu.
 Non si tratta infatti di Ingredienti Perfetti (altrimenti avrei senz'altro intitolato l'articolo così). Quelli vengono dopo. Il Pasto Ideale consiste nel raggiungimento di una serie di condizioni perfette per noi. Di un stato fisico. Ad esempio, se **io** con un pasto ricco di grassi e proteine mi sento leggero e pronto ad allenarmi, non significa che lo stesso valga per chiunque altro: infatti lo stesso identico pasto potrebbe appesantire e assonnare il mio compagno d'allenamento.
 **_Perchè?_** Perchè **ognuno di noi possiede caratteristiche genetiche diverse e totalmente personali!**
 Che valgono anche per digestione e metabolismo naturalmente. Ok questa premessa è durata già abbastanza. Adesso vediamo le caratteristiche di un pasto perfetto per noi.
@@ -61,7 +73,7 @@ Visto che abbiamo fatto 30 facciamo 31. Elenchiamo ancora una volta (che non fa 
 - Evitare i cibi raffinati (vedi Zucchero, Farina, Grassi lavorati e ogni altra cosa raffinata)
 - Mangiare piu cibi Crudi possibili
 - Dormire 8 ore. Mantenere un ciclo Sonno-Veglia possibilmente regolare. Essenziale per regolare i cicli ormonali della giornata
-- Allenarsi sempre Breve&Intenso. Sia per te stesso che per obiettivi sportivi (vedi qui perchè ritengo che il Breve & Intenso sia il metodo più efficace)
+- Allenarsi sempre Breve&Intenso. Sia per te stesso che per obiettivi sportivi (vedi qui perché ritengo che il Breve & Intenso sia il metodo più efficace)
 - Conoscere il tuo Tipo Metabolico, applicarlo, perfezionarlo. Lo abbiamo già detto ma non fa male ripeterlo.
 
 Questi sono i punti-chiave nutrizionali più importanti dei migliori atleti e professionisti del settore.

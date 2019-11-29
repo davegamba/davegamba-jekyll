@@ -120,11 +120,11 @@ In questa denominazione potrebbero rientrare un olio _EVO invecchiato_ oppure un
 **L'Olio d'Oliva semplice** è una miscela composta da oli che hanno subito un processo di raffinazione e oli che sono stati ottenuti direttamente dalle olive. **Il grado d'acidità massimo deve essere dell'1%.**  
 L'olio raffinato viene estratto dalla pasta d'oliva che avanza dopo l'estrazione degli oli vergini.
 
-[http://www.bda-ieo.it/wordpress/?page\_id=96](http://www.bda-ieo.it/wordpress/?page_id=96)
+[http://www.bda-ieo.it/wordpress/?page..._id=96](http://www.bda-ieo.it/wordpress/?page_id=96)
 
 **L'estrazione avviene solitamente con solventi chimici e a caldo**, oppure dalla rettificazione di oli non commestibili (oli lampanati). Poiché per legge non è garantita una quota minima di oli vergini nella miscela, in genere essi sono presenti in frazioni molto basse, **rendendo questo prodotto dannoso per la salute.**
 
-#### Ma perchè è cosi importante "a freddo" o "a caldo"?
+#### Ma perché è cosi importante "a freddo" o "a caldo"?
 
 **Trattare l'olio con il calore è altamente sconsigliabile**, in quanto causa la separazione della glicerina da parte degli acidi grassi e la sua degradazione, con produzione di sostanze tossiche, quali l'acroleina, che è molto dannosa per il fegato e l'apparato respiratorio. Si pensi che questa sostanza si rileva nel fumo delle sigarette e viene utilizzata in forma concentrata _come lacrimogeno!_
 

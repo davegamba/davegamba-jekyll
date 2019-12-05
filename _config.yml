@@ -8,7 +8,7 @@ title: "Dave Gamba"
 description: "Personal Trainer Online"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/static/favicon.ico'
-baseurl: 
+baseurl: www.davegamba.com
 google_analytics: 'UA-36559615-1'
 facebook_pixel: '2161831077369797'
 images_root: 'https://storage.googleapis.com/files.davegamba.com/'

@@ -104,7 +104,7 @@ owner:
     data: "Partita IVA 09230900962"    
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.md, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat]
+exclude: [README.md, LICENSE, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat]
 
 api:
     facebook:

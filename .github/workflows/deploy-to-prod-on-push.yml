@@ -1,0 +1,14 @@
+name: deploy-to-prod-on-push
+
+on: [push]
+
+jobs:
+  setupGoogleCloud:
+    name: Setup Google Cloud
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Setup Google Cloud
+      uses: actions/gcloud/auth@master
+      env:
+        GCLOUD_AUTH: ${{ secrets.GCLOUD_AUTH }}

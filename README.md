@@ -1,5 +1,9 @@
 # Dave Gamba - Blog
 
+[![buddy pipeline](https://app.buddy.works/iiriya/davegamba-jekyll/pipelines/pipeline/227324/badge.svg?token=81f314f8e71c25a813e20be6222d4b5dd4d9dae4cbadd568b13bc6dfef8fa5ad "buddy pipeline")](https://app.buddy.works/iiriya/davegamba-jekyll/pipelines/pipeline/227324)
+![GitHub repo size](https://img.shields.io/github/repo-size/davegamba/davegamba-jekyll)
+![GitHub](https://img.shields.io/github/license/davegamba/davegamba-jekyll)
+
 ### Requirements
 
 1. Ruby 2.6+

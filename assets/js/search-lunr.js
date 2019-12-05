@@ -11,7 +11,7 @@ $(function() {
     
 {% assign counter = 0 %}
 var documents = [
-	{% for page in site.posts %}{"id":{{ counter }},"url":"{{ site.url }}{{site.baseurl}}{{ page.url }}","title":"{{ page.title }}","date":"{{ page.date | date: site.date_format }}","body":"{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | truncate: 160, "..." }}"} {% unless forloop.last %},{% endunless %}{% assign counter = counter | plus: 1 %}{% endfor %}
+	{% for page in site.posts %}{"id":{{ counter }},"url":"{{ site.url }}{{site.baseurl}}/{{ page.url }}","title":"{{ page.title }}","date":"{{ page.date | date: site.date_format }}","body":"{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' | truncate: 160, "..." }}"} {% unless forloop.last %},{% endunless %}{% assign counter = counter | plus: 1 %}{% endfor %}
 ];
 
 var idx = lunr(function () {

@@ -13,7 +13,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 							{% for category in page.categories %}
-							<a class="cat-link" href="{{site.url}}/category/{{ category | downcase | replace: " ", "-" }}">{{ category }}</a>
+							<a class="cat-link" href="{{site.url}}category/{{ category | downcase | replace: " ", "-" }}">{{ category }}</a>
 							{% endfor %}
                         </span>
 					</p>
@@ -34,7 +34,7 @@ layout: default
 			<div class="mb-4">
 				<span class="taglist">
 					{% for tag in page.tags %}
-					<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.url}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+					<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.url}}tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
 					{% endfor %}
 				</span>
 			</div>

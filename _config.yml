@@ -8,7 +8,7 @@ title: "Dave Gamba"
 description: "Personal Trainer Online"
 logo: "assets/images/logo.png"
 favicon: "assets/images/static/favicon.ico"
-url: "https://storage.googleapis.com/www.davegamba.com"
+url: "https://davegamba-firebase.firebaseapp.com/"
 google_analytics: 'UA-36559615-1'
 facebook_pixel: '2161831077369797'
 images_root: 'https://storage.googleapis.com/files.davegamba.com/'
@@ -105,7 +105,7 @@ owner:
     data: "Partita IVA 09230900962"    
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.md, LICENSE, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat]
+exclude: [README.md, LICENSE, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat, firebase-debug.log, .firebaserc, firebase.json]
 
 api:
     facebook:

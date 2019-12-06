@@ -1,6 +1,6 @@
 # Dave Gamba - Blog
 
-[![buddy pipeline](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227324/badge.svg?token=81f314f8e71c25a813e20be6222d4b5dd4d9dae4cbadd568b13bc6dfef8fa5ad "buddy pipeline")](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227324)
+[![buddy pipeline](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227400/badge.svg?token=11cf14fa3463bcb334a2a6a67dca945cf5652845091e562aa5da15610a225a0d "buddy pipeline")](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227400)
 ![GitHub repo size](https://img.shields.io/github/repo-size/davegamba/davegamba-jekyll)
 ![GitHub](https://img.shields.io/github/license/davegamba/davegamba-jekyll)
 

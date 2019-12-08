@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-permalink: "/privacy"
+permalink: "/privacy.html"
 ---
 
 Politica sulla Privacy per il sito "{{site.name}}".

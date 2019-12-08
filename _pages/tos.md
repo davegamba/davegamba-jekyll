@@ -1,6 +1,6 @@
 ---
 title: "Termini e Condizioni"
-permalink: "/tos"
+permalink: "/tos.html"
 ---
 
 ### Condizioni di Utilizzo

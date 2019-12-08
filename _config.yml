@@ -2,17 +2,17 @@ sass:
     style: compressed
     sass_dir: _sass
 
-# Site
 name: "Dave Gamba"
 title: "Dave Gamba"
 description: "Personal Trainer Online"
 logo: "assets/images/logo.png"
 favicon: "assets/images/static/favicon.ico"
-url: "https://davegamba-firebase.firebaseapp.com/"
-google_analytics: 'UA-36559615-1'
-facebook_pixel: '2161831077369797'
-images_root: 'https://storage.googleapis.com/files.davegamba.com/'
-date_format: '%d/%m/%Y'
+url: "https://davegamba-firebase.firebaseapp.com"
+baseurl: ""
+images_root: "https://storage.googleapis.com/files.davegamba.com/"
+google_analytics: "UA-36559615-1"
+facebook_pixel: "2161831077369797"
+date_format: "%d/%m/%Y"
 comments: false
 
 include: ["_pages"]
@@ -98,7 +98,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 10
+paginate: 15
 
 owner:
     name: "Dave Gamba"

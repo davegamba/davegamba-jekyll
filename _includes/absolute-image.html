@@ -1,0 +1,7 @@
+{% capture url %}{% link assets/images/static/{{include.file}} %}{% endcapture %}
+{% if include.class %}
+{% capture class %} class="{{include.class}}"{% endcapture %}
+{% else %}
+{% assign class="" %}
+{% endif %}
+<img src="{{ url | absolute_url }}" title="{{ include.title }}" alt="{{ include.title }}" width="{{ include.width }}" height="{{ include.height }}"{{class}} />

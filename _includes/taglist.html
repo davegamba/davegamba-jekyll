@@ -1,0 +1,7 @@
+{% if include.tags.size > 0 %}
+	{% capture url %}{% link _pages/tags.html %}{% endcapture %}
+	{% for tag in include.tags %}
+	<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{ url | absolute_url }}#{{ tag | downcase }}">{{ tag | downcase }}</a>
+	{% endfor %}
+</span>
+{% endif %}

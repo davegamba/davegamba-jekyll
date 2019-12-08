@@ -1,0 +1,2 @@
+{% capture url %}category/{{ include.category | downcase | replace: " ", "-" }}{% endcapture %}
+<a class="{% if include.class %}{{include.class}}{% else %}text-capitalize text-muted smoothscroll{% endif %}" href="{{ url | absolute_url }}">{{ include.category }}</a>

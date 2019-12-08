@@ -1,0 +1,7 @@
+{% capture url %}{% link {{include.link}} %}{% endcapture %}
+{% if include.class %}
+{% capture class %} class="{{include.class}}"{% endcapture %}
+{% else %}
+{% assign class="" %}
+{% endif %}
+<a href="{{ url | absolute_url }}"{{class}} title="{{include.title}}">{{include.title}}</a>

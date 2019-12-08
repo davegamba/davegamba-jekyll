@@ -1,0 +1,7 @@
+{% capture url %}{% link {{include.link}} %}{% endcapture %}
+{% if include.type %}
+{% capture type %} type="{{include.type}}"{% endcapture %}
+{% else %}
+{% assign type="" %}
+{% endif %}
+<link rel="{{include.rel}}"{{type}} href="{{ url | absolute_url }}" />

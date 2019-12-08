@@ -9,7 +9,7 @@ description: "Personal Trainer Online"
 <section class="card border-0 home-section-fullwidth">
 	<div class="card-body" style="background-image:url('{{site.images_root}}home-section-1.jpg')">
 		<div class="section-logo">
-			<img src="{{site.url}}assets/images/static/sign.svg" title="{{site.title}}" width="1920" height="354" class="img-fluid" />
+			{% include absolute-image.html file="sign.svg" title=site.title width="1920" height="354" class="img-fluid" %}
 			<h2>Allenarsi breve-intenso, vivere nel fisico che vuoi, sentirsi al massimo</h2>
 		</div>
 	</div>
@@ -21,24 +21,18 @@ description: "Personal Trainer Online"
 		{% assign latest_post = site.posts[0] %}
 		<div class="col-md-6 mt-5">
 			<div class="card border-0 mb-4 box-shadow">   
-				<a href="{{site.url}}{{latest_post.url}}">
+				<a href="{{ latest_post.url | absolute_url }}">
 					<div class="topfirstimage" style="background-image:url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.images_root}}{{ latest_post.image}}{% endif %}); height: 200px; background-size: cover; background-repeat: no-repeat;"></div>
 				</a>
 				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold">
-						<a class="text-dark" href="{{site.url}}{{latest_post.url}}">{{ latest_post.title }}</a>
+						<a class="text-dark" href="{{ latest_post.url | absolute_url }}">{{ latest_post.title }}</a>
 					</h2>
 					<p class="excerpt">
 						{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
 					</p>
 					<div>
-						<small class="d-block text-muted">
-							In <span class="catlist">
-								{% for category in latest_post.categories %}
-								<a class="text-capitalize text-muted smoothscroll" href="{{site.url}}category/{{ category | downcase | replace: " ", "-" }}">{{ category }}</a><span class="sep">, </span>
-								{% endfor %}
-								</span>                   
-						</small>
+						{% include catlist.html categories = latest_post.categories %}
 						<small class="text-muted">
 							<i class="fa fa-clock"></i> {{ latest_post.date | date: site.date_format }}
 						</small>
@@ -66,7 +60,7 @@ description: "Personal Trainer Online"
 					<p class="mb-3 lead">
 						{{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
 					</p>
-					<a href="{{site.url}}{{post.url}}" class="btn btn-dark">Read More</a>
+					<a href="{{ post.url | absolute_url }}" class="btn btn-dark">Read More</a>
 				</div>
 				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.images_root}}{{ post.image }});">	
 				</div>

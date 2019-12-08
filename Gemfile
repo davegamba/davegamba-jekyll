@@ -12,7 +12,6 @@ ruby RUBY_VERSION
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 gem 'sprockets-rails', '~> 2.3.2'
 group :jekyll_plugins do
-	gem 'jekyll-admin'
 	gem 'jekyll-archives'
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'

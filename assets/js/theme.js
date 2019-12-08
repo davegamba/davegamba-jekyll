@@ -11,10 +11,12 @@ var nav=document.querySelector("nav");
 var navHeight=nav.offsetHeight;
 window.addEventListener('scroll',function(){
 	var alertbar=document.querySelector(".alertbar");
-	if(this.scrollY>280){
-		alertbar.style.bottom="0px";
-	}else{
-		alertbar.style.bottom="-80px";
+	if(alertbar){
+		if(this.scrollY>280){
+			alertbar.style.bottom="0px";
+		}else{
+			alertbar.style.bottom="-80px";
+		}
 	}
 	didScroll=true;
 });

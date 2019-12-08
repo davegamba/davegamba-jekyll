@@ -3,6 +3,7 @@ _site
 .sass-cache
 .jekyll-metadata
 .jekyll-cache
+.firebase
 node_modules
 Gemfile.lock
 firebase-debug.log

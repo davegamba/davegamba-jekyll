@@ -1,0 +1,5 @@
+{% if post.image %}
+<a href="{{include.post.url | absolute_url}}" title="{{include.post.title}}">
+	<img class="w-100 lazyload" data-src="{% if include.post.image contains "://" %}{{include.post.image}}{% else %}{{site.images_root}}{{include.post.image}}{% endif %}" alt="{{include.post.title}}" title="{{include.post.title}}" />
+</a>
+{% endif %}

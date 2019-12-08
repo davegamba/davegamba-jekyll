@@ -32,10 +32,8 @@ description: "Personal Trainer Online"
 						{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
 					</p>
 					<div>
-						{% include catlist.html categories = latest_post.categories %}
-						<small class="text-muted">
-							<i class="fa fa-clock"></i> {{ latest_post.date | date: site.date_format }}
-						</small>
+						{% include catlist.html categories=latest_post.categories %}
+						{% include post-date.html date=latest_post.date %}
 					</div>
 				</div>
 			</div>

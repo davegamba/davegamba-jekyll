@@ -1,18 +1,14 @@
 <div class="mb-3 d-flex align-items-center">             
 	{% if include.post.image %}
 	<div class="col-md-4">
-		<a href="{{ include.post.url | absolute_url }}">
-			<img class="w-100" src="{% if include.post.image contains "://" %}{{ include.post.image }}{% else %}{{site.images_root}}{{include.post.image}}{% endif %}" alt="{{include.post.title}}">
-		</a>
+		{% include post-thumbnail.html post=post %}
 	</div>
 	{% endif %}
 	<div class="col-md-8">
 		<h2 class="mb-2 h6 font-weight-bold">
-			<a class="text-dark" href="{{ include.post.url | absolute_url }}">{{include.post.title}}</a>
+			<a class="text-dark" href="{{include.post.url | absolute_url}}">{{include.post.title}}</a>
 		</h2>
 		{% include catlist.html categories = include.post.categories %}
-		<small class="text-muted">
-			<i class="fa fa-clock"></i> {{ include.post.date | date: site.date_format }}
-		</small>
+		{% include post-date.html date=include.post.date %}
 	</div>
 </div>

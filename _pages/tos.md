@@ -1,5 +1,6 @@
 ---
 title: "Termini e Condizioni"
+layout: page
 permalink: "/tos.html"
 ---
 

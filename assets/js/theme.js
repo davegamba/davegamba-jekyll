@@ -1,87 +1,41 @@
- // alertbar later
-    $(document).scroll(function () {
-        var y = $(this).scrollTop();
-        if (y > 280) {
-            $('.alertbar').fadeIn();
-        } else {
-            $('.alertbar').fadeOut();
-        }
-    });
-	$('.navbar-toggler').on('click',function(e){
-		if($('.navbar-collapse.collapse').hasClass('show')){
-			$('.navbar-toggler').removeClass('is-active');
-		}else{
-			$('.navbar-toggler').addClass('is-active');
-		}
-	});
-
-// Hide Header on on scroll down
-var didScroll;
-var lastScrollTop = 0;
-var delta = 5;
-var navbarHeight = $('nav').outerHeight();
-
-$(window).scroll(function(event){
-	didScroll = true;
+document.querySelector('.navbar-toggler').addEventListener('click',function(){
+	if(document.querySelector('.navbar-collapse.collapse').classList.contains('show')){
+		document.querySelector('.navbar-toggler').classList.remove('is-active');
+	}else{
+		document.querySelector('.navbar-toggler').classList.add('is-active');
+	}
 });
-
-setInterval(function() {
-	if (didScroll) {
-		hasScrolled();
-		didScroll = false;
+var didScroll=false;
+var lastScrollTop=0;
+var nav=document.querySelector("nav");
+var navHeight=nav.offsetHeight;
+window.addEventListener('scroll',function(){
+	var alertbar=document.querySelector(".alertbar");
+	if(this.scrollY>280){
+		alertbar.style.bottom="0px";
+	}else{
+		alertbar.style.bottom="-80px";
 	}
-}, 250);
-
+	didScroll=true;
+});
+setInterval(function(){
+	if(didScroll){
+		hasScrolled();
+		didScroll=false;
+	}
+},250); 
 function hasScrolled() {
-	var st = $(this).scrollTop();
-	
-	// Make sure they scroll more than delta
-	if(Math.abs(lastScrollTop - st) <= delta)
+	var st=this.scrollY;
+	if(Math.abs(lastScrollTop-st)<=5){
 		return;
-
-	// If they scrolled down and are past the navbar, add class .nav-up.
-	// This is necessary so you never see what is "behind" the navbar.
-	if (st > lastScrollTop && st > navbarHeight){
-		// Scroll Down            
-		$('nav').removeClass('nav-down').addClass('nav-up'); 
-		$('.nav-up').css('top', - $('nav').outerHeight() + 'px');
-	   
-	} else {
-		// Scroll Up
-		if(st + $(window).height() < $(document).height()) {               
-			$('nav').removeClass('nav-up').addClass('nav-down');
-			$('.nav-up, .nav-down').css('top', '0px');             
+	}
+	if (st>lastScrollTop && st>navHeight){
+		nav.style.top=(-nav.offsetHeight+'px');
+	}else{
+		if(st+window.innerHeight < Math.max(document.body.scrollHeight,document.body.offsetHeight,document.documentElement.clientHeight,document.documentElement.scrollHeight,document.documentElement.offsetHeight)){
+			nav.style.top='0px';
 		}
 	}
-
 	lastScrollTop = st;
 }
-$('.site-content').css('margin-top', $('header').outerHeight() + 'px');
-
-// Smooth on external page
-$(function() {
-  setTimeout(function() {
-    if (location.hash) {
-      /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
-      window.scrollTo(0, 0);
-      target = location.hash.split('#');
-      smoothScrollTo($('#'+target[1]));
-    }
-  }, 1);
-
-  // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-  $('a[href*=\\#]:not([href=\\#])').click(function() {
-    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-      smoothScrollTo($(this.hash));
-      return false;
-    }
-  });
-  function smoothScrollTo(target) {
-    target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-    if (target.length) {
-      $('html,body').animate({
-        scrollTop: target.offset().top
-      }, 1000);
-    }
-  }
-});
+document.querySelector('.site-content').style.top='0px';

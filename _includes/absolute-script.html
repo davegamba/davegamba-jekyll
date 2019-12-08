@@ -1,2 +1,7 @@
 {% capture url %}{% link assets/js/{{include.file}} %}{% endcapture %}
-<script src="{{ url | absolute_url }}"></script>
+{% if include.async %}
+{% assign async=" async" %}
+{% else %}
+{% assign async="" %}
+{% endif %}
+<script src="{{ url | absolute_url }}"{{async}}></script>

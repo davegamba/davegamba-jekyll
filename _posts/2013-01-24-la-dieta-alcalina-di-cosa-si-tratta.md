@@ -7,8 +7,8 @@ comments: true
 image: 2013-01-24-la-dieta-alcalina-di-cosa-si-tratta.jpg
 categories: [Alimentazione]
 ---
-Dopo aver ricevuto diverse domande su questo tema, ho pensato di scrivere un articolo riassuntivo riguardo il regime alimentare alcalino o alcalinizzante.  
-Ho messo insieme le domande più frequenti, così da rispondere anche a tutte le altre persone interessate all'argomento.  
+Dopo aver ricevuto diverse domande su questo tema, ho pensato di scrivere un articolo riassuntivo riguardo il regime alimentare alcalino o alcalinizzante.
+Ho messo insieme le domande più frequenti, così da rispondere anche a tutte le altre persone interessate all'argomento.
 
 Visto la crescente attenzione su questo argomento, penso possa tornare utile un breve sommario che ne spiega i punti principali. Anche vista la confusione che a volte si trova nel web a riguardo. 
 
@@ -45,7 +45,7 @@ Inoltre ogni singolo individuo è diverso, quindi pur partendo da una dieta base
 
 Ma si può pensare che tutto questo sia davvero privo di conseguenze?. 
 
-Si può facilmente immaginare che se una persona ogni giorno toglie minerali essenziali al suo apparato scheletrico o ad altri organi, questo potrà causare problemi a lungo andare. Tra cui, il più noto di tutti, un principio di **osteoporosi**.  
+Si può facilmente immaginare che se una persona ogni giorno toglie minerali essenziali al suo apparato scheletrico o ad altri organi, questo potrà causare problemi a lungo andare. Tra cui, il più noto di tutti, un principio di **osteoporosi**.
 Una delle malattie più frequenti al mondo, ma  curiosamente quasi totalmente assente nelle tribù indigene.
 
 Su questo tema bisognerebbe affrontare anche un altro discorso, sulla **biodisponibilità di questi minerali in natura**, dal momento che ad esempio il calcio presente in un latticino non ha la stessa disponibilità del calcio disponibile nei vegetali, per il nostro organismo.
@@ -56,7 +56,7 @@ Su questo tema bisognerebbe affrontare anche un altro discorso, sulla **biodispo
 
 Dunque è bene capire che anche la Medicina ha i suoi dibattiti interni, e ognuno segue la sua strada. Non esiste unanimità, perché la Nutrizione è una tema in continua evoluzione e non statico.
 
-Comunque la fisiologia umana è sotto gli occhi di tutti.  
+Comunque la fisiologia umana è sotto gli occhi di tutti.
 
 ## Quali sono le caratteristiche principali di un'alimentazione alcalina?
 
@@ -73,11 +73,11 @@ Diciamo che possiamo dare alcuni punti generali, senza spiegarli approfonditamen
 9. I legumi e le noci sono neutri o tendenti a una leggera acidità, niente di paragonabile alle carni comunque. **Le Mandorle sono l'unico nocciolame esistente alcalinizzante**.
 10. Esistono alcuni elementi particolarmente acidificanti, come caffè, alcol, fumo (tuttavia, anche qui, non significa che vadano necessariamente eliminati del tutto).
 11. **Un associazione alimentare errata aumenta l'acidità** corporea ([vedi anche l'articolo sulle Associazioni Alimentari]({% post_url 2012-11-24-problemi-digestione %})).
-12. Inutile dire che i **vegetali biologici** in generale sono molto più validi di quelli normali. Più nutritivi e  maggiormente alcalini.  
+12. Inutile dire che i **vegetali biologici** in generale sono molto più validi di quelli normali. Più nutritivi e  maggiormente alcalini.
 
 Questi sono i punti base che conta conoscere per chiarire le idee.
 
-Ora quello che conta, come sempre, è il proprio obiettivo.  
+Ora quello che conta, come sempre, è il proprio obiettivo.
 Se una persona ad esempio desidera **depurarsi** perché mangia male da una vita, dovrà seguire un tipo di alimentazione. 
 
 Se un ragazzo/a è in forma e vuole solo stare bene, prevenire o superare qualche problema fisico, avrà un altro tipo di alimentazione.
@@ -108,7 +108,7 @@ Questi sono le linee generali riguardo l'alimentazione alcalina, che io suggeris
 [La dieta pH](http://www.macrolibrarsi.it/libri/__la_dieta_ph.php?pn=3601 "La dieta pH")
 [Valeria Mangani](http://www.macrolibrarsi.it/autori/_valeria_mangani.php?pn=3601 "Valeria Mangani"), [Adolfo Panfili](http://www.macrolibrarsi.it/autori/_adolfo_panfili.php?pn=3601 "Adolfo Panfili")
 [Tecniche Nuove Edizioni](http://www.macrolibrarsi.it/edizioni/_edizioni_tecniche_nuove.php?pn=3601 "Tecniche Nuove Edizioni")
-![Voto medio su 5 recensioni: Buono](http://www.macrolibrarsi.org/img/rating_4.gif)  
+![Voto medio su 5 recensioni: Buono](http://www.macrolibrarsi.org/img/rating_4.gif)
 
 [![](http://www.macrolibrarsi.org/img/carrello.gif)](http://www.macrolibrarsi.it/libri/__la_dieta_ph.php?pn=3601 "La dieta pH")
 
@@ -118,6 +118,6 @@ Questi sono le linee generali riguardo l'alimentazione alcalina, che io suggeris
 [Mangia che ti Passa - Libro](http://www.macrolibrarsi.it/libri/__mangia-che-ti-passa-libro.php?pn=3601 "Mangia che ti Passa - Libro")
 [Filippo Ongaro](http://www.macrolibrarsi.it/autori/_filippo-ongaro.php?pn=3601 "Filippo Ongaro")
 [Piemme](http://www.macrolibrarsi.it/edizioni/_edizioni_piemme.php?pn=3601 "Piemme")
-![Voto medio su 4 recensioni: Da non perdere](http://www.macrolibrarsi.org/img/rating_5.gif)  
+![Voto medio su 4 recensioni: Da non perdere](http://www.macrolibrarsi.org/img/rating_5.gif)
 
 [![](http://www.macrolibrarsi.org/img/carrello.gif)](http://www.macrolibrarsi.it/libri/__mangia-che-ti-passa-libro.php?pn=3601 "Mangia che ti Passa - Libro")

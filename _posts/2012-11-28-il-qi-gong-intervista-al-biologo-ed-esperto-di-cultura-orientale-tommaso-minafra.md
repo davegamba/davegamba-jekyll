@@ -12,7 +12,7 @@ Tommaso Minafra oltre ad essere un grande studioso della natura e della fisiolog
 
 Forse grazie questa sua doppia anima, anni fa i lunghi incontri con lui mi diedero l'intuizione per trovare i collegamenti tra le scienze occidentali e le culture orientali. Il naturale punto di incontro tra fisica quantistica e taoismo.
 
-Le discipline orientali quali taoismo, buddismo, zen, Qi Kong e molte altre sono semplicemente l'aspetto pratico delle tante teorie scientifico-fisiche occidentali.  
+Le discipline orientali quali taoismo, buddismo, zen, Qi Kong e molte altre sono semplicemente l'aspetto pratico delle tante teorie scientifico-fisiche occidentali.
 
 La capacità di Tommaso di snocciolare e rendere comprensibili gli studi più complessi di queste discipline, credo possano tornare utili per chiunque desideri scoprirne di più.
 
@@ -49,7 +49,7 @@ Un conto è respirare inconsciamente e un conto è essere consapevoli di stare r
 È attraverso il rilassamento che si realizza la vera respirazione. Sì perché, un corpo irrigidito, non è in grado di incamerare aria ma soprattutto non è in grado di ammetterla.
 
 Come esempio basti pensare a un palloncino e a un contenitore rigido, quale delle due sarà più efficiente nel ricevere e restituire l'aria accumulata? Dovremmo essere come palloncini, abbastanza elastici ma mai troppo rigidi, in questo modo inspirazione ed espirazione possono essere efficienti.
-  
+
 La disciplina del Qi Gong in cosa consiste esattamente?
 
 Arrivati a comprendere il significato di Qi, la traduzione più esatta di Qi Gong è: L'arte del respiro.

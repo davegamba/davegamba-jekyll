@@ -5,17 +5,18 @@ date: 2017-09-04 10:18
 author: davegamba
 comments: true
 image: 2017-09-04-digiuno-intermittente.jpg
-categories: [Alimentazione, Alimentazione, Digiuno]
+categories: [Alimentazione]
+tags: [Digiuno]
 ---
 
 Cos'è il digiuno (INTERMITTENTE)?
 =================================
 
-Il grande tema del momento: **il Digiuno intermittente, serve?**  
-O è l'ennemisa bufala sull'alimentazione?  
-Serve a dimagrire o no?  
-Serve per la massa muscolare o no?  
-Dopo che per anni ci hanno martellato la testa con l'idea che saltare i pasti fosse sbagliato, abbassa il metabolismo?  
+Il grande tema del momento: **il Digiuno intermittente, serve?**
+O è l'ennemisa bufala sull'alimentazione?
+Serve a dimagrire o no?
+Serve per la massa muscolare o no?
+Dopo che per anni ci hanno martellato la testa con l'idea che saltare i pasti fosse sbagliato, abbassa il metabolismo?
 Ci sono sperimentazioni cliniche? (si, e vediamoli qui)
 
 Facciamo un percorso insieme per capirlo.
@@ -32,7 +33,7 @@ Dalla stessa definizione si possono intendere due differenti tipologie di attegg
 *   Astensione completa da ogni alimento per un periodo di tempo lungo
 *   Oppure astensione dal cibo in un particolare periodo terapeutico o della giornata (_la nostra situazione_)
 
-**Nota bene:** Per prima cosa è necessario fare una distinzione tra il digiuno e lo stato di malnutrizione.  
+**Nota bene:** Per prima cosa è necessario fare una distinzione tra il digiuno e lo stato di malnutrizione.
 La malnutrizione è una situazione che rappresenta una carenza dei nutrienti fondamentali.
 
 Quest'ultima, ovviamente, porta a ripercussioni sullo stato di salute del soggetto. _That's bad._
@@ -51,7 +52,7 @@ _Esempio pratico:_
 
 Se fino a ieri mangiavo 2500 kcal al giorno in 3-4 pasti, oggi con digiuno intemittente posso sempre mangiare 2500 kcal, ma in 2 pasti. O entro una finestra di 8 ore, ad esempio (questo dipende dai diversi protocolli, che tra poco vedremo).
 
-Quindi l'**Intermittent Fasting** (digiuno intermittente) **NON** è da confondere con la Restrizione Calorica (**caloric restriction**).  
+Quindi l'**Intermittent Fasting** (digiuno intermittente) **NON** è da confondere con la Restrizione Calorica (**caloric restriction**).
 Quest'ultima indica semplicemente una riduzione della percentuale delle calorie giornaliere introdotte. Senza però cambiare la classica distribuzione dei pasti nell'arco della giornata.
 
 OK, MA che VANTAGGI aVREBBE il digiuno in tutto questo?
@@ -65,9 +66,9 @@ Per fare questo, è necessario prendere in considerazione due diverse vie moleco
 
 *   Via mTOR (mammalian target of rapamycin oppure, in italiano, bersaglio della rapamicina nei mammiferi).
     
-    È conosciuta anche come la via dell'ipertrofia. Viene attivata principalmente da substrati come aminoacidi, glucosio ed insulina.  
-    Ha un ruolo importantissimo nella regolazione del bilancio energetico in quanto, a seguito della somministrazione di leucina (un aminoacido essenziale, il principale tra i tre aminoacidi ramificati).  
-    La leucina può agire a livello dell'ipotalamo andando a ridurre lo stimolo dell'appetito.  
+    È conosciuta anche come la via dell'ipertrofia. Viene attivata principalmente da substrati come aminoacidi, glucosio ed insulina.
+    Ha un ruolo importantissimo nella regolazione del bilancio energetico in quanto, a seguito della somministrazione di leucina (un aminoacido essenziale, il principale tra i tre aminoacidi ramificati).
+    La leucina può agire a livello dell'ipotalamo andando a ridurre lo stimolo dell'appetito.
     Se andiamo a porla anche sul piano dell'allenamento possiamo notare che è stimolata dal resistance training (termine affiliabile al classico [allenamento che prevede l'utilizzo di carichi]({% post_url 2013-01-23-come-aumentare-trazioni-alla-sbarra %})).
     
 *   Via della mitocondriogenesi che viene stimolata, diversamente, dall'endurance training (tipologia di allenamento solitamente finalizzato all'aumento della resistenza ed al lavoro aerobico).
@@ -83,7 +84,8 @@ L'autofagia è un meccanismo legato al benessere delle cellule anche se, molte v
 
 La sua utilità appare però subito chiara dal momento in cui si pensa che serve a rimuovere anche le proteine danneggiate.
 
-A favore del fenomeno citato ci sono differenti studi scientifici che sono stati condotti su specie animali quali i roditori.  
+A favore del fenomeno citato ci sono differenti studi scientifici che sono stati condotti su specie animali quali i roditori.
+
 I topi ai quali veniva inibita sviluppavano muscoli più grandi (come facilmente intuibile) ma che non funzionavano nel modo corretto.
 
 Non molto tempo fa era pensiero comune (e talvolta lo è anche oggi) che se passano più di sei ore (incluse le otto ore notturne) si cominciava ad andare incontro al catabolismo muscolare.
@@ -99,15 +101,15 @@ Basta una piccola modifica ad uno di questi parametri per avere un cambiamento.
 * digiuno corto: dura dalle 8 alle 16 ore
 * digiuno lungo: dalle 16 ore in su
 
-È importante ricordare che il meccanismo di fondo non è collegato solamente alle modalità e alle tempistiche dell'assunzione del cibo.  
+È importante ricordare che il meccanismo di fondo non è collegato solamente alle modalità e alle tempistiche dell'assunzione del cibo.
 È collegato anche e soprattutto alla chetosi, una strada che l'organismo intraprende, trovandosi in stato di "emergenza", allo scopo di cercare vie alternative per fornire energia al sistema nervoso centrale (SNC).
 
 Il problema è che gli acidi grassi non hanno modo di passare nella BEE (barriera emato-encefalica, è una barriera di protezione) e, cosa non meno importante, il glucosio fornisce l'ossalacetato per il ciclo di Krebs.
 
-Se vengono ridotti i livelli di glucosio aumenta la quantità degli acidi grassi in circolo e, se in eccesso, vengono trasportati al fegato.  
+Se vengono ridotti i livelli di glucosio aumenta la quantità degli acidi grassi in circolo e, se in eccesso, vengono trasportati al fegato.
 Lì verranno trasformati in corpi chetonici che riescono ad arrivare al cervello, passando la BEE e al muscolo per cui verranno utilizzati a fine energetico.
 
-Se il digiuno è breve però può apportare diversi effetti positivi sull'organismo.  
+Se il digiuno è breve però può apportare diversi effetti positivi sull'organismo.
 Questi effetti sono stati descritti anche da Valter Longo che ne ha parlato in diversi libri.
 
 {% include youtube.html title="La dieta mima digiuno di Valter Longo" width="1080" height="608" code="pNcACC_023A" %}
@@ -148,7 +150,7 @@ I benefici di cui abbiamo parlato precedentemente riguardavano i dati ottenuti s
 E PER LA MASSA MUSCOLARE?
 -------------------------
 
-Per crescere le calorie sono importanti. Se non si è in ipercalorica non è possibile costruire massa perché la sintesi proteica è un processo costoso.  
+Per crescere le calorie sono importanti. Se non si è in ipercalorica non è possibile costruire massa perché la sintesi proteica è un processo costoso.
 Si perde molta energia, ed il muscolo in eccesso viene facilmente eliminato perché non è necessario a svolgere funzioni importanti o vitali.
 
 È necessario tenere conto anche della quantità delle proteine dato che ne vanno assunte almeno 30 gr a pasto per combattere la resistenza anabolica e, ovviamente, la loro qualità.
@@ -157,7 +159,7 @@ Si perde molta energia, ed il muscolo in eccesso viene facilmente eliminato perc
 
 ### Una restrizione calorica prolungata non si può, dunque applicare ad un atleta perché non lo fa crescere e rende difficile persino il mantenimento della massa magra
 
-**L'alternativa è, appunto, il digiuno intermittente.**  
+**L'alternativa è, appunto, il digiuno intermittente.**
 In quanto permette di mantenere le stesse calorie ma si basa su una diversa finestra temporale che appare più ristretta.
 
 Ad oggi ci sono pochissimi studi che riportano dati che coinvolgono l'ipertrofia sul corpo umano anche se ce ne sono differenti che riguardano gli animali che, comunque, possono tornare utili a sostegno delle diverse teorie.
@@ -191,8 +193,8 @@ Questo perché si era evidenziata una riduzione degli spuntini nell'arco della g
 E la sensibilità all'insulina?
 ------------------------------
 
-Sembra essere maggiore al mattino il che, permetterebbe di fare un pasto a base di carboidrati senza prendere peso.  
-Mentre chi è a favore del digiuno sostiene la teoria che vede la sensibilità all'insulina non essere più alta nelle prime ore della giornata.  
+Sembra essere maggiore al mattino il che, permetterebbe di fare un pasto a base di carboidrati senza prendere peso.
+Mentre chi è a favore del digiuno sostiene la teoria che vede la sensibilità all'insulina non essere più alta nelle prime ore della giornata.
 Semplicemente, dopo periodi di digiuno di almeno 8-10 ore (come del resto è quello notturno) a causa dell'esaurimento del glicogeno.
 
 I soggetti oltre a questi due mesi di studio, dato che si erano trovati bene con il digiuno intermittente, hanno continuato per altri 10 mesi (per un totale di un anno).

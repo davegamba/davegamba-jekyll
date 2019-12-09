@@ -2,7 +2,9 @@
 layout: post
 title: "HUMMUS: LA RICETTA DELLA SALSA PROTEICA DI CECI"
 date: 2013-03-28 11:39
-author: davegamba
+author:
+  - saracaramella
+  - davegamba
 comments: true
 image: 2013-03-28-hummus-la-salsa-proteica-di-ceci.jpg
 categories: [Ricette]
@@ -32,9 +34,3 @@ INGREDIENTI
 *	Servite con qualche foglia di basilico, un filo di olio extra vergine di oliva e dei crostini di pane integrale caldi.
 
 Come visto, è una ricetta completamente naturale adatta ai vegetariani, e ideale per chi vuole un ottimo apporto proteico dai vegetali vista la completezza di proteine tra sesamo e ceci.
-
-_di SARA CARAMELLA_
-
-_Autrice di [Consigli Ad Una'Amica](http://consigliadunamica.overblog.com/),_
-
-_sito di ricette naturali e consigli al femminile_

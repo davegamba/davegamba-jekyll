@@ -25,8 +25,8 @@ di cui avrai bisogno saranno:
 MACRO PANCAKE PROTEICO LOW FAT
 ------------------------------
 
-*	**Carbo: 22gr o 44gr (se si usa 1 o 2 scoop)**  
-*	**Proteine: 30gr ca.**  
+*	**Carbo: 22gr o 44gr (se si usa 1 o 2 scoop)**
+*	**Proteine: 30gr ca.**
 *	**Grassi: 7gr ca. (senza uovo: 2gr)**
 
 PROCEDIMENTO

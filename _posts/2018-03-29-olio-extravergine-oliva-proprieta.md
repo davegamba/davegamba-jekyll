@@ -7,7 +7,8 @@ author:
   - veronicaprocopio
 comments: true
 image: 2018-03-29-olio-extravergine-oliva-proprieta.jpg
-categories: [Non categorizzato]
+categories: [Alimentazione]
+tags: [Olio di Oliva]
 ---
 Oggi parleremo di un argomento che tocca intimamente la nostra italianità: **l'Olio Extravergine d'Oliva**. Uno dei protagonisti indiscussi della Dieta Mediterranea.
 
@@ -117,20 +118,29 @@ Poiché il passaggio alla denominazione olio vergine costituisce una perdita di
 
 In questa denominazione potrebbero rientrare un olio _EVO invecchiato_ oppure un olio giovane particolarmente acido.
 
-**L'Olio d'Oliva semplice** è una miscela composta da oli che hanno subito un processo di raffinazione e oli che sono stati ottenuti direttamente dalle olive. **Il grado d'acidità massimo deve essere dell'1%.**  
+**L'Olio d'Oliva semplice** è una miscela composta da oli che hanno subito un processo di raffinazione e oli che sono stati ottenuti direttamente dalle olive. **Il grado d'acidità massimo deve essere dell'1%.**
+
 L'olio raffinato viene estratto dalla pasta d'oliva che avanza dopo l'estrazione degli oli vergini.
 
 [http://www.bda-ieo.it/wordpress/?page..._id=96](http://www.bda-ieo.it/wordpress/?page_id=96)
 
-**L'estrazione avviene solitamente con solventi chimici e a caldo**, oppure dalla rettificazione di oli non commestibili (oli lampanati). Poiché per legge non è garantita una quota minima di oli vergini nella miscela, in genere essi sono presenti in frazioni molto basse, **rendendo questo prodotto dannoso per la salute.**
+**L'estrazione avviene solitamente con solventi chimici e a caldo**, oppure dalla rettificazione di oli non commestibili (oli lampanati).
+
+Poiché per legge non è garantita una quota minima di oli vergini nella miscela, in genere essi sono presenti in frazioni molto basse, **rendendo questo prodotto dannoso per la salute.**
 
 #### Ma perché è cosi importante "a freddo" o "a caldo"?
 
-**Trattare l'olio con il calore è altamente sconsigliabile**, in quanto causa la separazione della glicerina da parte degli acidi grassi e la sua degradazione, con produzione di sostanze tossiche, quali l'acroleina, che è molto dannosa per il fegato e l'apparato respiratorio. Si pensi che questa sostanza si rileva nel fumo delle sigarette e viene utilizzata in forma concentrata _come lacrimogeno!_
+**Trattare l'olio con il calore è altamente sconsigliabile**, in quanto causa la separazione della glicerina da parte degli acidi grassi e la sua degradazione, con produzione di sostanze tossiche, quali l'acroleina, che è molto dannosa per il fegato e l'apparato respiratorio.
+
+Si pensi che questa sostanza si rileva nel fumo delle sigarette e viene utilizzata in forma concentrata _come lacrimogeno!_
 
 **_NB L'acroleina viene prodotta anche durante la friggitura quando si supera il punto di fumo dell'olio._**
 
-**L'Olio di Sansa d'Oliva è una miscela ottenuta da oli derivanti dalla sansa e da oli ottenuti dalle olive**. La sansa è il residuo della macinazione e torchiatura delle olive, e viene sottoposta a solventi chimici e al calore per poterne ottenere l'olio. Si tratta di un prodotto di **scarsissima qualità**, oltre che dannoso per la salute.
+**L'Olio di Sansa d'Oliva è una miscela ottenuta da oli derivanti dalla sansa e da oli ottenuti dalle olive**.
+
+La sansa è il residuo della macinazione e torchiatura delle olive, e viene sottoposta a solventi chimici e al calore per poterne ottenere l'olio.
+
+Si tratta di un prodotto di **scarsissima qualità**, oltre che dannoso per la salute.
 
 In conclusione
 --------------
@@ -145,8 +155,10 @@ Abbiamo anche visto che la coltivazione delle **olive biologiche avviene senza s
 
 > l'Olio EVO ottenuto da olive bio è la scelta migliore in termini salutistici.
 
-Una scelta quasi obbligata, oserei dire.  
+Una scelta quasi obbligata, oserei dire.
 Per un alimento cosi importante che consumiamo con tale frequenza, è che haun vero prorpio effetto da elisir sulla nostra salute.
 
-_**Ah, memo finale**_  
-Anche se scegliete l'olio migliore da un punto di vista qualitativo, prestate attenzione alle **modalità di cottura** che potrebbero alterarne le proprietà organolettiche. Utilizzatelo quando possibile **soprattutto a crudo** per condire.
+_**Ah, memo finale**_
+Anche se scegliete l'olio migliore da un punto di vista qualitativo, prestate attenzione alle **modalità di cottura** che potrebbero alterarne le proprietà organolettiche.
+
+Utilizzatelo quando possibile **soprattutto a crudo** per condire.

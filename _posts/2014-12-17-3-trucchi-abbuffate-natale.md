@@ -42,11 +42,11 @@ Quindi ricorda di...
 	Se invece ancora non hai un allenamento specifico per te,  puoi seguire questo semplice Schema a cedimento per allenarti a casa:
 	-	Piegamenti sulle braccia: 6 set x Max ripetizioni, con 60" di riposo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2017-03-08-esercizi-pettorali-casa %})
-	-	Ponte d'oro: 4 x 30", con 15" di riposo  
+	-	Ponte d'oro: 4 x 30", con 15" di riposo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2014-09-16-esercizi-gambe-glutei-casa %})
-	-	Affondi Alternati: 6 set x 10 ripetizioni con 60" di tipo  
+	-	Affondi Alternati: 6 set x 10 ripetizioni con 60" di tipo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2014-09-16-esercizi-gambe-glutei-casa %})
-	-	Plus (se hai una sbarra e sei avanzato/a) Trazioni larghe : 6 set x Max ripetizioni 90" di risposo  
+	-	Plus (se hai una sbarra e sei avanzato/a) Trazioni larghe : 6 set x Max ripetizioni 90" di risposo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2013-01-23-come-aumentare-trazioni-alla-sbarra %})
 
 	Naturalmente questa è una Scheda basica, dei semplici cedimenti, ma è un riferimento iniziale per chi vuole allenarsi a casa, ha poca esperienza e non ha ancora un Scheda specifica sui suoi obiettivi.

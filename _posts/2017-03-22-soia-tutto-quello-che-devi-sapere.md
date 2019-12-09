@@ -7,7 +7,8 @@ author:
   - veronicaprocopio
 comments: true
 image: 2017-03-22-soia-tutto-quello-che-devi-sapere.jpg
-categories: [Alimentazione, Alimentazione, Nutrizione, Soia]
+categories: [Alimentazione]
+tags: [Nutrizione, Soia]
 ---
 
 **La soia è un vegetale appartenente alla famiglia delle Leguminose** e, insieme ai fagioli, ceci, piselli, fave e lenticchie, viene coltivata e consumata dall'uomo fin dall'Era Preistorica.
@@ -68,7 +69,7 @@ Facciamo un passo indietro. Vi riporto un estratto di un articolo scritto dal [D
 > *   A partire dal 2007, l'85% dei consumatori percepiscono i prodotti a base di soia come salutari.
 > *   Il 33% degli americani mangiano alimenti di soia o bevande almeno una volta al mese.
 > *   Il 70% dei consumatori ritiene che l'olio estratto dai semi di soia sia salutare.
-> *   L'84% dei consumatori sono d'accordo con la rivendicazione della FDA che consumare 25 gr di  
+> *   L'84% dei consumatori sono d'accordo con la rivendicazione della FDA che consumare 25 gr di
 >     proteine di soia al giorno riduce il rischio di malattie cardiache.
 > 
 > Questo è un tragico caso di marketing scaltro e queste palesi menzogne si radicano tra le masse con il risultato finale di produrre grandi profitti per l'industria, a discapito di una compromissione della salute causata dall'uso prolungato di soia non fermentata.
@@ -93,8 +94,8 @@ Abbiamo parlato di sostanze tossiche, antinutrienti e OGM, ma cosa significa tut
 *   **La manipolazione genetica per la produzione di soia (gialla) OGM** (organismo geneticamente modificato) ha lo scopo di rendere queste piante resistenti all'uso di particolari erbicidi, al fine di poterne massimizzare la produzione. Inoltre, questa manipolazione prevede l'inserimento nel genoma della pianta di geni batterici che causano la produzione di una proteina che non fa parte della catena alimentare umana, ed è proprio questo a determinare l'insorgenza di allergie.
 *   **Alimenti a base di soia contengono fattori ANTINUTRIZIONALI** come le saponine, tossine, fitati, inibitori della proteasi, ossalati, gozzigeni ed estrogeni. Alcuni di questi fattori interferiscono con gli enzimi necessari per digerire le proteine oppure causano la caratteristica flatulenza (frequente nel consumo dei legumi). I fitati, ad esempio, inibiscono l'assorbimento di alcuni minerali, ma in modeste quantità hanno proprietà antitumorali. Generalmente piccole quantità di antinutrienti non costituiscono un pericolo per la salute. Problematico diventa il lauto consumo di soia nel mondo Occidentale. Tuttavia, non dobbiamo dimenticarci che queste sostanze sono presenti anche negli altri legumi e tramite la cottura e l'ammollo è possibile eliminare o ridurre la quantità di queste sostanze.
 *   **Contiene isoflavoni**, composti vegetali simili all'estrogeno umano (fitoestrogeni). Questi composti possono imitare e, talvolta, bloccare l'azione dell'estrogeno umano, **con alterazioni dell'equilibrio endocrino dell'individuo**. È stato riscontrato che bere due bicchieri di latte di soia al giorno per un mese fornisce sufficienti isoflavoni che alterano il ciclo mestruale.
-*   Sostanze presenti nella soia sembrano essere associate a disturbi della **tiroide**.  
-    In letteratura esistono articoli che sostengono alcune proprietà benefiche della soia gialla:  
+*   Sostanze presenti nella soia sembrano essere associate a disturbi della **tiroide**.
+    In letteratura esistono articoli che sostengono alcune proprietà benefiche della soia gialla:
     La soia Roundup Ready (RR) è in assoluto il prodotto transgenico maggiormente coltivato nel mondo, rappresentando l'87% della soia coltivata negli Stati Uniti, e il 60% a livello globale (nel 2005).
 *   Una ricerca effettuata da un team dell'Università di Oxford e riportata nel 2004 sull'[American Journal of Clinical Nutrition](http://ajcn.nutrition.org/content/80/5/1391.full) sembrerebbe dimostrare come un'assunzione moderata di cibi a base di soia sia associata con livelli favorevoli di colesterolo plasmatico.
 *   Altri studi, condotti sulle donne asiatiche, sembrano dimostrare l'utilità della soia nella prevenzione del cancro alla mammella, anche se resta controversa la somministrazione di isoflavoni a donne già affette da cancro alla mammella.

@@ -88,7 +88,9 @@ Da allora, uno dei più promettenti nuovi metodi di trattamento per il morbo di 
 
 Il nome deriva dal fatto che la forte restrizione dietetica dei carboidrati alimentari (soprattutto ad alto indice glicemico e insulinico) e il metabolismo dei grassi producono "corpi chetonici" come prodotto di scarto, e questi sono effettivamente una risorsa molto utile per il corretto funzionamento del cervello.
 
-Sta infatti diventando sempre più chiaro che un metabolismo difettoso del glucosio a livello del sistema nervoso centrale (il cosiddetto "diabete di tipo 3") è una caratteristica precoce del morbo di Alzheimer.  I neuroni possono infatti utilizzare i corpi chetonici sia come fonte di energia (in sostituzione del glucosio) che come precursore di GABA, un neurotrasmettitore essenziale responsabile nella regolazione dell'eccitabilità neuronale in tutto il sistema nervoso e responsabile per la regolazione del tono muscolare negli esseri umani.
+Sta infatti diventando sempre più chiaro che un metabolismo difettoso del glucosio a livello del sistema nervoso centrale (il cosiddetto "diabete di tipo 3") è una caratteristica precoce del morbo di Alzheimer.
+
+I neuroni possono infatti utilizzare i corpi chetonici sia come fonte di energia (in sostituzione del glucosio) che come precursore di GABA, un neurotrasmettitore essenziale responsabile nella regolazione dell'eccitabilità neuronale in tutto il sistema nervoso e responsabile per la regolazione del tono muscolare negli esseri umani.
 
 Ecco quindi che diventa sempre più chiara e importante la possibilità di controllare strettamente i livelli di glucosio e insulina plasmatici, piuttosto che di "colesterolo alimentare", sia per quanto concerne patologie cardiache e coronariche, che per importantissimi risvolti dal punto di vista neurologico.
 

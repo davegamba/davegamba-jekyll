@@ -28,17 +28,16 @@ Dunque, all'individuo che segue l'alimentazione media della nostra società mode
 
 In realtà non è così, si tratta di imparare che i cibi industriali contengono sempre questi ingredienti, e i cibi industriali non sono fatti per l'intestino umano.
 
-Sono fatti solo per vendere.  
- 
+Sono fatti solo per vendere.
+
 
 ![Pancia Gonfia]({{site.images_root}}2013-11-18-pancia-gonfia-1.jpg)
 
 Per essere precisi, **la sensazione di pancia gonfia (sia occasionale che cronica) si sente quando avviene una fermentazione o infiammazione nell'Intestino** (non nello stomaco come pensa qualcuno, quella al limite è [cattiva digestione dovuta alle associazioni)]({% post_url 2012-11-24-problemi-digestione %}).
 
-Infatti tutti questi alimenti hanno diversi tratti in comune, tra cui i basilari sono:  
- 
--  sono elementi fortemente Acidi per il Ph del sangue umano
--  hanno anche la caratteristica di formare un specie di strato intorno alle pareti dell'intestino. Questa parete di "sporcizia" crea diversi problemi più o meno gravi a seconda della situazione, come cattiva digestione, cattivo assorbimento degli alimenti e dei micro-nutrienti, produzione **di gas e gonfiore**.
+Infatti tutti questi alimenti hanno diversi tratti in comune, tra cui i basilari sono: 
+- sono elementi fortemente Acidi per il Ph del sangue umano
+- hanno anche la caratteristica di formare un specie di strato intorno alle pareti dell'intestino. Questa parete di "sporcizia" crea diversi problemi più o meno gravi a seconda della situazione, come cattiva digestione, cattivo assorbimento degli alimenti e dei micro-nutrienti, produzione **di gas e gonfiore**.
 - A lungo termine può portare anche a disturbi più gravi.
 
 Significa che non dovrei mangiare mai più questi cibi nella mia vita? Non necessariamente.
@@ -51,10 +50,17 @@ Successivamente, dopo aver visto questi miglioramenti, potresti non aver molta v
 
 Ma se vorrai,  potrai scegliere di ri-inserirli con parsimonia occasionalmente, e non come **abitudine quotidiana**.
 
-La soluzione per ripulirsi dallo strato in eccesso di "sporcizia" è fare **pasti unici completi di sola frutta fresca **(da non mescolare con altri alimenti) una volta al giorno ad esempio. Si può fare una colazione abbondante e base di sola frutta, oppure un pranzo o una merenda.  
+La soluzione per ripulirsi dallo strato in eccesso di "sporcizia" è fare **pasti unici completi di sola frutta fresca **(da non mescolare con altri alimenti) una volta al giorno ad esempio.
+
+Si può fare una colazione abbondante e base di sola frutta, oppure un pranzo o una merenda.
+
 Questa agirà da spugna sulle pareti dell'intestino, riparando i danni che gli abbiamo arrecato per anni.
 
-In conconmitanza, per eliminare la pancia gonfia, è bene **eliminare tutti i dolciumi e le bibite, i quali sono dominate dallo Zucchero bianco, il vero veleno dell'uomo moderno. I suoi effetti di gonfiore e infiammanti si potenziano quando uniti alle farine e al latte (come nel caso dei dolci).  
+In conconmitanza, per eliminare la pancia gonfia, è bene **eliminare tutti i dolciumi e le bibite, i quali sono dominate dallo Zucchero bianco, il vero veleno dell'uomo moderno. I suoi effetti di gonfiore e infiammanti si potenziano quando uniti alle farine e al latte (come nel caso dei dolci).
 Limitare molto la farina**, ed eliminarla del tutto per almeno un paio di settimane. Bisogna imparare a sostituire i farinacei con i cereali interi se si vuole seguire un'idea di salute, come Riso, Avena, Miglio, Farro, Amaranto, Quinoa.
 
-Nel 90% delle persone con cui ho avuto a che fare che hanno seguito queste linee guida, la pancia gonfia è diminuita notevolmente nella prima settimana e ancora nelle successive. Quando non ci sono stati grossi cambiamenti è perché stavano mangiando un altro allergene senza saperlo. Una volta che lo abbiamo individuato rotando i cibi, il gonfiore è sempre diminuito.
+Nel 90% delle persone con cui ho avuto a che fare che hanno seguito queste linee guida, la pancia gonfia è diminuita notevolmente nella prima settimana e ancora nelle successive.
+
+Quando non ci sono stati grossi cambiamenti è perché stavano mangiando un altro allergene senza saperlo.
+
+Una volta che lo abbiamo individuato rotando i cibi, il gonfiore è sempre diminuito.

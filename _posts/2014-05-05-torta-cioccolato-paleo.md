@@ -40,12 +40,12 @@ E sostituendoli con gli ingredienti più utili per la nostra risposta ormonale, 
 
 Posso assicurarti che rimarrai a bocca aperta, soprattutto perché non starai mangiando ne farine, ne lieviti ne zucchero, ne latte. Dunque risulterà ideale anche per tutti i
 
-*   CELIACI    
+*   CELIACI
 *   INTOLLERANTI A LATTOSIO
 *   DIABETICI
 *   CON SINDORMI ALIMENTARI E METABOLICHE
 *   CON INSULINO-RESISTENZE
-    
+
 Non è uno scherzo, è reale, ed semplicissima da provare a casa.
 
 Quindi fallo il prima possibile! Anche ora!! (Ok, se sei in ufficio non provare a farla ora, aspetta di arrivare a casa almeno). Bene, abbiamo chiarito le idee a sufficienza. Veniamo alla ricetta adesso.

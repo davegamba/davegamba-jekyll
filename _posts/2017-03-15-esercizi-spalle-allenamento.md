@@ -5,7 +5,8 @@ date: 2017-03-15 12:16
 author: davegamba
 comments: true
 image: 2017-03-15-esercizi-spalle-allenamento.jpg
-categories: [Allenamento, Allenamento a casa, Allenamento Corpo Libero, Deltoidi, Handstand, Spalla, Spalle]
+categories: [Allenamento]
+tags: [Allenamento a Casa, Corpo Libero, Deltoidi, Handstand, Spalle]
 ---
 
 Il singolo strumento più POTENTE per velocizzare il tuo miglioramento fisico DA SUBITO. Ora puoi scaricarlo gratis.
@@ -138,7 +139,7 @@ Come sempre nei miei allenamenti (in quasi totale contrasto con quelli tipici), 
 **Dal momento che l'intero Esercizio sarà breve ed intenso, eseguito in circa 10 minuti, l'ideale è inserirlo in un giornata d'allenamento di un altro muscolo, come con Pettorali o con Dorsali ad esempio.**
 ## Scheda 1
 
-### 4 x 5 , 45/60''
+### 4 x 5 - 45/60"
 
 Se parti completamente da zero è bene cominciare piano.
 
@@ -147,11 +148,11 @@ La Spalla è un muscolo che si deve abituare molto gradualmente allo sforzo, anc
 Dunque in questa fase assicurati di ESEGUIRE PERFETTAMENTE IL MOVIMENTO, concentrati solo sull'Esecuzione, con un peso relativamente basso.
 
 Quando arrivi a 5 reps, eseguile per 4 serie e stop (anche se senti che potresti andare avanti tieni le energie per svolgere con precisione le prossime).
-### 6 x 6 - 45/60''
+### 6 x 6 - 45/60"
 
-Saliamo di intensità. Un 6 x 6 pulito, non cosi semplice come sembra se manteniamo, COME DOBBIAMO,  l'Esecuzione perfetta e lenta come nella precedente Scheda.
+Saliamo di intensità. Un 6 x 6 pulito, non cosi semplice come sembra se manteniamo, COME DOBBIAMO, l'Esecuzione perfetta e lenta come nella precedente Scheda.
 
-### 8 x 8 - 30/40''
+### 8 x 8 - 30/40"
 
 Qui inizia ad essere un Allenamento intenso.
 Esegui 8 Alzate per 8 serie, riposando circa 30-40 minuto tra le serie. Se trovi sia semplice dopo alcune sedute puoi alzare ulteriormente il peso di 1 kg (massimo 2).

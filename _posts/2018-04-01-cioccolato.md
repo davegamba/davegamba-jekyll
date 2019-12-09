@@ -8,6 +8,7 @@ author:
 comments: true
 image: 2018-04-01-cioccolato.jpg
 categories: [Alimentazione]
+tags: [Cioccolato]
 ---
 
 **Fondente**, **al latte**, **bianco**, **pralinato**, **amaro.** A prescindere da come lo si preferisca, **il Cioccolato** è uno di quei rari alimenti che mette tutti d'accordo.

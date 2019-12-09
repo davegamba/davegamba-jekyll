@@ -10,7 +10,7 @@ categories: [allargare spalle, Allenamento Corpo Libero, aumentare le trazioni, 
 
 #### Benvenuti alla mini guida di Trazioni per i Dorsali.
 
-Alcune cose prima di cominciare.  
+Alcune cose prima di cominciare.
 Le Trazioni alla sbarra sono l'esercizio principe dell'Allenamento senza attrezzi.
 
 È sufficiente una sbarra, e si può allenare nella maniera più efficace tutta la Schiena, **i Dorsali, i Bicipiti, il Trapezio, gli Erettori Spinali, l'Addome** (ebbene sì) molti altri micro-muscoli.
@@ -110,7 +110,7 @@ Quando fatto bene questo movimento lavora il Dorso in maniera MOLTO completa, co
 
 **ESECUZIONE:** Le Mani qui sono palmi verso il viso e all'ampiezza delle proprie spalle (NON mani vicine come puoi aver visto spesso fare, in quel caso è quasi un isolamento del Bicipite).
 
-Schiena e gambe dritte, in linea Le gambe UNITE (NON incrociate) I piedi UNITI (NON incrociati) Sguardo avanti (non sollevare il mento). Ricorda che l'impulso è di portare il Petto verso la sbarra, NON il mento.  
+Schiena e gambe dritte, in linea Le gambe UNITE (NON incrociate) I piedi UNITI (NON incrociati) Sguardo avanti (non sollevare il mento). Ricorda che l'impulso è di portare il Petto verso la sbarra, NON il mento.
 Il viso guarda sempre avanti, la cervicale non si muove.
 
 SCHEDE PER COMINCIARE
@@ -143,9 +143,22 @@ La prima fase sarà l'Isometria.
 
 **Iscriviti ora al mio canale per seguire anche i prossimi video**
 
-1.  **In queste prime sedute dovrai salire sulla sbarra** (in posizione di Trazioni larghe, o meglio ancora se possibile in presa Neutra) e restare appeso/a in posizione di Trazione per 5 secondi. (come in figura al lato). Quando sei stanco/a scendi a terra e riposa. Lo scopo del gioco man mano nelle sedute sarà di restare più secondi possibili appesi in contrazione in posizione di trazione. Fosse anche un solo secondo in più ad allenamento. Ripeti queste isometrie per le volte che riesci, in genere almeno 5-8 volte. Ripeti a giorni alterni.
-2.  **Quando arrivi a restare in Isometria per 10 secondi di fila puoi passare alla seconda fase**. La seconda fase è l'Eccentrica. Ovvero scendere lentamente dalla posizione di contrazione (che raggiungerai sempre con l'ausilio di uno sgabello e con un saltino). Terrai la posizione in isometria 2-3 secondi questa volta e scenderai i 5-6 secondi. Questa è l'Eccentrica. In pratica cerca di scendere più lentamente possibile. Controlla la discesa lungo tutto l'allungamento della braccia, fino in fondo prima di arrivare a toccar terra. Cerca di scendere sempre più lentamente. Ripeti queste isometrie per le volte che riesci, in genere almeno 6-10 volte. Ripeti a giorni alterni.
-3.  **Passa alla terza fase quando riesci a scendere in circa 15 secondi**. Hai sviluppato un ottima forza ormai. Ora puoi togliere il gradino. Dovresti riuscire a svolgere la tua prima Trazione in autonomia. Le prime volte se lo trovi ancora troppo duro puoi aiutarti con un saltino, oppure ancora con lo sgabello ma cercando di svolgere tu la contrazione per arrivare in cima la sbarra, senza salti.
+1.	**In queste prime sedute dovrai salire sulla sbarra** (in posizione di Trazioni larghe, o meglio ancora se possibile in presa Neutra) e restare appeso/a in posizione di Trazione per 5 secondi.
+	Quando sei stanco/a scendi a terra e riposa. Lo scopo del gioco man mano nelle sedute sarà di restare più secondi possibili appesi in contrazione in posizione di trazione.
+	Fosse anche un solo secondo in più ad allenamento. Ripeti queste isometrie per le volte che riesci, in genere almeno 5-8 volte.
+	Ripeti a giorni alterni.
+2. 	**Quando arrivi a restare in Isometria per 10 secondi di fila puoi passare alla seconda fase**.
+	La seconda fase è l'Eccentrica.
+	Ovvero scendere lentamente dalla posizione di contrazione (che raggiungerai sempre con l'ausilio di uno sgabello e con un saltino).
+	Terrai la posizione in isometria 2-3 secondi questa volta e scenderai i 5-6 secondi.
+	Questa è l'Eccentrica.
+	In pratica cerca di scendere più lentamente possibile.
+	Controlla la discesa lungo tutto l'allungamento della braccia, fino in fondo prima di arrivare a toccar terra.
+	Cerca di scendere sempre più lentamente. Ripeti queste isometrie per le volte che riesci, in genere almeno 6-10 volte. Ripeti a giorni alterni.
+3.  **Passa alla terza fase quando riesci a scendere in circa 15 secondi**. Hai sviluppato un ottima forza ormai.
+	Ora puoi togliere il gradino.
+	Dovresti riuscire a svolgere la tua prima Trazione in autonomia.
+	Le prime volte se lo trovi ancora troppo duro puoi aiutarti con un saltino, oppure ancora con lo sgabello ma cercando di svolgere tu la contrazione per arrivare in cima la sbarra, senza salti.
 
 Provando e riprovando **SVOLGERAI LA TUA PRIMA TRAZIONE**.
 
@@ -157,9 +170,9 @@ Tu insisti il tempo necessario per abituare il corpo e riuscirai.
 
 Ora che sei riuscito/a a completare la tua prima trazione completa, fai tante serie da 1 trazione.
 
-Svolgi più serie possibili da 1 Trazione.  
+Svolgi più serie possibili da 1 Trazione.
 
-Riposa abbondantemente tra le serie se necessario, anche 2-3 minuti.  
+Riposa abbondantemente tra le serie se necessario, anche 2-3 minuti.
 
 Cerca di arrivare a 3-6 Trazioni singole complete.
 
@@ -197,13 +210,13 @@ In questo modo svilupperemo la forza in questo movimento, che ci permetterà inf
 
 Ora iniziamo a sviluppare la Forza, e useremo uno dei metodi più famosi di Poliquin, il 6×2/4
 
-*   Trazioni Inverse 6×2  
+*   Trazioni Inverse 6×2
     3min riposo
-*   Trazioni Inverse 6×4  
+*   Trazioni Inverse 6×4
     3 min riposo
 
-Inizia così.  
-Esegui 2 Trazioni, riposa, ripeti per un totale di 6 serie.  
+Inizia così.
+Esegui 2 Trazioni, riposa, ripeti per un totale di 6 serie.
 Ripeti questo allenamento almeno 2-3 sedute.
 
 Dopodiché, cercherai di migliorare, aumentando le ripetizioni dove senti di riuscire.
@@ -214,19 +227,19 @@ Ad ogni seduta il tuo scopo, e fare una o più Trazione in più della precedente
 
 Continua a migliorare ad ogni Seduta fino a quando non riuscirai ad eseguire 4 Trazioni per 6 serie.
 
-**PS**: Se per caso in una serie senti di poter eseguire PIÙ di 4 Trazioni in una serie, **NON** eseguirle.  
+**PS**: Se per caso in una serie senti di poter eseguire PIÙ di 4 Trazioni in una serie, **NON** eseguirle.
 Tieni la forza per le prossime serie, fino a quando arriverai appunto ad eseguire 4 ripetizioni in ogni serie.
 
 #### Scheda 2 - 5×5
 
-Ora che riusciamo a fare 4 Trazioni di fila, possiamo fare una Scheda che sviluppa ancora di più Forza e la Massa.  
+Ora che riusciamo a fare 4 Trazioni di fila, possiamo fare una Scheda che sviluppa ancora di più Forza e la Massa.
 Un semplice ma letale 5×5.
 
 Suggerisco di rimanere su questa Scheda per parecchio tempo e padroneggiarla. Dopo un po di tempo che la eseguirai facilmente, puoi passare a diminuire i tempi di recupero.
 
-*   da Trazioni Inverse 5×5  
+*   da Trazioni Inverse 5×5
     3min di riposo
-*   a Trazioni Inverse 5×5  
+*   a Trazioni Inverse 5×5
     2min di riposo
 
 Quando avrai raggiunto questo obiettivo agevolmente potrai passare alla prossima Scheda.
@@ -239,9 +252,9 @@ Ora eseguiamo lo stesso Allenamento della precedente Scheda, **MA** portiamo il 
 
 Dunque sarà un:
 
-*   Trazioni Larghe 4×5  
+*   Trazioni Larghe 4×5
     1 min di riposo
-*   Trazioni Inverse 4×5  
+*   Trazioni Inverse 4×5
     1 min di riposo
 
 Anche qui ci vorrà un po di tempo per abituarsi e padroneggiarlo.

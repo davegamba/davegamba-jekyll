@@ -24,7 +24,7 @@ Da conservare, leggere e rileggere.
 
 _DAVE_
 
-## LA COLAZIONE  
+## LA COLAZIONE
 
 Innanzitutto, l'intestino necessita del **digiuno notturno** per presentarsi pronto ad assorbire le molteplici proprietà nutritive mineralizzanti e vitaminizzanti della **frutta**, che preferibilmente va assunta a colazione e durante l'arco della mattinata.
 
@@ -55,7 +55,7 @@ E per finire, sono ricchi di fitati, delle spugne assorbenti minerali essenziali
 Ovviamente della famiglia fanno pane e pasta e tutti i dolciumi farinosi classici.
 
 Prediligere, laddove non sia possibile rinunciarvi, le **farine integrali** con le varietà del **riso** ad esempio, altrimenti curiosare tra i **cereali senza glutine tipo grano saraceno, miglio, quinoa e amaranto**, tutti grani eccellenti con i quali possiamo variare le ricette della nostra cucina.
-  
+
 **Non è consigliabile comunque associare le farine ad altre tipologie di alimenti** ad esclusione delle verdure (NDR vedi anche il mio [articolo sulle Associazioni Alimentari]({% post_url 2012-11-24-problemi-digestione %})), questo perché, in quando amidacei, necessitano di enzimi che si attivano iniziando la digestione in un ambiente meno acido rispetto per esempio alle proteine (pH 1,5/2).
 
 Lo stomaco-produce acido cloridrico in modo selettivo ed il rischio di determinare un attività secretoria anomala, scompensata dalle diverse necessità in rapporto alla tipologia degli alimenti assunti, può comportare uno svuotamento gastrico non ottimale.

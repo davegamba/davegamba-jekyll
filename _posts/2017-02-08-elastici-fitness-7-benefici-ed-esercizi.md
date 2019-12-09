@@ -5,10 +5,11 @@ date: 2017-02-08 12:35
 author: davegamba
 comments: true
 image: 2017-02-08-elastici-fitness-7-benefici-ed-esercizi.jpg
-categories: [Allenamento, Allenamento Corpo Libero, Bande di Resistenza, elastici, Esercizi, infortuni]
+categories: [Allenamento]
+tags: [Corpo Libero, Bande di Resistenza, Elastici, Esercizi, Infortuni]
 ---
 
-Gli **Elastici** (o fasce di resistenza) ti consentono un allenamento per rafforzare tutto il corpo senza pesi o macchine.  
+Gli **Elastici** (o fasce di resistenza) ti consentono un allenamento per rafforzare tutto il corpo senza pesi o macchine.
 Sono **poco costosi, di poco ingombro** e sono perfetti per fare un buon allenamento anche **in viaggio**. Mettile semplicemente nella tua borsa e avrai l'equivalente di un allenamento di resistenza in palestra con te.
 
 Le Fasce di resistenza sono fatte di gomma spessa e forte, con maniglie in fondo, e prodotto in una varietà di resistenze così che tu possa aumentare la difficoltà per **migliorare la tua forza**.
@@ -109,8 +110,8 @@ Assicurati che i gomiti puntino dietro e non di lato. Tieni la posizione per un 
 
 ##### Alzate Laterali con Elastici
 
-In piedi sull'elastico, tieni le estremità dell'elastico in ogni mano.  
-Questa volta alza le braccia lateralmente e in leggera extrarotazione dell'omero esattamente come per le Alzate con manubri. Movimento LENTO E CONTROLLATO.  
+In piedi sull'elastico, tieni le estremità dell'elastico in ogni mano.
+Questa volta alza le braccia lateralmente e in leggera extrarotazione dell'omero esattamente come per le Alzate con manubri. Movimento LENTO E CONTROLLATO.
 Scendi senza arrivare fino a fine corsa del movimento, e torna su.
 
 ##### Estensioni Tricipiti con Elastici

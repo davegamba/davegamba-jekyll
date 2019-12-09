@@ -7,7 +7,8 @@ author:
   - ileniazelin
 comments: true
 image: 2017-03-31-proteine-fanno-male.jpg
-categories: [Alimentazione, Alimentazione, eccesso proteine, iperproteica, Non categorizzato, proteico, proteine]
+categories: [Alimentazione]
+tags: [Eccesso, Proteine, Iperproteica]
 ---
 
 ### Vogliamo capire davvero se le Proteine fanno male?
@@ -26,7 +27,7 @@ In particolare, l'attenzione gira attorno alla diatriba che mette a paragone le 
 
 L'ultima tendenza è quella di preferire le proteine vegetali.
 
-Ma è davvero sempre una **scelta giusta**?  
+Ma è davvero sempre una **scelta giusta**?
 Le proteine animali **possono avere effetti negativi sulla salute**?
 
 E, quello che ci si chiede più spesso, è davvero possibile sostituire con facilità queste ultime con combinazioni varie?
@@ -42,7 +43,7 @@ Per rispondere a tutte queste domande è prima importante focalizzarsi su alcuni
 
 **La digeribilità proteica** è rappresentata dal rapporto tra l'azoto che effettivamente viene assorbito e quello ingerito.
 
-Si tratta di un parametro che dipende non solo dall'individualità del soggetto ma anche dalle caratteristiche del singolo alimento.  
+Si tratta di un parametro che dipende non solo dall'individualità del soggetto ma anche dalle caratteristiche del singolo alimento.
 Potrebbero esserci alcune strutture, come le pareti cellulari, che possono rappresentare un ostacolo per i processi di assorbimento.
 
 **Il Valore Biologico (VB)** è la capacità di apportare azoto ed aminoacidi in quantità adeguate alla richiesta dell'organismo.
@@ -79,7 +80,7 @@ Alimenti come l'uovo (in particolare gli albumi cotti), manzo, pollo, pesce, tac
 
 Tutti gli aminoacidi essenziali sono contenuti in proporzioni adeguate in modo di essere facilmente assimilabili a livello del tratto intestinale, in particolar modo nell'intestino tenue che presenta un'adeguata superficie di finalizzata a tale scopo.
 
-Se prendiamo in considerazione i vegetali, si potrà notare che questi manifestano delle carenze per particolari aminoacidi essenziali.  
+Se prendiamo in considerazione i vegetali, si potrà notare che questi manifestano delle carenze per particolari aminoacidi essenziali.
 Essi presentano caratteristiche strutturali molto diverse e lontane dalla specie umana.
 
 Cereali vs. Legumi
@@ -104,7 +105,7 @@ La maggior parte delle specie vegetali utilizzate come fonte proteica presenta u
 
 Come si può ben vedere entrambe le scelte richiedono un intervento diretto da parte dell'uomo.
 
-Una scelta intelligente è rappresentata dall'idea di andare ad unire entrambe le fonti proteiche.  
+Una scelta intelligente è rappresentata dall'idea di andare ad unire entrambe le fonti proteiche.
 Assumendone un quantitativo pari a 2/3 di origine animale ed 1/3 di origine vegetale.
 
 E per i vegetariani ed i vegani?
@@ -180,44 +181,48 @@ E anche io per molto tempo mi sono fatto molte domande in merito.
 
 Ora, si dà il caso che io personalmente sia stato da entrambe le sponde di questo fiume.
 
-Sono stato vegano-crudista per un certo periodo, seguendo alla lettera i precetti igienisti; e prima ancora sono stato sulla sponda delle classiche filosofie da palestra e bodybuilding.  
+Sono stato vegano-crudista per un certo periodo, seguendo alla lettera i precetti igienisti; e prima ancora sono stato sulla sponda delle classiche filosofie da palestra e bodybuilding.
 Se mi hai già letto altri cose mia prima, saprai già che oggi ricerco sempre il **binomio Risultato/Salute**, e mai uno solo dei due
 
 Detto questo, veniamo alle domande precise. Che erano:
 
-> Da qualche tempo sto provando un post-workout simile al tuo, ma senza le proteine in polvere.  
-> Sono molto confuso sulla quantità di proteine giornaliera.  
-> I bodybuilder ne consigliano fino a 3g/Kg al giorno, gli igienisti non più di 30-40 gr al giorno e in mezzo tutto il resto.  
-> Tu cosa consigli?  
-> Sinceramente dubito molto dell'efficacia delle proteine in polvere e 25 gr sia prima che dopo l'allenamento mi sembrano davvero tante.  
-> Inoltre sempre più evidenze sembrano andare contro le proteine animali...  
+> Da qualche tempo sto provando un post-workout simile al tuo, ma senza le proteine in polvere.
+> Sono molto confuso sulla quantità di proteine giornaliera.
+> I bodybuilder ne consigliano fino a 3g/Kg al giorno, gli igienisti non più di 30-40 gr al giorno e in mezzo tutto il resto.
+> Tu cosa consigli?
+> Sinceramente dubito molto dell'efficacia delle proteine in polvere e 25 gr sia prima che dopo l'allenamento mi sembrano davvero tante.
+> Inoltre sempre più evidenze sembrano andare contro le proteine animali...
 > Grazie se potrai togliermi dal dubbio.
 
-Questa mail offre numerosi nodi da slegare.  
+Questa mail offre numerosi nodi da slegare.
 Avere questi dubbi è sano in ogni caso perché significa non ascoltare nessuna filosofia senza filtro personale.
 
 *   **Gli igienisti consigliano non più di 30g al giorno!**
-*   Gli igienisti meno estremi suggeriscono sui 45g di proteine al giorno per 70 kg, ovvero 0,6g/kg (vedi Adolfo Panfili e alcune affermazioni dello stesso Ehret).  
-    È una quantità con cui sono abbastanza d'accordo se parliamo di una persona sedentaria (nei miei piani alimentari per signore do loro 0,8). Gli igienisti estremi non li considero perché non analizzano mai la questione ormonale.  
-    Nella mia opinione, per capirci, una alimentazione come quella di Valdo Vaccaro si usa solo in una breve fase depurativa. **Però riguardo chi fa attività fisica le cose cambiano totalmente** (e gli ormoni anche). E per chi fa **massa e forza** le cose si distaccano ancora di più.
+*   Gli igienisti meno estremi suggeriscono sui 45g di proteine al giorno per 70 kg, ovvero 0,6g/kg (vedi Adolfo Panfili e alcune affermazioni dello stesso Ehret).
+    È una quantità con cui sono abbastanza d'accordo se parliamo di una persona sedentaria (nei miei piani alimentari per signore do loro 0,8). Gli igienisti estremi non li considero perché non analizzano mai la questione ormonale.
+    Nella mia opinione, per capirci, una alimentazione come quella di Valdo Vaccaro si usa solo in una breve fase depurativa.
+	**Però riguardo chi fa attività fisica le cose cambiano totalmente** (e gli ormoni anche).
+	E per chi fa **massa e forza** le cose si distaccano ancora di più.
 *   **I bodybuilder ne consigliano circa 3g/Kg al giorno.**
 *   **NON è mai il caso di osservare e fare come i bodybuilder professionisti**. Osservare quello che fanno loro non ha nessuna utilità pratica, in quanto giocano a tutto un altro gioco e da un certo livello in su assumono sostanze che cambiano completamente le carte in tavola in questionai di dosaggi e necessità. L'unica cosa da "copiare" da loro è la determinazione.Se sei appassionato di bodybuilding e pensi di imitare l'allenamento/la dieta/l'integrazione dei campioni, sei fuori strada. Questo è uno degli errori più comuni tra i neofiti. Penserai forse _**"se va bene per lui, funzionerà anche per me!"**_
     
-    Spiacente, i loro metodi non saranno mai adatti a te e non funzioneranno.  
+    Spiacente, i loro metodi non saranno mai adatti a te e non funzioneranno.
     Questo perché tu sei una persona normale e loro sono atleti avanzatissimi e che in alcuni casi assumono anche sostanze dopanti. La loro dieta e il loro allenamento sono adeguati a questo fattore. Su di te non può funzionare. Rimani natural, segui i suggerimenti di nutrizione e allenamento e raggiungerai il corpo che desideri.
 *   **Sinceramente dubito molto dell'efficacia delle proteine in polvere**
-*   Le Proteine in polvere sono semplicemente UN CIBO Come qualsiasi altro. Ne più ne meno. E quindi nel loro utilizzo conta come sempre _**la qualità**_. Le migliori proteine sono le microfiltrate o ultrafiltrate del Siero Whey oppure vegetali di alta qualità (come le Sunwarrior).  
-    Quando raggiungi un certo livello può essere comodo assumere proteine di qualità per fare pasti più leggeri (quando arrivi a un certo livello di massa le quantità di cibo da mangiare possono appesantirti se non equilibrate bene).  
+*   Le Proteine in polvere sono semplicemente UN CIBO Come qualsiasi altro. Ne più ne meno. E quindi nel loro utilizzo conta come sempre _**la qualità**_. Le migliori proteine sono le microfiltrate o ultrafiltrate del Siero Whey oppure vegetali di alta qualità (come le Sunwarrior).
+    Quando raggiungi un certo livello può essere comodo assumere proteine di qualità per fare pasti più leggeri (quando arrivi a un certo livello di massa le quantità di cibo da mangiare possono appesantirti se non equilibrate bene).
     Le proteine risultano comode per una questione pratica.
 *   **E volte le quantità suggerite mi sembrano davvero tante.**
-*   In effetti, se una persona svolge un'attività fisica normale-blanda suggerisco 1,5 g di proteine per kg.  
-    **MA** analizziamo nello specifico l'obiettivo più ricercato dai maschietti, dopo il dimagrimento, ovvero la **Massa Muscolare**.  
+*   In effetti, se una persona svolge un'attività fisica normale-blanda suggerisco 1,5 g di proteine per kg.
+    **MA** analizziamo nello specifico l'obiettivo più ricercato dai maschietti, dopo il dimagrimento, ovvero la **Massa Muscolare**.
     **Se una persona fa Massa e/o Forza suggerisco da 1,5 a 2 gr (a seconda dell'esperienza)**.
-    Non di più, perché di più perché effettivamente non serve.  
-    Ma è un fatto che fare massa muscolare significa "creare più muscoli" e questo non avverrà certo a carico di Carbo e Grassi che sono carburante energetico. **I mattoni dei tessuti sono Proteine**. Se vuoi più tessuto devi avere più mattoni (una volta dato il giusto stimolo allenante ovviamente)**.  
-    I problemi di acidificazione del ph e surplus proteico non avvengono in questo panorama**, in quanto quelle proteine saranno tutte utilizzate per via dello stimolo dell'allenamento per la massa efficace (si spera). Non avviene dunque in questo quadro il temuto surplus di proteine, o di eccessive scorie azotate se ben equilibrate con Carbo e Grassi e acqua in abbondanza.  
-    Se calcoliamo (approx.) che per il metabolismo basale abbiamo bisogno di 0,6 grammi al giorno di Proteine per Kg, **possiamo aggiungere 1 grammo nel caso ci alleniamo per la Massa, per "aggiungere" quel grammo al nostro peso** (sempre sperabilmente col giusto allenamento). **Per costruire "nuova massa" servono i mattoni per forza, le Proteine.**  
-    **Per il ricambio aminoacidico dei nostri tessuti e organi, servono nuovi aminoacidi ovvero Proteine**.  
+    Non di più, perché di più perché effettivamente non serve.
+    Ma è un fatto che fare massa muscolare significa "creare più muscoli" e questo non avverrà certo a carico di Carbo e Grassi che sono carburante energetico.
+	**I mattoni dei tessuti sono Proteine**.
+	Se vuoi più tessuto devi avere più mattoni (una volta dato il giusto stimolo allenante ovviamente)**.
+    I problemi di acidificazione del ph e surplus proteico non avvengono in questo panorama**, in quanto quelle proteine saranno tutte utilizzate per via dello stimolo dell'allenamento per la massa efficace (si spera). Non avviene dunque in questo quadro il temuto surplus di proteine, o di eccessive scorie azotate se ben equilibrate con Carbo e Grassi e acqua in abbondanza.
+    Se calcoliamo (approx.) che per il metabolismo basale abbiamo bisogno di 0,6 grammi al giorno di Proteine per Kg, **possiamo aggiungere 1 grammo nel caso ci alleniamo per la Massa, per "aggiungere" quel grammo al nostro peso** (sempre sperabilmente col giusto allenamento). **Per costruire "nuova massa" servono i mattoni per forza, le Proteine.**
+    **Per il ricambio aminoacidico dei nostri tessuti e organi, servono nuovi aminoacidi ovvero Proteine**.
     È inutile sostenere il contrario.
     
     Da vegani si può benissimo vivere con 50g di proteine al giorno se proprio volete, sono il primo a dirlo. Ma stiamo parlando di un sedentario.
@@ -226,7 +231,7 @@ Avere questi dubbi è sano in ogni caso perché significa non ascoltare nessuna 
 	
     **Il problema NON è "le Proteine fanno male". Il punto è usare la quantità di proteine giuste per sé e per l'attività fisica che si svolge.**
 *   Inoltre sempre più evidenze sembrano andare contro le proteine animali.
-*   A questo punto abbiamo risposto in tutto l'articolo precedentemente, ed è particolarmente importante in questo periodo storico perché riguarda **la provenienza delle Proteine**.  
+*   A questo punto abbiamo risposto in tutto l'articolo precedentemente, ed è particolarmente importante in questo periodo storico perché riguarda **la provenienza delle Proteine**.
     Ora, magari anche tu hai seguito conferenze e studi sull'infiammazione da proteine animali, capisco benissimo, le conosco bene.E posso essere anche d'accordo per certi versi.
 	
 	**Ma potrei chiederti allo stesso modo: "E le infiammazioni date dall'insulina alta?"** che causa conseguenze più variopinte e gravi, volendo ben guardare, visto che influenza più direttamente il sistema ormonale, la tiroide e l'ipotalamo nello specifico.Seguendo il precetto che la proteina animale infiamma sempre, dovremmo dedicarci a una dieta vegana, giusto? Ma come facciamo a consumare proteine senza consumare insieme carbo complessi in un'alimentazione del genere? Impossibile. Visto che dovremmo mangiare quotidianamente legumi, che di media possiedono 50gr di carbo e 20 di prot.
@@ -253,8 +258,8 @@ Ma è prima necessaria una fase di assestamento dell'insulina di un paio di sett
 
 Ok, qualche dubbio chiarito? Bene. Abbiamo dato qualche linea guida pratica? Ottimo.
 
-Col tempo, se possibile, è importante imparare a **NON seguire nessun filone**.  
-Non fare del cibo una questione di principio.  
+Col tempo, se possibile, è importante imparare a **NON seguire nessun filone**.
+Non fare del cibo una questione di principio.
 Bensì ascoltare il feedback del corpo e adeguarsi di conseguenza. **Se segui un'idea alimentare, sia essa vegana, paleo, o mediterranea, sei costretto/a sempre in una schema**. Sei incastrato in delle regole che hanno stabilito altri
 
 e questo impedisce un vero ascolto del proprio corpo
@@ -263,14 +268,14 @@ e questo impedisce un vero ascolto del proprio corpo
 C'È Una Fase Per Tutto
 ======================
 
-Alcune persone trovano grandi benefici nel seguire una dieta vegana e si vedono guarire da diverse patologie.  
+Alcune persone trovano grandi benefici nel seguire una dieta vegana e si vedono guarire da diverse patologie.
 Ed è tutto assolutamente vero, MA questo non significa che **andrà bene in eterno anche in fasi successive della propria vita** (come approfondiremo nell'articolo sul Veganesimo).
 
 Forse ciò di cui si aveva bisogno veramente era solo una fase depurativa da determinati alimenti che si consumavano.
 
 Questo è il motivo per cui quando mi chiedono che stile Alimentare seguo io rispondo "il mio". E non perché sono un fitness coach. Ma perché osservo e seguo la mia esperienza.
 
-Posso dire che il Vegetarianismo possiede alcuni vantaggi e che la Paleo possiede dei punti a suo favore.  
+Posso dire che il Vegetarianismo possiede alcuni vantaggi e che la Paleo possiede dei punti a suo favore.
 Ma è preferibile non dire mai 'seguo la paleo' oppure "sono vegetariano" perché questo impedisce di mantenere aperto l'ascolto delle reali necessità del corpo i quel momento.
 
 In Conclusione
@@ -280,13 +285,13 @@ Per riassumere:
 
 *   Le Proteine non sono "cattive" (come disegnano gli estremisti igienisti).
 *   Non serve mangiarne camionate, oltre i 2gr per Kg corporeo (come dicono i bodybuilders).
-*   Sono fondamentalmente Mattoni.  
-    Senza i quali non sopravvivremmo.  
-    Ciò che conta è che vengano da FONTI DI QUALITÀ.  
-    Le quantità dipendono dalle proprie caratteristiche e dalle attività che svolgiamo abitualmente.  
+*   Sono fondamentalmente Mattoni.
+    Senza i quali non sopravvivremmo.
+    Ciò che conta è che vengano da FONTI DI QUALITÀ.
+    Le quantità dipendono dalle proprie caratteristiche e dalle attività che svolgiamo abitualmente.
     Da 1 a 2 gr per kg corporeo.
 
-L'importante è che tutte quelle che assumiamo vengano utilizzate (per non creare un surplus inutile e/o dannoso).  
+L'importante è che tutte quelle che assumiamo vengano utilizzate (per non creare un surplus inutile e/o dannoso).
 Speriamo che queste riflessioni possano tornare utili a chi aveva dubbi sul tema delle Proteine 🙂
 
 
@@ -297,4 +302,5 @@ Bibliografia
 *   [The Biological Value of Protein](https://www.ncbi.nlm.nih.gov/pubmed/26545252 "The Biological Value of Protein")
 *   [The Skeletal Muscle Anabolic Response to Plant- versus Animal-Based Protein Consumption](http://jn.nutrition.org/content/145/9/1981.long "The Skeletal Muscle Anabolic Response to Plant- versus Animal-Based Protein Consumption")
 *   [Massimo Spattini, "Alimentazione e integrazione per lo sport e la performance fisica", Edizioni LSWR, ISBN 9788868953980](http://www.edizionilswr.it/libri/scopri-alimentazione-e-integrazione-del-dr-massimo-spattini/ "Alimentazione e integrazione per lo sport e la performance fisica")
+*   [Evangelisti-Restani "Prodotti dietetici, chimica tecnologia ed impiego", Seconda edizione, PICCIN, ISBN 9788829916825](http://www.piccin.it/libri/9788829916825/prodotti-dietetici-chimica-tecnologia-ed-impiego.html "Prodotti dietetici, chimica tecnologia ed impiego")
 *   [Evangelisti-Restani "Prodotti dietetici, chimica tecnologia ed impiego", Seconda edizione, PICCIN, ISBN 9788829916825](http://www.piccin.it/libri/9788829916825/prodotti-dietetici-chimica-tecnologia-ed-impiego.html "Prodotti dietetici, chimica tecnologia ed impiego")

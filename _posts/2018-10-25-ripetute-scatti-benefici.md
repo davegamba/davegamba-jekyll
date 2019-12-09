@@ -5,10 +5,11 @@ date: 2018-10-25 11:03
 author: davegamba
 comments: true
 image: 2018-10-25-ripetute-scatti-benefici.jpg
-categories: [AAArticoli Fondamentali, aerobica, Allenamento Corpo Libero, Allenamento dimagrante, benessere, cardio, Correre, Corsa, Dimagrire, Dimagrire, Dimagrire correndo, GH, hiit, Hit, Massa muscolare, Performance, Poliquin, Scatti, sprint, Testosterone]
+categories: [Allenamento, Benessere]
+tags: [Aerobica, Corpo Libero, Cardio, Correre, Corsa, Dimagrire, Dimagrire, GH, HIIT, Massa Muscolare, Performance, Poliquin, Scatti, Sprint, Testosterone]
 ---
 
-Visto che ho ricevuto innumerevoli risposte ai miei 2 post precedenti ([Allenamento Aerobico per Dimagrire]({% post_url 2013-12-16-allenamento-aerobico-dimagrire %}), [Per dimagrire velocemente non allenarti così)]({% post_url 2014-01-08-per-dimagrire-velocemente %}), ho deciso di scrivere qui alcune delle risposte che ho dato.
+Visto che ho ricevuto innumerevoli risposte ai miei 2 post precedenti ([Allenamento Aerobico per Dimagrire]({% post_url 2013-12-16-allenamento-aerobico-dimagrire %}), [Per dimagrire velocemente non allenarti così]({% post_url 2014-01-08-per-dimagrire-velocemente %})), ho deciso di scrivere qui alcune delle risposte che ho dato.
 
 Dunque per rendere noti i diversi  benefici di un cardio breve, intenso ed esplosivo, ho pensato di scrivere questo articolo.
 
@@ -151,12 +152,16 @@ Naturalmente non esiste un solo modo di eseguire gli Scatti ripetuti. Ne esiston
 
 ### Metodo #1
 
-il Metodo HIIT completo. Un metodo semplice e basilare ma molto buono per migliorare la risposta aerobica, bruciare grasso in alte quantità e alzare i livelli di GH. Ogni fase dura diverse settimane a seconda del soggetto, da 4 a 8 o più settimane:
+il Metodo HIIT completo.
 
-- 1° Fase eseguire 10" di scatto e 60" riposo. Ripetere per 10 volte + 1 scatto finale.
-- 2° Fase eseguire 10-15" di scatto e 45" riposo. Ripetere per 10 volte + 1 scatto finale.
-- 3° Fase eseguire 10-15" di scatto e 30" riposo. Ripetere per 10 volte + 1 scatto finale.
-- 4° Fase (solo atleti avanzati) eseguire 15" di scatto e 15" riposo. Ripetere per 10 volte + 1 scatto finale.
+Un metodo semplice e basilare ma molto buono per migliorare la risposta aerobica, bruciare grasso in alte quantità e alzare i livelli di GH.
+
+Ogni fase dura diverse settimane a seconda del soggetto, da 4 a 8 o più settimane:
+
+1. eseguire 10" di scatto e 60" riposo. Ripetere per 10 volte + 1 scatto finale.
+2. eseguire 10-15" di scatto e 45" riposo. Ripetere per 10 volte + 1 scatto finale.
+3. eseguire 10-15" di scatto e 30" riposo. Ripetere per 10 volte + 1 scatto finale.
+4. (solo atleti avanzati) eseguire 15" di scatto e 15" riposo. Ripetere per 10 volte + 1 scatto finale.
 
 **PS.** Questa è una delle varianti principali dell'HIIT, questo però è il più semplice ed efficace per tutti.
 
@@ -169,7 +174,7 @@ Un Metodo molto molto breve ma perfetto per migliorare i livelli di GH velocemen
 
 ### Metodo #3
 
-Ideale su pista d'atletica e particolarmente adatto agli atleti avanzati, per migliorare performance polmonare  e cardiovascolare,  e innalzare sia GH che Testosterone:
+Ideale su pista d'atletica e particolarmente adatto agli atleti avanzati, per migliorare performance polmonare e cardiovascolare, e innalzare sia GH che Testosterone:
 
 - Esegui 400m scattando. Riposa 4 minuti
 - Esegui 300m scattando. Riposa 3 minuti.
@@ -186,11 +191,11 @@ Ad esempio puoi applicare gli stessi principi esposti qui sopra con **Corda, Cyc
 
 Oppure come faccio con certi Cliente in caso di forte sovrappeso anche con **Climbers, Skip a ginocchia alta e Jumping jacks**.
 
-Per chi ama il nuoto, anche in vasca è possibile vare vasche a massima velocità seguite da una /più vasche a velocità moderata.
+Per chi ama il nuoto, anche in vasca, è possibile fare vasche a massima velocità seguite da una/più vasche a velocità moderata.
 
 L'importante è applicare il concetto di fare degli sforzi brevi e molto intensi intorno ai 10-15 secondi, seguiti da una fase di riposo.
 
-**PS. **Gran parte della bibliografia per questi studi vengono da uno dei primi ambasciatori degli 'Sprints' come cardio, ovvero **Charles Poliquin**, uno dei più grandi esperti al mondo di fitness "scientifico".
+**PS. **Gran parte della bibliografia per questi studi vengono da uno dei primi ambasciatori degli "Sprints" come cardio, ovvero **Charles Poliquin**, uno dei più grandi esperti al mondo di fitness "scientifico".
 
 Alcuni altri dati sono tratti dal portale del **dr Mercola** e dal mio sito di riferimento per ricerche scientifiche **PubMed.com** **PPS**.
 

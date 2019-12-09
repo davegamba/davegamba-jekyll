@@ -5,6 +5,7 @@ sass:
 name: "Dave Gamba"
 title: "Dave Gamba"
 description: "Personal Trainer Online"
+lang: "it_IT"
 logo: "assets/images/logo.png"
 favicon: "assets/images/static/favicon.ico"
 url: "https://davegamba-firebase.firebaseapp.com"
@@ -61,6 +62,11 @@ authors:
     name: Tommaso Minafra
     display_name: Tommaso Minafra
     description: "Fisioterapista e Biologo"
+  saracaramella:
+    name: Sara Caramella
+    display_name: Sara Caramella
+    web: "http://consigliadunamica.overblog.com/"
+    description: "Autrice di Consigli Ad Un'Amica, sito di ricette naturali e consigli al femminile"
 
 social:
   - facebook:
@@ -121,3 +127,4 @@ jekyll-archives:
         day: '/:year/:month/:day/'
         tag: '/tag/:name/'
         category: '/category/:name/'
+    

@@ -73,41 +73,41 @@ Calcola 1-2 secondi nella fase concentrica e 2 secondi nella fase eccentrica.
 ### INTENSITÀ
 
 Se ti eri fatto l'idea che per farsi un buon fisico bisogna stare ore e ore in palestra eri fuori strada. Bisogna impegnarsi si, ma non è una questione di allenarsi a lungo. Anzi.
-  
+
 L'allenamento per la forza è l'opposto che l'allenamento per la resistenza. La forza si sviluppa  con alta intensità, la resistenza con bassa intensità per lungo tempo.
 
 Dunque se manteniamo gli esercizi e gli allenamenti brevi, vogliamo necessariamente che i carichi siano alti.
 
-Carichi medio-alti, allenamenti relativamente brevi.  
+Carichi medio-alti, allenamenti relativamente brevi.
 Questa è Alta intensità.
 
 ### RIPOSI
 
-Ecco di nuovo Riposi e Recuperi. Come abbiamo visto in Elementi dell'Allenamento.  
+Ecco di nuovo Riposi e Recuperi. Come abbiamo visto in Elementi dell'Allenamento.
 Il Riposo tra le Serie varia da allenamento ad allenamento. In alcuni è molto breve è in altri è più lungo.
 
 I parametri di riferimento sono da 1 a 4 minuti circa. Ti suggerisco di non superare mai i 4 minuti di riposo.
 
 Allenarsi col cronometro è fondamentale.
 
-  
+
 Quanto riposi tra le serie è tanto importante quanto i pesi che sollevi.
 
-Se tra le serie ti metti a chiacchierare e perdi il tempo di recupero, ti stai allenando male.  
+Se tra le serie ti metti a chiacchierare e perdi il tempo di recupero, ti stai allenando male.
 Se appena appoggi il peso prendi due respiri e ricominci una nuova serie, ti stai allenando male.
 
 Quello che vuoi, è avere il cronometro sempre sotto mano, farlo partire appena appoggi il peso, e iniziare la nuova serie appena hai raggiunto il tempo deciso.
 
-Pensa a questo: durante la serie esaurisci la tua riserva di ATP (molecola energetica) nel muscolo allenato. Se fai la serie nuova subito non hai energia sufficiente e  non porti a termine le ripetizioni.  
+Pensa a questo: durante la serie esaurisci la tua riserva di ATP (molecola energetica) nel muscolo allenato. Se fai la serie nuova subito non hai energia sufficiente e  non porti a termine le ripetizioni.
 Se invece fai ricaricare COMPLETAMENTE l'ATP, il sistema nervoso non registra lo stimolo allenante.
 
-  
+
 In ogni caso rovini l'allenamento.
 
 Tieni SEMPRE il tempo di riposo. Per darti un riferimento pratico:
 
-- 1 minuto se fai Resistenza  
-- 2 minuti circa fai  Massa  
+- 1 minuto se fai Resistenza
+- 2 minuti circa fai  Massa
 - 3-4 minuti se fai Forza Massima
 
 PS: Questi tempi sono assolutamente indicativi, e possono cambiare da allenamento ad allenamento e persona a persona. Sono però utili per cominciare.
@@ -117,23 +117,23 @@ PS: Questi tempi sono assolutamente indicativi, e possono cambiare da allenament
 
 ### RECUPERI
 
-Idem come sopra. Presta attenzione ai tuoi recuperi. Ogni corpo è diverso e ha recuperi diversi.  
+Idem come sopra. Presta attenzione ai tuoi recuperi. Ogni corpo è diverso e ha recuperi diversi.
 
-Un muscolo in genere ha bisogno di recupero tra le 24 e le 72 ore (a volte anche di più) prima di potersi riallineare.  
+Un muscolo in genere ha bisogno di recupero tra le 24 e le 72 ore (a volte anche di più) prima di potersi riallineare.
 
 Dipende da vari fattori.
-  
+
 L'intensità dell'allenamento precedente, che tipo di allenamento, le proprie caratteristiche... Alcuni recuperano velocemente, altri lentamente.
 
 Quello che vuoi è che il tuo muscolo si sia completamente ripreso prima del prossimo allenamento.
-  
+
 Trasgredire questa regola significa andare in SOVRALLENAMENTO, con conseguenze spiacevoli. Come dolori e sopratutto regressi, invece che progressi.
 
 Molti atleti avanzati allenano ogni muscolo una volta ogni 7 giorni, per farti un esempio.
 
 Altri atleti allenano lo stesso muscolo 2/3 volte la settimana. È soggettivo.
 
-  
+
 Però è bene ricordare che  così come non serve fare allenamenti lunghi e massacranti, non serve massacrare gli stessi muscoli ogni giorno in palestra.
 
 Se impari questo, sei a metà dell'opera.
@@ -141,6 +141,6 @@ Se impari questo, sei a metà dell'opera.
 Tuttavia è vero anche che quando sei all'inizio (nei tuoi primi 2 mesi circa), i muscoli possono essere allenati con più frequenza.
 Per dare un riferimento pratico:
 
-* Un neofita può allenare lo stesso muscolo anche 3 volte la settimana  
-* Una persona in buona forma allena lo stesso muscolo 2 volte a settimana  
+* Un neofita può allenare lo stesso muscolo anche 3 volte la settimana
+* Una persona in buona forma allena lo stesso muscolo 2 volte a settimana
 * Un atleta avanzato in genere lo allena 1 volta la settimana.

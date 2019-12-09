@@ -141,17 +141,17 @@ Gli Slanci sono l'esercizio in quadrupedia più usato. Ci sono molte varianti. S
 
 ### ALLENAMENTO GAMBE E GLUTEI PER CHI INIZIA
 
-Se cominci da zero comincia da queste Schede per iniziare a sviluppare Gambe e Glutei nel modo più corretto, graduale ed efficace possibile. Inizia dalla Scheda 1 e passa alle successive solo quando raggiungi il requisito finale di ogni Scheda.  
-**LESSICO DELLE SCHEDE**: Il primo numero rappresenta quanti SET (o Serie) mentre il secondo numero quante REPS (o Ripetizioni) ad ogni Set. Il Riposo indica quando riposare tra un set e l'altro.  
-**Esempio: 4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.  
+Se cominci da zero comincia da queste Schede per iniziare a sviluppare Gambe e Glutei nel modo più corretto, graduale ed efficace possibile. Inizia dalla Scheda 1 e passa alle successive solo quando raggiungi il requisito finale di ogni Scheda.
+**LESSICO DELLE SCHEDE**: Il primo numero rappresenta quanti SET (o Serie) mentre il secondo numero quante REPS (o Ripetizioni) ad ogni Set. Il Riposo indica quando riposare tra un set e l'altro.
+**Esempio: 4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con i secondi dati ad ogni Scheda.
 
 ![Schede]({{site.images_root}}scheda-rep.png)
 
 Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc.
 
-_**NB**_: **Si declinano le responsabilità per un'errata esecuzione dei seguenti esercizi o in caso di problemi articoli/patologie.**  
-Queste Schede non sono personalizzate e sono intese come linee guide per persone prive di patologie. Per velocizzare i progressi e avere Gambe e Glutei forti è più importante padroneggiare bene i migliori esercizi, invece che aumentare l'intensità e farli male. Dunque non avere fretta di aumentare ripetizioni e tempi.  
+_**NB**_: **Si declinano le responsabilità per un'errata esecuzione dei seguenti esercizi o in caso di problemi articoli/patologie.**
+Queste Schede non sono personalizzate e sono intese come linee guide per persone prive di patologie. Per velocizzare i progressi e avere Gambe e Glutei forti è più importante padroneggiare bene i migliori esercizi, invece che aumentare l'intensità e farli male. Dunque non avere fretta di aumentare ripetizioni e tempi.
 **Concentrati a diventare gradualmente un maestro/a di ogni esercizio.**
 
 #### Scheda 1

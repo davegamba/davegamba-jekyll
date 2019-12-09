@@ -5,7 +5,8 @@ date: 2018-11-04 15:32
 author: davegamba
 comments: true
 image: 2018-11-04-cosa-mangiare-prima-dopo-allenamento.jpg
-categories: [Addominali, Alimentazione, aumentare massa, avena polvere, BCAA, Beta Alanina, bicipiti, caffe, Canapa, crescere, frullato proteico, Glicogeno, Glucosio, grosso, HMB, massa, Massa muscolare, merenda, Muscoli, muscoloso, pettorali, post allenamento, pre allenamento, Riso, Shaker, Siero del latte, Sintesi proteica, Whey]
+categories: [Alimentazione, Allenamento]
+tags: [Aumentare Massa, Avena, BCAA, Beta Alanina, Bicipiti, Caffé, Canapa, Crescere, Frullati, Glicogeno, Glucosio, HMB, Massa Muscolare, Merenda, Muscoli, Pettorali, Post Sllenamento, Pre Sllenamento, Riso, Shaker, Siero del Latte, Sintesi Proteica, Whey]
 ---
 
 Non è una novità che la ricerca di **cosa mangiare prima e dopo l'allenamento** sia uno degli studi più importanti nel campo della Nutrizione e dell'Allenamento.
@@ -15,13 +16,13 @@ La ragione principale naturalmente sta nel
 ### migliorare al massimo la Performance e i Risultati
 
 Che nella pratica si traduce nel
-–  Svolgere un workout più energico/forte/vigoroso
-–  Migliorare la Massa Magra e abbassare la Massa Grassa
-_(migliorare la massa magra e capacità aerobica/fiato è la priorità dell'allenamento)_
+–	Svolgere un workout più energico/forte/vigoroso
+–	Migliorare la Massa Magra e abbassare la Massa Grassa
+	_(migliorare la massa magra e capacità aerobica/fiato è la priorità dell'allenamento)_
 
 L'Intenzione è trovare cosa faccia rispondere meglio tutto il Corpo, la fisiologia e in particolare il sistema ormonale, per permetterci di arrivare al massimo del nostro potenziale, per sfruttare al meglio la _**sintesi proteica**_ (capacità di genere nuovo muscolo più tonico elastico forte compatto).
 
-È bene precisare che qui vedremo è l'approccio generico ideale per tutti e non vedremo qui approcci iper-specifici per le diverse discipline specifiche.  
+È bene precisare che qui vedremo è l'approccio generico ideale per tutti e non vedremo qui approcci iper-specifici per le diverse discipline specifiche.
 Ad esempio, è naturale che ci siano modifiche nel post-workout tra uno che fa _bodybuilding professionale_ e un altro che fa _atletica leggera_. Le cose cambiano un po' e ci sono modifiche da attuare da sport a sport.
 
 Questo che segue è quello ho valutato funzionare al al meglio **per chi ricerca i miglioramento fisico globale, in particolare appunto per migliorare massa magra e diminuire la massa grassa**, tra gli innumerevoli tentativi che ho fatto negli anni.
@@ -40,11 +41,11 @@ Cosa Mangio Prima Dell'Allenamento
 
 Come accennato, dipende sempre dal proprio obiettivo.
 
-MA, al contrario di come viene professato che bisogna riempirsi di carbo pre-allenamento _'per avere energia'_ (la digestione dei carbo complessi toglie energia, se non ci avete prestato attenzione il 90% delle persone accusa sonnolenza i palestra post-carbo), ti dirò una cosa che potrà sembrarti assurda:
+MA, al contrario di come viene professato che bisogna riempirsi di carbo pre-allenamento _"per avere energia"_ (la digestione dei carbo complessi toglie energia, se non ci avete prestato attenzione il 90% delle persone accusa sonnolenza i palestra post-carbo), ti dirò una cosa che potrà sembrarti assurda:
 
 ### Io prima di allenarmi NON mangio quasi mai niente
 
-So che per molti può sembrare ASSURDO.  
+So che per molti può sembrare ASSURDO.
 Ma lo faccio per una ragione.
 
 **Per avere una risposta ormonale efficace.**
@@ -65,16 +66,17 @@ Possiamo invece discutere di cosa prendere **A RIDOSSO dell'Allenamento, diciamo
 
 Ci sono diverse cose che faccio a questo punto:
 
-1.  **Bevo un caffè**.  
-    Quasi sempre bevo un caffè prima degli allenamenti più intensi.  
-    È vero che il caffè alza i livelli di cortisolo ma lo fa in seguito all'innalzamento dell'ormone Adrenalina, ovvero l'ormone ideale per eseguire uno sforzo impegnativo.Inoltre è tutto funzionale al nostro obiettivo perché abbiamo detto che vogliamo creare uno _"stress volontario"_ durante l'Allenamento.
+1.  **Bevo un caffè**.
+    Quasi sempre bevo un caffè prima degli allenamenti più intensi.
+    È vero che il caffè alza i livelli di cortisolo ma lo fa in seguito all'innalzamento dell'ormone Adrenalina, ovvero l'ormone ideale per eseguire uno sforzo impegnativo.
+	Inoltre è tutto funzionale al nostro obiettivo perché abbiamo detto che vogliamo creare uno _"stress volontario"_ durante l'Allenamento.
     
-    _**ATTENZIONE: NON MAI il caffè dopo l'allenamento**_ (abitudine frequente ahimè nelle palestre italiane).  
+    _**ATTENZIONE: NON MAI il caffè dopo l'allenamento**_ (abitudine frequente ahimè nelle palestre italiane).
     Abbasserei Testo e GH col Cortisolo provocato dal caffè, proprio quando desidero che salgano.
     
 2.  **Se ne sento il bisogno prendo [Essence](https://wildfitters.it/products/essence).**
     Il suo scopo è di fornire **MICRO-nutrienti ad altissima assimibilità**. E anche ampia varietà di **antiossidanti**. Se non lo conosci già, Essence sono **32 vegetali Superfood mixati insieme**, che assumi con uno scoop. Praticamente ossigeno per le tue cellule. Ideale quando ci sentiamo fiacchi o con sistema immunitario basso, prima di allenarci. **[Essence si trova Qui](https://wildfitters.it/products/vegforce)**.
-3.  **Saltuariamente prendo EAA [BCAA: 10 BENEFICI DEGLI AMINOACIDI RAMIFICATI]({% post_url 2014-11-19-bcaa %}), Aminoacidi Essenziali**.  
+3.  **Saltuariamente prendo EAA [BCAA: 10 BENEFICI DEGLI AMINOACIDI RAMIFICATI]({% post_url 2014-11-19-bcaa %}), Aminoacidi Essenziali**.
     Sopratutto prima di una situazione 'performante', ovvero dove devo dare il meglio di me con allenamenti molto pesanti a livello di Forza pura. Consigliati sopratutto per gli uomini avanzati. Tra le marche che preferisco, Yamamoto.
 
 Un'altra ottima idea per gli atleti avanzati può essere aggiungere anche **Arginina** in proporzione con gli EAA, assunti per stimolare la vasodilatazione e il trasporto dei EAA stessi in circolo.
@@ -100,7 +102,7 @@ Perché?
 
 Desidero un riassetto ormonale più calmo prima di introdurre nutrienti. Anzi una situazione di Cortisolo altissimo impedirebbe l'assorbimento dei nutrienti (per quanto in allenamenti intelligenti brevi-intensi il cortisolo non super mai limiti critici).
 
-Ci sono decine di campioni del passato quali Frank Zane o Arnold stesso che non mangiavano subito dopo la seduta (dichiarazioni loro riscontrabili dalle interviste).  
+Ci sono decine di campioni del passato quali Frank Zane o Arnold stesso che non mangiavano subito dopo la seduta (dichiarazioni loro riscontrabili dalle interviste).
 E oggi ci sono decine di atleti professionisti e non che assumon il proprio shaker alla velocità della luce appena aprono l'armadietto dello spogliatoio. Lo facevo anch'io.
 
 ### Dunque dove sta la ragione quindi?
@@ -118,7 +120,7 @@ Anche qui ci vogliono proteine di rapida digestione, ovviamente, in modo che i l
 
 **Le Proteine più veloci e comode sono e rimangono sempre le WHEY** (di alta qualità) ovvero il _Siero della latte_, la parte migliore e più pulita del latte.
 
-[**Delle buone Whey**](https://wildfitters.it/products/force-ciocc) non contengono alto lattosio né altre tossine (o comunque solo in tracce).  
+[**Delle buone Whey**](https://wildfitters.it/products/force-ciocc) non contengono alto lattosio né altre tossine (o comunque solo in tracce).
 Per questo le consiglio nonostante non sia un sostenitore del [Latte commerciale come spiego qui]({% post_url 2014-06-03-latte-fa-male %}).
 
 Ciò che è di massima importanza quando parliamo di PROTEINE in polvere, ma integratori in generale, è la qualità.
@@ -131,7 +133,7 @@ Gli integratori di valore non sono _"una cosa in più"_.
 
 E sono il tipo di cibo che _**deve essere di massima qualità**_ se veramente si ricercano gli effetti per cui li assumiamo. Non si può risparmiare su le cose che Fanno la differenza a livello _**concreto fisico**_.
 
-Io naturalmente [uso le FORCE](https://wildfitters.it/products/force-ciocc) post-allenamento.  
+Io naturalmente [uso le FORCE](https://wildfitters.it/products/force-ciocc) post-allenamento.
 Proteine da latte di allevamenti LIBERI biologici, SENZA nessun additivo, solo un pò di stevia, e Vaniglia o Cacao naturali. Non serve altro.
 
 ![Frutto Proteico Siero Latte]({{ site.images_root }}2018-11-04-cosa-mangiare-prima-dopo-allenamento-2.jpg "Frutto Proteico Siero Latte")
@@ -182,7 +184,7 @@ Il riferimento che uso in genere io _**nel mio Post Workout per la Massa**_, è 
 
 Quindi ad esempio:
 
-### Se peso 90 kg  
+### Se peso 90 kg
 45 gr di Carbo e 45 gr di Proteine circa
 
 Mentre sulla quantità elevate di proteine siamo tutti d'accordo (l'apporto proteico dev'essere alto vista l'immensa richiesta del corpo dopo l'allenamento e la sintesi proteica altissima) sugli zuccheri dipende molto anche dallo sport e dal metodo d'allenamento che utilizzi.
@@ -204,7 +206,7 @@ Dopo circa queste 90-120 minuti dallo sforzo ormai l'Insulina dovrebbe essersi r
 E Per I Più Avanzati?
 =====================
 
-_**A puro titolo informativo**_, per i più avanzati ci sono diversi dettagli in più da curare naturalmente, per usare gli integratori e il cibo in maniera sempre più utile e funzionale; come ad esempio aggiungere **Arginina** insieme ai BCAA, o **Creatina**, o **Multivitaminici** o [**Vitamina C**]({% post_url 2013-10-14-vitamina-c %}) o **Beta Alanina** o **HMB** e altri elementi.  
+_**A puro titolo informativo**_, per i più avanzati ci sono diversi dettagli in più da curare naturalmente, per usare gli integratori e il cibo in maniera sempre più utile e funzionale; come ad esempio aggiungere **Arginina** insieme ai BCAA, o **Creatina**, o **Multivitaminici** o [**Vitamina C**]({% post_url 2013-10-14-vitamina-c %}) o **Beta Alanina** o **HMB** e altri elementi.
 Ma questi ingredienti vanno inseriti con un certa logica e personalizzate le dosi da persona a persona per sfruttarli al meglio.
 
 **In particolare per la Vitamina C**, è buona norma assumerla subito dopo l'allenamento (prima dello shaker) proprio per velocizzare la discesa Cortisolo.
@@ -212,7 +214,7 @@ Ma questi ingredienti vanno inseriti con un certa logica e personalizzate le dos
 Se invece non consumo lo shaker proteico?
 -----------------------------------------
 
-In tal caso **cerca di fare il tuo pasto a tavola il prima possibile** per sfruttare la finestra anabolica.  
+In tal caso **cerca di fare il tuo pasto a tavola il prima possibile** per sfruttare la finestra anabolica.
 Fai un pasto ricco in carboidrati e proteine e più basso in grassi (però assicurati di avere sempre i tuoi omega3). Usa carbo più puliti puliti possibile se riesci, come Patate o Riso o Quinoa (vedi anche il mio articolo sui cereali su questo tema) a Proteine alte in Essenziali come Pesce, Carne e Uova di qualità.
 
 E Invece Durante L'Allenamento?
@@ -233,13 +235,15 @@ Consuma...
 **Acqua!**
 ----------
 
-Lo so, incredibile. Non ci puoi credere.  
-Invece sì.  
+Lo so, incredibile. Non ci puoi credere.
+
+Invece sì.
+
 L'acqua serve a rimpiazzare subito quella che stiamo perdendo nella sudorazione e aiuta la contrazione muscolare ad eseguirsi correttamente, oltre a raffreddare il surriscaldamento del corpo. Non permettere mai alla mancanza d'acqua di abbassare la performance.
 
 **Lascia stare qualsiasi bibita commerciale**. I loro zuccheri creeranno problemi enormi alla situazione interna durante l'allenamento (a meno che tu non svolga un'attività agonistica, ma qui stiamo parlando di forma fisica).
 
-**Assicurati di consumare un'acqua più pesante in allenamento, piuttosto alcalina.**  
+**Assicurati di consumare un'acqua più pesante in allenamento, piuttosto alcalina.**
 **Invece bevi un'acqua leggera a basso residuo fisso durante il resto della giornata.**
 
 In Conclusione

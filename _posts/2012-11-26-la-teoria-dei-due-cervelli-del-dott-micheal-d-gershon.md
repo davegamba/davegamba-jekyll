@@ -22,7 +22,7 @@ Lo studio fu accolto con grande clamore nel mondo scientifico, ma in rete e nei 
 ﻿Aggiungo qui alcuni link e spezzoni che spero possano far riflettere su come la nutrizione influenza il nostro pensiero e la nostra mente inconscia in una proporzione addirittura del 90%!
 
 Oltre a mostrare un collegamento diretto con lo sviluppo di quasi tutte le malattie.
-  
+
 ### BASI SCIENTIFICHE
 
 > La teoria dei due cervelli poggia su solide basi scientifiche
@@ -50,7 +50,7 @@ Per Gershon è la prima a dominare, almeno in certi campi.
 > La quantità di messaggi che il cervello addominale invia a quello centrale è pari al 90% dello scambio totale
 
 sostiene il ricercatore. Per la maggior parte si tratta di messaggi inconsci, che percepiamo solo quando diventano segnali di allarme e scatenano reazioni di malessere.
-  
+
 ### ESEMPI
 
 Per chiarire il ruolo del cervello intestinale Gershon spiega:

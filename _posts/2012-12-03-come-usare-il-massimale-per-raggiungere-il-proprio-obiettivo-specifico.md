@@ -24,7 +24,7 @@ Il Massimale, detto anche 1 RMax, è il peso più alto che riesco a sollevare p
 La mia Forza Massima, possiamo anche dire, in un determinato esercizio.
 Naturalmente è bene saperlo di ogni esercizio principale.
 
-Perché è così importante nella pratica?  
+Perché è così importante nella pratica?
 Perchè se conosci il tuo massimale puoi decidere con precisione a che percentuale del tuo 1 RMax allenarti.
 
 Facciamo un esempio semplice.
@@ -111,10 +111,10 @@ Gli studi di fisiologia muscolare portano alla tabella di riferimento che segue,
 
 Ora che conosci il **tuo obiettivo** e il **tuo massimale**, non ti resta che allenarti alla **percentuale** corrispondente che trovi qui sopra.
 
-Naturalmente le percentuali sono di riferimento e col tempo troverai gli aggiustamenti ottimali per te.  
+Naturalmente le percentuali sono di riferimento e col tempo troverai gli aggiustamenti ottimali per te.
 
-**Dunque ricapitolando:**  
-  
+**Dunque ricapitolando:**
+
 1.	Stabilisci il **tuo Obiettivo** di questo periodo (forza, massa, esplosività...) e fino quando deve durare (in genere i cicli per un obiettivo durano 6-8 settimane).
 2.	Stabilisci il **tuo Massimale** negli esercizi principali.
 3.	Prendi nota della **Sotto-percentuale** ideale per il tuo obiettivo dalla tabella, e le **Ripetizioni** correlate.

@@ -5,12 +5,13 @@ date: 2017-03-08 01:38
 author: davegamba
 comments: true
 image: 2017-03-08-esercizi-pettorali-casa.jpg
-categories: [Allenamento, Allenamento a casa, Allenamento Corpo Libero, pettorali, piegamenti]
+categories: [Allenamento]
+tags: [Allenamento a Casa, Corpo Libero, Pettorali, Piegamenti]
 ---
 
 **Benvenuti alla mini-guida di Esercizi per i Pettorali senza attrezzi e in palestra.**
 
-Alcune cose prima di cominciare. Qui vedremo gli Esercizi migliori **sia per sviluppare i pettorali che per salvaguardare le articolazioni**.  
+Alcune cose prima di cominciare. Qui vedremo gli Esercizi migliori **sia per sviluppare i pettorali che per salvaguardare le articolazioni**.
 In qualsiasi Programma d'Allenamento, o nella scelta di un Esercizio, la protezione delle articolazioni deve essere sempre la priorità.
 
 Vedremo dunque diverse varianti di **Piegamenti a corpo libero (o Flessioni sulle braccia)** man mano sempre più intense e graduali, in modo da permettere di allenare sia le persone che iniziano completamente da zero che le persone già allenate.
@@ -34,19 +35,19 @@ VIDEO TUTTI I PIEGAMENTI
 
 Se parti completamente da zero con i Piegamenti pettorali, è possibile che in principio non ti sia possibile eseguire le Flessioni Classiche che vedremo in seguito.
 
-In tal caso nessun problema, inizia facendo esclusivamente l'esercizio appoggiato/a sulle ginocchia.  
+In tal caso nessun problema, inizia facendo esclusivamente l'esercizio appoggiato/a sulle ginocchia.
 Dopo 2-3 settimane prova ad eseguire Piegamenti sulle braccia completi classici e vedi come ti trovi.
 
 **In genere quando arrivi a fare circa una decina di Piegamenti su ginocchia, sarai in grado di fare 1 o 2 Piegamenti classici** a corpo dritto.
 
-Possibilmente mettiti su un tappetino morbido o una superficie morbida come tappeto, moquette o prato. Altrimenti su un pavimento pulito.  
+Possibilmente mettiti su un tappetino morbido o una superficie morbida come tappeto, moquette o prato. Altrimenti su un pavimento pulito.
 Posiziona le mani a terra davanti a te, in maniera da tenere i gomiti a circa 45 gradi col corpo.
 
 {% include youtube.html title="Flessioni facilitate: Esercizi Pettorali" width="1080" height="608" code="0aLjYfQRab0" %}
 
 **ESECUZIONE**: Poggia le ginocchia a terra sul tappettino e incrocia i piedi. Ora scendi lentamente sulle braccia e quando il petto sfiora terra torna su in posizione di partenza. Questo è un Piegamento. Esegui sempre più Piegamenti possibili ad ogni serie. Cerca di mantenere sempre un movimento controllato in discesa per aumentare la forza.
 
-_**NB**_: non tenere i gomiti eccessivamente alzati perché può risultare fastidioso per la spalla sul lungo periodo.  
+_**NB**_: non tenere i gomiti eccessivamente alzati perché può risultare fastidioso per la spalla sul lungo periodo.
 Le Articolazioni devono essere la nostra prima preoccupazione quando ci alleniamo.
 
 ## Piegamenti Classici

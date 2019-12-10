@@ -5,7 +5,8 @@ date: 2012-12-10 18:19
 author: davegamba
 comments: true
 image: 2012-12-10-cura-pelle.jpg
-categories: [herpes, hpv, malattia dermatologica, malattia pelle, Non categorizzato, parassiti, piede diabetico, psoriasi, scabbia, ulcera, ustione]
+categories: [Benessere]
+tags: [Herpes, HPV, Malattie Dermatologiche, Parassiti, Piede, Psoriasi, Scabbia, Ulcera, Ustione]
 ---
 Tempo fa ho avuto la fortuna di incontrare e conoscere successivamente, uno di quei medici che ama davvero il suo lavoro: ovvero **aiutare la gente**. Per come vedo io le cose, un vero medico è un ricercatore.
 

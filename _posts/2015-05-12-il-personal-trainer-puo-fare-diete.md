@@ -5,7 +5,8 @@ date: 2015-05-12 08:58
 author: davegamba
 comments: true
 image: 2015-05-12-il-personal-trainer-puo-fare-diete.jpg
-categories: [AAArticoli Fondamentali]
+categories: [Alimentazione]
+tags: [Diete]
 ---
 È doveroso scrivere un articolo per fare chiarezza su un punto che mi ritrovo a dover affrontare spesso:
 
@@ -14,8 +15,8 @@ categories: [AAArticoli Fondamentali]
 Questa domanda richiede una risposta tecnica per i non addetti ai lavori. In altre parole, cosa dice la Legge e quali sono le distinzioni tra le varie figure professionali, mediche e non.
 
 - **Esiste il Dietologo**, che è un medico specializzato in dietologia.
-- **Esiste il Dietista** che è un laureato in Dietetica **ma non medico**.
-- **Esiste il Personal trainer**, o altre figure professionali del benessere come Farmacista o Osteopata o Biologo, non mediche.
+- **Esiste il Dietista**, che è un laureato in Dietetica **ma non medico**.
+- **Esiste il Personal Trainer**, o altre figure professionali del benessere come Farmacista o Osteopata o Biologo, non mediche.
 
 Quale differenza vige tra queste categorie? Essenzialmente che TUTTE le figure, eccetto la prima, devono avere il benestare di un medico sul cliente per seguirlo.
 

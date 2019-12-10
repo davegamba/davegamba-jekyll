@@ -5,7 +5,8 @@ date: 2014-07-09 08:46
 author: davegamba
 comments: true
 image: 2014-07-09-sale-fa-bene.png
-categories: [Alimentazione, cloruro, cuore, himalaya, himalayano, magnesio, marino, minerali, oligominerali, pressione, sale, sale fino, sale grosso, sale marino, sale rosa, sodio]
+categories: [Alimentazione]
+tags: [Cloruro, Cuore, Himalaya, Himalayano, Magnesio, Marino, Minerali, Oligominerali, Pressione, Sale, Sale Rosa, Sodio]
 ---
 
 Il Sale fa male e non bisogna mai abusarne, giusto? Certo, ce lo hanno sempre detto.

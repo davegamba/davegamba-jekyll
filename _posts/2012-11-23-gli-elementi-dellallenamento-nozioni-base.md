@@ -5,7 +5,8 @@ date: 2012-11-23 17:34
 author: davegamba
 comments: true
 image: 2012-11-23-gli-elementi-dellallenamento-nozioni-base.jpg
-categories: [Allenamento Corpo Libero]
+categories: [Allenamento]
+tags: [Corpo Libero]
 ---
 Tutti conoscono il significato di Allenamento, ma nella pratica in cosa consiste?
 

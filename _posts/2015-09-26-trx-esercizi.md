@@ -7,7 +7,8 @@ author:
   - paoloperego
 comments: true
 image: 2015-09-26-trx-esercizi.jpg
-categories: [aerobica, Allenamento, Allenamento Corpo Libero, Allenamento dimagrante, benessere, cardio, Dimagrire, Dimagrire, Esercizi Trx, Fitness, Home fitness, Home Gym, Home Training, Massa muscolare, TRX]
+categories: [Allenamento, Dimagrimento]
+tags: [Aerobica, Corpo Libero, Cardio, Dimagrire, Esercizi TRX, Fitness, Home Gym, Home Training, Massa Muscolare, TRX]
 ---
 
 **L'allenamento in sospensione (o TRX) è una modalità di allenamento che si può inserire nel mondo dell'allenamento funzionale.**

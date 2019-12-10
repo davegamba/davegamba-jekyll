@@ -5,7 +5,8 @@ date: 2015-07-02 22:10
 author: davegamba
 comments: true
 image: 2015-07-02-articolo-su-mi-tomorrow.jpg
-categories: [Non categorizzato]
+categories: [Benessere]
+tags: [Articoli]
 ---
 
 Per chi non avesse letto la versione cartacea, ecco la versione scaricabile dell'intera rivista **MI-TOMORROW** su cui è apparsa la mia ultima intervista, a pag 17. Buona lettura,

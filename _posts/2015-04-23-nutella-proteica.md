@@ -5,7 +5,8 @@ date: 2015-04-23 09:01
 author: davegamba
 comments: true
 image: 2015-04-23-nutella-proteica.jpg
-categories: [Nutella, Ricetta, Ricette, Whey]
+categories: [Alimentazione]
+tags: [Nutella, Ricette, Whey]
 ---
 
 Visto il successo di qualche articolo fa dei **Pancake Paleo proteici**, oggi vediamo un delle creme più buone in assoluto con cui abbinarle: la Nutella naturalmente.
@@ -33,14 +34,14 @@ Tutto ciò di cui avrai bisogno è un buon Frullatore (o al limite un Minipimer)
 
 1.	Metti nel frullatore tutte le nocciole. Frullale più che riesci, fino a renderle molto fini come una farina.
 2.	Ora aggiungi l'olio e continua a frullare. In pochi minuti dovrebbe formarsi una cremina omogenea.
-	![La Nutella Proteica]({{ site.images_root }}2015-04-23-nutella-proteica-1.jpg)
+	![La Nutella Proteica]({{site.images_root}}2015-04-23-nutella-proteica-1.jpg)
 3.	Fatto questo, inserisci tutti gli altri ingredienti. Inseriscili anche tutti insieme se hai un Frullatore valido, altrimenti pochi per volta.
 	Assicurati di frullare spesso per rendere la creama omogenea, fare pausa di un minuto e ricominciare.
-	![La Nutella Proteica]({{ site.images_root }}2015-04-23-nutella-proteica-2.jpg)
+	![La Nutella Proteica]({{site.images_root}}2015-04-23-nutella-proteica-2.jpg)
 4.	Se necessario usa un cucchiaio a frullatore spento per setacciare grumi di proteine e cacao nella crema che stai frullando.
 	Scegli la densità della crema aggiungendo latte di nocciola o acqua **La Nutella è pronta**!
 	Ora non ti resta che gustarla, magari proprio sui [Pancake paleo]({% post_url 2015-03-24-pancake %}) che già conosci o per guarnire une delle [Torte Paleo](http://www.dolcipaleo.com) che hai trovato qui.
 
 Buon appetito!
 
-![Dave Gamba]({{ site.images_root }}2015-04-23-nutella-proteica-3.jpg)
+![Dave Gamba]({{site.images_root}}2015-04-23-nutella-proteica-3.jpg)

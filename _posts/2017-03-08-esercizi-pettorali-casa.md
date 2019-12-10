@@ -22,7 +22,7 @@ Come vedremo, in tutti i movimenti di Piegamento o Flessioni sulle braccia è mo
 
 In generale è bene ricordare sempre che il movimento di discesa dei Piegamenti sarà meglio eseguirlo in maniera più lenta e controllata.
 
-![Dave Gamba]({{ site.images_root }}davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg)
+![Dave Gamba]({{site.images_root}}davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg)
 
 VIDEO TUTTI I PIEGAMENTI
 ------------------------

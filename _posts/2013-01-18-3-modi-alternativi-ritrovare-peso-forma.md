@@ -6,6 +6,7 @@ author: stefanomini
 comments: true
 image: 2013-01-18-3-modi-alternativi-ritrovare-peso-forma.jpg
 categories: [Alimentazione]
+tags: [Peso Forma]
 ---
 
 Te lo dice un ex grasso: con un minimo di buona volontà ingrassare è impossibile.

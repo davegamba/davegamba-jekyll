@@ -5,7 +5,8 @@ date: 2015-04-15 08:19
 author: davegamba
 comments: true
 image: 2015-04-15-maldischiena.jpg
-categories: [Cervicale, dolore, Lombare, Mal di Schiena, Non categorizzato, schiena, Sciatica, Sedersi, Sedia, Seduta]
+categories: [Benessere]
+tags: [Cervicale, Dolore, Lombare, Mal di Schiena, Schiena, Sciatica, Sedersi, Sedia, Seduta]
 ---
 
 Il mal di schiena è uno dei primi **5 problemi fisici più frequenti in tutta la popolazione occidentale**.

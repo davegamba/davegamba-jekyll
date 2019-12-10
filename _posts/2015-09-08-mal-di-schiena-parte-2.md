@@ -5,7 +5,8 @@ date: 2015-09-08 16:05
 author: tommasominafra
 comments: true
 image: 2015-09-08-mal-di-schiena-parte-2.jpg
-categories: [Allenamento Corpo Libero, benessere, collagene, cura, dolore, fisioterapista, Lombare, Mal di Schiena, schiena]
+categories: [Allenamento, Benessere]
+tags: [Corpo Libero, Collagene, Cura, Dolore, Fisioterapista, Lombare, Mal di Schiena, Schiena]
 ---
 
 PERCHÉ VORREI PARLARVI DEL MAL DI SCHIENA
@@ -13,7 +14,7 @@ PERCHÉ VORREI PARLARVI DEL MAL DI SCHIENA
 
 Perchè il mal di Schiena (dolore lombare) è il problema che riscontro più frequentemente nei miei pazienti. Questa mia affermazione è supportata dalle più recenti indagini epidemiologiche che affermano:
 
-> ### "il dolore lombare nella gran parte dei paesi industrializzati è la principale causa di limitazioni delle attività e di assenza sul posto di lavoro"
+> "il dolore lombare nella gran parte dei paesi industrializzati è la principale causa di limitazioni delle attività e di assenza sul posto di lavoro"
 
 Oggigiorno quasi tutte le tipologie di persone, anche sane, vengono colpite prima o poi da un episodio di dolore lombare (o più episodi) senza distinzione di sesso, età e ceto sociale.
 
@@ -25,7 +26,7 @@ Le linee guida recenti per la gestione e il trattamento lombare elencano una ser
 
 Tra le principali cause vi sono:
 
-### _Obesità Sedentarietà (soprattutto la seduta) Fumo_ _Stress Patterns di movimento sbagliati Disagio sociale_
+### _Obesità Sedentarietà (soprattutto la seduta) Fumo Stress Patterns di movimento sbagliati Disagio sociale_
 
 COASA FARE IN CASO DI DOLORE?
 =============================

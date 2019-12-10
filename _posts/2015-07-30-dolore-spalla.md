@@ -5,7 +5,8 @@ date: 2015-07-30 09:00
 author: davegamba
 comments: true
 image: 2015-07-30-dolore-spalla.jpg
-categories: [Acromion, Alzate laterali, Borsite, Dolore spalla, impingement, Lento dietro, Lussata, Lussazione, Non categorizzato, Sovraspinato, Sovraspinoso, Spalla, Spalle, sub-acromiale, Tendine, Tendinite]
+categories: [Benessere]
+tags: [Acromion, Alzate Laterali, Borsite, Dolore, Spalla, Impingement, Lento Dietro, Lussata, Lussazione, Sovraspinato, Sovraspinoso, Spalle, Sub-Acromiale, Tendine, Tendinite]
 ---
 
 I dolori e gli infortuni alla spalla sono uno dei problemi più comuni in persone che fanno attività fisica non sempre in modo corretto.
@@ -63,7 +64,7 @@ Dal momento che siamo in un sito di fitness e molti degli infortuni di questi ti
 - Non eseguire ALZATE laterali in INTRArotazione. Come veniva insegnato nel vecchio bodybuilding. Anzi, le alzate io suggerisco di eseguirle con leggera EXTRArotazione dell'omero, proprio per impedire l'impingement del sovraspinato.
 - Inoltre è buona norma evitare tutti gli esercizi con braccio statico SOPRA la testa (ad esempio Tricipite con manubrio sopra la testa).
 
-![alzate-laterali-esercizi-davegamba]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-5.jpg)
+![alzate-laterali-esercizi-davegamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-5.jpg)
 
 Osservare l'extrarotazione dell'omero durante l'elevazione e la posizione delle braccia leggermente avanti al busto.
 Tutto per la protezione della spalla.

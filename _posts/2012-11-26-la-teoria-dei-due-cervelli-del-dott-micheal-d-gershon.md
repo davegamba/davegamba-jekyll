@@ -5,7 +5,8 @@ date: 2012-11-26 07:16
 author: davegamba
 comments: true
 image: 2012-11-26-la-teoria-dei-due-cervelli-del-dott-micheal-d-gershon.jpg
-categories: [Non categorizzato]
+categories: [Alimentazione, Benessere]
+tags: [Intestino]
 ---
 
 Oggi mi è ricapitato sotto gli occhi uno degli studi più interessanti che avevo letto in questi anni sulle funzioni neurologiche nell'intestino.

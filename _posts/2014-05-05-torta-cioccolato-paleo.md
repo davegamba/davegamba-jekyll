@@ -5,7 +5,8 @@ date: 2014-05-05 11:02
 author: davegamba
 comments: true
 image: 2014-05-05-torta-cioccolato-paleo.jpg
-categories: [abitudini alimentari, Alimentazione, Cacao, Cioccolato, combinazioni alimentari, Dessert, digestione, Dolce, dolci, DolciPaleo.com, Paleo, problemi digestivi, Ricette, Sani, Sara Caramella, Torta]
+categories: [Alimentazione]
+tags: [Abitudini Alimentari, Cacao, Cioccolato, Combinazioni Alimentari, Dessert, Digestione, Dolci, Paleo, Problemi Digestivi, Ricette, Sani, Sara Caramella, Torta]
 ---
 Diciamocelo, chi non ha voglia di gustarsi una bella **Torta al Cioccolato** ogni tanto (sento già delle voci che dicono "anche tutti i giorni").
 

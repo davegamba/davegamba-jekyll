@@ -5,7 +5,8 @@ date: 2012-11-28 11:26
 author: davegamba
 comments: true
 image: 2012-11-28-il-qi-gong-intervista-al-biologo-ed-esperto-di-cultura-orientale-tommaso-minafra.jpg
-categories: [Non categorizzato]
+categories: [Allenamento, Benessere]
+tags: [Qi Gong]
 ---
 
 Tommaso Minafra oltre ad essere un grande studioso della natura e della fisiologia in qualità di biologo, è anche un praticante esperto di Taichi e Qi Kong (o Chi Kung a seconda delle scritture).

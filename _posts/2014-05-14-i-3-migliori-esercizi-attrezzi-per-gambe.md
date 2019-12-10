@@ -5,7 +5,8 @@ date: 2014-05-14 16:22
 author: davegamba
 comments: true
 image: 2014-05-14-i-3-migliori-esercizi-attrezzi-per-gambe.jpg
-categories: [Allenamento Corpo Libero, Dimagrire, Esercizi, Esercizio, gambe, glutei]
+categories: [Allenamento, Dimagrimento]
+tags: [Corpo Libero, Dimagrire, Esercizi, Gambe, Glutei]
 ---
 
 Una delle domande che ricevo più spesso è naturalmente come posso **scolpire Gambe e Glutei, allenandomi a casa e senza attrezzi**.

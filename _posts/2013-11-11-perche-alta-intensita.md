@@ -5,7 +5,8 @@ date: 2013-11-11 09:00
 author: davegamba
 comments: true
 image: 2013-11-11-perche-alta-intensita.jpg
-categories: [Allenamento, Allenamento Corpo Libero, Allenamento dimagrante, allenamento massa, alta intensità, breve e intenso, Forza, Massa Muscolare, Massa muscolare, Metzer, Muscoli, Potenza]
+categories: [Allenamento]
+tags: [Corpo Libero, Allenamento Dimagrante, Alta Intensità, Breve e Intenso, Forza, Massa Muscolare, Metzer, Muscoli, Potenza]
 ---
 
 Questa è una domanda che mi viene posta di frequente, naturalmente. Ed è importante. Per rispondere correttamente dovremmo prima a rispondere a una domanda base:

@@ -7,7 +7,8 @@ author:
   - veronicaprocopio
 comments: true
 image: 2015-11-09-vitamina-d.jpg
-categories: [Alimentazione, Artrite, Artrosi, autoimmune, Calcio, Calcitriolo, D3, Dimagrire, Fosforo, Massa muscolare, Non categorizzato, Ossa, Osteomalacia, Osteoporosi, vitamina c, Vitamina D]
+categories: [Alimentazione]
+tags: [Artrite, Artrosi, Autoimmune, Calcio, Calcitriolo, D3, Dimagrire, Fosforo, Massa Muscolare, Ossa, Osteomalacia, Osteoporosi, Vitamina D, Vitamine]
 ---
 
 Il temine "Vitamina D" si riferisce a 2 molecole:

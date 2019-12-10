@@ -5,7 +5,8 @@ date: 2014-05-17 11:02
 author: davegamba
 comments: true
 image: 2014-05-17-cereali-farina.jpg
-categories: [AAArticoli Fondamentali, abitudini alimentari, Alimentazione, associazioni alimentari, autoimmune, benessere, cereale, cereali, colazione, debolezza, diabete, Dieta, digestione, Dimagrire, farina, farine, glutine, insulina, intolleranza, iperproteica, lectine, sindrome]
+categories: [Alimentazione]
+tags: [Abitudini Alimentari, Associazioni Alimentari, Autoimmune, Benessere, Cereali, Colazione, Debolezza, Diabete, Dieta, Digestione, Dimagrire, Farina, Glutine, Insulina, Intolleranza, Iperproteica, Lectine, Sindrome]
 ---
 
 ### Nota prima di cominciare
@@ -21,11 +22,9 @@ COSA SONO ESATTAMENTE?
 
 In questo articolo per Cereali non si intenderanno i cereali da colazione in fiocchi. Bensì **tutta la categoria agricola dei Cereali o Grani**, dunque nella pratica:
 
-> ✓ Tutte le Farine, come Pasta, Pizza e Pane etc etc
->
-> ✓ Tutti grani come grano duro classico, kamut, farro eccetera...
->
-> ✓ Gli alimenti a base di farine come dolci, merendine, brioche, biscotti, pastelle e qualsiasi altro alimento che contenga farina
+- Tutte le Farine, come Pasta, Pizza e Pane etc etc
+- Tutti grani come grano duro classico, kamut, farro eccetera...
+- Gli alimenti a base di farine come dolci, merendine, brioche, biscotti, pastelle e qualsiasi altro alimento che contenga farina
 
 Da quando siamo nati ci sono stati spiegati **i benefici dei Cereali**, e come la loro assenza sia assolutamente **sbagliata** per una "sana alimentazione".
 

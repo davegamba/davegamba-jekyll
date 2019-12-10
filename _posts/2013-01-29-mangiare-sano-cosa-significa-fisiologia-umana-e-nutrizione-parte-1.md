@@ -8,6 +8,7 @@ author:
 comments: true
 image: 2013-01-29-mangiare-sano-cosa-significa-fisiologia-umana-e-nutrizione-parte-1.jpg
 categories: [Alimentazione]
+tags: [Nutrizione, Fisiologia]
 ---
 
 Questo articolo, insieme al [precedente sulla Dieta Alcalina]({% post_url 2013-01-24-la-dieta-alcalina-di-cosa-si-tratta %}), vuole dare una panoramica piuttosto completa su cosa può "fare davvero bene per il nostro corpo".

@@ -5,7 +5,8 @@ date: 2013-01-23 16:48
 author: davegamba
 comments: true
 image: 2013-01-23-come-aumentare-trazioni-alla-sbarra.jpg
-categories: [allargare spalle, Allenamento Corpo Libero, aumentare le trazioni, aumentare trazioni, corpo libero, dorsali, dorso, inverse, largherzza, Massa Muscolare, presa, presa prona, sbarra, schiena, trazioni alla sbarra]
+categories: [Allenamento]
+tags: [Spalle, Corpo Libero, Aumentare le Trazioni, Dorsali, Dorso, Inverse, Larghezza, Massa Muscolare, Presa, Prona, Sbarra, Schiena, Trazioni alla Sbarra]
 ---
 
 #### Benvenuti alla mini guida di Trazioni per i Dorsali.

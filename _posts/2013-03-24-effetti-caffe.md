@@ -5,7 +5,8 @@ date: 2013-03-24 15:54
 author: davegamba
 comments: true
 image: 2013-03-24-effetti-caffe.jpg
-categories: [Alimentazione, benefici caffè, caffe, danni caffe]
+categories: [Alimentazione]
+tags: [Caffè]
 ---
 
 Mi arrivano molto spesso domande riguardo l'argomento "Effetti Caffè", e ho deciso di rispondere in questo articolo ai diversi dubbi così da rispondere riguardo i punti principali su questo tema.

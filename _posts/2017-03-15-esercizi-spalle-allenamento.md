@@ -31,7 +31,7 @@ Nella pratica, le nostre opzioni saranno quindi:
 
 Qui di seguito, vedremo come allenarci con tutti e 3 i metodi.
 
-![Dave Gamba]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-dave-gamba-nudo-spalle2.jpg)
+![Dave Gamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-dave-gamba-nudo-spalle2.jpg)
 ## BREVE ANATOMIA DELLA SPALLA
 
 Prima di vedere gli Esercizi della Spalla, diamo una rapidissima occhiata a come è fatta per chiarirci le idee. **Il muscolo della spalla è il Deltoide**. Il Deltoide non è un muscolo unico, bensì è composto da **3 fasce principali**:
@@ -39,7 +39,7 @@ Prima di vedere gli Esercizi della Spalla, diamo una rapidissima occhiata a come
 - Deltoide Laterale o Mediale
 - Deltoide Posteriore
 
-![Spalle]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-6.png)
+![Spalle]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-6.png)
 
 Ora, le 3 fasce si attivano con movimenti diversi, quindi con esercizi diversi. Per avere una Spalla piena, rotonda e scolpita e bisogna lavorare tutti è 3 queste fasce naturalmente MA bisogna sapere che:
 - Il Deltoide Anteriore interviene già molto negli Esercizi per i Pettorali, come le Flessioni ad esempio (fatte [ESERCIZI PETTORALI A CASA]({% post_url 2017-03-08-esercizi-pettorali-casa %}))
@@ -70,7 +70,7 @@ In questo modo saremo sicuri di non comprimere nessun tendine della spalla. **Ar
 Comincia eseguendo questo movimento senza pesi o con pesi bassi per fare tua la meccanica gradualmente. Una volta appresa diventerà un gioco da ragazzi e potrai salire col peso.
 {% include youtube.html title="Spalle - Alzate Laterali" width="1080" height="608" code="dbRhhItLUTU" %}
 
-![Dave Gamba]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-1.jpg) ![Dave Gamba]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-4.jpg)
+![Dave Gamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-1.jpg) ![Dave Gamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-4.jpg)
 
 ## Alzate Laterali Con Manubri
 
@@ -86,7 +86,7 @@ Non avere MAI fretta di salire coi pesi su questo muscolo, perché non è così 
 
 **Iscriviti ora al mio canale per seguire anche i prossimi video**
 
-![Dave Gamba]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-5.jpg)
+![Dave Gamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-5.jpg)
 
 
 ## Alzate Laterali Con Elastico
@@ -113,7 +113,7 @@ Dico 'purtroppo' perché io stesso lo amo come esercizio ed è davvero un peccat
 prima a rimanere in posizione ferma ed eretta contro il muro per periodi sempre più lunghi, per poi iniziare a salire e scendere quando raggiungevano una buona resistenza.
 
 Ma oggi preferisco dedicarmi esclusivamente alle Alzate laterali e varianti.
-![Esercizi]({{ site.images_root }}2017-03-15-esercizi-spalle-allenamento-3.jpg)
+![Esercizi]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-3.jpg)
 
 {% include youtube.html title="Spinte per le Spalle (Deltoidi)" width="1080" height="608" code="lOD58887y9w" %}
 
@@ -125,7 +125,7 @@ Se cominci da zero comincia da queste Schede per iniziare a sviluppare i Deltoid
 Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con&nbsp;i secondi dati ad ogni Scheda.
-![Esercizi]({{ site.images_root }}scheda-rep.png)
+![Esercizi]({{site.images_root}}scheda-rep.png)
 
 **NB**: Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc.
 # Nota Sull'Allenamento

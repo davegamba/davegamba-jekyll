@@ -7,7 +7,8 @@ author:
   - davegamba
 comments: true
 image: 2013-03-28-hummus-la-salsa-proteica-di-ceci.jpg
-categories: [Ricette]
+categories: [Alimentazione]
+tags: [Ricette]
 ---
 L'Hummus è un delle salse più antiche di cui abbiamo memoria, tipico dei paesi arabi dove ne esistono diverse varianti. Quella che proponiamo qui è una ricetta dal **sapore delicato, cremoso e naturalmente, particolarmente proteica. Ideale pre o post allenamento**.
 

@@ -5,7 +5,8 @@ date: 2013-01-23 12:53
 author: davegamba
 comments: true
 image: 2013-01-23-top-25-esercizi-a-casa.jpg
-categories: [Non categorizzato]
+categories: [Allenamento]
+tags: [Esercizi]
 ---
 
 Allenarsi a casa è una delle cose più comode ed efficaci che si possono fare.

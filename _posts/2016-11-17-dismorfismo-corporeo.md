@@ -7,7 +7,8 @@ author:
   - veronicaprocopio
 comments: true
 image: 2016-11-17-dismorfismo-corporeo.jpg
-categories: [Dimagrire, disforfismo corpore, immagine allo specchio, immagine di se, Non categorizzato]
+categories: [Dimagrimento]
+tags: [Dimagrire, Disforfismo Corporeo, Immagine allo Specchio, Immagine di Sé]
 ---
 
 Chi poteva immaginare che il Dismorfismo corporeo potesse nascere anche dalle favole della Buonanotte che ci hanno accompagnato durante l'infanzia, facendoci sognare e guidandoci in mondi fantastici costellati da personaggi straordinari.

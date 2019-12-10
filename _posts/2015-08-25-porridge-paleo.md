@@ -5,7 +5,8 @@ date: 2015-08-25 11:34
 author: davegamba
 comments: true
 image: 2015-08-25-porridge-paleo.jpg
-categories: [Alimentazione, burro di mandorle, caldo, cannella, Celiachia, celiaci, farine, freddo, glutine, Latte, mandorle, noci, Paleo, porridge, proteico, Ricetta, Ricette]
+categories: [Alimentazione, Dimagrimento]
+tags: [Burro di Mandorle, Caldo, Cannella, Celiachia, Celiaci, Farina, Freddo, Glutine, Latte, Mandorle, Noci, Paleo, Porridge, Proteico, Ricette]
 ---
 Il Porridge è un tipico esempio di colazione "robusta" e gustosa, tradizionalmente a base di Avena.
 
@@ -30,26 +31,26 @@ Il risultato è eccezionale. Uguale (se non più saporito) al classico Porridge.
 
 Porre le Noci e le Mandorle in un robot da cucina/mini pimer e tritare a grana grossa.
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-1.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-1.jpg)
 
 Sbattere le uova e il latte di mandorla fino a raggiungere una consistenza cremosa.
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-2.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-2.jpg)
 
 Unire la purea di banana al burro di mandorle e aggiungere il composto alle uova mescolando.
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-3.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-3.jpg)
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-4.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-4.jpg)
 
 Poi aggiungere il nocciolame tritato.
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-5.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-5.jpg)
 
 Trasferire il tutto in un pentolino su fiamma bassa e mescolare continuamente, finchè non raggiunge la consistenza desiderata.
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-6.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-6.jpg)
 
 Cospargere di frutti di bosco e gustare. Ottimo anche con Cannella (una delle spezie migliori che consiglio sempre per le sue proprietà salutistiche e dimagranti).
 
-![Porridge]({{ site.images_root }}2015-08-25-porridge-paleo-7.jpg)
+![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-7.jpg)

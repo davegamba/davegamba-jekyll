@@ -5,7 +5,8 @@ date: 2014-02-26 09:59
 author: davegamba
 comments: true
 image: 2014-02-26-malattie-autoimmuni.jpg
-categories: [AAArticoli Fondamentali, Alimentazione, autoimmune, cause, cure, malattia, medicina, morbo di crohn, sclerosi multipla, soluzioni, tiroide, tiroiditi]
+categories: [Alimentazione]
+tags: [Autoimmune, Cause, Cure, Malattia, Medicina, Morbo di Crohn, Sclerosi Multipla, Soluzioni, Tiroide, Tiroiditi]
 ---
 
 Sono stato a lungo indeciso se scrivere un articolo intero su questo argomento o meno.

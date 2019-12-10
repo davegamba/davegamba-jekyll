@@ -5,7 +5,8 @@ date: 2014-03-19 11:19
 author: davegamba
 comments: true
 image: 2014-03-19-allenamento-dimagrire-casa-2.jpg
-categories: [Allenamento a casa, Allenamento Corpo Libero, Allenamento dimagrante, corpo libero, Dimagrire, Senza attrezzi]
+categories: [Allenamento, Dimagrimento]
+tags: [A Casa, Corpo Libero, Allenamento Dimagrante, Dimagrire, Senza Attrezzi]
 ---
 
 L'ALLENAMENTO PER DIMAGRIRE

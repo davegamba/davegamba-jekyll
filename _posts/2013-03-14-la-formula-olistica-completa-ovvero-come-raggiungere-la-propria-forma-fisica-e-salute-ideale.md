@@ -5,7 +5,8 @@ date: 2013-03-14 16:09
 author: davegamba
 comments: true
 image: 2013-03-14-la-formula-olistica-completa-ovvero-come-raggiungere-la-propria-forma-fisica-e-salute-ideale.jpg
-categories: [Non categorizzato]
+categories: [Benessere]
+tags: [Diete]
 ---
 Tra tutti i migliori terapisti olistici, per chi mi conosce non è un segreto che colui al quale sono senz'altro è Paul Chek, uno dei migliri al mondo in assoluto.
 

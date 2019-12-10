@@ -5,7 +5,8 @@ date: 2016-07-07 11:37
 author: davegamba
 comments: true
 image: 2016-07-07-6-errori-da-non-fare-quando-non-sai-chi-ascoltare-per-dimagrire.jpg
-categories: [Non categorizzato]
+categories: [Dimagrimento]
+tags: [Dimagrire, Errori]
 ---
 
 Ieri sera mi è capitata una cosa particolare. Una situazione che già mi è successa mille altre volte, ma questa volta ho pensato di metterlo nero su bianco, nella speranza che possa essere di aiuto ad altre persone che possono trovarsi nella stessa situazione.

@@ -5,7 +5,8 @@ date: 2013-10-17 16:40
 author: davegamba
 comments: true
 image: 2013-10-17-trucchi-pettorali.jpg
-categories: [a casa, Allenamento a casa, Allenamento Corpo Libero, Allenamento dimagrante, casa, corpo libero, flessioni, Forza, grosso, massa, Massa muscolare, petto, pettorali, piegamenti, trucchi, trucco]
+categories: [Allenamento, Dimagrimento]
+tags: [Corpo Libero, Casa, Flessioni, Forza, Grosso, Massa Muscolare, Petto, Pettorali, Piegamenti, Trucchi, Trucco]
 ---
 
 **I Piegamenti sulle braccia** (meglio conosciuti come **Flessioni**) rappresentano l'esercizio base dell'allenamento per i **Pettorali**, come ho già spiegato nelle mie [Schede gratuite per i Pettorali]({% post_url 2017-03-08-esercizi-pettorali-casa %}) (ti suggerisco ti andare a provarle quando hai terminato questo articolo).

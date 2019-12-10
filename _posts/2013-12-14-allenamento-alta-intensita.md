@@ -5,7 +5,8 @@ date: 2013-12-14 01:52
 author: davegamba
 comments: true
 image: 2013-12-14-allenamento-alta-intensita.jpg
-categories: [Non categorizzato]
+categories: [Allenamento]
+tags: [Alta Intesità]
 ---
 
 IL MIO STILE D'ALLENAMENTO

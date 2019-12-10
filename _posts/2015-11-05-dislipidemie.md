@@ -5,7 +5,8 @@ date: 2015-11-05 20:36
 author: davegamba
 comments: true
 image: 2015-11-05-dislipidemie.jpg
-categories: [Alimentazione, Cardiovascolari, Colesterolo, Dislipidemie, HDL, Iperlipidemie, Iperlipoproteinemie, LDL, Trigliceridi]
+categories: [Alimentazione]
+tags: [Cardiovascolari, Colesterolo, Dislipidemie, HDL, Iperlipidemie, Iperlipoproteinemie, LDL, Trigliceridi]
 ---
 
 di Marta Martinelli e Dave Gamba Ogni giorno veniamo messi in guardia da una molecola ormai nota a tutti: **il Colesterolo**.

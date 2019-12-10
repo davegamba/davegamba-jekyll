@@ -5,7 +5,8 @@ date: 2012-12-03 17:29
 author: davegamba
 comments: true
 image: 2012-12-03-come-usare-le-fibre-muscolari-per-creare-un-allenamento-su-misura.jpg
-categories: [Allenamento Corpo Libero]
+categories: [Allenamento]
+tags: [Corpo Libero]
 ---
 
 Sapere che tipo di fibre muscolari abbiamo è importante perché ci permette di ottimizzare l'allenamento per le nostre caratteristiche personali.

@@ -5,7 +5,8 @@ date: 2012-11-24 12:11
 author: davegamba
 comments: true
 image: 2012-11-24-problemi-digestione.jpg
-categories: [Alimentazione, associazioni alimentari, combinazioni alimentari, Dieta, digestione, dissociata, problemi digestivi]
+categories: [Alimentazione]
+tags: [Associazioni Alimentari, Combinazioni Alimentari, Dieta, Digestione, Dissociata, Problemi Digestivi]
 ---
 Le associazioni dei cibi durante un pasto sono un punto fondamentale per i problemi di digestione.
 
@@ -81,4 +82,4 @@ In pratica ignorare completamente questi principi e trasgredirli tutti i giorni 
 
 Per comodità, ecco una tabella degli alimenti per avere un riassunto da ricordare:
 
-![problemi-digestione]({{ site.images_root }}associazioni-alimentari.png "associazione alimentari")
+![problemi-digestione]({{site.images_root}}associazioni-alimentari.png "associazione alimentari")

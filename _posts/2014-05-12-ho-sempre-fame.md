@@ -5,7 +5,8 @@ date: 2014-05-12 08:57
 author: davegamba
 comments: true
 image: 2014-05-12-ho-sempre-fame.jpg
-categories: [abitudini alimentari, Alimentazione, associazioni alimentari, benessere, combinazioni alimentari, Dimagrire, dissociata, fame, mangiare sempre, merenda, problemi digestivi]
+categories: [Alimentazione, Dimagrimento]
+tags: [Abitudini Alimentari, Associazioni Alimentari, Benessere, Combinazioni Alimentari, Dimagrire, Dissociata, Fame, Mangiare Sempre, Merenda, Problemi Digestivi]
 ---
 
 Questo è forse uno dei problemi più frequenti nelle persone che decidono di dimagrire. Ed è anche una delle condizioni più frustranti, perché ci fa sentire impotenti e psicologicamente deboli. Come se resistere fosse impossibile, pur sapendo che ci stiamo facendo del male:

@@ -5,7 +5,8 @@ date: 2014-01-08 10:45
 author: davegamba
 comments: true
 image: 2014-01-08-per-dimagrire-velocemente.jpg
-categories: [Allenamento dimagrante, cardio, Dimagrire, Dimagrire]
+categories: [Allenamento, Dimagrimento]
+tags: [Cardio, Dimagrire]
 ---
 
 Non mi dire, hai bisogno di perdere qualche kg e ti sei messo/a ad allenarti come un pazzo per dimagrire più velocemente possibile.

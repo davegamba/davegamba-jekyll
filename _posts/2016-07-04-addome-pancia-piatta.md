@@ -5,7 +5,8 @@ date: 2016-07-04 20:02
 author: davegamba
 comments: true
 image: 2016-07-04-addome-pancia-piatta.jpg
-categories: [Addome, Addominale, Addominali, Crunch, Non categorizzato, pancia, Pancia piatta, Plank]
+categories: [Allenamento]
+tags: [Addome, Addominale, Addominali, Crunch, Pancia, Pancia Piatta, Plank]
 ---
 
 Dopo aver visto nei precedenti articoli i [3 migliori Esercizi (senza attrezzi) per Gambe & Glutei]({% post_url 2014-05-14-i-3-migliori-esercizi-attrezzi-per-gambe %}), oggi vediamo come lavorare un'altra zona critica per la maggior parte delle persone: **l'Addome**.

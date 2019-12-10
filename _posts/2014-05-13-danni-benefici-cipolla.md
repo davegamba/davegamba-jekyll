@@ -5,7 +5,8 @@ date: 2014-05-13 08:37
 author: davegamba
 comments: true
 image: 2014-05-13-danni-benefici-cipolla.jpg
-categories: [Alimentazione, associazioni alimentari, batteri, benefici, cipolla, combinazioni alimentari, danni, Dieta, digestione, influenza, problemi digestivi, raffreddore, tropea, virus]
+categories: [Alimentazione]
+tags: [Associazioni Alimentari, Batteri, Benefici, Cipolla, Combinazioni Alimentari, Danni, Dieta, Digestione, Influenza, Problemi Digestivi, Raffreddore, Tropea, Virus]
 ---
 
 Tutti sabbiamo che la cipolla è una verdura che fa bene e va mangiata regolarmente. Eppure la cipolla può causare un danno di cui non si parla quasi mai.

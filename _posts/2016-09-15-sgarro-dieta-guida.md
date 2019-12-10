@@ -5,7 +5,8 @@ date: 2016-09-15 06:21
 author: davegamba
 comments: true
 image: 2016-09-15-sgarro-dieta-guida.jpg
-categories: [Alimentazione, alzare metabolismo, Dimagrire, leptina, metabolismo, metabolismo lento, metabolismo rallentato, rimediare sgarro dieta, sgarro colazione, sgarro dieta, sgarro gelato, sgarro in definizione, sgarro kcal, sgarro la sera, sgarro nella dieta, sgarro post allenamento, sgarro pulito, sgarro quante calorie, sgarro una volta alla settimana, th3, th4]
+categories: [Alimentazione, Dimagrimento]
+tags: [Metabolismo, Leptina, Metabolismo, Sgarro, Colazione, Gelato, TH3, TH4]
 ---
 
 Sullo **Sgarro** le persone hanno sempre le idee confuse ed è un argomento di cui nessuno parla troppo (anche se poi tutti lo fanno).

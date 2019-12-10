@@ -5,7 +5,8 @@ date: 2014-05-13 19:30
 author: davegamba
 comments: true
 image: 2014-05-13-tabella-fruttosio-frutta.jpg
-categories: [Alimentazione, diabete, frutta, frutti, frutto, fruttosio, glicemia, zucchero]
+categories: [Alimentazione]
+tags: [Diabete, Frutta, Fruttosio, Glicemia, Zucchero]
 ---
 
 In molti articoli in questo sito avrai già notato come metto l'accento sull'importanza delle quantità di Fruttosio nei diversi frutti.

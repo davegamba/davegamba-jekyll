@@ -6,7 +6,7 @@ author: davegamba
 comments: true
 image: 2018-10-25-ripetute-scatti-benefici.jpg
 categories: [Allenamento, Benessere]
-tags: [Aerobica, Corpo Libero, Cardio, Correre, Corsa, Dimagrire, Dimagrire, GH, HIIT, Massa Muscolare, Performance, Poliquin, Scatti, Sprint, Testosterone]
+tags: [Aerobica, Corpo Libero, Cardio, Correre, Corsa, Dimagrire, GH, HIIT, Massa Muscolare, Performance, Poliquin, Scatti, Sprint, Testosterone]
 ---
 
 Visto che ho ricevuto innumerevoli risposte ai miei 2 post precedenti ([Allenamento Aerobico per Dimagrire]({% post_url 2013-12-16-allenamento-aerobico-dimagrire %}), [Per dimagrire velocemente non allenarti così]({% post_url 2014-01-08-per-dimagrire-velocemente %})), ho deciso di scrivere qui alcune delle risposte che ho dato.

@@ -5,7 +5,8 @@ date: 2015-04-02 08:01
 author: davegamba
 comments: true
 image: 2015-04-02-5-errori-sgarro.jpg
-categories: [Alimentazione, associazioni alimentari, benessere, Carbo, Cheat Day, digestione, Dimagrire, Dimagrire, merenda, Pancake, Ricarica Carbo, sgarro, tiroide]
+categories: [Alimentazione, Benessere, Dimagrimento]
+tags: [Associazioni Alimentari, Carbo, Cheat Day, Digestione, Dimagrire, Merenda, Pancake, Ricarica Carbo, Sgarro, Tiroide]
 ---
 
 Come forse sai già, personalmente sono un grande sostenitore dei giorni di Sgarro.

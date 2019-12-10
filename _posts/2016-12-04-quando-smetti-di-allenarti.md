@@ -5,7 +5,8 @@ date: 2016-12-04 10:00
 author: davegamba
 comments: true
 image: 2016-12-04-quando-smetti-di-allenarti.jpg
-categories: [Allenamento dimagrante, associazioni alimentari, Dimagrire, effetti sul cervello, Endorfine, Non categorizzato, perdere peso, seratonina, smettere di allenarsi]
+categories: [Allenamento, Dimagrimento]
+tags: [Allenamento Dimagrante, Associazioni Alimentari, Dimagrire, Effetti sul Cervello, Endorfine, Perdere Peso, Serotonina, Smettere di Allenarsi]
 ---
 
 Ormai tutte le prove dimostrano che gli effetti dell'**allenamento sul cervello** ti aiutano a costruire un cervello migliore.

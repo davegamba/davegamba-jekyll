@@ -11,6 +11,8 @@ categories:
 - pancia dura
 - pancia rimedi
 image: 2013-11-18-pancia-gonfia.jpg
+categories: [Dimagrimento]
+tags: [Pancia]
 ---
 
 In alcuni (rari) casi si tratta di Intolleranze di cui non si è ancora a conoscenza. Dunque per questo suggerisco sempre di fare il test delle intolleranze, oppure di notare se quando si mangia un determinato cibo viene sempre il gonfiore.
@@ -29,7 +31,6 @@ Dunque, all'individuo che segue l'alimentazione media della nostra società mode
 In realtà non è così, si tratta di imparare che i cibi industriali contengono sempre questi ingredienti, e i cibi industriali non sono fatti per l'intestino umano.
 
 Sono fatti solo per vendere.
-
 
 ![Pancia Gonfia]({{site.images_root}}2013-11-18-pancia-gonfia-1.jpg)
 
@@ -50,14 +51,14 @@ Successivamente, dopo aver visto questi miglioramenti, potresti non aver molta v
 
 Ma se vorrai,  potrai scegliere di ri-inserirli con parsimonia occasionalmente, e non come **abitudine quotidiana**.
 
-La soluzione per ripulirsi dallo strato in eccesso di "sporcizia" è fare **pasti unici completi di sola frutta fresca **(da non mescolare con altri alimenti) una volta al giorno ad esempio.
+La soluzione per ripulirsi dallo strato in eccesso di "sporcizia" è fare **pasti unici completi di sola frutta fresca** (da non mescolare con altri alimenti) una volta al giorno ad esempio.
 
 Si può fare una colazione abbondante e base di sola frutta, oppure un pranzo o una merenda.
 
 Questa agirà da spugna sulle pareti dell'intestino, riparando i danni che gli abbiamo arrecato per anni.
 
-In conconmitanza, per eliminare la pancia gonfia, è bene **eliminare tutti i dolciumi e le bibite, i quali sono dominate dallo Zucchero bianco, il vero veleno dell'uomo moderno. I suoi effetti di gonfiore e infiammanti si potenziano quando uniti alle farine e al latte (come nel caso dei dolci).
-Limitare molto la farina**, ed eliminarla del tutto per almeno un paio di settimane. Bisogna imparare a sostituire i farinacei con i cereali interi se si vuole seguire un'idea di salute, come Riso, Avena, Miglio, Farro, Amaranto, Quinoa.
+In conconmitanza, per eliminare la pancia gonfia, è bene **eliminare tutti i dolciumi e le bibite, i quali sono dominate dallo Zucchero bianco, il vero veleno dell'uomo moderno. I suoi effetti di gonfiore e infiammanti si potenziano quando uniti alle farine e al latte (come nel caso dei dolci).**
+Limitare molto la farina, **ed eliminarla del tutto per almeno un paio di settimane. Bisogna imparare a sostituire i farinacei con i cereali interi se si vuole seguire un'idea di salute, come Riso, Avena, Miglio, Farro, Amaranto, Quinoa.**
 
 Nel 90% delle persone con cui ho avuto a che fare che hanno seguito queste linee guida, la pancia gonfia è diminuita notevolmente nella prima settimana e ancora nelle successive.
 

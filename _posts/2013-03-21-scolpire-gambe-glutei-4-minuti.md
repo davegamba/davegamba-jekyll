@@ -5,7 +5,8 @@ date: 2013-03-21 10:15
 author: davegamba
 comments: true
 image: 2013-03-21-scolpire-gambe-glutei-4-minuti.jpg
-categories: [Dimagrire]
+categories: [Allenamento, Dimagrimento]
+tags: [Dimagrire]
 ---
 Ripropongo qui la traduzione del mio ultimo articolo per la rivista TenerifeNews.
 

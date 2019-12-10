@@ -5,7 +5,8 @@ date: 2015-02-18 09:33
 author: davegamba
 comments: true
 image: 2015-02-18-9-ragioni-per-non-ingrassare-fase-di-massa.jpg
-categories: [abitudini alimentari, Alimentazione, Allenamento Corpo Libero, builk, builking, massa, Massa Muscolare, Massa muscolare, muscolare]
+categories: [Alimentazione]
+tags: [Abitudini Alimentari, Corpo Libero, Builk, Builking, Massa Muscolare]
 ---
 
 Alcuni lettori a volte mi chiedono cosa ne penso di fare le fasi di massa seguite da fasi di definizione. La mia risposta è sempre: **PENSO CHE NO!** È incredibile come dopo decenni venga ancora usata questa metodica. Visto che lo fanno i bodybuilder professionisti, si pensa che quello sia il modo per crescere, trascurando però alcuni principi fondamentali. Ma ecco nella pratica i motivi per cui non devi fare fasi di massa e definizione:

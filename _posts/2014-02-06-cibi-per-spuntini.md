@@ -5,7 +5,8 @@ date: 2014-02-06 10:45
 author: davegamba
 comments: true
 image: 2014-02-06-cibi-per-spuntini.jpg
-categories: [abitudini alimentari, Alimentazione, associazioni alimentari, combinazioni alimentari, Dieta, Dimagrire, Dimagrire, dissociata, merenda, pasto perfetto, Ricette, sfizio, sgarro, spuntino]
+categories: [Alimentazione, Dimagrimento]
+tags: [Abitudini Alimentari, Associazioni Alimentari, Combinazioni Alimentari, Dieta, Dimagrire, Dissociata, Merenda, Pasto Perfetto, Ricette, Sfizio, Sgarro, Spuntino]
 ---
 
 Tra le domande più frequenti che ricevo dai miei clienti, ci sono:

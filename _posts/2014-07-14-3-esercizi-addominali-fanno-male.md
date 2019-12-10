@@ -5,7 +5,8 @@ date: 2014-07-14 09:31
 author: davegamba
 comments: true
 image: 2014-07-14-3-esercizi-addominali-fanno-male.jpg
-categories: [Addome, Addominale, Addominali, Allenamento Corpo Libero, Crunch, Dimagrire, Esercizi Addominali, Laterali, Massa Muscolare, pancia, pancia cause, Pancia gonfia, Pancia piatta, pancia rimedi, piegamenti, Plank, Retto, Sit Up]
+categories: [Allenamento]
+tags: [Addome, Addominali, Corpo Libero, Crunch, Dimagrire, Esercizi Addominali, Laterali, Massa Muscolare, Pancia, Piegamenti, Plank, Retto, Sit Up]
 ---
 
 Lo sapevi che i 3 Esercizi per Addominali più usati e consigliati (soprattutto dai personal trainer) in tutto il mondo sono gli Esercizi che possono **danneggiare maggiormente i dischi della tua colonna vertebrale?**

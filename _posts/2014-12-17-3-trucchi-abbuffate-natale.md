@@ -5,7 +5,8 @@ date: 2014-12-17 09:07
 author: davegamba
 comments: true
 image: 2014-12-17-3-trucchi-abbuffate-natale.jpg
-categories: [abbuffata, Alimentazione, Allenamento Corpo Libero, Allenamento dimagrante, associazioni alimentari, cenone, come mangiare, Dieta, digestione, Digiuno, Dimagrire, Dimagrire, ferie, feste, ingrassare, intermittente, natale, pasqua, sgarri, sgarro, vacanze]
+categories: [Alimentazione, Dimagrimento]
+tags: [Abbuffata, Corpo Libero, Allenamento Dimagrante, Associazioni Alimentari, Cenone, Dieta, Digestione, Digiuno, Dimagrire, Ferie, Feste, Ingrassare, Intermittente, Natale, Pasqua, Sgarro, Vacanze]
 ---
 
 Allora, siamo finalmente a Natale.
@@ -46,7 +47,7 @@ Quindi ricorda di...
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2014-09-16-esercizi-gambe-glutei-casa %})
 	-	Affondi Alternati: 6 set x 10 ripetizioni con 60" di tipo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2014-09-16-esercizi-gambe-glutei-casa %})
-	-	Plus (se hai una sbarra e sei avanzato/a) Trazioni larghe : 6 set x Max ripetizioni 90" di risposo
+	-	Plus (se hai una sbarra e sei avanzato/a) Trazioni larghe: 6 set x Max ripetizioni 90" di risposo
 		[Se non conosci l'esercizio trovi qui la spiegazione]({% post_url 2013-01-23-come-aumentare-trazioni-alla-sbarra %})
 
 	Naturalmente questa è una Scheda basica, dei semplici cedimenti, ma è un riferimento iniziale per chi vuole allenarsi a casa, ha poca esperienza e non ha ancora un Scheda specifica sui suoi obiettivi.

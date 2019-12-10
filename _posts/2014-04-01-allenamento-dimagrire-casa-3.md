@@ -5,7 +5,8 @@ date: 2014-04-01 11:32
 author: davegamba
 comments: true
 image: 2014-04-01-allenamento-dimagrire-casa-3.jpg
-categories: [Allenamento Corpo Libero, Allenamento dimagrante, Dimagrire, Dimagrire, perdere peso]
+categories: [Allenamento, Dimagrimento]
+tags: [Corpo Libero, Dimagrire, Perdere Peso]
 ---
 
 Ok dopo aver scritto i miei  2 Allenamenti ideali per dimagrire in stile tabata, oggi siamo pronti il per il **Livello Avanzato**.

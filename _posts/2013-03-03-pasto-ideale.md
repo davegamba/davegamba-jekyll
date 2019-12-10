@@ -5,7 +5,8 @@ date: 2013-03-03 21:42
 author: davegamba
 comments: true
 image: 2013-03-03-pasto-ideale.jpg
-categories: [AAArticoli Fondamentali, Alimentazione, benessere, pasto ideale, pasto perfetto, punti benessere]
+categories: [Alimentazione, Benessere]
+tags: [Pasto Ideale, Pasto Perfetto, Punti Benessere]
 ---
 Puoi considerare questo articolo un sintetico promemoria di tutte le cose essenziali per raggiungere il fisico e la salute ideale.
 

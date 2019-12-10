@@ -5,7 +5,8 @@ date: 2014-05-07 10:00
 author: davegamba
 comments: true
 image: 2014-05-07-scoperte-alimentari.jpg
-categories: [Alimentazione, debolezza, weston price]
+categories: [Alimentazione]
+tags: [Debolezza, Weston Price]
 ---
 
 Se in una macchina a benzina mettessimo il diesel, probabilmente avremmo dei problemi.

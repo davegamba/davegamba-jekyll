@@ -6,7 +6,7 @@ author: davegamba
 comments: true
 image: 2018-11-04-cosa-mangiare-prima-dopo-allenamento.jpg
 categories: [Alimentazione, Allenamento]
-tags: [Aumentare Massa, Avena, BCAA, Beta Alanina, Bicipiti, Caffé, Canapa, Crescere, Frullati, Glicogeno, Glucosio, HMB, Massa Muscolare, Merenda, Muscoli, Pettorali, Post Sllenamento, Pre Sllenamento, Riso, Shaker, Siero del Latte, Sintesi Proteica, Whey]
+tags: [Aumentare Massa, Avena, BCAA, Beta Alanina, Bicipiti, Caffé, Canapa, Crescere, Frullati, Glicogeno, Glucosio, HMB, Massa Muscolare, Merenda, Muscoli, Pettorali, Post Allenamento, Pre Allenamento, Riso, Shaker, Siero del Latte, Sintesi Proteica, Whey]
 ---
 
 Non è una novità che la ricerca di **cosa mangiare prima e dopo l'allenamento** sia uno degli studi più importanti nel campo della Nutrizione e dell'Allenamento.
@@ -84,7 +84,7 @@ Un'altra ottima idea per gli atleti avanzati può essere aggiungere anche **Argi
 Cosa Mangio Dopo L'Allenamento
 ==============================
 
-![Frutto Proteico Siero Latte]({{ site.images_root }}2018-11-04-cosa-mangiare-prima-dopo-allenamento-1.jpg)
+![Frutto Proteico Siero Latte]({{site.images_root}}2018-11-04-cosa-mangiare-prima-dopo-allenamento-1.jpg)
 
 Invece **dopo l'Allenamento** si mangia eccome :).
 
@@ -136,7 +136,7 @@ E sono il tipo di cibo che _**deve essere di massima qualità**_ se veramente si
 Io naturalmente [uso le FORCE](https://wildfitters.it/products/force-ciocc) post-allenamento.
 Proteine da latte di allevamenti LIBERI biologici, SENZA nessun additivo, solo un pò di stevia, e Vaniglia o Cacao naturali. Non serve altro.
 
-![Frutto Proteico Siero Latte]({{ site.images_root }}2018-11-04-cosa-mangiare-prima-dopo-allenamento-2.jpg "Frutto Proteico Siero Latte")
+![Frutto Proteico Siero Latte]({{site.images_root}}2018-11-04-cosa-mangiare-prima-dopo-allenamento-2.jpg "Frutto Proteico Siero Latte")
 
 In alternativa per chi non può o non vuole consumare Siero del latte, ci sono anche [Proteine in polvere vegetali](https://wildfitters.it/products/vegforce). Queste proteine possono essere valide anche se possiedono uno spettro aminoacidico più basso.
 

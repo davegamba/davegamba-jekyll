@@ -7,7 +7,8 @@ author:
   - giorgiavisentini
 comments: true
 image: 2014-01-15-colesterolo-alto.jpg
-categories: [AAArticoli Fondamentali, Alimentazione, Non categorizzato]
+categories: [Alimentazione]
+tags: [Colesterolo]
 ---
 
 Questo articolo non può, neanche volendo, esporre tutti i dati e le ricerche riguardo il mito del Colesterolo.
@@ -18,7 +19,7 @@ L'idea che il Colesterolo faccia male è così inculcata nella mentalità delle 
 
 Quindi scrivo questo articolo completo per dimostrare che **questo argomento non è una sciocchezza ed è anzi di vitale importanza per il benessere di tutti**.
 
-**È stato forse l'elemento più accusato di malattie cardiovascolare di tutti i tempi e** inoltre ha gettato altre 2 categorie importanti nel baratro insieme a lui: i grassi saturi e le uova.
+**È stato forse l'elemento più accusato di malattie cardiovascolare di tutti i tempi** e inoltre ha gettato altre 2 categorie importanti nel baratro insieme a lui: i grassi saturi e le uova.
 
 In questo articolo parleremo molto anche del perfetto utilizzo delle Uova per la salute.
 
@@ -124,33 +125,33 @@ IL COLESTEROLO ALTO NON CAUSA MALATTIE CARDIACHE
 
 Questo è uno dei luoghi comuni più vecchi al mondo. Le sperimentazioni hanno scagionato da più di 30anni (!!!) il colesterolo dalle malattie cardiache. Semplicemente non viene divulgato. **Le percentuali di malattie cardiache delle persone con colesterolo alto sono identiche a quelle con colesterolo nella norma** (secondo i valori di riferimento della medicina tradizionale occidentale, stabiliti anch'essi arbitrariamente). Per usare le parole del **Dr Mercola**:
 
-> #### '' Ho visto un certo numero di persone con livelli di colesterolo totale oltre 250 che in realtà non erano a rischio di malattia cardiaca. Al contrario, ho visto spesso che chi aveva livelli di colesterolo sotto i 200 che erano a un rischio molto elevato di malattie cardiache in base alle seguenti prove supplementari:
+> "Ho visto un certo numero di persone con livelli di colesterolo totale oltre 250 che in realtà non erano a rischio di malattia cardiaca. Al contrario, ho visto spesso che chi aveva livelli di colesterolo sotto i 200 che erano a un rischio molto elevato di malattie cardiache in base alle seguenti prove supplementari:
 > 
-> #### Rapporto HDL / colesterolo Rapporto trigliceridi / HDL
+> Rapporto HDL / colesterolo Rapporto trigliceridi / HDL
 > 
-> #### Percentuale di HDL è un fattore di rischio di malattia cardiaca molto potente. Basta dividere il livello di HDL il colesterolo. Tale rapporto dovrebbe essere idealmente al di sopra del 24 per cento.
+> Percentuale di HDL è un fattore di rischio di malattia cardiaca molto potente. Basta dividere il livello di HDL il colesterolo. Tale rapporto dovrebbe essere idealmente al di sopra del 24 per cento.
 > 
-> #### È anche possibile fare la stessa cosa con i vostri trigliceridi e HDL. Tale rapporto deve essere inferiore a 2 ''
+> È anche possibile fare la stessa cosa con i vostri trigliceridi e HDL. Tale rapporto deve essere inferiore a 2"
 
 Anche il dottor Schauss, che lavora al Centro di Charles Poliquin, spiega semplicemente i dati più importanti emersi da decenni di sue ricerche:
 
-> #### " Il colesterolo è stato connesso con le malattie cardiache ed è anche stato chiamato uno dei marcatori per le malattie del cuore, ma questa è una designazione erronea – perché non lo è. Quando esaminiamo i risultati di ricerche legittime, scopriamo che il colesterolo NON è in modo definitivo connesso con le malattie del cuore.
+> "Il colesterolo è stato connesso con le malattie cardiache ed è anche stato chiamato uno dei marcatori per le malattie del cuore, ma questa è una designazione erronea – perché non lo è. Quando esaminiamo i risultati di ricerche legittime, scopriamo che il colesterolo NON è in modo definitivo connesso con le malattie del cuore.
 > 
-> #### "Naturalmente vediamo gente con un livello alto di colesterolo che ha la tendenza a soffrire di malattie di cuore, queste non sono causate dal colesterolo ma dal bloccaggio nelle arterie che è causato da altri fattori tra cui l'infiammazione. Inoltre, livelli bassi di colesterolo sono implicati in molte malattie diverse. Per esempio nel 1999 ci fu una ricerca pubblicata nel periodico Circulation sotto forma di editoriale che disse che le persone con il colesterolo troppo basso, per essere specifici sotto 160, avevano una tendenza maggiore alla depressione, suicidio, incidenti, certi tipi di cancro e ictus celebrale. ...[......]
+> "Naturalmente vediamo gente con un livello alto di colesterolo che ha la tendenza a soffrire di malattie di cuore, queste non sono causate dal colesterolo ma dal bloccaggio nelle arterie che è causato da altri fattori tra cui l'infiammazione. Inoltre, livelli bassi di colesterolo sono implicati in molte malattie diverse. Per esempio nel 1999 ci fu una ricerca pubblicata nel periodico Circulation sotto forma di editoriale che disse che le persone con il colesterolo troppo basso, per essere specifici sotto 160, avevano una tendenza maggiore alla depressione, suicidio, incidenti, certi tipi di cancro e ictus celebrale. ...[......]
 > 
-> #### "Un'altra misurazione che mi sembra molto utile è il rapporto fra trigliceridi e HDL. Questo rapporto deve essere 2 o meno – in altre parole, tu vuoi i tuoi trigliceridi molto più bassi delle tue HDL. Le persone che anno livelli alti di trigliceridi hanno la propensità, di soffrire un infarto, molto più di quelli che hanno un livello alto di LDL, perché i trigliceridi sono molto alcalini per cui possono causare un grande danno nelle arterie. Percio più alta è la proporzione di trigliceridi, peggio è per te."
+> "Un'altra misurazione che mi sembra molto utile è il rapporto fra trigliceridi e HDL. Questo rapporto deve essere 2 o meno – in altre parole, tu vuoi i tuoi trigliceridi molto più bassi delle tue HDL. Le persone che anno livelli alti di trigliceridi hanno la propensità, di soffrire un infarto, molto più di quelli che hanno un livello alto di LDL, perché i trigliceridi sono molto alcalini per cui possono causare un grande danno nelle arterie. Percio più alta è la proporzione di trigliceridi, peggio è per te."
 > 
-> #### ...[......] Quando gli esami di laboratorio indicano un alto livello di trigliceridi, devi farli abbassare velocemente e la maniera migliore che conosco per farlo è di ingerire i grassi acidi essenziali che si trovano nell'olio di pesce (ndr Omega3)."
+> ... Quando gli esami di laboratorio indicano un alto livello di trigliceridi, devi farli abbassare velocemente e la maniera migliore che conosco per farlo è di ingerire i grassi acidi essenziali che si trovano nell'olio di pesce (ndr Omega3)."
 
 E sempre il dottor Shauss dice:
 
-> #### "Secondo questa teoria, il colesterolo è tossico per le arterie. Alcuni fautori di questa teoria, raccomandano quindi di abbassare al massimo il colesterolo. Ma queste sono solo delle ipotesi senza validazione scientifica. Sono credenze indotte dalle industrie farmaceutiche e alimentari. E non hanno una base razionale.
+> "Secondo questa teoria, il colesterolo è tossico per le arterie. Alcuni fautori di questa teoria, raccomandano quindi di abbassare al massimo il colesterolo. Ma queste sono solo delle ipotesi senza validazione scientifica. Sono credenze indotte dalle industrie farmaceutiche e alimentari. E non hanno una base razionale.
 > 
-> #### Abbassano il colesterolo ma senza alcun effetto sulla mortalità. Molti studi su questi farmaci restano sospetti a causa del coinvolgimento delle industrie farmaceutiche. "
+> Abbassano il colesterolo ma senza alcun effetto sulla mortalità. Molti studi su questi farmaci restano sospetti a causa del coinvolgimento delle industrie farmaceutiche."
 
-Sullo stesso argomento scrive il medico svedese Uffe Ravnskov nel suo libro 'Il Grasso e il Colesterolo sono buoni per te':
+Sullo stesso argomento scrive il medico svedese Uffe Ravnskov nel suo libro "Il Grasso e il Colesterolo sono buoni per te":
 
-> #### "Se si utilizzano tutti i dati disponibili, ecco che il rapporto tra il consumo di grassi in generale e la morte per arresto cardiaco si dimostra inesistente. Ad esempio, negli Stati Uniti la mortalità dovuta a cardiopatie coronariche è tre volte più alta che in Norvegia, anche se in entrambi i paesi il consumo di grassi era all'incirca lo stesso".
+> "Se si utilizzano tutti i dati disponibili, ecco che il rapporto tra il consumo di grassi in generale e la morte per arresto cardiaco si dimostra inesistente. Ad esempio, negli Stati Uniti la mortalità dovuta a cardiopatie coronariche è tre volte più alta che in Norvegia, anche se in entrambi i paesi il consumo di grassi era all'incirca lo stesso".
 
 E di nuovo sempre dr Uffe Ravnskov:
 

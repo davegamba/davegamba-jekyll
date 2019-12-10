@@ -5,7 +5,8 @@ date: 2016-10-19 09:59
 author: davegamba
 comments: true
 image: 2016-10-19-pancake-proteico-low-fat.jpg
-categories: [Alimentazione, high carb, low fat, Pancake, proteico, Ricette]
+categories: [Alimentazione]
+tags: [High Carb, Low Fat, Pancake, Ricette]
 ---
 Dopo la [Ricetta dei Pancake Proteico]({% post_url 2015-03-24-pancake %}) Low Carb, ecco finalmente la ricetta del Pancake Proteico low fat, ideale per i giorni alti in carboidrati.
 

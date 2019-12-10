@@ -5,7 +5,8 @@ date: 2013-09-27 10:27
 author: davegamba
 comments: true
 image: 2013-09-27-dieta-iperproteica.jpg
-categories: [Alimentazione, Dieta, eccesso proteine, iperproteica]
+categories: [Alimentazione]
+tags: [Dieta, Eccesso Proteine, Iperproteica]
 ---
 C'è un punto che è bene chiarire fin da subito:
 
@@ -51,7 +52,7 @@ La cosa peggiore che possa capitare. Ingrassare di nuovo e peggio di prima.  
 
 ## L'EFFETTO YO-YO
 
-![Effetto Yo Yo]({{ site.images_root }}2013-09-27-dieta-iperproteica-effetto-yo-yo-dieta.jpg)
+![Effetto Yo Yo]({{site.images_root}}2013-09-27-dieta-iperproteica-effetto-yo-yo-dieta.jpg)
 
 Durante una dieta iperproteica e restrittiva hai perso un po' di massa grassa ma **anche** massa magra (muscolatura).
 

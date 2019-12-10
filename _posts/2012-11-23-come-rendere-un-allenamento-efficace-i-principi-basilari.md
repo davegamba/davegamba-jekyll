@@ -5,7 +5,8 @@ date: 2012-11-23 18:01
 author: davegamba
 comments: true
 image: 2012-11-23-come-rendere-un-allenamento-efficace-i-principi-basilari.jpg
-categories: [Allenamento Corpo Libero]
+categories: [Allenamento]
+tags: [Corpo Libero]
 ---
 
 C'è un concetto che è bene conoscere fin da subito, per risparmiare tempo e fatica nel ricercare qualcosa che non c'è. E il concetto è molto semplice:
@@ -112,7 +113,7 @@ Tieni SEMPRE il tempo di riposo. Per darti un riferimento pratico:
 
 PS: Questi tempi sono assolutamente indicativi, e possono cambiare da allenamento ad allenamento e persona a persona. Sono però utili per cominciare.
 
-![Dormire]({{ site.images_root }}2012-11-23-come-rendere-un-allenamento-efficace-i-principi-basilari-1.jpg)
+![Dormire]({{site.images_root}}2012-11-23-come-rendere-un-allenamento-efficace-i-principi-basilari-1.jpg)
 
 
 ### RECUPERI

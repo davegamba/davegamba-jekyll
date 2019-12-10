@@ -5,7 +5,8 @@ date: 2014-09-16 18:42
 author: davegamba
 comments: true
 image: 2014-09-16-esercizi-gambe-glutei-casa.jpg
-categories: [Allenamento Corpo Libero, Esercizi, Esercizio, gambe, glutei]
+categories: [Allenamento]
+tags: [Corpo Libero, Esercizi, Gambe, Glutei]
 ---
 
 ### Benvenuti alla mini guida di Esercizi per Gambe e Glutei senza attrezzi!
@@ -41,7 +42,6 @@ Se hai letto un po' il mio blog sai che preferisco solo usare i migliori Eserciz
 #### VIDEO PONTI GLUTEI
 
 {% include youtube.html title="Video Ponti Glutei" width="1080" height="608" code="W0FFY2-k424" %}
-
 
 ## ESERCIZI
 

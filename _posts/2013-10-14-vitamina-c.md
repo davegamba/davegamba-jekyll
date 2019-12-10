@@ -5,7 +5,8 @@ date: 2013-10-14 08:00
 author: davegamba
 comments: true
 image: 2013-10-14-vitamina-c.jpg
-categories: [AAArticoli Fondamentali, acido ascorbico, Alimentazione, collagene, raffreddore, sistema immunitario, vitamina c, vitamine]
+categories: [Alimentazione]
+tags: [Acido Ascorbico, Collagene, Raffreddore, Sistema Immunitario, Vitamina C, Vitamine]
 ---
 
 Lo studio dell'Acido Ascorbico ha preso gran parte dei miei anni di ricerche.
@@ -90,7 +91,7 @@ Fu come un tornado che spazzò via il vecchio. ​  
 
 ## LINUS PAULING
 
-![Linus Pauling]({{ site.images_root }}2013-10-14-vitamina-c-linus-pauling.jpg)
+![Linus Pauling]({{site.images_root}}2013-10-14-vitamina-c-linus-pauling.jpg)
 
 ​Linus Pauling fu uno dei primi scienziati e dottori a sostenere l'Acido Ascorbico per la guarigione e la prevenzione.
 
@@ -185,7 +186,7 @@ Il più potente in effetti. Infatti è il primo elemento in grado di bloccare il
 
 ## SECONDA PARTE: DOMANDE E DUBBI
 
-![Vitamina C]({{ site.images_root }}vitamina_c.png)
+![Vitamina C]({{site.images_root}}vitamina_c.png)
 
 Dopo aver acquisito queste nozioni è normale avere dubbi. Insomma una sostanza che sembra curare tutto, un elisir della salute e della giovinezza, perché non si conosceva prima? O meglio perché non si sponsorizza di più che "la semplice Vitamina C è così potente!"? Queste sono domande intelligenti che tutti prima o poi si pongono se vogliono approfondire il tema seriamente.  
 

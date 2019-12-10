@@ -5,7 +5,8 @@ date: 2012-12-03 17:34
 author: davegamba
 comments: true
 image: 2012-12-03-come-usare-il-massimale-per-raggiungere-il-proprio-obiettivo-specifico.jpg
-categories: [Allenamento Corpo Libero]
+categories: [Allenamento]
+tags: [Corpo Libero]
 ---
 
 

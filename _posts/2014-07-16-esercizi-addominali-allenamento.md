@@ -5,7 +5,8 @@ date: 2014-07-16 10:13
 author: davegamba
 comments: true
 image: 2014-07-16-esercizi-addominali-allenamento.jpg
-categories: [Addominale, Addominali, Allenamento a casa, Allenamento Corpo Libero]
+categories: [Allenamento]
+tags: [Addominali, Allenamento a Casa, Corpo Libero]
 ---
 
 ### Benvenuti alla mini guida di Esercizi per gli Addominali.
@@ -40,52 +41,44 @@ La cosa più importante da ricordare sugli Addominali per cominciare è che
 MITI DA SFATARE SUGLI ADDOMINALI
 ================================
 
-1) I CLASSICI CRUNCH
---------------------
-
-Ci sono molti miti da sfatare riguardo gli Addominali e li ho inseriti tutti in questo Articolo completo [3 Famosi Esercizi Addominali Che Ti Fanno Male]({% post_url 2014-07-14-3-esercizi-addominali-fanno-male %}).
-
-Primo di tutti i miti è proprio che per smaltire la pancia bisogna fare tante ripetizioni.
-
-**Questo luogo comune è duro a morire, e nasce da un ragionamento puramente razionale "più faccio, meglio è". O come si dice nel fitness spesso **"No Pain No Gain"**.
-
-Se ormai mi conosci, sai già che la mia filosofia è diametralmente opposta a questa.
-
-Infatti dimostro, nella teoria e la pratica, come allenamenti molto lunghi è stancanti siano in realtà peggiorativi sotto tutti gli aspetti: risposta ormonale, perdita di peso, forma fisica, miglioramento muscolare, e persino umore e stress accumulato.
-
-Se hai letto l'articolo [3 Famosi Esercizi Addominali Che Ti Fanno Male]({% post_url 2014-07-14-3-esercizi-addominali-fanno-male %}), ora puoi passare invece a vedere gli Esercizi migliori.
-
-2) GLI ADDOMINALI ALTI E BASSI
-------------------------------
-
-Chi si appresta per le prime volte al fitness parte da questo punto, gli Addominali bassi. Quindi partiamo da qui, anche se ormai è nozione nota a tutti, è bene ripassare:
-
-### GLI ADDOMINALI BASSI NON ESISTONO
-
-O meglio, il muscolo del Retto Addominale è un muscolo UNICO, diviso in "quadratini" dai tendini che lo attraversano.
-
-In qualità di muscolo unico non è possibile un contrazione selettiva delle fibre (dato lo stimolo neuronale, o si contraggono tutte o non si contrae nessuna).
-
-**TUTTAVIA** possiamo effettivamente scegliere qualcosa, ovvero se far partire il movimento dall'alto (tipo crunch semplice) o dal basso (tipo qualsiasi sollevamento delle gambe.
-
-Il problema più frequente, soprattutto nei neofiti, è che la maggior parte degli Addominali bassi crea problemi lombari e al muscolo psoas (muscolo interno flessore dell'anca) anche gravi in certi casi.
-
-Soprattutto a chi fa esercizi con piedi bloccati.
-
-3) FARE TANTI ADDOMINALI PER AVERE LA PANCIA PIATTA E SCOLPITA
---------------------------------------------------------------
-
-Come sempre il dr [Stuart McGill](http://www.backfitpro.com/) ha dimostrato, gran parte dei problemi di schiena dei soggetti allenati vengono non tanto da esercizi "sbagliati" quanto dalla
-
-### FREQUENZA ECCESSIVA DI RIPETIZIONI IN UN MOVIMENTO "SBAGLIATO"
-
-Ripetere migliaia di addominali classici porta a slittamenti e compressioni importanti dei dischi vertebrali, che nel lungo periodo possono portare a dolori e cambi di postura.
-
-Un eccessivo dinamismo in questa zona lombare, naturalmente statica e volta alla stabilizzazione, risulta dannoso.
-
-Per questa ragione un Addominale ben fatto ha un contrazione lenta e isometrica, ovvero in contrazione statica per alcuni secondi (come vedremo in Crunch modificato qui sotto). Lo stesso vale per le rotazioni se eseguite male.
-
-I dischi lombari **NON** ha una buona capacità rotatoria, diversamente dal tratto dorsale e cervicale.
+1.	## I CLASSICI CRUNCH
+	Ci sono molti miti da sfatare riguardo gli Addominali e li ho inseriti tutti in questo Articolo completo [3 Famosi Esercizi Addominali Che Ti Fanno Male]({% post_url 2014-07-14-3-esercizi-addominali-fanno-male %}).
+	
+	Primo di tutti i miti è proprio che per smaltire la pancia bisogna fare tante ripetizioni.
+	
+	**Questo luogo comune è duro a morire, e nasce da un ragionamento puramente razionale "più faccio, meglio è". O come si dice nel fitness spesso **"No Pain No Gain"**.
+	
+	Se ormai mi conosci, sai già che la mia filosofia è diametralmente opposta a questa.
+	
+	Infatti dimostro, nella teoria e la pratica, come allenamenti molto lunghi è stancanti siano in realtà peggiorativi sotto tutti gli aspetti: risposta ormonale, perdita di peso, forma fisica, miglioramento muscolare, e persino umore e stress accumulato.
+	
+	Se hai letto l'articolo [3 Famosi Esercizi Addominali Che Ti Fanno Male]({% post_url 2014-07-14-3-esercizi-addominali-fanno-male %}), ora puoi passare invece a vedere gli Esercizi migliori.
+2.	## GLI ADDOMINALI ALTI E BASSI
+	Chi si appresta per le prime volte al fitness parte da questo punto, gli Addominali bassi. Quindi partiamo da qui, anche se ormai è nozione nota a tutti, è bene ripassare:
+	
+	### GLI ADDOMINALI BASSI NON ESISTONO
+	
+	O meglio, il muscolo del Retto Addominale è un muscolo UNICO, diviso in "quadratini" dai tendini che lo attraversano.
+	
+	In qualità di muscolo unico non è possibile un contrazione selettiva delle fibre (dato lo stimolo neuronale, o si contraggono tutte o non si contrae nessuna).
+	
+	**TUTTAVIA** possiamo effettivamente scegliere qualcosa, ovvero se far partire il movimento dall'alto (tipo crunch semplice) o dal basso (tipo qualsiasi sollevamento delle gambe.
+	
+	Il problema più frequente, soprattutto nei neofiti, è che la maggior parte degli Addominali bassi crea problemi lombari e al muscolo psoas (muscolo interno flessore dell'anca) anche gravi in certi casi.
+	
+	Soprattutto a chi fa esercizi con piedi bloccati.
+3.	## FARE TANTI ADDOMINALI PER AVERE LA PANCIA PIATTA E SCOLPITA
+	Come sempre il dr [Stuart McGill](http://www.backfitpro.com/) ha dimostrato, gran parte dei problemi di schiena dei soggetti allenati vengono non tanto da esercizi "sbagliati" quanto dalla
+	
+	### FREQUENZA ECCESSIVA DI RIPETIZIONI IN UN MOVIMENTO "SBAGLIATO"
+	
+	Ripetere migliaia di addominali classici porta a slittamenti e compressioni importanti dei dischi vertebrali, che nel lungo periodo possono portare a dolori e cambi di postura.
+	
+	Un eccessivo dinamismo in questa zona lombare, naturalmente statica e volta alla stabilizzazione, risulta dannoso.
+	
+	Per questa ragione un Addominale ben fatto ha un contrazione lenta e isometrica, ovvero in contrazione statica per alcuni secondi (come vedremo in Crunch modificato qui sotto). Lo stesso vale per le rotazioni se eseguite male.
+	
+	I dischi lombari **NON** ha una buona capacità rotatoria, diversamente dal tratto dorsale e cervicale.
 
 Approfondimenti
 ===============

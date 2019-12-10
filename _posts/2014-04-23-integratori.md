@@ -5,7 +5,8 @@ date: 2014-04-23 12:19
 author: davegamba
 comments: true
 image: 2014-04-23-integratori.jpg
-categories: [AAArticoli Fondamentali, Alimentari, Alimentazione, Aminoacidi, Antiossidanti, Arginina, BCAA, Integratori, Magnesio Cloruro, omega3, omega6, Supplementi, vitamina c, vitamine, Zinco]
+categories: [Alimentazione]
+tags: [Alimentari, Aminoacidi, Antiossidanti, Arginina, BCAA, Integratori, Magnesio Cloruro, Omega3, Omega6, Supplementi, Vitamina C, Vitamine, Zinco]
 ---
 
 In questa sezione voglio dare solo una breve panoramica degli integratori che hanno funzionato meglio per me negli anni. Ci sono numerose combinazioni che possono funzionare per ogni individuo, per la sua fisiologia personale, ma qui mostro quello che considero vitale per chiunque, da sapere e utilizzare. Questo è un campo dove non si smette mai di imparare e di scoprire nuovi benefici di ogni vitamina, ogni elemento. Inoltre non aiuta il fatto che su internet ci siano molte informazioni non completamente veritiere, come danni irreali di alcuni supplementi e benefici irreali di altri. Dunque conoscere quali integratori possono fare davvero la differenza nella nostra qualità di vita è fondamentale per distinguersi e non fare gli errori che commettono in tanti nel non assumere o assumere gli integratori "sbagliati".

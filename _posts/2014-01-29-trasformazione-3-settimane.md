@@ -5,7 +5,8 @@ date: 2014-01-29 11:14
 author: davegamba
 comments: true
 image: 2014-01-29-trasformazione-3-settimane.jpg
-categories: [abitudini alimentari, Alimentazione, associazioni alimentari, Dieta, Dimagrire, Dimagrire, dissociata, Massa muscolare, Non categorizzato, pasto perfetto, problemi digestivi, trasformazione]
+categories: [Alimentazione, Dimagrimento]
+tags: [Abitudini Alimentari, Associazioni Alimentari, Dieta, Dimagrire, Dissociata, Massa Muscolare, Pasto Perfetto, Problemi Digestivi, Trasformazione]
 ---
 Non so voi, ma io ho passato queste ultime vacanze di Natale mangiando e bevendo no-limits.
 

@@ -5,7 +5,8 @@ date: 2013-02-12 09:25
 author: davegamba
 comments: true
 image: 2013-02-12-cura-rosacea.jpg
-categories: [Non categorizzato]
+categories: [Benessere]
+tags: [Malattie]
 ---
 Questo articolo segue alla [precedente intervista fatta al dottor Ruffini]({% post_url 2012-12-10-cura-pelle %}) in questo sito, sul Metodo Ruffini. **Il Metodo Ruffini è una cura per molti problemi dermatologici gravi, documentata da migliaia di studi e con innumerevoli testimonianze di guarigione**. Tuttavia la cura è ancora sconosciuta a gran parte delle persone. In queste ulteriore intervista al dottore, **si parlerà nello specifico della patologia epidermica della Rosacea**, che colpisce purtroppo un gran numero di persone. Visto il successo del precedente articolo, spero che anche questo approfondimento possa aiutare chi soffre di questo problema.
 

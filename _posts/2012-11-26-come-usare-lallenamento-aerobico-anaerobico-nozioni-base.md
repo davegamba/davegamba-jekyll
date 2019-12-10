@@ -5,7 +5,8 @@ date: 2012-11-26 17:40
 author: davegamba
 comments: true
 image: 2012-11-26-come-usare-lallenamento-aerobico-anaerobico-nozioni-base.jpg
-categories: [Dimagrire]
+categories: [Dimagrimento]
+tags: [Dimagrire, Aerobica]
 ---
 Fondamentalmente ci sono solo **2 modalità** fondamentali in cui allenarsi:
 

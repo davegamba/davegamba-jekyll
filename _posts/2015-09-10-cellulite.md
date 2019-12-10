@@ -5,7 +5,8 @@ date: 2015-09-10 07:28
 author: davegamba
 comments: true
 image: 2015-09-10-cellulite.jpg
-categories: [Adipe, Allenamento Corpo Libero, Buccia d'arancia, Cellulite, Cellulite braccia, Cosce, Coscia, Creme cellulite, Dimagrire, Estetica, glutei, Inestetismo, Massaggi, Panniculopatia, Pressoterapia, Rimedi, Somatoline]
+categories: [Allenamento, Dimagrimento]
+tags: [Adipe, Corpo Libero, Buccia d'Arancia, Cellulite, Braccia, Cosce, Coscia, Creme cellulite, Dimagrire, Estetica, Glutei, Inestetismo, Massaggi, Panniculopatia, Pressoterapia, Rimedi, Somatoline]
 ---
 La Cellulite o PEFS, ossia **Panniculopatia Edemato-Fibro-Sclerotica** è un inestetismo provocato dall'alterazione del tessuto sottocutaneo con ipertrofia delle cellule adipose.
 

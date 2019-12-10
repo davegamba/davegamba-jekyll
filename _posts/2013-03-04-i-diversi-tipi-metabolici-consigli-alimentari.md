@@ -6,6 +6,7 @@ author: davegamba
 comments: true
 image: 2013-03-04-i-diversi-tipi-metabolici-consigli-alimentari.jpg
 categories: [Alimentazione]
+tags: [Metabolismo]
 ---
 
 Insomma con quale benzina il tuo corpo produce la migliore energia.
@@ -33,7 +34,7 @@ Dal momento che per le loro caratteristiche fisiche **bruciano i carboidrati mo
 
 Hanno in genere anche un appetito maggiore per il sale, che possono usare purquè utilizzino un **sale marino di altà qualità non-raffinato** e _NON_ il classico sale da cucina raffinato.
 
-Contrariamente ai consigli di molti 'esperti', loro sentono di dormire meglio se **vicino all'ora di andare a letto mangiano uno spuntino alto in grassi e proteine** (circa 2-3 ore prima).
+Contrariamente ai consigli di molti "esperti", loro sentono di dormire meglio se **vicino all'ora di andare a letto mangiano uno spuntino alto in grassi e proteine** (circa 2-3 ore prima).
 
 Questo si deve al fatto che bruciando velocemente i carboidrati nel loro metabolismo, tendono ad avere un ipoglicemia nei livelli del sangue se non consumano una dose di grassi e proteine per rallentare l'ingresso di carboidrati nel sangue.
 

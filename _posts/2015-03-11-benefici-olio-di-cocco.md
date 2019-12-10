@@ -5,7 +5,8 @@ date: 2015-03-11 08:22
 author: davegamba
 comments: true
 image: 2015-03-11-benefici-olio-di-cocco.jpg
-categories: [Alimentazione, burro, burro di cocco, cocco, idrogenati, noce, noce di cocco, olio, pelle, tiroide]
+categories: [Alimentazione]
+tags: [Burro, Burro di Cocco, Cocco, Idrogenati, Olio, Pelle, Tiroide]
 ---
 
 La fobia dei grassi che i miti alimentari hanno diffuso nel tempo porta spesso le persone di oggi ad allontanarsi dai cibi più sani e utili.

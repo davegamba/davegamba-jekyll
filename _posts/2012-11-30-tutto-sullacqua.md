@@ -5,7 +5,8 @@ date: 2012-11-30 13:32
 author: davegamba
 comments: true
 image: 2012-11-30-tutto-sullacqua.jpg
-categories: [Alimentazione]
+categories: [Alimentazione, Benessere]
+tags: [Acqua]
 ---
 Nel Web esistono già molti articoli riguardo gli innumerevoli benefici dell'acqua. Tuttavia quello che desidero fare con questo articolo è una summa completa di tutte le le nozioni principali riguardo il rapporto acqua-corpo.
 

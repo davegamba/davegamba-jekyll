@@ -6,6 +6,7 @@ author: davegamba
 comments: true
 image: 2013-01-24-la-dieta-alcalina-di-cosa-si-tratta.jpg
 categories: [Alimentazione]
+tags: [Acqua, Alcalina]
 ---
 Dopo aver ricevuto diverse domande su questo tema, ho pensato di scrivere un articolo riassuntivo riguardo il regime alimentare alcalino o alcalinizzante.
 Ho messo insieme le domande più frequenti, così da rispondere anche a tutte le altre persone interessate all'argomento.

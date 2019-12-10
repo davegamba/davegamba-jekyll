@@ -5,7 +5,8 @@ date: 2015-08-18 11:01
 author: davegamba
 comments: true
 image: 2015-08-18-stretching.jpg
-categories: [Esercizi, Esercizio, Non categorizzato, Stretching]
+categories: [Allenamento]
+tags: [Esercizi, Stretching]
 ---
 
 I miei esercizi stretching senza attrezzi, una serie di esercizi esercizi di stiramento e rilassamento muscolare da fare in palestra come a casa.

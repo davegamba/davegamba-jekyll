@@ -7,7 +7,8 @@ author:
   - veronicaprocopio
 comments: true
 image: 2016-10-11-ciclo-fame-nervosa.jpg
-categories: [AAArticoli Fondamentali, Alimentazione, Aminoacidi, BCAA, benessere, ciclo, Ciclo mestruale, cioccolata, Cioccolato, debolezza, dolore, fame nervosa, insulina, magnesio, ormoni, seratonina, sgarro, tiroide, triptofano, umore, vitamina c, voglia, voglie]
+categories: [Alimentazione, Benessere]
+tags: [Aminoacidi, BCAA, Ciclo Mestruale, Cioccolato, Debolezza, Dolore, Fame Nervosa, Insulina, Magnesio, Ormoni, Serotonina, Sgarro, Tiroide, Triptofano, Umore, Acido Ascorbico, Vitamina C, Vitamine, Voglie]
 ---
 
 Per non parlare dei cali dell'umore. Del senso di gonfiore addominale. Dell'insonnia e Dell'astenia? A me non è mai capitato, ma a praticamente a tutte le mie Clienti, sì. Sempre. Ogni mese. È ciò che comunamente si definisce **Sindrome Premestruale**. Si manifesta nell'80% delle donne in età fertile, e annovera **circa 200 sintomi aspecifici che coinvolgono la sfera fisiologica, emotiva e psicologica.** NON MALE. Ad oggi, non sono ancora noti tutti i processi coinvolti nell'insorgenza di questa sintomatologia che, oltretutto, è estremamente mutevole e soggetta a variazioni individuali. Tuttavia, è possibile notare il manifestarsi di processi specifici, che **non** si rivelano durante la gravidanza o dopo la menopausa. Andiamo ad analizzare in breve il ciclo mestruale per capire cosa fare di conseguenza.

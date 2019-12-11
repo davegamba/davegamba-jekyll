@@ -113,11 +113,6 @@ owner:
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.md, LICENSE, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, Gemfile, Gemfile.lock, docker-compose.yml, serve.bat, build.bat, firebase-debug.log, .firebaserc, firebase.json]
 
-api:
-    facebook:
-        appid: '508063409287796'
-        version: 'v3.3'
-
 jekyll-archives:
     enabled: 'all'
     layout: archive
@@ -127,4 +122,11 @@ jekyll-archives:
         day: '/:year/:month/:day/'
         tag: '/tag/:name/'
         category: '/category/:name/'
-    
+
+twitter:
+    username: DaveGambaPT
+    card: summary
+
+facebook:
+    app_id: '508063409287796'
+    version: 'v3.3'

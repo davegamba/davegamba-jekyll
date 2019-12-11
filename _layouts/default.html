@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		{% seo %}
+		{% seo locale=site.lang %}
 		{% include absolute-link.html link=site.favicon rel="shortcut icon" type="image/x-icon" %}
 		<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap" rel="stylesheet" />
 		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" %}
@@ -13,11 +13,11 @@
 		{% include tracking-header.html %}
 	</head>
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
-		<script>window.fbAsyncInit=function(){FB.init({appId:'{{ site.api.facebook.appid }}',autoLogAppEvents:true,xfbml:true,version:'{{ site.api.facebook.version }}'})};</script>
+		<script>window.fbAsyncInit=function(){FB.init({appId:'{{site.facebook.app_id}}',autoLogAppEvents:true,xfbml:true,version:'{{site.facebook.version}}'})};</script>
 		<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
 		<nav id="top-menu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
 			<div class="container">
-				<a class="navbar-brand" href="{{ "/" | absolute_url }}">{% include absolute-image.html file="header.svg" title=site.name width="212" height="31" %}</a>
+				<a class="navbar-brand" href="{{"/" | absolute_url}}">{% include absolute-image.html file="header.svg" title=site.name width="212" height="31" %}</a>
 				<button class="hamburger hamburger--collapse navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-mobile" aria-controls="navbar-mobile" aria-expanded="false" aria-label="Menu">
 					<span class="hamburger-box">
 						<span class="hamburger-inner"></span>
@@ -40,7 +40,7 @@
 			<ul class="mb-0"></ul>
 		</div>
 		<main role="main" class="site-content">
-			{{ content }}
+			{{content}}
 		</main>
 		<footer class="text-muted small">
 			<div class="container p-4">

@@ -1,13 +1,13 @@
-<div class="mb-3 d-flex align-items-center">             
+<div class="row mb-3 d-flex align-items-center">             
 	{% if include.post.image %}
 	<div class="col-md-4">
 		{% include post-thumbnail.html post=post %}
 	</div>
 	{% endif %}
 	<div class="col-md-8">
-		<h2 class="mb-2 h6 font-weight-bold">
+		<h6 class="mt-2 mb-2 font-weight-bold">
 			<a class="text-dark" href="{{include.post.url | absolute_url}}">{{include.post.title}}</a>
-		</h2>
+		</h6>
 		{% include catlist.html categories = include.post.categories %}
 		{% include post-date.html date=include.post.date %}
 	</div>

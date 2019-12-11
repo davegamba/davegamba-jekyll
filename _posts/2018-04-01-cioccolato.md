@@ -73,7 +73,9 @@ In primo luogo, **la Cioccolata** (insieme al tè verde, alla frutta secca, ai 
 
 **Il magnesio,** insieme al calcio e al fosforo, è soprattutto un componente del **tessuto osseo**. La sua integrazione può rilevarsi estremamente importante **durante la menopausa nella prevenzione della osteoporosi**, in quanto favorisce il deposito di calcio nelle ossa.
 
-Il magnesio, inoltre, interviene nella regolazione dell'eccitabilità delle membrane nervose e muscolari e nella trasmissione sinaptica. La sua integrazione è **importante in caso di intensa attività sportiva**. Infine, il magnesio è un calmante del sistema nervoso e può contribuire alla riduzione dello stress.
+Il magnesio, inoltre, interviene nella regolazione dell'eccitabilità delle membrane nervose e muscolari e nella trasmissione sinaptica. La sua integrazione è **importante in caso di intensa attività sportiva**.
+
+Infine, il magnesio è un calmante del sistema nervoso e può contribuire alla riduzione dello stress.
 
 > Per tutte queste proprietà, la sua integrazione è raccomandata anche nel trattamento della sindrome pre-mestruale.
 
@@ -86,13 +88,13 @@ Fonte di Flavonoidi
 
 Infatti, sono in grado di **bloccare l'azione di molti radicali liberi**. Inoltre, contribuiscono a migliorare il tono delle _pareti dei vasi sanguigni_, rendendole più _resistenti_. Questo si rivela **particolarmente importante nella prevenzione di malattie cardiovascolari o in caso di fragilità capillare, ritenzione idrica e cellulite.**
 
-L'aumento del tono capillare contrasta l'accumulo di liquidi nei tessuti, meccanismo che è alla base dell'insorgenza della cellulite. Per saperne di più leggi anche [CELLULITE: CAUSE E RIMEDI PRATICI.](../cellulite/)
+L'aumento del tono capillare contrasta l'accumulo di liquidi nei tessuti, meccanismo che è alla base dell'insorgenza della cellulite. Per saperne di più leggi anche [CELLULITE: CAUSE E RIMEDI PRATICI]({% post_url 2015-09-10-cellulite %}).
 
 ![Bilancia]({{site.images_root}}bilancia-silhouette.png)
 
 Parlando sempre di flavonoidi vi rimando a questa divertente ricerca che è stata condotta per dimostrare una eventuale correlazione tra il **consumo di cioccolato e il numero di vincitori di premio Nobel per ogni singolo Paese (!!!)**.
 
-Infatti, sembrerebbe che un'integrazione costante di flavonoidi sia associato a un miglioramento delle facoltà cognitive -> (Vedi [PDF dello studio](http://www.biostat.jhsph.edu/courses/bio621/misc/Chocolate%20consumption%20cognitive%20fu nction%20and%20nobel%20laurates%20(NEJM).pdf)).
+Infatti, sembrerebbe che un'integrazione costante di flavonoidi sia associato a un miglioramento delle facoltà cognitive -> (Vedi [PDF dello studio](http://www.biostat.jhsph.edu/courses/bio621/misc/Chocolate%20consumption%20cognitive%20function%20and%20nobel%20laurates%20(NEJM).pdf)).
 
 Fonte di Polifenoli
 -------------------
@@ -101,7 +103,7 @@ Fonte di Polifenoli
 
 Inoltre, **inibendo la cascata dell'acido arachidonico, sono molecole antinfiammatorie.**
 
-![chocolate]({{site.images_root}}2018-04-01-cioccolato.jpg)
+![chocolate]({{site.images_root}}2018-04-01-cioccolato-1.jpg)
 
 ### Quanto detto finora si riferisce esclusivamente al cioccolato extra-fondente
 

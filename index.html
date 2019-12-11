@@ -20,16 +20,14 @@ description: "Personal Trainer Online"
 	<div class="row remove-site-content-margin">
 		{% assign latest_post = site.posts[0] %}
 		<div class="col-md-6 mt-5">
-			<div class="card border-0 mb-4 box-shadow">   
-				<a href="{{ latest_post.url | absolute_url }}">
-					<div class="topfirstimage" style="background-image:url({% if latest_post.image contains "://" %}{{ latest_post.image }}{% else %} {{site.images_root}}{{ latest_post.image}}{% endif %}); height: 200px; background-size: cover; background-repeat: no-repeat;"></div>
-				</a>
+			<div class="card border-0 mb-4 box-shadow">
+				{% include post-thumbnail.html post=latest_post %}
 				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
 					<h2 class="h4 font-weight-bold">
-						<a class="text-dark" href="{{ latest_post.url | absolute_url }}">{{ latest_post.title }}</a>
+						<a class="text-dark" href="{{latest_post.url | absolute_url}}">{{latest_post.title}}</a>
 					</h2>
 					<p class="excerpt">
-						{{ latest_post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+						{{latest_post.excerpt | strip_html | strip_newlines | truncate: 136}}
 					</p>
 					<div>
 						{% include catlist.html categories=latest_post.categories %}
@@ -50,7 +48,7 @@ description: "Personal Trainer Online"
 	<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 	{% for post in site.posts %} 
 	{% if post.tags contains "sticky" %}
-	<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+	<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 bg-lightblue position-relative">
 		<div class="pl-4 pr-0 h-100 tofront">
 			<div class="row justify-content-between">
 				<div class="col-md-6 pt-4 pb-4 pr-lg-4 align-self-center">
@@ -60,8 +58,7 @@ description: "Personal Trainer Online"
 					</p>
 					<a href="{{ post.url | absolute_url }}" class="btn btn-dark">Read More</a>
 				</div>
-				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.images_root}}{{ post.image }});">	
-				</div>
+				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.images_root}}{{ post.image }});"></div>
 			</div>
 		</div>
 	</div> 

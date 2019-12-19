@@ -53,7 +53,7 @@ A livello industriale la produzione di cioccolato avviene tramite **una serie di
 	*   **bianco**: burro di cacao, zucchero, vaniglia, latte o latte in polvere.
 	In alcuni paesi è consentito di tagliare il burro di cacao con altri grassi vegetali. Spesso viene aggiunta anche la lecitina di soia, che agisce come agente emulsionante favorendo una maggiore omogeneizzazione degli ingredienti.
 	_Il cioccolato fondente più pregiato arriva a contenere non meno del 70% di cacao (sia polvere sia burro)_.
-	![Cocoa Beans]({{site.images_root}}2018-04-01-cioccolato-2.jpg)
+	{% include file-image.html src="2018-04-01-cioccolato-2.jpg" title="Cocoa Beans" %}
 2.	La seconda fase è detta Concaggio **e prevede il lungo _mescolamento degli ingredienti_ a opera di apposite impastatrici e a temperature controllate**. Il Cioccolato più pregiato viene miscelato per non meno di una settimana. Terminata questa fase, il Cioccolato viene mantenuto fuso in serbatoi a 45-50°C. infine, grazie a questo procedimento vengono ossidati i tannini.
 3.	La terza fase è detta Tempraggio.
 	Poiché il burro di cacao tende a cristallizzare in maniera irregolare e disomogenea, il composto fuso viene sottoposto a un _**raffreddamento controllato, fintanto che si raggiunge la cristallizzazione ottimale**_.
@@ -90,7 +90,7 @@ Infatti, sono in grado di **bloccare l'azione di molti radicali liberi**. Inoltr
 
 L'aumento del tono capillare contrasta l'accumulo di liquidi nei tessuti, meccanismo che è alla base dell'insorgenza della cellulite. Per saperne di più leggi anche [CELLULITE: CAUSE E RIMEDI PRATICI]({% post_url 2015-09-10-cellulite %}).
 
-![Bilancia]({{site.images_root}}bilancia-silhouette.png)
+{% include file-image.html src="bilancia-silhouette.png" title="Bilancia" %}
 
 Parlando sempre di flavonoidi vi rimando a questa divertente ricerca che è stata condotta per dimostrare una eventuale correlazione tra il **consumo di cioccolato e il numero di vincitori di premio Nobel per ogni singolo Paese (!!!)**.
 
@@ -103,7 +103,7 @@ Fonte di Polifenoli
 
 Inoltre, **inibendo la cascata dell'acido arachidonico, sono molecole antinfiammatorie.**
 
-![chocolate]({{site.images_root}}2018-04-01-cioccolato-1.jpg)
+{% include file-image.html src="2018-04-01-cioccolato-1.jpg" title="Chocolate" %}
 
 ### Quanto detto finora si riferisce esclusivamente al cioccolato extra-fondente
 

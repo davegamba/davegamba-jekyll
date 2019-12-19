@@ -91,7 +91,7 @@ Fu come un tornado che spazzò via il vecchio. ​  
 
 ## LINUS PAULING
 
-![Linus Pauling]({{site.images_root}}2013-10-14-vitamina-c-linus-pauling.jpg)
+{% include file-image.html src="2013-10-14-vitamina-c-linus-pauling.jpg" title="Linus Pauling" %}
 
 ​Linus Pauling fu uno dei primi scienziati e dottori a sostenere l'Acido Ascorbico per la guarigione e la prevenzione.
 
@@ -186,7 +186,7 @@ Il più potente in effetti. Infatti è il primo elemento in grado di bloccare il
 
 ## SECONDA PARTE: DOMANDE E DUBBI
 
-![Vitamina C]({{site.images_root}}vitamina_c.png)
+{% include file-image.html src="vitamina_c.png" title="Vitamina C" %}
 
 Dopo aver acquisito queste nozioni è normale avere dubbi. Insomma una sostanza che sembra curare tutto, un elisir della salute e della giovinezza, perché non si conosceva prima? O meglio perché non si sponsorizza di più che "la semplice Vitamina C è così potente!"? Queste sono domande intelligenti che tutti prima o poi si pongono se vogliono approfondire il tema seriamente.  
 
@@ -289,7 +289,7 @@ Nella maggioranza delle persone **la quantità finale metabolizzabile è tra i 6
 
 In casi di malattia essa si va a moltiplicare a seconda della patologia. Per dare un riferimento, propongo qui sotto è la **Tabella di Cathcart:**
 
-![tabella Vitamina C]({{site.images_root}}tabella-vitamina-c.png)
+{% include file-image.html src="tabella-vitamina-c.png" title="Tabella Vitamina C" %}
 
 
 Egli dichiarava anche che per utilizzare al meglio gli effetti della vitamina bisogna assumere quotidianamente dal **80 al 100% della propria Tolleranza Intestinale.**

@@ -16,8 +16,8 @@ La ragione principale naturalmente sta nel
 ### migliorare al massimo la Performance e i Risultati
 
 Che nella pratica si traduce nel
-–	Svolgere un workout più energico/forte/vigoroso
-–	Migliorare la Massa Magra e abbassare la Massa Grassa
+-	Svolgere un workout più energico/forte/vigoroso
+-	Migliorare la Massa Magra e abbassare la Massa Grassa
 	_(migliorare la massa magra e capacità aerobica/fiato è la priorità dell'allenamento)_
 
 L'Intenzione è trovare cosa faccia rispondere meglio tutto il Corpo, la fisiologia e in particolare il sistema ormonale, per permetterci di arrivare al massimo del nostro potenziale, per sfruttare al meglio la _**sintesi proteica**_ (capacità di genere nuovo muscolo più tonico elastico forte compatto).
@@ -84,7 +84,7 @@ Un'altra ottima idea per gli atleti avanzati può essere aggiungere anche **Argi
 Cosa Mangio Dopo L'Allenamento
 ==============================
 
-![Frutto Proteico Siero Latte]({{site.images_root}}2018-11-04-cosa-mangiare-prima-dopo-allenamento-1.jpg)
+{% include file-image.html src="2018-11-04-cosa-mangiare-prima-dopo-allenamento-1.jpg" title="Frutto Proteico Siero Latte" %}
 
 Invece **dopo l'Allenamento** si mangia eccome :).
 
@@ -136,7 +136,7 @@ E sono il tipo di cibo che _**deve essere di massima qualità**_ se veramente si
 Io naturalmente [uso le FORCE](https://wildfitters.it/products/force-ciocc) post-allenamento.
 Proteine da latte di allevamenti LIBERI biologici, SENZA nessun additivo, solo un pò di stevia, e Vaniglia o Cacao naturali. Non serve altro.
 
-![Frutto Proteico Siero Latte]({{site.images_root}}2018-11-04-cosa-mangiare-prima-dopo-allenamento-2.jpg "Frutto Proteico Siero Latte")
+{% include file-image.html src="2018-11-04-cosa-mangiare-prima-dopo-allenamento-2.jpg" title="Frutto Proteico Siero Latte" %}
 
 In alternativa per chi non può o non vuole consumare Siero del latte, ci sono anche [Proteine in polvere vegetali](https://wildfitters.it/products/vegforce). Queste proteine possono essere valide anche se possiedono uno spettro aminoacidico più basso.
 
@@ -156,7 +156,7 @@ E pensiamo di esserci riusciti :)
 
 Abbiamo creato [**VEGFORCE**](https://wildfitters.it/products/vegforce), ovvero **Proteine vegetali dei Piselli con l'aggiunta di 9 (_NOVE_) Superfood** per potenziarle e nutrire e proteggere il muscolo al massimo. Sapore Cannella.
 
-Non stiamo esagerando. Provare per credere, e poi ditemi come è andata  **([le trovi Qui](https://wildfitters.it/products/vegforce))**.
+Non stiamo esagerando. Provare per credere, e poi ditemi come è andata **([le trovi Qui](https://wildfitters.it/products/vegforce))**.
 
 E Le Quantità?
 ==============

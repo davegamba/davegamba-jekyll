@@ -85,7 +85,7 @@ Più avanti, dal processo di coagulazione della soia con sali estratti dalle alg
 
 Ad oggi, il **consumo quotidiano di soia del popolo Orientale non supera i 40 gr/die, che ben si scosta dai 240 gr di una tazza di "latte di soia" o da una porzione di tofu (sui 200/300 gr) consumati da un occidentale medio**, che sceglie la soia come alimento d'elezione per la sua salute.
 
-![Tofu di Soia Beijingchina]({{site.images_root}}2017-03-22-soia-tutto-quello-che-devi-sapere-1.jpg)
+{% include file-image.html src="2017-03-22-soia-tutto-quello-che-devi-sapere-1.jpg" title="Tofu di Soia Beijingchina" %}
 
 ### Riassumendo, perché la soia (gialla) è un effettivo rischio per la nostra salute?
 
@@ -121,9 +121,9 @@ Si prestano ad essere consumati sotto forma di germogli, oppure come alternativa
 
 Queste due varietà possono essere consumate davvero a cuor leggero, ma non dimenticate che il **vero focus di un'alimentazione salutistica è sempre quello della variabilità! 😉
 
-![Soia Edamame]({{site.images_root}}2017-03-22-soia-tutto-quello-che-devi-sapere-2.jpg)
+{% include file-image.html src="2017-03-22-soia-tutto-quello-che-devi-sapere-2.jpg" title="Soia Edamame" %}
 
-![Soia Azuki]({{site.images_root}}2017-03-22-soia-tutto-quello-che-devi-sapere-3.jpg)
+{% include file-image.html src="2017-03-22-soia-tutto-quello-che-devi-sapere-3.jpg" title="Soia Azuki" %}
 
 ### Bibliografia
 
@@ -131,4 +131,4 @@ Queste due varietà possono essere consumate davvero a cuor leggero, ma non dime
 *   [Soy intake and blood cholesterol concentrations: a cross-sectional study of 1033 pre- and postmenopausal women in the Oxford arm of the European Prospective Investigation into Cancer and Nutrition](http://ajcn.nutrition.org/content/80/5/1391.full)
 *   [Soy-not-so-(de)licious](http://www.nutrition.org/asn-blog/2009/09/soy-not-so-delicious/)
 *   [Kaayla T. Daniel, PhD, The Whole Soy Story: The Dark Side of American's Favorite Health Food (New Trends Publishing, 2004, ISBN-13: 978-0967089751)](http://www.lookupbyisbn.com/Lookup/Book/0967089751/978-0967089751/1)
-*   [Michele Riefoli – Mangiar Sano e Naturale (Macro Edizioni, 2013, 978-8878690684)](http://www.lookupbyisbn.com/Lookup/Book/B00E1BXC4A/978-8878690684/1)
+*   [Michele Riefoli - Mangiar Sano e Naturale (Macro Edizioni, 2013, 978-8878690684)](http://www.lookupbyisbn.com/Lookup/Book/B00E1BXC4A/978-8878690684/1)

@@ -41,7 +41,7 @@ Dunque se hai un obiettivo specifico, e vuoi sapere che cosa stai facendo ai tuo
 
 Ci sono due metodi per conoscere la propria Forza Massima in un esercizio:
 
-![Massimale]({{site.images_root}}2012-12-03-come-usare-il-massimale-per-raggiungere-il-proprio-obiettivo-specifico-1.jpg)
+{% include file-image.html src="2012-12-03-come-usare-il-massimale-per-raggiungere-il-proprio-obiettivo-specifico-1.jpg" title="Massimale" %}
 
 ​- METODO DIRETTO: Semplicemente ti metti a fare l'esercizio e fai diversi tentativi, aumentando il carico, fino a quando trovi quel carico che riesci a sollevare per una sola volta. Quella è la tua 1RMax.
 - METODO INDIRETTO: Usi un carico sub-massimale e fai più ripetizioni possibili. Una volta concluso inserisci le ripetizioni eseguite in un'equazione e il risultato sarà il tuo 1RMax.

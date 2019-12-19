@@ -12,7 +12,7 @@ Tempo fa ho avuto la fortuna di incontrare e conoscere successivamente, uno di q
 
 **Qualcuno che cerca qualcosa di innovativo per migliorare e facilitare la vita delle persone**. Sia esso guarire una malattia, semplificare un'attività, prevenire uno squilibrio involontario. Non certo stare seduti e dare scatolette di pastiglie sempre uguali. Non c'è bisogno di laurearsi per quello, lo può fare chiunque. La vera medicina innovativa e di ricerca fa verso l'eliminazione del farmaco, non verso un uso superficiale e di massa.
 
-![Cura dermatologica]({{site.images_root}}2012-12-10-cura-pelle-1.jpg)
+{% include file-image.html src="2012-12-10-cura-pelle-1.jpg" title="Cura Dermatologica" %}
 
 Questo medico che ho conosciuto ha fatto alcune scoperte innovative nella sua carriera riguardo le malattie epidermiche e la cura delle pelle. Visto che le sue scoperte non sono brevettabili farmacologicamente (perché troppo semplici) non ha mai trovato grande diffusione ne popolarità. Quindi ho pensato di fargli un intervista io. Così che tutte le persone con i problemi sottoelencati possano trovare la strada della guarigione con questo Metodo.
 

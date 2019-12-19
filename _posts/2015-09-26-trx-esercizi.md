@@ -29,7 +29,7 @@ A breve pubblicheremo anche Allenamenti completi di esercizi da unire in circuit
 
 Per adesso provate e imparate questi esercizi e... **Buon allenamento!**
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-1.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-1.jpg" title="TRX" %}
 
 GINOCCHIA AL PETTO
 ==================
@@ -42,7 +42,7 @@ Per un livello più facile le gambe le potete portare al petto alternate.
 
 ERRORE COMUNE: Perdita del bacino e del corpo in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-2.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-2.jpg" title="TRX" %}
 
 A SQUADRA
 =========
@@ -51,7 +51,7 @@ Partendo da una posizione in quadrupedia, inserirete la punta dei piedi nelle ci
 
 Successivamente portate l'anca il più in alto possibile tenendo le gambe tese e contraete l'addome. Nella discesa fermatevi con l'anca in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-3.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-3.jpg" title="TRX" %}
 
 SQUAT AL TRX
 ============
@@ -66,7 +66,7 @@ Le ginocchia non devono superare troppo la punta dei piedi. tornate in posizione
 
 ERRORE COMUNE: bacino in retroversione e tallone alzato
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-4.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-4.jpg" title="TRX" %}
 
 AFFONDI INDIETRO
 ================
@@ -81,7 +81,7 @@ Per renderlo più complicato la gamba che portate indietro potete anche non appo
 
 ERRORE COMUNE: ginocchio in avanti, tallone che si alza.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-5.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-5.jpg" title="TRX" %}
 
 FEMORALI
 ========
@@ -92,7 +92,7 @@ Sdraiatevi supini, con i talloni dentro le cinghie del TRX.
 
 Con le braccia lungo i fianchi sollevate l'anca da terra e portate le ginocchia verso il petto, con le ginocchia almeno oltre la linea dell'anca.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-6.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-6.jpg" title="TRX" %}
 
 ABDUTTORI
 =========
@@ -103,7 +103,7 @@ Sdraiatevi supini, con i talloni dentro le cinghie del TRX.
 
 Con le braccia lungo i fianchi sollevate l'anca da terra e tenendo le gambe tese effettuate un movimento di apertura e chiusura, chiudendo e divaricando le gambe.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-7.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-7.jpg" title="TRX" %}
 
 PUSH-UPS A TERRA
 ================
@@ -120,7 +120,7 @@ Il movimento di discesa è controllato e dovete arrivare a toccare terra con il 
 
 Se questo esercizio vi risulta difficile, appoggia le ginocchia a terra. ERRORE COMUNE: perdita bacino in avanti e non in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-8.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-8.jpg" title="TRX" %}
 
 SPINTE
 ======
@@ -137,7 +137,7 @@ Per aumentare la difficoltà i piedi vanno spostati più indietro, in modo da au
 
 ERRORE COMUNE: ginocchia piegate e gambe non in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-9.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-9.jpg" title="TRX" %}
 
 REMATORE DORSALI
 ================
@@ -154,7 +154,7 @@ Lasciatevi andare indietro controllando il movimento.
 
 ERRORE COMUNE: perdita del bacino e corpo non in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-10.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-10.jpg" title="TRX" %}
 
 CROCI INVERSE
 =============
@@ -167,13 +167,13 @@ tornate alla posizione di partenza buttando fuori l aria senza perdere la posizi
 
 ERRORE COMUNE: perdita del bacino e corpo non in linea.
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-11.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-11.jpg" title="TRX" %}
 
 
 In collaborazione con il [PERSONAL TRAINER STUDIO](https://www.facebook.com/PtStudioMilano/) di Milano
 ------------------------------------------------------------------------------------------------------
 
-![TRX]({{site.images_root}}2015-09-26-trx-esercizi-12.jpg)
+{% include file-image.html src="2015-09-26-trx-esercizi-12.jpg" title="TRX" %}
 
 * Allenamenti dal vivo personalizzati progressivi.
 * Functional training.

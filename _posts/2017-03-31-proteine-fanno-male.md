@@ -23,7 +23,7 @@ Soprattutto quelli che non siamo in grado di sintetizzare in modo autonomo (cono
 
 In particolare, l'attenzione gira attorno alla diatriba che mette a paragone le proteine di origine vegetale con quelle di provenienza animale.
 
-![Proteina]({{site.images_root}}2017-03-31-proteine-fanno-male-1.png "Proteina")
+{% include file-image.html src="2017-03-31-proteine-fanno-male-1.png" title="Proteina" %}
 
 L'ultima tendenza è quella di preferire le proteine vegetali.
 

@@ -19,7 +19,7 @@ Iniziamo con qualche dato tecnico.
 Come Si Fa L'Olio Extravergine
 ------------------------------
 
-![Olive]({{site.images_root}}2018-03-29-olio-extravergine-oliva-proprieta-1.jpg)
+{% include file-image.html src="2018-03-29-olio-extravergine-oliva-proprieta-1.jpg" title="Olive" %}
 
 **L'Olio Extravergine d'Oliva è prodotto tramite estrazione** dalle Olive. (ma dai!)
 
@@ -53,7 +53,7 @@ E oltre a i grassi, cosa contiene??
 
 Come accennato prima le olive presentano i **polifenoli**. Queste molecole sono degli **antiossidanti naturali** presenti nelle piante che possono esercitare una straordinaria funzione protettiva nei confronti dei radicali liberi così dannosi per la salute.
 
-![Olio]({{site.images_root}}2018-03-29-olio-extravergine-oliva-proprieta-2.jpg)
+{% include file-image.html src="2018-03-29-olio-extravergine-oliva-proprieta-2.jpg" title="Olio" %}
 
 **I polifenoli** (in particolare l'oleuropeina), oltre all'azione antiossidante hanno proprietà **cardioprotettive e anti**nfiammatorie. Essi si trovano principalmente nel frutto e nelle foglie della pianta e sono sicuramente uno dei principi bioattivi che rendono le olive uno degli alimenti nutraceutici fondamentali della Dieta Mediterranea.
 
@@ -94,7 +94,7 @@ Come detto in precedenza, la quasi totalità della componente lipidica delle ol
 *   _**Olio d'oliva**_
 *   _**Olio di Sansa di oliva**_
 
-![Olive]({{site.images_root}}2018-03-29-olio-extravergine-oliva-proprieta-3.jpg)
+{% include file-image.html src="2018-03-29-olio-extravergine-oliva-proprieta-3.jpg" title="Olive" %}
 
 **L'olio Extravergine d'oliva ha un grado di acidità massimo consentito pari allo 0,8%.** Ciò significa che su 100 g di olio è concessa al massimo la presenza di 0,8 g di acido oleico libero.
 
@@ -112,7 +112,7 @@ Poiché il passaggio alla denominazione olio vergine costituisce una perdita di
 
 > Per quanto riguarda l'Olio Biologico, invece, la rettifica è sempre VIETATA!
 
-![Olio]({{site.images_root}}2018-03-29-olio-extravergine-oliva-proprieta-4.jpg)
+{% include file-image.html src="2018-03-29-olio-extravergine-oliva-proprieta-4.jpg" title="Olio" %}
 
 **L'olio Vergine d'Oliva ha un grado di acidità massimo consentito pari allo 2%.**
 

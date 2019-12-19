@@ -29,7 +29,7 @@ Per velocizzare il miglioramento e farti padroneggiare il miglior esercizio per 
 
 E crearti **una Schiena larga e forte**, naturalmente.
 
-![Dave Gamba]({{site.images_root}}2013-01-23-come-aumentare-trazioni-alla-sbarra-1.jpg)
+{% include file-image.html src="2013-01-23-come-aumentare-trazioni-alla-sbarra-1.jpg" title="Dave Gamba" %}
 
 **PS**: Le Trazioni in generale sono un esercizio adatte principalmente a persone NON sovrappeso.
 
@@ -55,7 +55,7 @@ Questa Trazione allena molto bene il Dorsale "laterale", dunque ideale per allar
 
 Ma diventa anche molto più difficile.
 
-![Trazioni]({{site.images_root}}2013-01-23-come-aumentare-trazioni-alla-sbarra-2.jpg)
+{% include file-image.html src="2013-01-23-come-aumentare-trazioni-alla-sbarra-2.jpg" title="Trazioni" %}
 
 **ESECUZIONE**: In linea di massima suggerisco di mantenere le mani aperte senza esagerare, leggermente più ampie delle spalle.
 
@@ -69,7 +69,7 @@ Ricorda che l'impulso è di portare il Petto verso la sbarra, NON il mento.
 
 ### TRAZIONI PRESA NEUTRA
 
-![Trazioni]({{site.images_root}}2013-01-23-come-aumentare-trazioni-alla-sbarra-3.jpg)
+{% include file-image.html src="2013-01-23-come-aumentare-trazioni-alla-sbarra-3.jpg" title="Trazioni" %}
 
 Esiste anche la **Presa Neutra**, ma per utilizzarla è necessario avere una sbarra adatta che abbia questa presa interna.
 
@@ -88,8 +88,8 @@ Se infatti parti da zero e fai fatica a fare anche una Trazioni, questo è il ti
 ### TRAZIONI INVERSE PRESA LARGA
 
 Questa è una presa che pochissima gente fa, in genere per 2 ragioni:
-– la maggior parte della gente la esegue inversa a mani strette, come vedremo dopo.
-– È diffusa l'idea che questa Trazioni faccia male alle articolazioni.
+- la maggior parte della gente la esegue inversa a mani strette, come vedremo dopo.
+- È diffusa l'idea che questa Trazioni faccia male alle articolazioni.
 
 Se hai letto le altre miei Schede d'Allenamento sai quanta attenzione e cura io ponga nell'articolazione e nello scegliere ESCLUSIVAMENTE Esercizi che le salvaguardino.
 
@@ -107,7 +107,7 @@ Un altro dettaglio molto importante è non tenere le mani più larghe delle spal
 
 Quando fatto bene questo movimento lavora il Dorso in maniera MOLTO completa, con un ottimo intervento del bicipite, senz'altro migliore della presa precedente.
 
-![Trazioni]({{site.images_root}}2013-01-23-come-aumentare-trazioni-alla-sbarra-4.jpg)
+{% include file-image.html src="2013-01-23-come-aumentare-trazioni-alla-sbarra-4.jpg" title="Trazioni" %}
 
 **ESECUZIONE:** Le Mani qui sono palmi verso il viso e all'ampiezza delle proprie spalle (NON mani vicine come puoi aver visto spesso fare, in quel caso è quasi un isolamento del Bicipite).
 
@@ -126,11 +126,11 @@ Inizia dalla Scheda 1 e passa alle successive solo quando raggiungi il requisito
 
 **LESSICO DELLE SCHEDE:** Il primo numero rappresenta quanti SET (o Serie) mentre il secondo numero quante REPS (o Ripetizioni) ad ogni Set. Il Riposo indica quando riposare tra un set e l'altro.
 
-**Esempio: 4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
+**Esempio: 4** (set) **x 12** (reps) **- 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con i secondi dati ad ogni Scheda.
 
-![Indicazioni]({{site.images_root}}scheda-rep.png)
+{% include file-image.html src="scheda-rep.png" title="Indicazioni" %}
 
 _**NB**_: Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc.
 

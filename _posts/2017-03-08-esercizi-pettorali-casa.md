@@ -22,7 +22,7 @@ Come vedremo, in tutti i movimenti di Piegamento o Flessioni sulle braccia è mo
 
 In generale è bene ricordare sempre che il movimento di discesa dei Piegamenti sarà meglio eseguirlo in maniera più lenta e controllata.
 
-![Dave Gamba]({{site.images_root}}davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg)
+{% include file-image.html src="davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg" title="Dave Gamba" %}
 
 VIDEO TUTTI I PIEGAMENTI
 ------------------------
@@ -96,7 +96,7 @@ Se cominci da zero comincia da queste Schede per iniziare a sviluppare Pettorali
 
 **LESSICO DELLE SCHEDE**: Il primo numero rappresenta quanti SET (o Serie) mentre il secondo numero quante REPS (o Ripetizioni) ad ogni Set. Il Riposo indica quando riposare tra un set e l'altro.
 
-**Esempio**: **4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
+**Esempio**: **4** (set) **x 12** (reps) **- 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con i secondi dati ad ogni Scheda.
 

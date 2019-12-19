@@ -77,7 +77,27 @@ Soprattutto perché ero ancora giovanissimo per avere problemi del genere.
 
 > Come potevo aiutare delle persone a risolvere dei problemi fisici, se io stesso dovevo risolvere un problema di questa entità?
 
-Era molto frustrante la situazione per me all'epoca, perché ancora non sapevo la causa esatta di questa disfunzione. Iniziai a provare esercizi di tutti i tipi: contrazione, allungamento, stretching. Cominciai a girare cibi diversi, ad eliminarne alcuni, inserirne altri... Volevo vedere se stavo facendo/mangiando qualcosa in particolare che aumentava la mia infiammazione lombare. A volte parevano esserci leggeri miglioramenti ma mai una guarigione totale. La cosa curiosa è che quando mi bloccavo davvero forte, passavo giornate sdraiato a riposo sul suolo e poi tornavo a stare un pochino meglio. **L'unica cosa di cui ero certo all'epoca quindi era che stare sdraiato su un superficie rigida come il pavimento aiutava il problema lombare.** Ma era solo l'inizio delle cose che cominciavo a capire. Inziai a studiare ogni cosa sull'argomento, come sempre faccio quando mi avvicino a un tema che voglio esplorare completamente nei dettagli. Studiai ogni testo, ogni convinzione, stupida o sensata, sul mal di schiena. Poi studiai le ricerche scientifiche di Pubmed, fno ad arrivare agli studi visti prima oltre molti altri. In pratica arrivai a capire che il **Sedersi su un sedia** poteva influenzare più seriamente di quel che pensavo il mal di schiena. In realtà non era niente di completamente nuovo a livello nozionistico: si è sempre studiato che una cattiva postura sulla seduta può creare problemi cervicali e alla colonna in genere. Ma il mio dolore lombare era troppo potente per poter pensare seriamente che un gesto così comune, che tutti compiono quotidianamente, potesse avere effetti così devastanti su di me, che ero un atleta forte e allenato in movimenti ben più complessi. Cosi, decisi di fare una prova:
+Era molto frustrante la situazione per me all'epoca, perché ancora non sapevo la causa esatta di questa disfunzione. Iniziai a provare esercizi di tutti i tipi: contrazione, allungamento, stretching.
+
+Cominciai a girare cibi diversi, ad eliminarne alcuni, inserirne altri... Volevo vedere se stavo facendo/mangiando qualcosa in particolare che aumentava la mia infiammazione lombare.
+
+A volte parevano esserci leggeri miglioramenti ma mai una guarigione totale.
+
+La cosa curiosa è che quando mi bloccavo davvero forte, passavo giornate sdraiato a riposo sul suolo e poi tornavo a stare un pochino meglio.
+
+**L'unica cosa di cui ero certo all'epoca quindi era che stare sdraiato su un superficie rigida come il pavimento aiutava il problema lombare.**
+
+Ma era solo l'inizio delle cose che cominciavo a capire. Inziai a studiare ogni cosa sull'argomento, come sempre faccio quando mi avvicino a un tema che voglio esplorare completamente nei dettagli.
+
+Studiai ogni testo, ogni convinzione, stupida o sensata, sul mal di schiena. Poi studiai le ricerche scientifiche di Pubmed, fno ad arrivare agli studi visti prima oltre molti altri.
+
+In pratica arrivai a capire che il **Sedersi su un sedia** poteva influenzare più seriamente di quel che pensavo il mal di schiena.
+
+In realtà non era niente di completamente nuovo a livello nozionistico: si è sempre studiato che una cattiva postura sulla seduta può creare problemi cervicali e alla colonna in genere.
+
+Ma il mio dolore lombare era troppo potente per poter pensare seriamente che un gesto così comune, che tutti compiono quotidianamente, potesse avere effetti così devastanti su di me, che ero un atleta forte e allenato in movimenti ben più complessi.
+
+Cosi, decisi di fare una prova:
 
 > Di fare almeno un mese in un cui mi sarei seduto il meno possibile.
 
@@ -154,7 +174,7 @@ Ma è bene sapere che in giappone moltissimi uffici ormai permettono ai propri i
 
 **COME?** Esistono diversi attrezzi in commercio che puoi trovare facilmente online per lavorare in piedi sulla scrivania. Dei veri e priopri rialzi fatti apposta per riuscire a lavorare in piedi, come questo
 
-![Sedia]({{site.images_root}}2015-04-15-maldischiena-1.jpg)
+{% include file-image.html src="2015-04-15-maldischiena-1.jpg" title="Sedia" %}
 
 Li troverai facilmente online senza che io ti dica marche specifiche.
 
@@ -166,7 +186,7 @@ Ovvero la causa del tuo dolore è anche la tua salvezza (la vita ha un sottile s
 
 Proprio così:
 
-![Sedia]({{site.images_root}}2015-04-15-maldischiena-2.jpg)
+{% include file-image.html src="2015-04-15-maldischiena-2.jpg" title="Sedia" %}
 
 Sembra sciocco vederlo per la prima volta, lo so, ma se hai problemi della schiena
 

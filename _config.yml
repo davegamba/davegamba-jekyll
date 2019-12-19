@@ -10,11 +10,13 @@ logo: "assets/images/logo.png"
 favicon: "assets/images/static/favicon.ico"
 url: "https://davegamba-firebase.firebaseapp.com"
 baseurl: ""
-images_root: "https://storage.googleapis.com/files.davegamba.com/"
 google_analytics: "UA-36559615-1"
 facebook_pixel: "2161831077369797"
 date_format: "%d/%m/%Y"
 comments: false
+files:
+  images: "https://storage.googleapis.com/files.davegamba.com/images/"
+  downloads: "https://storage.googleapis.com/files.davegamba.com/downloads/"
 
 include: ["_pages"]
 permalink: /:title/

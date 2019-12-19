@@ -15,7 +15,7 @@ In continuo aggiornamento.
 
 ## Buon appetito
 
-![Mela Verde]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-1.jpg)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-1.jpg" title="Mela Verde" %}
 
 - mela verde o pera 1 limone, sbucciato se non biologico
 - 1/2 cetriolo, sbucciato se non biologico
@@ -30,7 +30,7 @@ Unisci il prezzemolo agli spinaci per assicurarti di centrifugarlo correttamente
 
 Mescola con cucchianino di legno o plastica e bevi subito.
 
-![Centrifuga Barbabietola]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-2.png)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-2.png" title="Centrifuga Barbabietola" %}
 
 - 3 carote, pelate
 - 1 barbabietola, ben pulita
@@ -42,7 +42,7 @@ Mescola con cucchianino di legno o plastica e bevi subito.
 
 Un'altra delle mie preferite perché adoro le centrifughe con zenzero (come tutte le persone a costituzione ayurvedica calda); inoltre è una centrifuga particolarmente buona ed economica, ideale per chi ha problemi di fegato o deve ripulirsi dopo giorni di baldoria. Lava bene la barbabietola e inseriscila per prima nella centrifuga. Continua con il resto degli ingredienti, unendo il prezzemolo ai cetrioli per comodità. Mescola con un cucchiaino di plastica o legno e consuma subito.
 
-![Centrifuga Carote]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-3.png)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-3.png" title="Centrifuga Carote" %}
 
 - 2 Foglie di lattuga (ideale se romana)
 - 1 piccola manciata di prezzemolo
@@ -52,7 +52,7 @@ Un'altra delle mie preferite perché adoro le centrifughe con zenzero (come tutt
 
 Centrifuga del mattino ideale. Inserisci il prezzemolo nella lattuga. Centrifuga il cetriolo e spegni la macchina. Aggiungere la lattuga con prezzemolo, le carote, e riaccendi la centrifuga. È possibile anche aggiungere un poco di zenzero o cocco fresco per un sapore più variegato. Mescola il succo e bevi subito.
 
-![Frullato Lamponi]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-4.jpg)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-4.jpg" title="Frullato Lamponi" %}
 
 - 1 cetriolo
 - 4 foglie verde scuro come spinaci, cavolo, bietole o verza
@@ -62,7 +62,7 @@ Centrifuga del mattino ideale. Inserisci il prezzemolo nella lattuga. Centrifuga
 
 Taglia gli ingredienti. Centrifuga mezzo cetriolo. Arrotola le foglie verdi e spingi nella centrifuga con l'altra metà del cetriolo. Spegni la macchina e inserisci i mirtilli (o altri frutti di bosco) e centrifugali. Ora aggiungere la mela e il succo di limone (in caso di limone biologico è possibile usare anche la buccia). Mescola tutto e bevi subito.
 
-![Frullato Kiwi]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-5.png)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-5.png" title="Frullato Kiwi" %}
 
 - 1 cetriolo, sbucciato se non biologico
 - 2 gambi di sedano Manciata di prezzemolo o spinaci
@@ -73,7 +73,7 @@ Taglia gli ingredienti. Centrifuga mezzo cetriolo. Arrotola le foglie verdi e sp
 
 Trita cetriolo, sedano, kiwi e mela nel frullatore. Metti nel frullatore con il succo di limone e ghiaccio e frulla fino a quando rimane cremoso.
 
-![Centrifuga Cocco]({{site.images_root}}2014-03-17-migliori-centrifughe-frullati-6.png)
+{% include file-image.html src="2014-03-17-migliori-centrifughe-frullati-6.png" title="Centrifuga Cocco" %}
 
 L'olio di cocco è un alleato nel rompere il ciclo di lievito di grassi. I suoi acidi grassi aprono il rivestimento protettivo delle cellule di lievito. Oltre ad innumerevoli altri benefici,  come la distruzione della Candida albicans al solo contatto, o il riequilibrio della risposta ormonale ad esempio.
 

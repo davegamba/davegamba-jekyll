@@ -82,4 +82,4 @@ In pratica ignorare completamente questi principi e trasgredirli tutti i giorni 
 
 Per comodità, ecco una tabella degli alimenti per avere un riassunto da ricordare:
 
-![problemi-digestione]({{site.images_root}}associazioni-alimentari.png "associazione alimentari")
+{% include file-image.html src="associazioni-alimentari.png" title="Associazioni Alimentari" %}

@@ -19,7 +19,7 @@ PREMESSA: COME È FATTO IL TUO CICLO TECNICAMENTE?
 Il ciclo mestruale si divide in 3 fasi:
 
 1.	**La Fase Follicolare**, che inizia con il manifestarsi del flusso mestruale, e ha una durata di circa 15 giorni.
-2.	**La Fase Ovulatoria**, che dura circa 1–3 giorni.
+2.	**La Fase Ovulatoria**, che dura circa 1-3 giorni.
 3.	**La Fase Luteinica**, che ha una durata di circa 13-14 giorni e termina con l'inizio del flusso mestruale del ciclo successivo. Corrisponde al periodo in cui si manifesta la Sindrome Premestruale.
 
 I protagonisti del ciclo mestruale sono **4 ormoni**:
@@ -65,7 +65,7 @@ Ciò determina la loro diminuzione a livello del sangue e **non viene più ostac
 
 **INOLTRE** gli zuccheri semplici, oltre a generare il ben noto picco insulinico, causano delle modificazioni a livello cerebrale eguali a quelle si registrano durante l'uso di droghe, come la cocaina e la morfina.
 
-![Dal documentario Fed UP, che descrive bene gli effetti dello zucchero raffinato nella società odierna]({{site.images_root}}zucchero-effetti-cervello.jpg)
+{% include file-image.html src="zucchero-effetti-cervello.jpg" title="Dal documentario Fed UP, che descrive bene gli effetti dello zucchero raffinato nella società odierna" %}
 
 > Dal documentario Fed UP, che descrive bene gli effetti dello zucchero raffinato nella società odierna
 

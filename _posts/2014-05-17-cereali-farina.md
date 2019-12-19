@@ -32,7 +32,7 @@ Come i Cereali (integrali spesso e volentieri) siano la fonte di carbo migliore 
 
 È così e basta. Essi sono alla base della piramide alimentare classica, dove si possono consumare praticamente senza limiti.
 
-![piramide-alimentare-classica]({{site.images_root}}piramide-alimentare-classica.jpg)
+{% include file-image.html src="piramide-alimentare-classica.jpg" title="Piramide Alimentare Classica" %}
 
 Esempio di Piramide mediterranea classica.
 

@@ -44,7 +44,7 @@ Se non hai ancora provato gli **Elastici in allenamento** ti invito a provarli 
 7.	**Sono l'ideale per esercitarsi in ogni momento**, a casa o all'aperto o in viaggio.
 	Gli elastici sono incredibilmente semplici, ma sono anche estremamente efficaci per far lavorare i tuoi muscoli, aumentare la resistenza, flessibilità, potenza e mobilità.
 
-[![Elastici]({{site.images_root}}2017-02-08-elastici-fitness-7-benefici-ed-esercizi-1.jpg)](http://amzn.to/2lu5NO8)
+[{% include file-image.html src="2017-02-08-elastici-fitness-7-benefici-ed-esercizi-1.jpg" title="Elastici" %}](http://amzn.to/2lu5NO8)
 
 RISCALDAMENTO CON GLI ELASTICI
 ------------------------------

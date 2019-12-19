@@ -7,7 +7,7 @@ description: "Personal Trainer Online"
 ---
 
 <section class="card border-0 home-section-fullwidth">
-	<div class="card-body" style="background-image:url('{{site.images_root}}home-section-1.jpg')">
+	<div class="card-body" style="background-image:url('{{site.files.images}}home-section-1.jpg')">
 		<div class="section-logo">
 			{% include absolute-image.html file="sign.svg" title=site.title width="1920" height="354" class="img-fluid" %}
 			<h2>Allenarsi breve-intenso, vivere nel fisico che vuoi, sentirsi al massimo</h2>
@@ -58,7 +58,7 @@ description: "Personal Trainer Online"
 					</p>
 					<a href="{{ post.url | absolute_url }}" class="btn btn-dark">Read More</a>
 				</div>
-				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.images_root}}{{ post.image }});"></div>
+				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.files.images}}{{ post.image }});"></div>
 			</div>
 		</div>
 	</div> 

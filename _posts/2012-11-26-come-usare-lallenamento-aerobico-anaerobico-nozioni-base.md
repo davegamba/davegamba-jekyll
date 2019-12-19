@@ -15,7 +15,7 @@ Fondamentalmente ci sono solo **2 modalità** fondamentali in cui allenarsi:
 - **AEROBICA**: Detto anche Cardiovascolare. Perché utilizza maggiormente l'ossigeno respirato per ricavare energia , trasportandolo ai muscoli attraverso il sangue. Questo è un allenamento di resistenza, perché ti permettere di fare uno sforzo fisico prolungato neltmepo. Come un corsa ad esempio. In parole povere significa allenare quello che nel linguaggio comune chiamiamo "il fiato". Ed è inoltre un ottimo allenamento per il cuore, il quale è anch'esso un muscolo con caratteristiche particolari.
 - ​**ANAEROBICO**: È il contrario. Significa allenarsi con poco o senza l'utilizzo di fiato (ossigeno). Ovvero un allenamento più **breve e più intenso**. Questo allenamento utilizza prevalentemente **una molecola energetica delle cellule che si chiama ATP**. **Molto potente ma di breve durata**. Esaurita quella, lo sforzo si prolunga e il muscolo deve iniziare ad utilizzare ossigeno, diventando quindi un allenamento Aerobico appunto. L'allenamento Anaerobico permette di caricare pesi maggiori e si usa quinid per sviluppare e tonifica e rinforza la muscolatura.
 
-![Allenamento Aerobico e Anaerobico]({{site.images_root}}2012-11-26-come-usare-lallenamento-aerobico-anaerobico-nozioni-base-1.jpg)
+{% include file-image.html src="2012-11-26-come-usare-lallenamento-aerobico-anaerobico-nozioni-base-1.jpg" title="Allenamento Aerobico e Anaerobico" %}
 
 COME SI USANO?​
 ---------------

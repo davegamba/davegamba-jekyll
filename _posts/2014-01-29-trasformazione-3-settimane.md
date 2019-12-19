@@ -22,7 +22,7 @@ Spesso con mal di testa, spesso stanco. Al punto che il 6 gennaio ho avuto un'id
 
 E l'ho fatto
 
-![trasformazione-dave-gamba]({{site.images_root}}2014-01-29-trasformazione-3-settimane-1.jpg)
+{% include file-image.html src="2014-01-29-trasformazione-3-settimane-1.jpg" title="Trasformazione 3 Settimane" %}
 
 Per quanto non stia troppo male naturalmente, sono comunque peggiorato notevolmente dalla mia forma solita.
 
@@ -46,7 +46,7 @@ Ma cambiare alcune poche abitudini quotidiane è quello che fa sempre la differe
 
 Ma dopo 3 settimane, come è andata quindi? Beh anche se non nella forma ideale ancora, senz'altro in una forma decente, sopratutto considerando che è stato fatto in poco tempo.
 
-![trasformazione-dave-gamba]({{site.images_root}}2014-01-29-trasformazione-3-settimane.jpg)
+{% include file-image.html src="2014-01-29-trasformazione-3-settimane.jpg" title="Trasformazione 3 Settimane" %}
 
 Ora naturalmente l'obiettivo è andare avanti a migliorare.
 
@@ -56,7 +56,7 @@ Di fatto io mangio a sazietà per ogni pasto, mangio quando ho fame e mi godo pi
 
 Quindi alle persone che spesso mi chiedono se c'è un trucco (io di solito rispondo sempre che non ci sono trucchi) potrei dire che quello che funziona è l'**ABITUDINE**.
 
-Fare tutti i giorni una o più cose 'giuste' invece che 'sbagliate', in automatico senza pensare. O finchè non diventa un automatismo.
+Fare tutti i giorni una o più cose "giuste" invece che "sbagliate", in automatico senza pensare. O finchè non diventa un automatismo.
 
 Non si tratta di essere de santi in alimentazione (altrimenti io sarei squalificato da ogni classifica), si tratta di applicare poche cose che si conoscono funzionare per sè.
 

@@ -32,7 +32,7 @@ In realtà non è così, si tratta di imparare che i cibi industriali contengono
 
 Sono fatti solo per vendere.
 
-![Pancia Gonfia]({{site.images_root}}2013-11-18-pancia-gonfia-1.jpg)
+{% include file-image.html src="2013-11-18-pancia-gonfia-1.jpg" title="Pancia Gonfia" %}
 
 Per essere precisi, **la sensazione di pancia gonfia (sia occasionale che cronica) si sente quando avviene una fermentazione o infiammazione nell'Intestino** (non nello stomaco come pensa qualcuno, quella al limite è [cattiva digestione dovuta alle associazioni)]({% post_url 2012-11-24-problemi-digestione %}).
 

@@ -53,7 +53,7 @@ Un allenamento efficace può durare benissimo 20 o 30 min se ben organizzato. An
 
 Le ragioni di questo possono forse essere la miglior percezione visiva. Dai un'occhiata a queste immagini, che mostrano l'incremento drammatico dell'attività cerebrale dopo una camminata di 20 minuti, comparato allo stare comodamente seduti per lo stesso tempo.
 
-![scan-cervello-davegamba]({{site.images_root}}2016-12-04-quando-smetti-di-allenarti-1.jpg)
+{% include file-image.html src="2016-12-04-quando-smetti-di-allenarti-1.jpg" title="Scan Cervello" %}
 
 Non esistono svantaggi nell'esercizio fisico ben eseguito, se non uno:
 
@@ -180,7 +180,7 @@ Saltare anche un allenamento breve e leggero generalmente non è necessario, a m
 	L'indolenzimento muscolare a insorgenza ritardata (DOMS), o l'indolenzimento che hai sperimentato uno o due giorni dopo l'allenamento, è causata da infiammazioni derivanti dalle microscopiche lacerazioni nelle tue fibre muscolari.
 	Il DOMS è normale e non è segnale tipico per cui dovresti saltare l'allenamento.
 	**L'eccezione è se hai davvero esagerato con il tuo allenamento precedente** (cosa che non dovrebbe succedere) ed hai una indolenzitura eccessivamente dolorante.
-	In questo caso, se i tuoi muscoli sono molto indolenziti vorrai prenderti un ampio lasso di tempo per avere un recupero totale prima di allenarli di nuovo – che potrebbe essere al massimo dai cinque ai sette giorni.
+	In questo caso, se i tuoi muscoli sono molto indolenziti vorrai prenderti un ampio lasso di tempo per avere un recupero totale prima di allenarli di nuovo - che potrebbe essere al massimo dai cinque ai sette giorni.
 -	**Stai avendo una Giornata Stra Colma.**
 	Tutti noi abbiamo quei giorni più colmi - stracolmi - da impegni.
 	Cercare di inserirci un allenamento lungo in una giornata del genere potrebbe non essere possibile.
@@ -259,6 +259,6 @@ Quanto più si guarda avanti per i tuoi allenamenti, più piacevole è continuar
 
 Come bonus aggiunto, molti si sentono alla grande dopo i loro allenamenti, fornendo ulteriori motivazioni nel continuare a farlo.
 
-Un circolo vizioso positivo. Se non ti senti bene dopo il tuo allenamento— per esempio ti senti esausto invece di energizzato — questo è segno che dovresti esercitarti per meno tempo e più frequentemente nei giorni.
+Un circolo vizioso positivo. Se non ti senti bene dopo il tuo allenamento- per esempio ti senti esausto invece di energizzato - questo è segno che dovresti esercitarti per meno tempo e più frequentemente nei giorni.
 
 O probabilmente non stai seguendo l'allenamento giusto per te. Prova e fammi sapere ;)

@@ -55,8 +55,7 @@ E senza un lavoro aerobico E SOPRATTUTTO muscolare, sviluppereste solo insulino 
 
 Altrimenti tutto il discorso che vedremo in seguito, sui pro e contro, decade.
 
-![Dave Gamba]({{site.images_root}}2016-09-15-sgarro-dieta-guida-1.jpg)
-
+{% include file-image.html src="2016-09-15-sgarro-dieta-guida-1.jpg" title="Dave Gamba" %}
 
 
 PERCHÉ SGARRARE?
@@ -148,7 +147,7 @@ Vediamo le ragioni psicologiche e fisiche.
 	
 	Per tutte queste ragioni, un pasto o giornata di sgarro fatte con logica, portano a godersi il cibo che si desiderasenza perdere nessun progresso. Anzi, migliorandoli.
 
-![Dave Gamba]({{site.images_root}}2016-09-15-sgarro-dieta-guida-2.jpg)
+{% include file-image.html src="2016-09-15-sgarro-dieta-guida-2.jpg" title="Dave Gamba" %}
 
 
 COME CONSTRUIRE IL PROPRIO PASTO SGARRO (O CHEAT MEAL)

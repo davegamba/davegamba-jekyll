@@ -78,7 +78,7 @@ Coordinare il respiro e il movimento del corpo permette di esercitare la sincron
 
 In altri termini il qi gong consiste nell'armonizzare le funzioni corporee in modo da migliorare lo stato di salute generale dell'organismo.
 
-![Qi Gong]({{site.images_root}}2012-11-28-il-qi-gong-intervista-al-biologo-ed-esperto-di-cultura-orientale-tommaso-minafra-1.jpg)
+{% include file-image.html src="2012-11-28-il-qi-gong-intervista-al-biologo-ed-esperto-di-cultura-orientale-tommaso-minafra-1.jpg" title="Qi Gong" %}
 
 Grazie di averci offerto un esercizio pratico. Quali benefici si ottengono dallo sviluppo dell'arte del Qi gong?
 

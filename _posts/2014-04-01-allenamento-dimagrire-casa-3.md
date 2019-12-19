@@ -60,7 +60,7 @@ Continua ad alternare le 2 gambe senza sosta, per la durata dei 20 secondi class
 
 ### Plank laterali
 
-![Plank laterali]({{site.images_root}}2014-03-19-allenamento-dimagrire-casa-3-1.jpg)
+{% include file-image.html src="2014-04-01-allenamento-dimagrire-casa-3-1.jpg" title="Plank laterali" %}
 
 Prendi qualche respiro e passa direttamente a questo Esercizio.
 

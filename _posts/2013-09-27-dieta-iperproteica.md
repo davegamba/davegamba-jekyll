@@ -52,7 +52,7 @@ La cosa peggiore che possa capitare. Ingrassare di nuovo e peggio di prima.  
 
 ## L'EFFETTO YO-YO
 
-![Effetto Yo Yo]({{site.images_root}}2013-09-27-dieta-iperproteica-effetto-yo-yo-dieta.jpg)
+{% include file-image.html src="2013-09-27-dieta-iperproteica-effetto-yo-yo-dieta.jpg" title="Effetto Yo Yo" %}
 
 Durante una dieta iperproteica e restrittiva hai perso un po' di massa grassa ma **anche** massa magra (muscolatura).
 
@@ -103,9 +103,9 @@ La corretta proporzione tra Macronutrienti quotidiana è un tema FONDAMENTALE ch
 Il VERO problema di queste diete non è l'effetto YoYo. Quella è solo una spiacevole coneguenza. **Il problema vero di queste diete sono i danni che producono dentro il corpo quando si seguono**.
 
 Cercherò di essere breve:
-- ** il corpo ricava Energia per vivere da Grassi e Carboidrati**. Le proteine hanno altre funzioni, come ricambio dei tessuti.
+- **il corpo ricava Energia per vivere da Grassi e Carboidrati**. Le proteine hanno altre funzioni, come ricambio dei tessuti.
 - **una dieta iperproteica toglie quasi totalmente Carbo e Grassi** (per quanto possibile) e tiene altissime le quantità di proteine. La sua intenzione è di far usare al corpo i propri grassi per vivere e fornire materiale di ricambio tessutale. L'idea avrebbe senso, se non fosse che nella pratica il corpo ha una fisiologia più complessa di così. Come detto anche prima, anche il muscolo in realtà  viene intaccato e cannibalizzato a scopo energetico. **Inoltre tutte quelle proteine assunte (ben oltre la necessità fisica giornaliera) iniziano ad essere usate a scopo energetico**.
-- ** Le Proteine si possono usare per dare energia al corpo, è vero. Ma non significa che vada bene. È un misura di emergenza per il corpo. Di forte emergenza**. Quando dalla Proteina viene estrapolato lo Zucchero a scopo energetico, della Proteina rimane solo la Base Azotata (gli aminoacidi sono composti azoto, oltre che di carobonio, idrogeno e ossigeno come gli zuccheri). La Base Azotata non fa bene al corpo. Per niente. Mano mano se ne crea un accumulo nei reni col nome di **Scorie Azotate**. I reni hanno l'ingrato compito di smaltire queste tossine trasformandole prima in acido urico. Che non è proprio come una passeggiata in campagna per loro.
+- **Le Proteine si possono usare per dare energia al corpo, è vero. Ma non significa che vada bene. È un misura di emergenza per il corpo. Di forte emergenza**. Quando dalla Proteina viene estrapolato lo Zucchero a scopo energetico, della Proteina rimane solo la Base Azotata (gli aminoacidi sono composti azoto, oltre che di carobonio, idrogeno e ossigeno come gli zuccheri). La Base Azotata non fa bene al corpo. Per niente. Mano mano se ne crea un accumulo nei reni col nome di **Scorie Azotate**. I reni hanno l'ingrato compito di smaltire queste tossine trasformandole prima in acido urico. Che non è proprio come una passeggiata in campagna per loro.
 - **In questo processo il Ph del sangue tende gradualmente ad acidificarsi**. Questo non deve succedere, altrimenti il corpo muore. Dunque, come sempre, si devono mettere in gioco misure d'emergenza. Il minore dei mail insomma (ma comunque di male si tratta). Il corpo fa intervenire il **sistema tampone,** cioè prende dei minerali basici dalle ossa per alcalinizzare la imminente acidità del sangue. Il sangue mantiene il suo PH corretto, ma un prezzo altissimo: togliere minerali alle ossa. Negli anni questo processo prenderà il nome di Osteoporosi o Artriti inspiegabili.
 - **RISULTATO FINALE DI UNA DIETA IPERPROTEICA IPOCALORICA:** Hai perso 10 kg sulla bilancia. Ti senti felice per un po'. Ma hai perso 5kg di grasso e 5 kg di muscoli. Indebolito il Sistema Osseo. Indebolito il Sistema Immunitario. Abbassato notevolmente il Metabolismo Basale. Intossicato fegato e reni. Perso lucidità mentale a causa di zuccheri di bassa qualità. Abbassato i tuoi Ormoni anabolici. Aumentato gli Ormoni catabolici, come Cortisolo e Andrenalina. Questo ti porterà anche a nervosismo e stress interni inspiegabili a livello umorale. Tra qualche settimana forse ti accorgerai che stai tornando a gonfiarti.
 

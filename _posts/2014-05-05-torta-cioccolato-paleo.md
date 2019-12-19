@@ -37,7 +37,7 @@ E sostituendoli con gli ingredienti più utili per la nostra risposta ormonale, 
 
 **E anche se fosse possibile, avrà lo stesso sapore di una torta classica?** Se te lo chiedi, allora devi provare SUBITO questa Torta.
 
-![torta-cioccolato-paleo-1]({{site.images_root}}2014-05-05-torta-cioccolato-paleo-1.jpg)
+{% include file-image.html src="2014-05-05-torta-cioccolato-paleo-1.jpg" title="Torta Cioccolato Paleo" %}
 
 Posso assicurarti che rimarrai a bocca aperta, soprattutto perché non starai mangiando ne farine, ne lieviti ne zucchero, ne latte. Dunque risulterà ideale anche per tutti i
 
@@ -84,4 +84,4 @@ Lo consiglio caldamente (anche perché sono gli stessi dolci che mangio io!),
 
 Buon appetito
 
-![torta-cioccolato-paleo-2]({{site.images_root}}2014-05-05-torta-cioccolato-paleo-2.jpg)
+{% include file-image.html src="2014-05-05-torta-cioccolato-paleo-2.jpg" title="Torta Cioccolato Paleo" %}

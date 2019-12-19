@@ -5,7 +5,7 @@ date: 2014-05-13 19:30
 author: davegamba
 comments: true
 image: 2014-05-13-tabella-fruttosio-frutta.jpg
-categories: [Alimentazione]
+categories: [Alimentazione, Dimagrimento]
 tags: [Diabete, Frutta, Fruttosio, Glicemia, Zucchero]
 ---
 
@@ -21,6 +21,6 @@ Vediamo solo la Tabella per avere un riferimento su come scegliere la nostra fru
 
 **PS.** È naturale che è bene prediligere sempre la frutta di stagione.
 
-![Fruttosio - Diabete, Dimagrire]({{site.images_root}}2014-05-13-tabella-fruttosio-frutta-1.jpg)
+{% include file-image.html src="2014-05-13-tabella-fruttosio-frutta-1.jpg" title="Fruttosio - Diabete, Dimagrire" %}
 
 Ho inserito il Miele come riferimento anche se non è un frutto, in quanto chi lo usa per dolcificare deve tenerne conto nel calcolo dei 20 grammi di Fruttosio giornalieri.

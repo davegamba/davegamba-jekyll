@@ -27,7 +27,7 @@ VITAMINA C
 
 Probabilmente l'integratore più importante per un essere umano. Ho scritto [un enorme articolo su questo elemento]({% post_url 2013-10-14-vitamina-c %}), dove dico tutto ciò che serve sapere, e non c'è bisogno che lo ripeta qui. L'unica cosa che posso davvero dire è che è il responsabile della sintesi della proteina più importante per i tessuti umani , ovvero il **Collagene**. Il Collagene è responsabile della qualità del tessuto, della resistenza, dell'invecchiamento. Più collagene 'fresco' abbiamo a disposizione, più produciamo tessuti elastici resistenti, inattaccabili dalle infiammazioni. Tutti questi problemi sono legati ai problemi dell'invecchiamento (ma anche in età precoce in certi casi) come le artrosi, i dolori articolari, tendinei, muscolari, ossei, e anche dei tessuti molli, come cuore, fegato. **Inoltre la vitamina C è il CAPO del sistema immunitario** e degli Antiossidanti naturalmente. Ricorda che gli antiossidanti sono quegli elementi che appunto impediscono l'ossidamento causato dai radicali liberi, e che quindi mantengono le nostre cellule sane e giovani permettendo loro di replicarsi in maniera pressoché identica anziché 'peggiorativa' negli anni. Mantiene anche inalterate le funzioni elettromagnetiche cellulari.
 Insieme ai prossimi integratori equivale a puro ossigeno per le nostre cellule. E ormai sappiamo che una cellula ossigenata è una cellula sana che non può produrre infiammazioni o reazioni cancerogene. Il primo di tutti gli integratori.
-[LEGGI L'ARTICOLO COMPLETO —> Vitamina C, Tutto ciò che devi sapere]({% post_url 2013-10-14-vitamina-c %})
+[LEGGI L'ARTICOLO COMPLETO -> Vitamina C, Tutto ciò che devi sapere]({% post_url 2013-10-14-vitamina-c %})
 
 OMEGA3
 ======

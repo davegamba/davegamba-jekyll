@@ -37,7 +37,7 @@ Se hai letto un po' il mio blog sai che preferisco solo usare i migliori Eserciz
 
 ### È più importante diventare dei maestri nei migliori esercizi, piuttosto che farne tanti e male.
 
-![Gambe & Glutei]({{site.images_root}}davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg "Gambe & Glutei")
+{% include file-image.html src="davegamba-dave-gamba-dave-personal-trainer-online-italia.jpg" title="Gambe & Glutei" %}
 
 #### VIDEO PONTI GLUTEI
 
@@ -47,11 +47,13 @@ Se hai letto un po' il mio blog sai che preferisco solo usare i migliori Eserciz
 
 ### Ponte D'Oro
 
-![Ponte D'Oro]({{site.images_root}}2014-09-16-esercizi-gambe-glutei-casa-1.jpg "Ponte D'Oro")
+{% include file-image.html src="2014-09-16-esercizi-gambe-glutei-casa-1.jpg" title="Ponte D'Oro" %}
 
 Mi piace cominciare ogni allenamento con questo esercizio. Questo è un esercizio statico (isometrico) basilare della tradizione Shaolin, e molto utilizzato nel campo del Chi Kung.
 
-È fantastico per riscaldarsi, portare sangue alle gambe, e sopratutto rinforzare enormemente muscoli e tendini. È ottimo anche per il rinforzo della lombare. Naturalmente la difficoltà è mantenere la posizione per più tempo possibile.
+È fantastico per riscaldarsi, portare sangue alle gambe, e sopratutto rinforzare enormemente muscoli e tendini.
+
+È ottimo anche per il rinforzo della lombare. Naturalmente la difficoltà è mantenere la posizione per più tempo possibile.
 
 Esegui il **Ponte d'Oro** mettendoti a gambe molto divaricate, piedi leggermente extraruotati (aperti) e schiena dritta (nella stessa posizione che dopo vedremo per il SumoSquat). Piegati sulle gambe e porta le mani alle anche o unite davanti a te.
 
@@ -61,9 +63,9 @@ I grandi maestri Shaolin potevano mantenere questa posizione anche per un'ora, m
 
 ### Affondi e Varianti
 
-![Affondi e Varianti]({{site.images_root}}2014-09-16-esercizi-gambe-glutei-casa-2.jpg "Affondi e Varianti")
+{% include file-image.html src="2014-09-16-esercizi-gambe-glutei-casa-2.jpg" title="Affondi e Varianti" %}
 
-![Affondi e Varianti]({{site.images_root}}2014-09-16-esercizi-gambe-glutei-casa-3.jpg "Affondi e Varianti")
+{% include file-image.html src="2014-09-16-esercizi-gambe-glutei-casa-3.jpg" title="Affondi e Varianti" %}
 
 Gli Affondi sono un esercizio molto semplice e intenso, piuttosto famoso, e assolutamente sano.
 
@@ -88,7 +90,7 @@ La schiena rimane dritta durante tutto l'arco di movimento, presta attenzione a 
 
 ### Sumo Squat
 
-![Sumo Squat]({{site.images_root}}2014-09-16-esercizi-gambe-glutei-casa-4.jpg "Sumo Squat")
+{% include file-image.html src="2014-09-16-esercizi-gambe-glutei-casa-4.jpg" title="Sumo Squat" %}
 
 La mia variante preferita del classico Squat a corpo libero, in quanto allena molto bene gli adduttori e tutta la coscia interna, per cosi dire (tanto cara alle donne).
 
@@ -101,7 +103,7 @@ Durante la discesa assicurati di buttare il sedere bene in fuori, ovvero verso i
 
 ### Stacchi A Una Gamba
 
-![Stacchi A Una Gamba]({{site.images_root}}2014-09-16-esercizi-gambe-glutei-casa-5.jpg "Stacchi A Una Gamba")
+{% include file-image.html src="2014-09-16-esercizi-gambe-glutei-casa-5.jpg" title="Stacchi A Una Gamba" %}
 
 **Il mio esercizio principale per lavorare le Gambe e in Glutei in modo completo, senza attrezzi.** Questo è l'esercizio base dei praticanti **avanzati**, tuttavia prima di essere raggiunto bisogna essere ben allenati e preparati (con schede di esercizi precedenti) anche per assicurarsi di avere la forza di eseguirlo in modo corretto e non creare problemi al ginocchio nella fase di discesa (nonostante sia comunque meno difficile del suo fratello più famoso, il Pistol Squat).
 
@@ -143,10 +145,10 @@ Gli Slanci sono l'esercizio in quadrupedia più usato. Ci sono molte varianti. S
 
 Se cominci da zero comincia da queste Schede per iniziare a sviluppare Gambe e Glutei nel modo più corretto, graduale ed efficace possibile. Inizia dalla Scheda 1 e passa alle successive solo quando raggiungi il requisito finale di ogni Scheda.
 **LESSICO DELLE SCHEDE**: Il primo numero rappresenta quanti SET (o Serie) mentre il secondo numero quante REPS (o Ripetizioni) ad ogni Set. Il Riposo indica quando riposare tra un set e l'altro.
-**Esempio: 4** (set) **x 12** (reps) **– 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
+**Esempio: 4** (set) **x 12** (reps) **- 60" riposo** Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 **ECCENTRICA:** Movimento di sola discesa a terra, senza la fase di spinta. La ripetizioni Eccentrica è molto lenta e va eseguita scendendo con i secondi dati ad ogni Scheda.
 
-![Schede]({{site.images_root}}scheda-rep.png)
+{% include file-image.html src="scheda-rep.png" title="Schede" %}
 
 Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc.
 

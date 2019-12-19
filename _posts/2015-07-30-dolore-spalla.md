@@ -20,7 +20,7 @@ L'articolazione dell'Anca è un'articolazione forte, potente, solida, ma con inf
 
 Per questo è particolarmente frequente è la sindrome da conflitto alla spalla (o impingement sub-acromiale)
 
-![spalla-acromion-davegamba]({{site.images_root}}spalla-acromion.jpg)
+{% include file-image.html src="spalla-acromion.jpg" title="Spalla Sub-Acromiale" %}
 
 **L'impingement colpisce spesso sportivi**, oppure casalinghe, operai e tutti coloro che lavorano con il braccio elevato sopra la spalla: pallavolisti, lanciatori, nuotatori, imbianchini ecc.
 
@@ -64,7 +64,7 @@ Dal momento che siamo in un sito di fitness e molti degli infortuni di questi ti
 - Non eseguire ALZATE laterali in INTRArotazione. Come veniva insegnato nel vecchio bodybuilding. Anzi, le alzate io suggerisco di eseguirle con leggera EXTRArotazione dell'omero, proprio per impedire l'impingement del sovraspinato.
 - Inoltre è buona norma evitare tutti gli esercizi con braccio statico SOPRA la testa (ad esempio Tricipite con manubrio sopra la testa).
 
-![alzate-laterali-esercizi-davegamba]({{site.images_root}}2017-03-15-esercizi-spalle-allenamento-5.jpg)
+{% include file-image.html src="2017-03-15-esercizi-spalle-allenamento-5.jpg" title="Alzate Laterali" %}
 
 Osservare l'extrarotazione dell'omero durante l'elevazione e la posizione delle braccia leggermente avanti al busto.
 Tutto per la protezione della spalla.

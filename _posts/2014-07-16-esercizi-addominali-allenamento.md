@@ -27,7 +27,7 @@ Tutti cercano scorciatoie per gli Addominali, ma le scorciatoie non esistono ed 
 
 La tartaruga è senz'altro uno degli obiettivi più impegnativi per tutti. In quando richiede un grasso Addominale molto basso (dato dall'Alimentazione) e uno spessore dei muscoli addominali piuttosto marcato (dato dall'Allenamento). Ma con costanza, e trasformando questo Programma in un'abitudine, può raggiungerla chiunque.
 
-![Dave Gamba]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-1.jpg)
+{% include file-image.html src="2014-07-16-esercizi-addominali-allenamento-1.jpg" title="Dave Gamba" %}
 
 VIDEO TUTTI GLI ADDOMINALI
 --------------------------
@@ -80,16 +80,10 @@ MITI DA SFATARE SUGLI ADDOMINALI
 	
 	I dischi lombari **NON** ha una buona capacità rotatoria, diversamente dal tratto dorsale e cervicale.
 
-Approfondimenti
-===============
 
-### (in inglese)
+## ESERCIZI
 
-ESERCIZI
-========
-
-Plank E Plank Laterale
-======================
+### Plank E Plank Laterale
 
 {% include youtube.html title="Plank" width="1080" height="608" code="aG9tD7o8yiY" %}
 
@@ -103,18 +97,17 @@ Questo è un esercizio di tenuta e la sua difficoltà maggiore è proprio nel re
 
 Mantieni la posizione per il tempo dato.
 
-![Dave Gamba - Addominali Plank Laterale Core Stability]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-plank-laterale-1.jpg)
+{% include file-image.html src="2014-07-16-esercizi-addominali-allenamento-plank-laterale-1.jpg" title="Dave Gamba - Addominali Plank Laterale Core Stability" %}
 
 **Il Plank Commando** invece è un Plank DINAMICO, dove si sale e scende su entrambe le mani dalla tipica posizione sui gomiti, come da video a lato. Solo per individui allenati.
 
-![Dave Gamba - Addominali Plank Core Stability]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-plank-laterale-2.jpg)
+{% include file-image.html src="2014-07-16-esercizi-addominali-allenamento-plank-laterale-1.jpg" title="Dave Gamba - Addominali Plank Core Stability" %}
 
 Una versione ancora più avanzata del Plank è il **Plank su Fitball.** Ovvero si poggiano i gomiti su una fitball di medie dimensioni mantenendo come sempre la posizione per il tempo dato, cerando di mantenere l'equilibrio sulla palla.
 
-![Dave Gamba - Addominali Plank Fitball]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-plank-fitball-1.jpg)
+{% include file-image.html src="2014-07-16-esercizi-addominali-allenamento-plank-fitball-1.jpg" title="Dave Gamba - Addominali Plank Fitball" %}
 
-Vuoti Addominali
-================
+### Vuoti Addominali
 
 {% include youtube.html title="Vuoto addominale o Vacuum" width="1080" height="608" code="5tbkw_GQ2-I" %}
 
@@ -130,8 +123,7 @@ Qualsiasi posizione sceglierete, quello che dovete fare è portare l'ombelico ve
 
 **Ora trattenete questa posizione per 10 secondi** e poi rilasciate dolcemente e tornate in posizione normale per 10 secondi. Ripetete le contrazioni da 10 secondi perle serie date.
 
-Crunch Modificato
-=================
+### Crunch Modificato
 
 {% include youtube.html title="Crunch modificato" width="1080" height="608" code="TQV19F0OpqM" %}
 
@@ -148,8 +140,7 @@ Un modo intelligente invece di eseguirli, senza avere ripercussioni sulla colonn
 Sdraiati a pancia in un su, con una gamba piegata e l'altra stesa a terra. Posiziona le due mani sotto la lombare, in modo da aiutare e sostenere la colonna nel movimento. Ora solleva testa e spalle da terra, il minimo indispensabile, come se ti sollevassi da una bilancia. Quando le spalle non ha non più contatto col terreno fermati, non serve salire di più. Una volta sollevato testa e spalle da terra, rimani in questa posizione con l'addome contratto per 10 secondi. Poi torna a terra, e ripeti per le ripetizioni date.
 
 
-Bicicletta Modificata
-=====================
+### Bicicletta Modificata
 
 {% include youtube.html title="Bicicletta modificata" width="1080" height="608" code="agHKma3QtTw" %}
 
@@ -163,8 +154,7 @@ Invertile continuamente, proprio come nel movimento della pedalata.
 
 Continuate per le ripetizioni date. Quando termini la serie, appoggiate le gambe e la testa a terra e riposa per il tempo dato.
 
-Russian Twist Su Fitball
-========================
+### Russian Twist Su Fitball
 
 {% include youtube.html title="Russian Twist Su Fitball" width="1080" height="608" code="WCLaVNUxjfU" %}
 
@@ -187,7 +177,7 @@ Il lavoro di chiusura in avanti dell'Addome fa riequilibrato da un rinforzo dei 
 
 Il **Superman Hold** permette un rinforzo di tutti i paravertebrali (muscoli che sostengono la colonna) oltre che un allungamento dei muscoli che sono intervenuti negli esercizi precedenti quali retto addominale e ileo-psoas.
 
-![Dave Gamba - Superman Hold]({{site.images_root}}2014-07-16-esercizi-addominali-allenamento-superman-hold-1.jpg)
+{% include file-image.html src="2014-07-16-esercizi-addominali-allenamento-superman-hold-1.jpg" title="Dave Gamba - Superman Hold" %}
 
 Mettiti a terra a pancia in giù con le braccia stese davanti alla testa.
 
@@ -200,7 +190,7 @@ Per facilitarlo è possibile sollevare solo le braccia e solo gambe a momenti al
 SCHEDE PER COMINCIARE
 =====================
 
-![Dave Gamba - Scheda]({{site.images_root}}scheda-rep.png)
+{% include file-image.html src="scheda-rep.png" title="Dave Gamba - Scheda" %}
 
 _**NB**_: Questi Allenamenti sono necessariamente indicazioni generiche non tengono conto delle caratteristiche individuali, come eventuali infortuni, sovrappeso, incapacità motorie, ecc...
 
@@ -215,7 +205,7 @@ Inizia dalla Scheda 1 e passa alle successive solo quando raggiungi il requisito
 
 Il Riposo indica quando riposare tra un set e l'altro.
 
-**Esempio: 4** (set) **x 12** (reps) **– 60" riposo**. Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
+**Esempio: 4** (set) **x 12** (reps) **- 60" riposo**. Significa eseguire 12 ripetizioni per 4 volte riposando 60 secondi tra le volte.
 
 Inizia dalla prima, naturalmente, e non avere fretta di passare all'Avanzata.
 

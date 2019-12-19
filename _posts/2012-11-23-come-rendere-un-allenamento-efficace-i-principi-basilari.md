@@ -113,7 +113,7 @@ Tieni SEMPRE il tempo di riposo. Per darti un riferimento pratico:
 
 PS: Questi tempi sono assolutamente indicativi, e possono cambiare da allenamento ad allenamento e persona a persona. Sono però utili per cominciare.
 
-![Dormire]({{site.images_root}}2012-11-23-come-rendere-un-allenamento-efficace-i-principi-basilari-1.jpg)
+{% include file-image.html src="2012-11-23-come-rendere-un-allenamento-efficace-i-principi-basilari-1.jpg" title="Dormire" %}
 
 
 ### RECUPERI

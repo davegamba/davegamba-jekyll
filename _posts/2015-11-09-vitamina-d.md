@@ -39,7 +39,7 @@ Il Calcitriolo, in caso di ipocalcemia, ha il compito fondamentale d'innalzare l
 
 Quest'ultima azione della vitamina D può sembrare contraddittoria, tuttavia il mantenimento di una determinata concentrazione di Calcio nel sangue previene, nel complesso, una perdita di questo minerale dalle ossa.
 
-![Vitamina D]({{site.images_root}}2015-11-09-vitamina-d-1.jpg)
+{% include file-image.html src="2015-11-09-vitamina-d-1.jpg" title="Vitamina D" %}
 
 Vediamo più nel dettaglio questo meccanismo.
 
@@ -57,7 +57,7 @@ Non bisogna pensare al nostro sistema scheletrico come ad una entità statica e
 
 Vediamone qualcuna.
 
-![D3 Calcio]({{site.images_root}}2015-11-09-vitamina-d-2.jpg)
+{% include file-image.html src="2015-11-09-vitamina-d-2.jpg" title="D3 Calcio" %}
 
 IL CALCIO
 ---------
@@ -106,7 +106,7 @@ Usando le parole del **dr Filippo Ongaro**:
 
 > Come conseguenza di questa **crescente evidenza sull'importanza della vitamina D** sarebbe auspicabile che anche i medici cambiassero atteggiamento nei confronti di una prescrizione assolutamente sicura, facile da monitorare (basta un semplice e poco costoso esame del sangue della 25-OH vitamina D) e dal grande impatto preventivo.
 
-![Mancanza di Vitamina D è correlata a Malattia Autoimmuni e anche alcuni tipi di Cancro - WebMD]({{site.images_root}}2015-11-09-vitamina-d-3.jpg)
+{% include file-image.html src="2015-11-09-vitamina-d-3.jpg" title="Mancanza di Vitamina D è correlata a Malattia Autoimmuni e anche alcuni tipi di Cancro - WebMD" %}
 
 L'APPLICAZIONE PRATICA DELLA D
 ==============================

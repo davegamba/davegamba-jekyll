@@ -31,26 +31,26 @@ Il risultato è eccezionale. Uguale (se non più saporito) al classico Porridge.
 
 Porre le Noci e le Mandorle in un robot da cucina/mini pimer e tritare a grana grossa.
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-1.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-1.jpg" title="Porridge" %}
 
 Sbattere le uova e il latte di mandorla fino a raggiungere una consistenza cremosa.
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-2.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-2.jpg" title="Porridge" %}
 
 Unire la purea di banana al burro di mandorle e aggiungere il composto alle uova mescolando.
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-3.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-3.jpg" title="Porridge" %}
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-4.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-4.jpg" title="Porridge" %}
 
 Poi aggiungere il nocciolame tritato.
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-5.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-5.jpg" title="Porridge" %}
 
 Trasferire il tutto in un pentolino su fiamma bassa e mescolare continuamente, finchè non raggiunge la consistenza desiderata.
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-6.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-6.jpg" title="Porridge" %}
 
 Cospargere di frutti di bosco e gustare. Ottimo anche con Cannella (una delle spezie migliori che consiglio sempre per le sue proprietà salutistiche e dimagranti).
 
-![Porridge]({{site.images_root}}2015-08-25-porridge-paleo-7.jpg)
+{% include file-image.html src="2015-08-25-porridge-paleo-7.jpg" title="Porridge" %}

@@ -4,4 +4,4 @@
 {% else %}
 {% assign class="" %}
 {% endif %}
-<img data-src="{{url | absolute_url}}" title="{{include.title}}" alt="{{include.title}}" width="{{include.width}}" height="{{include.height}}" class="lazyload{{class}}" />
+<img src="{% link assets/images/static/empty.gif %}" data-src="{{url | absolute_url}}" data-sizes="auto" title="{{include.title}}" alt="{{include.title}}" width="{{include.width}}" height="{{include.height}}" class="lazyload{{class}}" />

@@ -51,7 +51,7 @@ Ignorando questo principio fisiologico.
 
 Se ad esempio abbiamo i pettorali a prevalenza di fibre rosse e i dorsali a prevalenza di bianche, non dovremmo allenarli in maniera identica in palestra.
 
-**Qual'è il giusto tipo di allenamento per ogni tipologia di fibra?**
+**Qual è il giusto tipo di allenamento per ogni tipologia di fibra?**
 
 Vediamo la **Tabella** basilare delle _Ripetizioni e del Carico_, in relazione alle fibre:
 1.	**Le Fibre Veloci** si allenano meglio in potenza, ovvero con alti carichi per serie brevi (fonte energetica dall'ATP e glicolisi).

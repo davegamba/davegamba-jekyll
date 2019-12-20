@@ -125,7 +125,7 @@ Il Calisthenics in questi anni ha contribuito a divulgare molto questo esercizio
 
 È un esercizio che funziona, che dà forza, che dà massa, che non richiede attrezzi, che si può eseguire ovunque.
 
-#### Qual'è il problema quindi?
+#### Qual è il problema quindi?
 
 Il problema è che crea compressioni cervicali. In alcuni casi anche gravi. So bene che un atleta forte che lo pratica da tempo può farlo in scioltezza e non accorgersi di niente.
 
@@ -139,7 +139,9 @@ Ma in questo sito e nelle mie ricerche **osservo e applico sui Clienti (e lettor
 
 Può darsi che a molte persone l'Handstand non dia problemi, ma in altre persone può creare gravi compressioni e blocchi cervicali.
 
-**Dunque io qui NON posso consigliarlo ad unanimità**. Ammetto che fino a qualche tempo fa io stesso lo insegnavo ai miei clienti più in forma, mostrandogli
+**Dunque io qui NON posso consigliarlo ad unanimità**.
+
+Ammetto che fino a qualche tempo fa io stesso lo insegnavo ai miei clienti più in forma, mostrandogli
 prima a rimanere in posizione ferma ed eretta contro il muro per periodi sempre più lunghi, per poi iniziare a salire e scendere quando raggiungevano una buona resistenza.
 
 Ma oggi preferisco dedicarmi esclusivamente alle Alzate laterali e varianti.

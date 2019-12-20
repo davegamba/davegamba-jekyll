@@ -102,7 +102,7 @@ Dall'avere una alimentazione varia di alimenti naturali e selvaggi** passammo a
 
 Quello che non sapevamo, però, è che i Cereali stavano interagendo col nostro sangue in maniera anomala, creando differenze evidenti nelle dimensioni del nostro corpo, del nostro sistema scheletrico (più piccolo e fragile), nella nascita di malattia (anche croniche, oltre che semplici infiammazioni) che non si capivano ne conoscevano e sbalzi della pressione sanguigna come vedremo più avanti.
 
-OK, MA QUAL'È IL COLLEGAMENTO TRA CEREALI E  MALATTIE?
+OK, MA QUAL È IL COLLEGAMENTO TRA CEREALI E  MALATTIE?
 -------------------------------------------------------
 
 Le ragioni sono molteplici:
@@ -380,7 +380,15 @@ E di fatto io stesso mi sono dedicato in questi anni, proprio allo studio di que
 
 I medici consigliano i cereali fondamentalmente perché  seguono come sistema di riferimento energetico, il sistema Calorico.
 
-**Dunque escludono tutto ciò che è molto calorico e includono tutto ciò che lo è meno**. Perchè ripetono quello che hanno studiato sui testi delle università, e ripetono quello che hanno fatto i medici prima di loro, senza mettere in discussione niente, senza spirito critico, senza farsi domande, senza il benchè minimo dubbio. E senza dubbio non c'è crescita. O per dirlo con Voltaire **''Il dubbio è scomodo, ma solo gli imbecilli non ne hanno.''** Perchè mantenere le tradizioni è molto più facile apparentemente, che cercare un'evoluzione e sviluppare una scienza. Ma alla fine la medicina stessa si contraddice sempre perché nemmeno tra medici vige unanimità. Eppure se il corpo umano fosse una semplice macchina, tutti i medici dovrebbero averla già capita facilmente ed essere d'accordo su come farla funzionare al meglio. Invece non è cosi. Forse perché il corpo umano non è una macchina meccanica, e incasellabile entro dei valori numerici come le calorie, ma è uno strumento molto più complesso da conoscere.  Con sfumature che una mente solo razionale e ortodossa, non può e non è interessata ad osservare.
+**Dunque escludono tutto ciò che è molto calorico e includono tutto ciò che lo è meno**. Perchè ripetono quello che hanno studiato sui testi delle università, e ripetono quello che hanno fatto i medici prima di loro, senza mettere in discussione niente, senza spirito critico, senza farsi domande, senza il benchè minimo dubbio.
+
+E senza dubbio non c'è crescita. O per dirlo con Voltaire **"Il dubbio è scomodo, ma solo gli imbecilli non ne hanno"**. Perchè mantenere le tradizioni è molto più facile apparentemente, che cercare un'evoluzione e sviluppare una scienza.
+
+Ma alla fine la medicina stessa si contraddice sempre perché nemmeno tra medici vige unanimità. Eppure se il corpo umano fosse una semplice macchina, tutti i medici dovrebbero averla già capita facilmente ed essere d'accordo su come farla funzionare al meglio. Invece non è cosi.
+
+Forse perché il corpo umano non è una macchina meccanica, e incasellabile entro dei valori numerici come le calorie, ma è uno strumento molto più complesso da conoscere.
+
+Con sfumature che una mente solo razionale e ortodossa, non può e non è interessata ad osservare.
 
 PENSIERI CONCLUSIVI
 ===================
@@ -390,7 +398,31 @@ Dunque ricapitolando, i problemi globali arrecati dai cereali nella storia umana
 - Aumento della popolazione, fino a raggiungere la sovrapopolazione odierna
 - Creazione di un società malata, più stanca, più debole, con un quoziente intellettivo in discesa.
 
-Ovvero, il contrario dell'evoluzione di una specie. Tutti questi dati portano necessariamente alla conclusione che i Cereali sono tossine per il corpo umano. Le proteine dei cereali attraversano l'intestino con grande facilità senza problemi, portando con se tutto quello che possono, entrando nel nostro sangue indisturbati. Nelle alimentazioni senza o con pochi cereali ho visto sui miei clienti un matematico calo del colesterolo, del peso, della pressione sanguigna alta, delle infiammazioni generiche (anche croniche) come artrosi, miglioramento delle dermatiti o acne, e aumentano in maniera incalcolabile dei livelli di energia. È naturale che un'alimentazione senza Cereali va organizzata bene. Ma i vantaggi che apporta sono innumerevoli. Capisco che pasta, dolci e crackers possano piacerti molto, anche a me piacciono, e capisco che il tuo dottore ti abbia incoraggiato a mangiarli, e lo so che adesso pensare di toglierli possa sembrare assurda. Ma sostituire i cereali con altro può essere il singolo passo più importante per la tua salute. **Puoi iniziare gradualmente, semplicemente diminuendoli dalle tue abitudini.** Se in particolare devi perdere peso, o soffri di una qualsiasi della patologie viste sopra, prova a togliere i cereali per 60 giorni e guarda sulla tua pelle se avvengono cambiamenti. Fai la prova nella pratica, senza ascoltare nessuno, e poi farai le tue valutazioni. Se non sarai soddisfatto potrai sempre tornare a mangiarli dopo. Anche se dubito che lo farai. Una volta che avrai sentito la leggerezza e la vitalità che probabilmente non provavi dall'infanzia, non vorrai tornare indietro. Se vuoi fare un percorso preciso e fatto bene e hai bisogno di aiuto, puoi sempre compilare il questionario qua sotto per avere il mio primo parere personale sulla tua situazione. Ma in ogni caso inizia a fare piccoli cambiamenti, perché ti daranno enormi risultati col tempo. E se pensi che questo articolo ti sia stato utile, Condividilo (sempre qui sotto).
+Ovvero, il contrario dell'evoluzione di una specie. Tutti questi dati portano necessariamente alla conclusione che i Cereali sono tossine per il corpo umano.
+
+Le proteine dei cereali attraversano l'intestino con grande facilità senza problemi, portando con se tutto quello che possono, entrando nel nostro sangue indisturbati.
+
+Nelle alimentazioni senza o con pochi cereali ho visto sui miei clienti un matematico calo del colesterolo, del peso, della pressione sanguigna alta, delle infiammazioni generiche (anche croniche) come artrosi, miglioramento delle dermatiti o acne, e aumentano in maniera incalcolabile dei livelli di energia.
+
+È naturale che un'alimentazione senza Cereali va organizzata bene.
+
+Ma i vantaggi che apporta sono innumerevoli.
+
+Capisco che pasta, dolci e crackers possano piacerti molto, anche a me piacciono, e capisco che il tuo dottore ti abbia incoraggiato a mangiarli, e lo so che adesso pensare di toglierli possa sembrare assurda.
+
+Ma sostituire i cereali con altro può essere il singolo passo più importante per la tua salute.
+
+**Puoi iniziare gradualmente, semplicemente diminuendoli dalle tue abitudini.**
+
+Se in particolare devi perdere peso, o soffri di una qualsiasi della patologie viste sopra, prova a togliere i cereali per 60 giorni e guarda sulla tua pelle se avvengono cambiamenti.
+
+Fai la prova nella pratica, senza ascoltare nessuno, e poi farai le tue valutazioni. Se non sarai soddisfatto potrai sempre tornare a mangiarli dopo. Anche se dubito che lo farai.
+
+Una volta che avrai sentito la leggerezza e la vitalità che probabilmente non provavi dall'infanzia, non vorrai tornare indietro. Se vuoi fare un percorso preciso e fatto bene e hai bisogno di aiuto, puoi sempre compilare il questionario qua sotto per avere il mio primo parere personale sulla tua situazione.
+
+Ma in ogni caso inizia a fare piccoli cambiamenti, perché ti daranno enormi risultati col tempo.
+
+E se pensi che questo articolo ti sia stato utile, Condividilo (sempre qui sotto).
 
 BIBLIOGRAFIA
 ------------

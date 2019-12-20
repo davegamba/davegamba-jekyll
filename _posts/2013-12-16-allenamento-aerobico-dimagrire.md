@@ -41,7 +41,7 @@ E non ti aiuterà nemmeno a perdere grasso.
 	
 	### MAI E POI MAI LA CORSA A UNA PERSONA SOVRAPPESO
 	
-	E qual'è **la prima cosa** che fanno le persone sovrappeso quando decidono di dimagrire? Esatto. Vanno a correre. O si iscrivano in palestra. Per il tapis roulant.
+	E qual è **la prima cosa** che fanno le persone sovrappeso quando decidono di dimagrire? Esatto. Vanno a correre. O si iscrivano in palestra. Per il tapis roulant.
 2.	## L'INNALZAMENTO DEL CORTISOLO
 	**Qualsiasi attività fisica intensa prolungata, che superi i 45/55 minuti, tende a secernere alti livelli di Cortisolo**, il principale ormone Catabolico (distruzione dei tessuti magri) per la gestione dello stress.
 	
@@ -58,7 +58,7 @@ E non ti aiuterà nemmeno a perdere grasso.
 3.	## INNALZAMENTO DELL'INSULINA E LA FAME
 	Un attività Cardio prolungata abbiamo visto alzare il Cortisolo.
 	
-	E qual'è una delle immediate conseguenze dell'innalzamento del Cortisolo? **L'innalzamento dell'Insulina,** naturalmente.
+	E qual è una delle immediate conseguenze dell'innalzamento del Cortisolo? **L'innalzamento dell'Insulina,** naturalmente.
 	
 	L'ormone adibito alla captazione degli zuccheri.
 	

@@ -24,6 +24,8 @@ Lo studio fu accolto con grande clamore nel mondo scientifico, ma in rete e nei 
 
 Oltre a mostrare un collegamento diretto con lo sviluppo di quasi tutte le malattie.
 
+{% include file-image.html src="2012-11-26-la-teoria-dei-due-cervelli-del-dott-micheal-d-gershon-1.jpg" title="LA TEORIA DEI DUE CERVELLI" %}
+
 ### BASI SCIENTIFICHE
 
 > La teoria dei due cervelli poggia su solide basi scientifiche

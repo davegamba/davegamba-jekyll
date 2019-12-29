@@ -8,7 +8,7 @@ layout: default
 	<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
 			<div class="row justify-content-center">
-				<div class="col-md-12 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+				<div class="col-md-12 pr-0 pr-md-4 pt-4 pb-4 align-self-center text-center">
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
@@ -29,13 +29,14 @@ layout: default
 			<article class="article-post">
 				{{ content }}
 			</article>
-			<div class="mb-4">
+			<div class="mb-4 mt-4">
+				{% include post-content/bottom-1.html %}
+			</div>
+			<div class="mb-4 mt-4">
 				{% include taglist.html tags=page.tags %}
 			</div>
-			<div class="mb-4 p-2">
-				{% for author in page.author %}
-				<p><i class="fa fa-user"></i> {{site.authors[author].display_name}} <small class="text-muted">{{site.authors[author].description}}</small></p>
-				{% endfor %}
+			<div class="mb-4 mt-4">
+				{% include authors.html authors=page.author %}
 			</div>
 			{% if site.comments != false %}
             {% if page.comments != false %}

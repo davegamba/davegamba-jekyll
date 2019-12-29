@@ -1,0 +1,12 @@
+{% if include.authors.size > 0 %}
+<div class="authors-list">
+	<h4 class="font-weight-bold spanborder mt-2 mb-1">
+		<span class="ml-2"><i class="fa fa-users"></i> {% if include.authors.size == 1 %}Autore{% else %}Autori{% endif %}</span>
+	</h4>
+	<ul>
+		{% for author in include.authors %}
+		<li><i class="fa fa-user"></i> {{site.authors[author].display_name}} <small class="text-muted">{{site.authors[author].description}}</small></li>
+		{% endfor %}
+	</ul>
+</div>
+{% endif %}

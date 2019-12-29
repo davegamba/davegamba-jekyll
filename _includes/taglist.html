@@ -1,8 +1,13 @@
 {% if include.tags.size > 0 %}
-<span>
-	{% capture url %}{% link _pages/tags.html %}{% endcapture %}
-	{% for tag in include.tags %}
-	<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{ url | absolute_url }}#{{ tag | downcase | replace: " ", "-" }}">{{ tag | downcase }}</a>
-	{% endfor %}
-</span>
+<div class="tag-list">
+	<h4 class="font-weight-bold spanborder mt-2 mb-1">
+		<span class="ml-2"><i class="fa fa-tags"></i> Tag</span>
+	</h4>
+	<span>
+		{% capture url %}{% link _pages/tags.html %}{% endcapture %}
+		{% for tag in include.tags %}
+		<a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{ url | absolute_url }}#{{ tag | downcase | replace: " ", "-" }}">{{ tag | downcase }}</a>
+		{% endfor %}
+	</span>
+</div>
 {% endif %}

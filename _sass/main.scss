@@ -71,6 +71,7 @@ table {
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: $headings-font-family;
+	text-transform: uppercase;
 }
 h6 {
 	@include media-breakpoint-up(xl) {
@@ -121,7 +122,6 @@ footer {
 }
 .site-content {
 	background-color: $white;
-	padding-top: 70px;
 	min-height: 400px;
 }
 .remove-site-content-margin {
@@ -253,11 +253,10 @@ footer {
 	max-width: 100vw;
 	.highlight {
 		.nav-link {
-			color: $primary !important;
 			border: 1px solid $primary;
 			padding: 0.3rem 1rem;
 			border-radius: 3px;
-			font-size: .93rem;
+			font-size: 1.3rem;
 			&:hover {
 				background: $primary;
 				color: $white !important;
@@ -288,31 +287,33 @@ footer {
 .navbar-light {
 	.navbar-brand {
 		margin-right: 0;
-		color: $gray-900;
+		color: $white;
 		&:hover, &:focus {
-			color: $gray-900;
+			color: $white;
 		}
 	}
 	.navbar-nav {
 		.nav-link {
-			color: $gray-900;
+			color: $white;
 			font-size: .93rem;
+			font-family: $headings-font-family;
+			text-transform: uppercase;
 			&:hover, &:focus {
-				color: $gray-700;
+				color: $white;
 			}
 			&.disabled {
-				color:$gray-300;
+				color:$white;
 			}
 			&.show {
-				color: $gray-900;
+				color: $white;
 			}
 			&.active {
-				color: $gray-900;
+				color: $white;
 			}
 		}
 		.show, .active {
 			&>.nav-link {
-				color: $gray-900;
+				color: $white;
 			}
 		}
 	}
@@ -375,6 +376,14 @@ footer {
         font-weight: $headings-font-weight;
         line-height: $headings-line-height;
     }
+}
+.page-container {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+.pict-container {
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 .overlay {
 	position: relative;
@@ -816,6 +825,23 @@ article {
 	@include background-size(contain);
 	background-repeat: no-repeat;
 }
+.button {
+	&.fullwidth {
+		display: block;
+		background-color: $secondary;
+		color: $primary;
+		width: 100%;
+		text-transform: uppercase;
+		padding: 1.9rem;
+		margin: 0.7rem auto;
+		max-width: 1080px;
+		font-size: 1.7rem;
+		&:hover {
+			background-color: $primary;
+			color: $secondary;
+		}
+	}
+}
 .quiz {
 	background: $black;
 	color: $white;
@@ -847,5 +873,12 @@ article {
 		text-overflow: ellipsis;
 		-webkit-font-smoothing: antialiased;
 		-moz-osx-font-smoothing: grayscale;
+	}
+}
+.modal-content {
+	max-height: 90vh;
+	.modal-body {
+		overflow: overlay;
+		overflow-y: scroll;
 	}
 }

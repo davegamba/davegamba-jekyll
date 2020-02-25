@@ -10,11 +10,29 @@ description: "Personal Trainer Online"
 	<div class="card-body" style="background-image:url('{{site.files.images}}home-section-1.jpg')">
 		<div class="section-logo">
 			{% include absolute-image.html file="sign.svg" title=site.title width="1920" height="354" class="img-fluid" %}
-			<h2>Allenarsi breve-intenso, vivere nel fisico che vuoi, sentirsi al massimo</h2>
+			<h2>Tutto per rivoluzionare il tuo corpo</h2>
 		</div>
 	</div>
 </section>
-{% include quiz.html %}
+{% include banner-sticky.html %}
+<div class="container p-5 pict-container" style="background-image:url('{{site.files.images}}home-bg.jpg')">
+	<div class="row">
+		<div class="col-md-12 text-center">
+			<h1>Prima Volta Qui?</h1>
+			<h2>Inizia Qui</h2>
+			{% include absolute-anchor.html link="_pages/quiz-metabolico.md" class="button fullwidth" title="Quiz Metabolico" %}
+			<h2>Il Tuo Obiettivo</h2>
+			{% include absolute-anchor.html link="_posts/2019-12-01-guida-dimagrimento-definitiva.md" class="button fullwidth" title="Dimagrire" %}
+			<a href="/category/allenamento/" class="button fullwidth" title="Allenamento">Allenamento</a>
+			{% include absolute-anchor.html link="_pages/categories.html" class="button fullwidth" title="Tutte Le Altre Guide" %}
+			<h2>Per Allenarti Con Me</h2>
+			<a href="https://bodymastery.davegamba.com/" class="button fullwidth" title="Bodymastery">Bodymastery</a>
+			<a href="https://coaching.davegamba.com/" class="button fullwidth" title="Coaching">Coaching</a>
+			<h2>Shop</h2>
+			<a href="https://wildfitters.it/" class="button fullwidth" title="Integratori Naturali">Integratori Naturali</a>
+		</div>
+	</div>
+</div>
 <div class="container">
 	{% if page.url == "/" %}
 	<div class="row remove-site-content-margin">

@@ -1,0 +1,29 @@
+name: Ruby
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+    - name: Build and test with Rake
+      run: |
+        gem install bundler
+        bundle install --jobs 4 --retry 3
+        bundle exec jekyll build
+    - name: Firebase GitHub Action
+      uses: pizzafox/firebase-action@1.0.7
+      env:
+        PROJECT_ID: ${{ secrets.FIREBASE_PROJECT }}
+        FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+      with:
+        args: deploy

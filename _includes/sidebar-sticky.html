@@ -1,0 +1,20 @@
+{% if site.tags.sticky.size > 0 %}
+{% for post in site.tags.sticky %}
+{% if post.tags contains "sticky" %}
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 bg-lightblue position-relative">
+	<div class="pl-4 pr-0 h-100 tofront">
+		<div class="row justify-content-between">
+			<div class="col-md-6 pt-4 pb-4 pr-lg-4 align-self-center">
+				<h1 class="mb-3">{{post.title}}</h1>
+				<p class="mb-3 lead">
+					{{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+				</p>
+				<a href="{{ post.url | absolute_url }}" class="btn btn-dark">Leggi di Più...</a>
+			</div>
+			<div class="col-md-6 d-none d-md-block pr-0 cover" style="background-image:url({{site.files.images}}{{ post.image }});"></div>
+		</div>
+	</div>
+</div> 
+{% endif %}
+{% endfor %}
+{% endif %}

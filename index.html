@@ -1,102 +1,38 @@
 ---
 title: "Dave Gamba"
 layout: default
-pagination:
-    enabled: true
 description: "Personal Trainer Online"
 ---
 
 <section class="card border-0 home-section-fullwidth">
-	<div class="card-body" style="background-image:url('{{site.files.images}}home-section-1.jpg')">
+	<div class="card-body">
+		<div class="img-fold-container">
+			{% include file-image.html src="home-section-1.jpg" title=site.title width="2600" height="1280" %}
+		</div>
 		<div class="section-logo">
 			{% include absolute-image.html file="sign.svg" title=site.title width="1920" height="354" class="img-fluid" %}
 			<h2>Tutto per rivoluzionare il tuo corpo</h2>
 		</div>
 	</div>
 </section>
-{% include banner-sticky.html %}
-<div class="container p-5 pict-container" style="background-image:url('{{site.files.images}}home-bg.jpg')">
-	<div class="row">
-		<div class="col-md-12 text-center">
-			<h1>Prima Volta Qui?</h1>
-			<h2>Inizia Qui</h2>
-			{% include absolute-anchor.html link="_pages/quiz-metabolico.md" class="button fullwidth" title="Quiz Metabolico" %}
-			<h2>Il Tuo Obiettivo</h2>
-			{% include absolute-anchor.html link="_posts/2019-12-01-guida-dimagrimento-definitiva.md" class="button fullwidth" title="Dimagrire" %}
-			<a href="/category/allenamento/" class="button fullwidth" title="Allenamento">Allenamento</a>
-			{% include absolute-anchor.html link="_pages/categories.html" class="button fullwidth" title="Tutte Le Altre Guide" %}
-			<h2>Per Allenarti Con Me</h2>
-			<a href="https://bodymastery.davegamba.com/" class="button fullwidth" title="Bodymastery">Bodymastery</a>
-			<a href="https://coaching.davegamba.com/" class="button fullwidth" title="Coaching">Coaching</a>
-			<h2>Shop</h2>
-			<a href="https://wildfitters.it/" class="button fullwidth" title="Integratori Naturali">Integratori Naturali</a>
-		</div>
-	</div>
-</div>
-<div class="container">
-	{% if page.url == "/" %}
-	<div class="row remove-site-content-margin">
-		{% assign latest_post = site.posts[0] %}
-		<div class="col-md-6 mt-5">
-			<div class="card border-0 mb-4 box-shadow">
-				{% include post-thumbnail.html post=latest_post %}
-				<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
-					<h2 class="h4 font-weight-bold">
-						<a class="text-dark" href="{{latest_post.url | absolute_url}}">{{latest_post.title}}</a>
-					</h2>
-					<p class="excerpt">
-						{{latest_post.excerpt | strip_html | strip_newlines | truncate: 136}}
-					</p>
-					<div>
-						{% include catlist.html categories=latest_post.categories %}
-						{% include post-date.html date=latest_post.date %}
-					</div>
-				</div>
+<div class="home-fold pict-container" style="background-image:url('{{site.files.images}}home-bg.jpg');">
+	{% include banner-sticky.html %}
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 text-center">
+				<h1>Prima Volta Qui?</h1>
+				<h2>Inizia Qui</h2>
+				{% include absolute-anchor.html link="_pages/quiz-metabolico.md" class="button fullwidth" title="Quiz Metabolico" %}
+				<h2>Il Tuo Obiettivo</h2>
+				{% include absolute-anchor.html link="_posts/2019-12-01-guida-dimagrimento-definitiva.md" class="button fullwidth" title="Dimagrire" %}
+				<a href="/category/allenamento/" class="button fullwidth" title="Allenamento">Allenamento</a>
+				{% include absolute-anchor.html link="articles/index.html" class="button fullwidth" title="Tutte Le Altre Guide" %}
+				<h2>Per Allenarti Con Me</h2>
+				<a href="https://bodymastery.davegamba.com/" class="button fullwidth" title="Bodymastery">Bodymastery</a>
+				<a href="https://coaching.davegamba.com/" class="button fullwidth" title="Coaching">Coaching</a>
+				<h2>Shop</h2>
+				<a href="https://wildfitters.it/" class="button fullwidth" title="Integratori Naturali">Integratori Naturali</a>
 			</div>
 		</div>
-		<div class="col-md-6 mt-5">
-			{%- assign post = site.posts[1] -%}
-			{% include main-side-post.html post = post %}
-			{%- assign post = site.posts[2] -%}
-			{% include main-side-post.html post = post %}
-			{%- assign post = site.posts[3] -%}
-			{% include main-side-post.html post = post %}
-		</div>
 	</div>
-	<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-	{% for post in site.posts %} 
-	{% if post.tags contains "sticky" %}
-	<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 bg-lightblue position-relative">
-		<div class="pl-4 pr-0 h-100 tofront">
-			<div class="row justify-content-between">
-				<div class="col-md-6 pt-4 pb-4 pr-lg-4 align-self-center">
-					<h1 class="mb-3">{{post.title}}</h1>
-					<p class="mb-3 lead">
-						{{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
-					</p>
-					<a href="{{ post.url | absolute_url }}" class="btn btn-dark">Read More</a>
-				</div>
-				<div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.files.images}}{{ post.image }});"></div>
-			</div>
-		</div>
-	</div> 
-	{% endif %}
-	{% endfor %}
-	{% endif %}
-	{% if paginator.posts.size > 0 %}
-	<div class="row mt-3">
-		{% if site.tags.featured.size > 0 %}
-		<div class="col-md-8 main-loop">
-			{% include sidebar-loop.html %} 
-		</div>
-		<div class="col-md-4">
-			{% include sidebar-featured.html %}    
-		</div>
-		{% else %}
-		<div class="col-md-12 main-loop p-5">
-			{% include sidebar-loop.html %} 
-		</div>
-		{% endif %}
-    </div>
-	{% endif %}
 </div>

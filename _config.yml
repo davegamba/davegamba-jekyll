@@ -106,7 +106,8 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 15
+paginate: 16
+paginate_path: "/articles/page:num/"
 
 owner:
     name: "Dave Gamba"

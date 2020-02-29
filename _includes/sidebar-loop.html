@@ -1,8 +1,11 @@
 {% if paginator.posts.size > 0 %}
-<h4 class="font-weight-bold spanborder"><span>Articoli</span></h4>
-{% for post in paginator.posts %}
-	{% include main-loop-card.html %}
-{% endfor %}
+<div class="row">
+	{% for post in paginator.posts %}
+	<div class="col-md-4 col-lg-3">
+		{% include main-grid-post.html %}
+	</div>
+	{% endfor %}
+</div>
 <div class="mt-5">
 	{% if paginator.total_pages > 1 %}
 	<ul class="pagination"> 
@@ -15,7 +18,7 @@
 		{% if page == paginator.page %}
 		<li class="page-item disabled"><span class="webjeda page-link">{{ page }}</span></li>
 		{% elsif page == 1 %}
-		<li class="page-item"><a class="page-link" href="{{ "/" | absolute_url }}">{{ page }}</a></li>
+		<li class="page-item"><a class="page-link" href="{{ site.paginate_path | replace: 'page:num', '' | absolute_url }}">{{ page }}</a></li>
 		{% else %}
 		<li class="page-item"><a class="page-link" href="{{ site.paginate_path | replace: '//', '/' | replace: ':num', page | absolute_url }}">{{ page }}</a></li>
 		{% endif %}

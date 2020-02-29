@@ -6,6 +6,7 @@ author: davegamba
 comments: true
 image: 2019-12-01-guida-dimagrimento-definitiva.jpg
 categories: [Dimagrimento]
+excerpt: "La strada immediata per dimagrire definitivamente. Una bussola sicura in un mare di informazioni contrastanti e confuse su un argomento tanto abusato."
 ---
 
 INTRO
@@ -47,7 +48,7 @@ Questo è l'effetto che creiamo intorno a noi quando siamo su un percorso di _MI
 Voglio subito dirti una cruda verità:
 
 **Essere più in forma cambia DAVVERO la nostra vita.**
-In meglio.**
+In meglio.
 
 Fingere il contrario sarebbe un bugia.
 La nostra forma fisica influenza fortemente TUTTA la nostra vita, anche nelle altre sfere.

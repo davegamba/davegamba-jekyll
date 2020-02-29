@@ -1,0 +1,17 @@
+<article class="article-grid-element">
+	{% if post.image %}
+	<div>
+		{% include post-thumbnail.html post=post %}
+	</div>
+	{% endif %}
+	<div class="article-grid-element-content">
+		<h2 class="mb-1 h4 font-weight-bold">
+			<a class="text-dark" href="{{ post.url | absolute_url}}">{{ post.title }}</a>
+		</h2>
+		<p class="excerpt">
+		   {{ post.excerpt | strip_html | strip_newlines | truncate:186 }}
+		</p>
+		{% include catlist.html categories=post.categories %}
+		{% include post-date.html date=post.date %}
+	</div>
+</article>

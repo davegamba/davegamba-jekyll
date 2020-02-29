@@ -1,9 +1,9 @@
 document.querySelector('.navbar-toggler').addEventListener('click',function(){
 	if(document.querySelector('.navbar-collapse').classList.contains('collapse')){
-		document.querySelector('.navbar-toggler').classList.remove('is-active');
+		document.querySelector('.navbar-toggler').classList.add('is-active');
 		document.querySelector('.navbar-collapse').classList.remove('collapse');
 	}else{
-		document.querySelector('.navbar-toggler').classList.add('is-active');
+		document.querySelector('.navbar-toggler').classList.remove('is-active');
 		document.querySelector('.navbar-collapse').classList.add('collapse');
 	}
 });

@@ -28,8 +28,8 @@
 						{% include menu-header.html %}
 					</ul>
 					<ul class="navbar-nav ml-auto d-flex align-items-center">
-						<form class="bd-search hidden-sm-down" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-							<i class="fas fa-search"></i>
+						<form class="bd-search hidden-sm-down" onSubmit="return postSearch(document.getElementById('lunrsearch').value);">
+							<i class="fas fa-search" id="search-button"></i>
 							<input type="text" class="form-control text-small" id="lunrsearch" name="q" value=""> 
 						</form>
 					</ul>

@@ -10,14 +10,15 @@
 @import "hamburgers/hamburgers";
 
 html {
-	height: 100%;
+	width: 100%;
 	@include media-breakpoint-up(xl) {
 		font-size: 17px;
 	}
 }
 body {
-	overflow-x: hidden;
-	min-height: 100%;
+	width: 100%;
+    height: 100%;
+    overflow-x: hidden;
 	position: relative;
 	background-color: $dark;
 }
@@ -340,7 +341,7 @@ footer {
 		color: $dark;
 		border-radius: 30px;
 		height: 35px;
-		border: 1px solid $gray-200;
+		border: 1px solid $secondary;
 	}
 }
 .mb-2rem {
@@ -580,12 +581,13 @@ ol {
 .sticky-top-offset {
 	top:70px;
 }
-.homefirstpage {
-	.main-loop {
-		.main-loop-card {
-			&:nth-child(-n+5) {
-				display: none !important;
-			}
+.main-loop {
+	@include media-breakpoint-up(md) {
+		padding: 2.6rem;
+	}
+	.main-loop-card {
+		&:nth-child(-n+5) {
+			display: none !important;
 		}
 	}
 }
@@ -789,7 +791,12 @@ article {
 		background-position: center center;
 		background-attachment: fixed;
 		@include background-size(cover);
-		.section-logo {
+		@include media-breakpoint-down(lg) {
+			background-attachment: scroll;
+		}
+		.section-logo {			
+			position: relative;
+			z-index: 1;
 			margin: 145px 10% 0 10%;
 			@include media-breakpoint-down(lg) {
 				margin: 135px 3% 0 3%;
@@ -842,6 +849,9 @@ article {
 		}
 	}
 }
+.conver {
+	background-size: cover;
+}
 .quiz {
 	background: $black;
 	color: $white;
@@ -881,4 +891,46 @@ article {
 		overflow: overlay;
 		overflow-y: scroll;
 	}
+}
+.article-grid-element {
+	border: 1px solid $secondary;
+	.article-grid-element-content {
+		padding: 0.725rem;
+		h2 {
+			margin-top: 0;
+		}
+		.excerpt {
+			font-size: 0.825rem;
+			line-height: 1.5;
+		}
+	}
+	margin-bottom: 1.125rem;
+}
+.img-fold-container {
+	position: fixed; 
+	top: -50%; 
+	left: -50%; 
+	width: 200%; 
+	height: 200%;
+	img {
+		position: absolute; 
+		top: 0; 
+		left: 0; 
+		right: 0; 
+		bottom: 0; 
+		margin: auto; 
+		min-width: 100vw;
+		min-height: 100vh;
+		height: 100vh;
+		max-width: none;
+		@include media-breakpoint-down(sm) {
+			left: -25%;
+		}
+	}
+}
+.home-fold {
+	position: relative;
+	z-index: 1;
+	background-color: $white;
+	padding-top: 0.925rem;
 }

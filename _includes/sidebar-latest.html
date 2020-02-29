@@ -1,0 +1,28 @@
+<div class="row remove-site-content-margin">
+	{% assign latest_post = site.posts[0] %}
+	<div class="col-md-6 mt-5">
+		<div class="card border-0 mb-4 box-shadow">
+			{% include post-thumbnail.html post=latest_post %}
+			<div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+				<h2 class="h4 font-weight-bold">
+					<a class="text-dark" href="{{latest_post.url | absolute_url}}">{{latest_post.title}}</a>
+				</h2>
+				<p class="excerpt">
+					{{latest_post.excerpt | strip_html | strip_newlines | truncate: 136}}
+				</p>
+				<div>
+					{% include catlist.html categories=latest_post.categories %}
+					{% include post-date.html date=latest_post.date %}
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6 mt-5">
+		{%- assign post = site.posts[1] -%}
+		{% include main-side-post.html post = post %}
+		{%- assign post = site.posts[2] -%}
+		{% include main-side-post.html post = post %}
+		{%- assign post = site.posts[3] -%}
+		{% include main-side-post.html post = post %}
+	</div>
+</div>

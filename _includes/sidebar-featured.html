@@ -1,6 +1,6 @@
 {% if site.tags.featured.size > 0 %}
 <div class="sticky-top sticky-top-offset">
-    <h4 class="font-weight-bold spanborder"><span>Featured</span></h4>
+    <h4 class="font-weight-bold spanborder"><span>In Evidenza</span></h4>
     <ol class="list-featured">
         {% for post in site.tags.featured %}
 		<li class="mb-4">
@@ -8,7 +8,7 @@
 				<h6 class="font-weight-bold">
 					<a href="{{ post.url | absolute_url }}" class="text-dark">{{ post.title }}</a>
 				</h6>
-				{% include catlist.html categories = post.categories %}
+				{% include catlist.html categories=post.categories %}
 			</span>
 		</li>
         {% endfor %}   

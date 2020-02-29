@@ -11,7 +11,7 @@
 		<p class="excerpt">
 		   {{post.excerpt|strip_html|strip_newlines|truncate:186}}
 		</p>
-		{% include catlist.html categories=post %}
+		{% include catlist.html categories=post.categories %}
 		{% include post-date.html date=post.date %}
 	</div>
 </div>

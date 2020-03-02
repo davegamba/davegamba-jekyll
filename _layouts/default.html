@@ -11,6 +11,7 @@
 		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" media="screen" %}
 		{% include absolute-script.html file="lunr.js" async=true %}
 		{% include tracking-header.html %}
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 	</head>
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
 		<script>window.fbAsyncInit=function(){FB.init({appId:'{{site.facebook.app_id}}',autoLogAppEvents:true,xfbml:true,version:'{{site.facebook.version}}'})};</script>
@@ -79,5 +80,27 @@
 		{% include absolute-script.html file="theme.js" %}
 		{% include absolute-script.html file="search-lunr.js" %}
 		{% include tracking-footer.html %}
+		<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+		<script>
+			window.cookieconsent.initialise({
+			  "palette": {
+				"popup": {
+				  "background": "#ffcc00",
+				  "text": "#ffffff"
+				},
+				"button": {
+				  "background": "#00b0fc",
+				  "text": "#ffffff"
+				}
+			  },
+			  "theme": "edgeless",
+			  "content": {
+				"message": "Questo sito utilizza i cookie per offrirti la migliore esperienza.",
+				"dismiss": "Acconsenti",
+				"link": "Scopri di Più...",
+				"href": "/privacy.html"
+			  }
+			});
+		</script>
 	</body>
 </html>

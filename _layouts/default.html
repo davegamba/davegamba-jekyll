@@ -6,10 +6,10 @@
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
 		{% seo locale=site.lang %}
 		{% include absolute-link.html link=site.favicon rel="shortcut icon" type="image/x-icon" %}
-		<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap" rel="stylesheet" />
-		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" %}
-		{% include absolute-script.html file="lunr.js" %}
-		{% include absolute-script.html file="lazysizes.js" async=true %}
+		<link rel="preload" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap"></noscript>
+		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" media="screen" %}
+		{% include absolute-script.html file="lunr.js" async=true %}
 		{% include tracking-header.html %}
 	</head>
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
@@ -27,12 +27,12 @@
 					<ul class="navbar-nav mr-auto d-flex align-items-center">
 						{% include menu-header.html %}
 					</ul>
-					<ul class="navbar-nav ml-auto d-flex align-items-center">
+					<div class="navbar-nav ml-auto d-flex align-items-center">
 						<form class="bd-search hidden-sm-down" onSubmit="return postSearch(document.getElementById('lunrsearch').value);">
 							<i class="fas fa-search" id="search-button"></i>
 							<input type="text" class="form-control text-small" id="lunrsearch" name="q" value=""> 
 						</form>
-					</ul>
+					</div>
 				</div>
 			</div>
 		</nav>
@@ -74,6 +74,8 @@
 				</div>
 			</div>
 		</footer>
+		{% include absolute-script.html file="lazysizes.js" %}
+		{% include absolute-script.html file="ls.unveilhooks.js" %}
 		{% include absolute-script.html file="theme.js" %}
 		{% include absolute-script.html file="search-lunr.js" %}
 		{% include tracking-footer.html %}

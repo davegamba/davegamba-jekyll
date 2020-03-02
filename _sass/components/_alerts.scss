@@ -1,0 +1,51 @@
+@import "variables";
+@import "bootstrap/bootstrap";
+
+.alert-primary {
+	@include alert($white, $primary);
+}
+.alert-secondary {
+	@include alert($white, $secondary);
+}
+.alert-success {
+	@include alert($white, $success);
+}
+.alert-info {
+	@include alert($white, $info);
+}
+.alert-warning {
+	@include alert($white, $warning);
+}
+.alert-danger {
+	@include alert($white, $danger);
+}
+.alert-light {
+	@include alert($white, $light);
+}
+.alert-dark {
+	@include alert($white, $dark);
+}
+.alert-white {
+	@include alert($dark, $white);
+}
+.alert-purple {
+	@include alert($white, $purple);
+}
+.alert-salmon {
+	@include alert($white, $orange);
+}
+.alert-cyan {
+	@include alert($white, $cyan);
+}
+.alert-gray {
+	@include alert($white, $gray-600);
+}
+.alert-indigo {
+	@include alert($white, $indigo);
+}
+.alert-orange {
+	@include alert($white, $orange);
+}
+.alert-lightblue {
+	@include alert($white, $teal);
+}

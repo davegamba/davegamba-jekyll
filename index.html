@@ -7,7 +7,7 @@ description: "Personal Trainer Online"
 <section class="card border-0 home-section-fullwidth">
 	<div class="card-body">
 		<div class="img-fold-container">
-			{% include file-image.html src="home-section-1.jpg" title=site.title width="2600" height="1280" %}
+			{% include file-image.html src="home-section-1.webp" title=site.title width="2600" height="1280" %}
 		</div>
 		<div class="section-logo">
 			{% include absolute-image.html file="sign.svg" title=site.title width="1920" height="354" class="img-fluid" %}
@@ -15,7 +15,7 @@ description: "Personal Trainer Online"
 		</div>
 	</div>
 </section>
-<div class="home-fold pict-container" style="background-image:url('{{site.files.images}}home-bg.jpg');">
+<div class="home-fold pict-container lazyload" data-bg="{{site.files.images}}home-bg.webp">
 	{% include banner-sticky.html %}
 	<div class="container">
 		<div class="row">

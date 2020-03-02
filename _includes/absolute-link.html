@@ -4,4 +4,9 @@
 {% else %}
 {% assign type="" %}
 {% endif %}
-<link rel="{{include.rel}}"{{type}} href="{{ url | absolute_url }}" />
+{% if include.media %}
+{% capture media %} media="{{include.media}}"{% endcapture %}
+{% else %}
+{% assign media="" %}
+{% endif %}
+<link rel="{{include.rel}}"{{type}} href="{{ url | absolute_url }}"{{media}} />

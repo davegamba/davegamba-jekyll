@@ -4,4 +4,9 @@
 {% else %}
 {% assign async="" %}
 {% endif %}
-<script src="{{ url | absolute_url }}"{{async}}></script>
+{% if include.defer %}
+{% assign defer=" defer" %}
+{% else %}
+{% assign defer="" %}
+{% endif %}
+<script src="{{ url | absolute_url }}"{{async}}{{defer}}></script>

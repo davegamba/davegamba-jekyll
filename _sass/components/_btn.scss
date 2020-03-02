@@ -1,0 +1,19 @@
+@import "variables";
+@import "bootstrap/bootstrap";
+
+.btn-primary { color: $primary; }
+.btn-secondary { color: $secondary; }
+.btn-success { color: $success; }
+.btn-info { color: $info; }
+.btn-warning { color: $warning; }
+.btn-danger { color: $danger; }
+.btn-light { color: $light; }
+.btn-dark { color: $dark; }
+.btn-white { color: $white; }
+.btn-purple { color: $purple; }
+.btn-salmon { color: $pink; }
+.btn-cyan { color: $cyan; }
+.btn-gray { color: $gray-500; }
+.btn-indigo { color: $indigo; }
+.btn-orange { color: $orange; }
+.btn-lightblue { color: $teal; }

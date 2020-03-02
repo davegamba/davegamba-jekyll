@@ -1,0 +1,20 @@
+@import "variables";
+@import "bootstrap/bootstrap";
+
+.bg-black { background-color: $black; }
+.bg-primary { fill: $primary !important; }
+.bg-secondary { fill: $secondary !important; }
+.bg-success { fill: $success !important; }
+.bg-info { fill: $info !important; }
+.bg-warning { fill: $warning !important; }
+.bg-danger { fill: $danger !important; }
+.bg-light { fill: $light !important; }
+.bg-dark { fill: $dark !important; }
+.bg-white { fill: $white !important; }
+.bg-purple { fill: $purple !important; }
+.bg-salmon { fill: $pink !important; }
+.bg-cyan { fill: $cyan !important; }
+.bg-gray { fill: $gray-500 !important; }
+.bg-indigo { fill: $indigo !important; }
+.bg-orange { fill: $orange !important; }
+.bg-lightblue { fill: $teal !important; }

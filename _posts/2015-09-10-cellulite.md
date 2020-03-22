@@ -55,7 +55,7 @@ A causa di un alterato equilibrio di alcuni ormoni, ecco cosa può accadere:
 * **Cortisolo**: favorisce la liposintesi e il ristagno di liquidi.
 * **Ormoni Tiroidei**: quando la produzione di questi ormoni è bassa (ipotiroidismo) sono rallentati tutti i processi di metabolizzazione dei grassi. 
 
-cco perché, giustamente, Dave insiste frequentemente sull'importanza della risposta ormonale dei cibi che consumiamo.
+Ecco perché, giustamente, Dave insiste frequentemente sull'importanza della risposta ormonale dei cibi che consumiamo.
 
 Le uova sono l'alimento migliore, specie se consumate al mattino. L'insulina stabile non solo favorisce la salute, ma anche permette all'organismo di asciugarsi.
 

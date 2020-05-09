@@ -8,8 +8,10 @@
 		{% include absolute-link.html link=site.favicon rel="shortcut icon" type="image/x-icon" %}
 		<link rel="preload" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 		<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap"></noscript>
+		<script src="//widget.manychat.com/119366234881610.js" async="async"></script>
 		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" media="screen" %}
 		{% include absolute-script.html file="lunr.js" async=true %}
+		{% include absolute-script.html file="search-lunr.js" async=true %}
 		{% include tracking-header.html %}
 		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 	</head>
@@ -43,32 +45,34 @@
 		<main role="main" class="site-content">
 			{{content}}
 		</main>
-		<footer class="text-muted small">
+		<footer class="footer text-muted small">
 			<div class="container p-4">
 				<div class="row align-items-center justify-content-between">
-					<div class="mr-2 mb-0">
-						<p>{% include absolute-image.html file="logosign-light.svg" title=site.name width="220" height="35" %}</p>
-						<p>{{ site.owner.data }}</p>
-					</div>
-					<div class="mr-2 mb-0 pb-2 social-follow">
-						{% for item in site.social %}
-						<a href="{{item.link}}" title="{{item.label}}" class="p-2"><i class="fab fa-{{item.icon}} fa-3x"></i></a>
-						{% endfor %}
-					</div>
-				</div>
-				<div class="row align-items-center">
-					<div class="mr-2 mb-0">
-						<span>Copyright &copy; {{ site.time | date: "%Y" }} {{site.owner.name}}.</span>
-					</div>
-				</div>
-			</div>
-			<div class="footer-menu">
-				<div class="container p-2">
-					<div class="row align-items-center">
-						<div class="p-2">
-							{% include absolute-anchor.html link="_pages/privacy.md" title="Politica sulla Privacy" %}
+					<div class="col-md-8">
+						<div class="mr-2 mb-0">
+							<p>{% include absolute-image.html file="logosign-light.svg" title=site.name width="220" height="35" %}</p>
+							<p>{{ site.owner.data }}</p>
 						</div>
-						<div class="p-2">
+					</div>
+					<div class="col-md-4">
+						<div class="mr-2 mb-0 pb-2 social-follow">
+							{% for item in site.social %}
+							<a href="{{item.link}}" title="{{item.label}}" class="p-2"><i class="fab fa-{{item.icon}} fa-3x"></i></a>
+							{% endfor %}
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mr-2 mb-0">
+							<span>Copyright &copy; {{ site.time | date: "%Y" }} {{site.owner.name}}.</span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mt-3 mr-2 mb-0 pb-2 footer-menu">
+							{% include absolute-anchor.html link="_pages/privacy.md" title="Politica sulla Privacy" %}
 							{% include absolute-anchor.html link="_pages/tos.md" title="Termini e Condizioni" %}
 						</div>
 					</div>
@@ -78,7 +82,6 @@
 		{% include absolute-script.html file="lazysizes.js" %}
 		{% include absolute-script.html file="ls.unveilhooks.js" %}
 		{% include absolute-script.html file="theme.js" %}
-		{% include absolute-script.html file="search-lunr.js" %}
 		{% include tracking-footer.html %}
 		<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 		<script>

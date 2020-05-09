@@ -11,7 +11,6 @@ favicon: "assets/images/static/favicon.ico"
 url: "https://davegamba-firebase.firebaseapp.com"
 baseurl: ""
 google_analytics: "UA-36559615-1"
-facebook_pixel: "2161831077369797"
 date_format: "%d/%m/%Y"
 comments: false
 files:
@@ -132,4 +131,5 @@ twitter:
 
 facebook:
     app_id: '508063409287796'
-    version: 'v3.3'
+    version: 'v7.0'
+    pixel: '2161831077369797'

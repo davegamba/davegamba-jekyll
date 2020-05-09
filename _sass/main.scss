@@ -73,6 +73,7 @@ table {
 h1, h2, h3, h4, h5, h6 {
 	font-family: $headings-font-family;
 	text-transform: uppercase;
+	cursor: default;
 }
 h6 {
 	@include media-breakpoint-up(xl) {
@@ -83,36 +84,37 @@ main {
 	overflow: hidden;
 }
 footer {
-	margin-top: 50px;
-	z-index: 1022;
-	position: relative;
-	min-height: 100%;
-	padding: 0;
-	margin: 0;
-	background-color: $primary;
-	color: $light;
-	overflow: hidden;
-	div, p {
-		color: $light;
-	}
-	a {
-		color: $white;
-		&:hover {
-			color: darken($light, 7.5%);
-		}
-	}
-	.social-follow {
+	&.footer {
+		margin-top: 50px;
+		z-index: 1022;
 		position: relative;
-		left: -$list-inline-padding
-	}
-	.footer-menu {
+		min-height: 100%;
+		padding: 0;
+		margin: 0;
 		background-color: $dark;
-		color: $primary;
-		padding: 15px;
+		color: $light;
+		overflow: hidden;
+		div, p {
+			color: $light;
+		}
 		a {
-			color: $primary;
+			color: $white;
 			&:hover {
 				color: darken($light, 7.5%);
+			}
+		}
+		.container {
+			max-width: 1080px;
+		}
+		.social-follow {
+			position: relative;
+			left: -$list-inline-padding;
+			text-align: right;
+		}
+		.footer-menu {
+			a {
+				display: inline-block;
+				margin-right: 3px;
 			}
 		}
 	}
@@ -212,6 +214,7 @@ footer {
 			color: $white;
 			font-size: .93rem;
 			font-family: $headings-font-family;
+			letter-spacing: 1px;
 			text-transform: uppercase;
 			&:hover, &:focus {
 				color: $white;
@@ -627,8 +630,10 @@ article {
 		.section-logo {			
 			position: relative;
 			z-index: 1;
-			margin: 145px 10% 0 10%;
+			margin: 200px auto 0 auto;
+			max-width: 960px;
 			@include media-breakpoint-down(lg) {
+				max-width: 100%;
 				margin: 135px 3% 0 3%;
 			}
 			@include media-breakpoint-down(sm) {
@@ -640,11 +645,14 @@ article {
 		}
 		h2 {
 			text-transform: uppercase;
-			background: $white;
 			padding: 8px 22px;
+			font-size: 3rem;
 			font-weight: $headings-font-weight;
 			text-align: center;
 			margin: 0 auto;
+			@include media-breakpoint-down(sm) {
+				font-size: 2rem;
+			}
 		}
 	}
 }
@@ -676,6 +684,10 @@ article {
 		&:hover {
 			background-color: $primary;
 			color: $secondary;
+		}
+		small {
+			display: block;
+			font-size: 0.725rem;
 		}
 	}
 }

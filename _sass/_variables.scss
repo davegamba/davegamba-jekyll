@@ -1,6 +1,7 @@
 $fa-font-path: "../fonts";
 
 $white: rgb(255, 255, 255);
+$dark: rgb(33, 37, 41);
 $primary: rgb(0, 176, 252);
 $secondary: rgb(255, 204, 0);
 $font-family-sans-serif: "Merriweather Sans", sans-serif;
@@ -8,4 +9,4 @@ $headings-font-family: "Oswald", sans-serif;
 $headings-font-weight: 700;
 $fa-font-display: swap;
 $navbar-light-color: $white;
-$hamburger-layer-color: $primary;
+$hamburger-layer-color: $dark;

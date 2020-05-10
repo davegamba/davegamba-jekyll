@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="it">
 	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 		{% seo locale=site.lang %}
 		{% include absolute-link.html link=site.favicon rel="shortcut icon" type="image/x-icon" %}
-		<link rel="preload" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-		<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,400i,800,800i|Oswald:700&display=swap"></noscript>
+		<link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,800;1,400;1,800&family=Oswald:wght@700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+		<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,400;0,800;1,400;1,800&family=Oswald:wght@700&display=swap" /></noscript>
 		<script src="//widget.manychat.com/119366234881610.js" async="async"></script>
+		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" media="screen" %}
 		{% include absolute-script.html file="lunr.js" async=true %}
 		{% include absolute-script.html file="search-lunr.js" async=true %}
 		{% include tracking-header.html %}
-		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 	</head>
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
 		<script>window.fbAsyncInit=function(){FB.init({appId:'{{site.facebook.app_id}}',autoLogAppEvents:true,xfbml:true,version:'{{site.facebook.version}}'})};</script>

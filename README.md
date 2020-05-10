@@ -1,8 +1,9 @@
 # Dave Gamba - Blog
 
-[![buddy pipeline](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227400/badge.svg?token=11cf14fa3463bcb334a2a6a67dca945cf5652845091e562aa5da15610a225a0d "buddy pipeline")](https://app.buddy.works/daveptinfo/davegamba-jekyll/pipelines/pipeline/227400)
-![GitHub repo size](https://img.shields.io/github/repo-size/davegamba/davegamba-jekyll)
-![GitHub](https://img.shields.io/github/license/davegamba/davegamba-jekyll)
+[![Build](https://github.com/davegamba/davegamba-jekyll/workflows/Ruby/badge.svg)](https://github.com/davegamba/davegamba-jekyll)
+[![GitHub repo size](https://img.shields.io/github/repo-size/davegamba/davegamba-jekyll)](https://github.com/davegamba/davegamba-jekyll)
+[![License](https://img.shields.io/github/license/davegamba/davegamba-jekyll)](https://github.com/davegamba/davegamba-jekyll/blob/master/LICENSE)
+[![W3C Validation](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fdavegamba.com)](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdavegamba.com)
 
 ### Requirements
 
@@ -26,7 +27,7 @@ then run
 
 #### Contents
 
-Copyright (C) 2019 Dave Gamba.
+Copyright (C) 2020 Dave Gamba.
 
 #### Engine
 

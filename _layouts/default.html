@@ -11,8 +11,6 @@
 		<script src="//widget.manychat.com/119366234881610.js" async="async"></script>
 		<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 		{% include absolute-link.html link="assets/css/style.scss" rel="stylesheet" media="screen" %}
-		{% include absolute-script.html file="lunr.js" async=true %}
-		{% include absolute-script.html file="search-lunr.js" async=true %}
 		{% include tracking-header.html %}
 	</head>
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
@@ -105,5 +103,6 @@
 			  }
 			});
 		</script>
+		{% include absolute-script.html file="search-lunr.js" %}
 	</body>
 </html>

@@ -4,4 +4,4 @@
 {% else %}
 {% assign class="" %}
 {% endif %}
-<a href="{{ url | absolute_url }}"{{class}} title="{{include.title}}">{{include.title}}</a>
+<a href="{{ url | absolute_url }}"{{class}} title="{{include.title}}">{% if include.image %}{% include file-image.html src=include.image title=include.title %}{% else %}{{include.title}}{% endif %}</a>

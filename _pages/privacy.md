@@ -9,7 +9,7 @@ Politica sulla Privacy per il sito "{{site.name}}".
 
 ### Perché Questo Avviso?
 
-La presente Privacy Policy ha lo scopo di descrivere le modalità di gestione di questo sito, in riferimento al trattamento dei dati personali degli utenti/visitatori che lo consultano. Si tratta di un'informativa che è resa anche ai sensi dell'art. 13 del D. Lgs. 196/03 – Codice in materia di protezione dei dati personali – a coloro che si collegano a questo sito web e usufruiscono dei relativi servizi web a partire dall'indirizzo davegamba.com (qui di seguito il "Sito").
+La presente ***Privacy Policy*** ha lo scopo di descrivere le modalità di gestione di questo sito, in riferimento al trattamento dei dati personali degli utenti/visitatori che lo consultano. Si tratta di un'informativa che è resa anche ai sensi dell'art. 13 del D. Lgs. 196/03 – Codice in materia di protezione dei dati personali – a coloro che si collegano a questo sito web e usufruiscono dei relativi servizi web a partire dall'indirizzo davegamba.com (qui di seguito il "Sito").
 
 Questa informativa sulla privacy è inoltre redatta in adempimento agli obblighi previsti dall'art. 10 della Direttiva n. 95/46/CE e della Direttiva 2002/58/CE aggiornata dalla Direttiva 2009/136/CE.
 

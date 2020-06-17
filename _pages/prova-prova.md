@@ -1,6 +1,7 @@
 ---
 title: "Prova - Prova"
 layout: page
+permalink: "prova-prova"
 ---
 
 ## Testo di prova

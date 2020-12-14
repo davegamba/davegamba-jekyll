@@ -16,35 +16,9 @@
 	<body{% if page.url == "/" %} class="homefirstpage"{% endif %}>
 		<script>window.fbAsyncInit=function(){FB.init({appId:'{{site.facebook.app_id}}',autoLogAppEvents:true,xfbml:true,version:'{{site.facebook.version}}'})};</script>
 		<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
-		
 		<!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
-      <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            xfbml            : true,
-            version          : 'v7.0'
-          });
-        };
-
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/it_IT/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-
-      <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
-        attribution=setup_tool
-        page_id="119366234881610"
-  theme_color="#ffcc00"
-  logged_in_greeting="Ciao! Come possiamo aiutarti?"
-  logged_out_greeting="Ciao! Come possiamo aiutarti?">
-      </div>
-		
-		
+		<div id="fb-root"></div>
+		<script>window.fbAsyncInit = function() {FB.init({xfbml: true,version: 'v7.0'});};</script>
 		<nav id="top-menu" class="topnav navbar navbar-expand-lg navbar-light bg-secondary fixed-top">
 			<div class="container">
 				<a class="navbar-brand" href="{{"/" | absolute_url}}">{% include absolute-image.html file="header.svg" title=site.name width="212" height="31" %}</a>

@@ -6,7 +6,7 @@ author: davegamba
 comments: true
 image: 2014-05-28-esercizi-glutei.jpg
 categories: [Allenamento]
-tags: [Corpo Libero, Costume, Dimagrire, Fondoschiena, Forza, glutei, Gluteo, Sedere, Sodo, Tanga, Tonica, Tonico]
+tags: [Corpo Libero, Costume, Dimagrire, Fondoschiena, Forza, Glutei, Gluteo, Sedere, Sodo, Tanga, Tonica, Tonico]
 ---
 
 Dopo aver visto [i 3 migliori Esercizi per Gambe]({% post_url 2014-05-14-i-3-migliori-esercizi-attrezzi-per-gambe %}) nel precedente articolo, era il momento di aggiungere altri 3 movimenti **per scolpire il Gluteo e definirlo**.

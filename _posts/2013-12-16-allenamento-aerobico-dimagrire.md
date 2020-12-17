@@ -6,7 +6,7 @@ author: davegamba
 comments: true
 image: 2013-12-16-allenamento-aerobico-dimagrire.jpg
 categories: [Allenamento, Dimagrimento]
-tags: [Aerobica, Dimagrire, Anaerobica, Attività, Cardio, Correre, Corsa, Cortisolo, Dieta, Hiit, Running, Sprint, Stress]
+tags: [Aerobica, Dimagrire, Anaerobica, Attività, Cardio, Correre, Corsa, Cortisolo, Dieta, HIIT, Running, Sprint, Stress]
 ---
 Scrivo questo breve articolo solo per dare la mia risposta a una delle domande più frequenti nel mondo del fitness è **"Per dimagrire devo correre?"** seguita di solito subito da **"Che tipo di Cardio consigli per perdere grasso?"**
 

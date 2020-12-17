@@ -6,7 +6,7 @@ author: davegamba
 comments: true
 image: 2014-06-03-latte-fa-male.jpg
 categories: [Alimentazione]
-tags: [Allergie, Calcio, Capra, Colesterolo, diabete, Ferro, Galattosio, Grassi, Grasso, Intestinale, Intolleranze, Latte, Lattosio, Milk, Mucca, Muco, Parzialmente scremato, Pastorizzato, Scremato, Vaccino]
+tags: [Allergie, Calcio, Capra, Colesterolo, Diabete, Ferro, Galattosio, Grassi, Grasso, Intestinale, Intolleranze, Latte, Lattosio, Milk, Mucca, Muco, Parzialmente scremato, Pastorizzato, Scremato, Vaccino]
 ---
 
 #### Nota prima di cominciare

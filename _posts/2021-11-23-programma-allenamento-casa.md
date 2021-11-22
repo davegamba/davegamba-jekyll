@@ -31,7 +31,7 @@ I Principi funzioneranno se tu li farai funzionare, applicandoli giorno dopo gio
 
 ## INIZIAMO
 
-1- Il Dimagrimento non è semplice perdita di peso, ma perdita di Massa Grassa. 
+### 1 - Il Dimagrimento non è semplice perdita di peso, ma perdita di Massa Grassa. 
 Il primo strumento per il Dimagrimento è il Deficit Calorico.
 
 Sorpresa sorpresa.
@@ -41,7 +41,7 @@ Da qui non si scappa indipendentemente dall’allenamento o la dieta che sceglie
 Ora, potresti pensare che se ti alleni bene brucerai molto.
  Iniziamo a chiarire da qui:
 
-l’allenamento brucia tendenzialmente MENO di quello che si pensa.
+l'allenamento brucia tendenzialmente MENO di quello che si pensa.
 
 Perchè  il vero deficit deve cominciare a tavola.
 
@@ -57,7 +57,7 @@ Dieta e Allenamento vanno sempre a braccetto.
 
 Questo ci porta al secondo principio:
 
-2- Un Allenamento intelligente direziona il cibo che mangi verso il muscolo (e non verso il grasso).
+### 2 - Un Allenamento intelligente direziona il cibo che mangi verso il muscolo (e non verso il grasso).
 
 Lo stimolo dato dall’allenamento è fondamentale in questo. 
 
@@ -71,7 +71,7 @@ Serve innescare stimoli precisi.
 
 Quali?
 
-3- Il problema primario: Esistono solo 2 stimoli efficaci (e a casa ne perdi già uno).
+### 3 - Il problema primario: Esistono solo 2 stimoli efficaci (e a casa ne perdi già uno).
 
 Fare un allenamento davvero efficace a casa non è affatto facile.
 
@@ -110,7 +110,7 @@ Rimane un solo un materiale con cui lavorare efficacemente:
 
 Lo stimolo Metabolico.
 
-4- Lo Stimolo Metabolico allenante è la chiave di un programma d’allenamento a casa ben fatto.
+### 4 - Lo Stimolo Metabolico allenante è la chiave di un programma d’allenamento a casa ben fatto.
 
 Tolto il primo stimolo (i carichi alti), non ci rimane che lavorare con quello Metabolico.
 
@@ -138,7 +138,7 @@ Ma come?
 
 Abbiamo degli strumenti a nostra disposizione per farlo:
 
-5- LA SCELTA DEGLI ESERCIZI VINCENTI 
+### 5 - LA SCELTA DEGLI ESERCIZI VINCENTI 
 
 Per prima cosa bisogna saper scegliere gli esercizi più sensati ed efficaci per dimagrimento e ricomposizione corporea.
 
@@ -156,7 +156,7 @@ Dobbiamo prima usare esercizi più importanti, e poi condire il piatto con qualc
 
 Lo Stimolo Metabolico è uno stimolo di resistenza, quindi in linea di principio è meglio iniziare l’allenamento con esercizi più intensi,  per poi scendere gradualmente con la difficoltà.
 
-6- TEMPI DI RECUPERO/ DENSITÀ
+### 6 - TEMPI DI RECUPERO/ DENSITÀ
 
 Inizia a interiorizzare questo:
 
@@ -180,7 +180,7 @@ Bisogna tagliare i tempi e bisogna farlo con logica.
 
 Questo ci porta al prossimo principio.
 
-7- LE SUPERSERIE
+### 7 - LE SUPERSERIE
 
 Le SuperSerie dovrebbero diventare le tue migliori amiche quando ti alleni a casa.
 
@@ -202,7 +202,7 @@ Tuttavia è bene mantenere la Superserie sui 2-3 esercizi perché è molto più 
 
 In quanto ogni muscolo allenato risposa meno e viene sollecitato con maggiore frequenza.
 
-8-  RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
+### 8 - RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
 
 Quando in palestra usiamo carichi alti, il muscolo deve impegnare molte fibre muscolari, e un grande stimolo nervoso, per spostare il carico.
 
@@ -226,15 +226,15 @@ Naturalmente questo non va applicato a qualsiasi esercizio. Alcuni esercizi come
 
 Ma, se sapientemente applicato può dare risultati eccezionali, nella metà del tempo.
 
-9 GUARDA ALLA PRESTAZIONE
+### 9 - GUARDA ALLA PRESTAZIONE
 
 Se dovessi lasciarti UNA sola cosa da questa guida, sarebbe questa:
 
-L’ALLENAMENTO È UNA PERFORMANCE.
+**L'ALLENAMENTO È UNA PERFORMANCE.**
 
 Intendo proprio una performance sportiva, come un atleta.
 
-Anche il semplice allenamento “estetico”.
+Anche il semplice allenamento "estetico".
 
 Performance significa fare la tua migliore prestazione possibile in quel giorno.
  
@@ -262,7 +262,7 @@ Credo che ora tu abbia un bagaglio di strumenti diverso da quando hai iniziato a
 
 Ora, per applicare tutti questi principi in maniera pratica, ho creato un Calendario d’Allenamenti Brevi-Intensi:  30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
 
-Una sorta di Calendario dell’Avvento… FIT :D
+Una sorta di Calendario dell’Avvento... FIT :D
 
 Questo ci permetterà anche di arrivare a Gennaio pronti per fare Il Grande Salto di qualità fisico (e non molli e sbrodolati dalle feste).
 

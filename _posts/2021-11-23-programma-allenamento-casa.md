@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programma d'allenamento a Casa per Dimagrire: La Guida Scientifica"
-date: 2021-11-23 14:00
+date: 2021-11-23 00:00
 author: davegamba
 comments: true
 image: 2021-11-23-programma-allenamento-casa.jpg
@@ -31,7 +31,7 @@ I Principi funzioneranno se tu li farai funzionare, applicandoli giorno dopo gio
 
 ## INIZIAMO
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-1.jpg" title="llenarsi a casa" %}
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-1.jpg" title="Allenarsi a casa" %}
 
 ### 1 - Il Dimagrimento non è semplice perdita di peso, ma perdita di Massa Grassa. 
 Il primo strumento per il Dimagrimento è il Deficit Calorico.
@@ -115,7 +115,7 @@ Lo stimolo Metabolico.
 
 ### 4 - Lo Stimolo Metabolico allenante è la chiave di un programma d'allenamento a casa ben fatto.
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="llenarsi a casa" %}
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
 Tolto il primo stimolo (i carichi alti), non ci rimane che lavorare con quello Metabolico.
 
@@ -167,7 +167,7 @@ Inizia a interiorizzare questo:
 
 Quando ti alleni a casa è TUTTO un a questione di "tempi".
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="llenarsi a casa" %}
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
 
 Non devono esistere tempi morti, e non esiste fare altro mentre di stai allenando.
 
@@ -253,7 +253,7 @@ O almeno provarci.
 
 E tenere duro.
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="llenarsi a casa" %}
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
 
 Non serve cambiare scheda in continuazione. Serve scegliere gli esercizi giusti, e migliorare continuamente i quelli.
 

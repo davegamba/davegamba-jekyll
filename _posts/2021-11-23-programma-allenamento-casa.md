@@ -4,7 +4,7 @@ title: "Programma d'allenamento a Casa per Dimagrire: La Guida Scientifica"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
-image: 2021-11-23-programma-allenamento-casa.jpg
+image: 2021-11-23-programma-allenamento-casa-2.jpg
 categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
@@ -115,7 +115,7 @@ Lo stimolo Metabolico.
 
 ### 4 - Lo Stimolo Metabolico allenante è la chiave di un programma d'allenamento a casa ben fatto.
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
+{% include file-image.html src="2021-11-23-programma-allenamento-casa.jpg" title="Allenarsi a casa" %}
 
 Tolto il primo stimolo (i carichi alti), non ci rimane che lavorare con quello Metabolico.
 

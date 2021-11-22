@@ -4,9 +4,9 @@ title: Programma d'allenamento a Casa per Dimagrire: La Guida Scientifica
 date: 2021-11-23 14:00
 author: davegamba
 comments: true
-image: 2020-12-15-un-anno-felice.jpg
+image: 2021-11-23-programma-allenamento-casa.jpg
 categories: [Allenamento]
-excerpt: ""
+excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
 
 Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?
@@ -31,15 +31,18 @@ I Principi funzioneranno se tu li farai funzionare, applicandoli giorno dopo gio
 
 ## INIZIAMO
 
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-1.jpg" title="llenarsi a casa" %}
+
 ### 1 - Il Dimagrimento non è semplice perdita di peso, ma perdita di Massa Grassa. 
 Il primo strumento per il Dimagrimento è il Deficit Calorico.
 
 Sorpresa sorpresa.
 
-Da qui non si scappa indipendentemente dall’allenamento o la dieta che sceglierai.
+Da qui non si scappa indipendentemente dall'allenamento o la dieta che sceglierai.
 
 Ora, potresti pensare che se ti alleni bene brucerai molto.
- Iniziamo a chiarire da qui:
+
+#### Iniziamo a chiarire da qui:
 
 l'allenamento brucia tendenzialmente MENO di quello che si pensa.
 
@@ -47,7 +50,7 @@ Perchè  il vero deficit deve cominciare a tavola.
 
 Quindi allenarsi è inutile e basta fare la dieta?  Assolutamente no. 
 
-L’Allenamento serve a fare qualcosa di molto più importante che bruciare: 
+L'Allenamento serve a fare qualcosa di molto più importante che bruciare: 
 
 fornisce gli stimoli che indirizzano il corpo a perdere Massa Grassa e conservare Massa Magra.
 
@@ -65,7 +68,7 @@ Senza allenamento, possiamo anche fare un’alimentazione sana, ma il cibo inger
 
 Allenandoci invece, rendiamo i nostri muscoli delle spugne pronte ad assorbire per prime il cibo ingerito. In questo modo impediremo del tutto che si depositi sul nostro adipe.
 
-Ma per arrivare a questo  non basterà “muoversi un po’ ” o fare qualcosa a caso.
+Ma per arrivare a questo  non basterà "muoversi un po'" o fare qualcosa a caso.
 
 Serve innescare stimoli precisi.
 
@@ -104,13 +107,15 @@ Un ottimo stimolo meccanico a casa lo abbiamo quando iniziamo ad avere attrezzat
 
 In questo caso si potrà fare un lavoro molto più completo e raggiugnere lo stimolo meccanico.
 
-"E quindi Dave? Non c’è niente da fare?"
+"E quindi Dave? Non c'è niente da fare?"
 
 Rimane un solo un materiale con cui lavorare efficacemente:
 
 Lo stimolo Metabolico.
 
-### 4 - Lo Stimolo Metabolico allenante è la chiave di un programma d’allenamento a casa ben fatto.
+### 4 - Lo Stimolo Metabolico allenante è la chiave di un programma d'allenamento a casa ben fatto.
+
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="llenarsi a casa" %}
 
 Tolto il primo stimolo (i carichi alti), non ci rimane che lavorare con quello Metabolico.
 
@@ -146,7 +151,7 @@ Per esempio, a casa è importante scegliere esercizi Multi-articolari, ovvero ch
 
 per farti un esempio  pensa a squat, affondi, stacchi, tirate, e similari. Con tutte le relative varianti.
 
-In questo modo saremo sicuri di fare uno sforzo impegnativo, far girare parecchio il sangue, l’ossigeno, e muovere “più corpo possibile”.
+In questo modo saremo sicuri di fare uno sforzo impegnativo, far girare parecchio il sangue, l'ossigeno, e muovere "più corpo possibile".
 
 Fare solo Mono-articolari, come Slanci glutei con cavigliere o Bicipiti con manubri, è molto limitante.
 
@@ -160,7 +165,9 @@ Lo Stimolo Metabolico è uno stimolo di resistenza, quindi in linea di principio
 
 Inizia a interiorizzare questo:
 
-Quando ti alleni a casa è TUTTO un a questione di “tempi”.
+Quando ti alleni a casa è TUTTO un a questione di "tempi".
+
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="llenarsi a casa" %}
 
 Non devono esistere tempi morti, e non esiste fare altro mentre di stai allenando.
 
@@ -246,6 +253,8 @@ O almeno provarci.
 
 E tenere duro.
 
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="llenarsi a casa" %}
+
 Non serve cambiare scheda in continuazione. Serve scegliere gli esercizi giusti, e migliorare continuamente i quelli.
 
 Chi vuole cambiare sempre scheda è perché non ha capito ancora l’allenamento:
@@ -260,9 +269,9 @@ Abbiamo parlato abbastanza.
 
 Credo che ora tu abbia un bagaglio di strumenti diverso da quando hai iniziato a leggere questa Guida.
 
-Ora, per applicare tutti questi principi in maniera pratica, ho creato un Calendario d’Allenamenti Brevi-Intensi:  30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
+Ora, per applicare tutti questi principi in maniera pratica, ho creato un Calendario d'Allenamenti Brevi-Intensi: 30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
 
-Una sorta di Calendario dell’Avvento... FIT :D
+Una sorta di Calendario dell'Avvento... FIT :D
 
 Questo ci permetterà anche di arrivare a Gennaio pronti per fare Il Grande Salto di qualità fisico (e non molli e sbrodolati dalle feste).
 

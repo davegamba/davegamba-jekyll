@@ -4,7 +4,7 @@ title: "La Guida Scientifica all'Allenamento a Casa per Dimagrire"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
-image: 2021-11-23-programma-allenamento-casa.jpg
+image: 2021-11-23-programma-allenamento-casa-3.jpg
 categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
@@ -264,8 +264,6 @@ O almeno provarci.
 
 E tenere duro.
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
-
 Non serve cambiare scheda in continuazione. **Serve scegliere gli esercizi giusti, e migliorare continuamente i quelli.**
 
 Chi vuole cambiare sempre scheda è perché non ha capito ancora l’allenamento:
@@ -295,7 +293,11 @@ Ma quando si fanno le cose con logica e scienza, i risultati sono semplicemente 
 
 Iscriviti qui per iniziare subito, è gratuito.
 
-https://wildfitters.davegamba.com/
+► [https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)
 
-[https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)
+Ci vediamo dentro al Gruppo!
+
+Ai tuoi progressi, 
+
+Dave 
 

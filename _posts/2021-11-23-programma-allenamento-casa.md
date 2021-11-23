@@ -290,3 +290,9 @@ Seguendo  questo Calendario con noi,  ti accorgerai che bastano veramente pochi 
 Ma quando si fanno le cose con logica e scienza, i risultati sono semplicemente visibili.
 
 Iscriviti qui per iniziare subito, è gratuito.
+
+https://wildfitters.davegamba.com/
+
+[Allenamento Aerobico per Dimagrire]({% https://wildfitters.davegamba.com/ %})
+
+

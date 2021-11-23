@@ -218,6 +218,26 @@ Tuttavia è bene mantenere la Superserie sui 2-3 esercizi perché è molto più 
 
 In quanto ogni muscolo allenato risposa meno e viene sollecitato con maggiore frequenza.
 
+***Un esempio di un Allenamento metabolico realmente efficace?***
+
+*Circuito 7min no stop:*
+10reps Jump Squat o Burpees
+10reos Step up (salita sul gradino)per gamba
+10reps Piegamenti sulle braccia o su ginocchia
+
+Riposo di 3min
+
+*Circuito 7min no stop:*
+6 Rematori con manubrio
+10reps Stacco con manubri
+20 Climbers
+
+Provalo e dimmi come va.
+
+Questo è solo UN esempio dei numero allenamenti che abbiamo dentro il Programma Completo BODYMASTERY.
+
+Ti alleni sempre solo 15-20 min, ma la differenza sarà evidente da subito.
+
 
 ## 📌 Principio 8 - RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
 
@@ -274,6 +294,7 @@ Si possono variare piccoli dettagli qua e là ogni tanto, certo, ma lo scheletro
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
 
+
 PASSARE ALL'AZIONE: PRONTI PER APPLICARE?
 ==========================================
 
@@ -281,17 +302,17 @@ Ok, abbiamo parlato abbastanza.
 
 Credo che adesso tu abbia un bagaglio di strumenti diverso da quando hai iniziato a leggere questa Guida.
 
-Ora, per applicare tutti questi principi in maniera pratica ho creato un Calendario d'Allenamenti Brevi-Intensi di 30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
+Ora, per applicare tutti questi principi in maniera pratica ho creato un **Calendario d'Allenamenti Brevi-Intensi di 30 giorni per  tutto il mese di Dicembre**, totalmente gratuito.
 
-Una sorta di Calendario dell'Avvento... FIT :D
+Una sorta di *Calendario dell'Avvento... FIT :D*
 
-Questo ci permetterà anche di arrivare a Gennaio pronti per fare Il Grande Salto di qualità fisico (e non molli e sbrodolati dalle feste).
+Questo ci permetterà anche di **arrivare a Gennaio pronti** per fare Il Grande Salto di qualità fisico (e non molli e sbrodolati dalle feste).
 
-Seguendo  questo Calendario con noi,  ti accorgerai che bastano veramente pochi minuti al giorno per fare un enorme differenza. 
+Seguendo questo Calendario con noi,  ti accorgerai che bastano veramente **pochi minuti al giorno** per fare un enorme differenza. 
 
 Ma quando si fanno le cose con logica e scienza, i risultati sono semplicemente visibili.
 
-Iscriviti qui per iniziare subito, è gratuito.
+**Iscriviti qui al nostro Gruppo per iniziare subito. È gratuito:**
 
 ► [https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)
 

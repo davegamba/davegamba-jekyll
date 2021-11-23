@@ -177,8 +177,6 @@ Inizia a interiorizzare questo:
 
 **Quando ti alleni a casa è TUTTO un a questione di *"tempi"*.**
 
-{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
-
 Non devono esistere *tempi morti*, e non esiste fare altro mentre di stai allenando.
 
 **A casa ci si allena intensi e focalizzati.** Per forza. Altrimenti è inutile.
@@ -276,15 +274,16 @@ Chi vuole cambiare sempre scheda è perché non ha capito ancora l’allenamento
 
 Si possono variare piccoli dettagli qua e là ogni tanto, certo, ma lo scheletro di un allenamento di qualità rimane sempre intatto.
 
+{% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
 
-## PASSARE ALL'AZIONE: PRONTI PER APPLICARE?
-============================================
+PASSARE ALL'AZIONE: PRONTI PER APPLICARE?
+==========================================
 
-Abbiamo parlato abbastanza.
+Ok, abbiamo parlato abbastanza.
 
-Credo che ora tu abbia un bagaglio di strumenti diverso da quando hai iniziato a leggere questa Guida.
+Credo che adesso tu abbia un bagaglio di strumenti diverso da quando hai iniziato a leggere questa Guida.
 
-Ora, per applicare tutti questi principi in maniera pratica, ho creato un Calendario d'Allenamenti Brevi-Intensi: 30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
+Ora, per applicare tutti questi principi in maniera pratica ho creato un Calendario d'Allenamenti Brevi-Intensi di 30 giorni per  tutto il mese di Dicembre, totalmente gratuito.
 
 Una sorta di Calendario dell'Avvento... FIT :D
 

@@ -194,7 +194,7 @@ Bisogna **tagliare i tempi** e bisogna farlo **con logica.**
 Questo ci porta al prossimo principio.
 
 
-## Principio 7 - LE SUPERSERIE
+## ● 📌 Principio 7 - LE SUPERSERIE
 
 **Le SuperSerie dovrebbero diventare le tue migliori amiche quando ti alleni a casa.**
 

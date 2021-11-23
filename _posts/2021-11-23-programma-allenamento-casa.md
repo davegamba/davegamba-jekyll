@@ -32,18 +32,19 @@ I Principi funzioneranno se tu li farai funzionare, applicandoli giorno dopo gio
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
-## 1 - Il Dimagrimento non è semplice perdita di peso, ma perdita di Massa Grassa. 
-Il primo strumento per il Dimagrimento è il Deficit Calorico.
+## 📌 Principio 1 - Il Dimagrimento non passa dal bruciare, ma dal stimolare. 
 
-Sorpresa sorpresa.
+Il primo strumento per il Dimagrimento è il **Deficit Calorico.**
+
+*Sorpresa sorpresa.*
 
 Da qui non si scappa indipendentemente dall'allenamento o la dieta che sceglierai.
 
-Ora, potresti pensare che se ti alleni bene brucerai molto.
+Ora, potresti pensare che se ti alleni bene *brucerai molto.*
 
-**Iniziamo a chiarire da qui:**
+Iniziamo a chiarire da qui:
 
-**l'allenamento brucia tendenzialmente *MENO* di quello che si pensa.**
+**l'Allenamento brucia tendenzialmente *MENO* di quello che si pensa.**
 
 Perchè  il vero deficit deve cominciare a tavola.
 
@@ -61,7 +62,8 @@ Dieta e Allenamento vanno sempre a braccetto.
 
 Questo ci porta al secondo principio:
 
-## 2 - Un Allenamento intelligente direziona il cibo che mangi verso il muscolo (e non verso il grasso).
+
+## 📌 Principio 2 - Devi direzionare il cibo che mangi verso il muscolo (e non verso il grasso).
 
 Lo stimolo dato dall’allenamento è fondamentale in questo. 
 
@@ -75,7 +77,8 @@ Serve innescare stimoli precisi.
 
 *Quali?*
 
-## 3 - Il problema primario: Esistono solo 2 stimoli efficaci (e a casa ne perdi già uno).
+
+## 📌 Principio 3 - Il problema: Esistono solo 2 Stimoli allenanti vincenti.
 
 Fare un allenamento davvero efficace a casa non è affatto facile.
 
@@ -115,7 +118,8 @@ Rimane ancora un fattore con cui possiamo lavorare efficacemente:
 
 Lo **Stimolo Metabolico.**
 
-## 4 - Lo Stimolo Metabolico allenante è la chiave di un Programma d'Allenamento a Casa scientifico.
+
+## 📌 Principio 4 - Lo Stimolo Metabolico è la chiave di un Programma d'Allenamento a Casa scientifico.
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa.jpg" title="Allenarsi a casa" %}
 
@@ -131,7 +135,7 @@ Dove portiamo i nostri muscoli a cedimento o comunque vicini al cedimento.
 
 È maggiormente aerobico di quello meccanico (che è quasi tutto anaerobico).
 
-*E perché non è così semplice la faccenda?*
+***E perché non è così semplice la faccenda?***
 
 Perché  utilizzando bassi carichi arrivare a cedimento è difficilmente realizzabile. In quanto spesso cede prima la testa del corpo. 
 
@@ -148,7 +152,7 @@ Ma... *come?*
 Vediamo gli strumenti a nostra disposizione per farlo:
 
 
-## 5 - SCELTA DI ESERCIZI EFFICIENTI 
+## 📌 Principio 5 - SCELTA DI ESERCIZI EFFICIENTI 
 
 Per prima cosa bisogna saper scegliere gli esercizi più sensati ed efficaci per **dimagrimento** e **ricomposizione corporea.**
 
@@ -167,7 +171,7 @@ Dobbiamo prima usare esercizi più importanti, e poi condire il piatto con qualc
 Lo Stimolo Metabolico è uno stimolo di resistenza, quindi in linea di principio è meglio iniziare l’allenamento con esercizi più intensi,  per poi scendere gradualmente con la difficoltà.
 
 
-## 6 - TEMPI DI RECUPERO/ DENSITÀ
+## 📌 Principio 6 - DENSITÀ ALLENANTE = TEMPI DI RECUPERO 
 
 Inizia a interiorizzare questo:
 
@@ -183,9 +187,9 @@ La gente fa il contrario: allenamenti lunghi, diluiti, poco intensi, pensando *�
 
 Non funziona cosi.
 
-Ed è il motivo per cui il mio approccio d’allenamento è **breve-intenso.**
+Ed è il motivo per cui il mio approccio d’allenamento è *breve-intenso.*
 
-Questa la base per uno stimolo metabolico di successo.
+**Aumentare la Densità dell'allenamento nel minor tempo possibile, è la base per uno Stimolo Metabolico di successo.**
 
 Anche a livello psicologico mantenere la concentrazione a casa per tempi prolungati è veramente difficile, se non impossibile. Le distrazioni sono troppe e il focus si perde in tempi più brevi.
 
@@ -194,7 +198,7 @@ Bisogna **tagliare i tempi** e bisogna farlo **con logica.**
 Questo ci porta al prossimo principio.
 
 
-## ● 📌 Principio 7 - LE SUPERSERIE
+## 📌 Principio 7 - LE SUPERSERIE
 
 **Le SuperSerie dovrebbero diventare le tue migliori amiche quando ti alleni a casa.**
 
@@ -217,7 +221,7 @@ Tuttavia è bene mantenere la Superserie sui 2-3 esercizi perché è molto più 
 In quanto ogni muscolo allenato risposa meno e viene sollecitato con maggiore frequenza.
 
 
-## 8 - RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
+## 📌 Principio 8 - RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
 
 Quando in palestra usiamo carichi alti, il muscolo deve impegnare molte fibre muscolari, e un grande stimolo nervoso, per spostare il carico.
 
@@ -242,7 +246,7 @@ Naturalmente questo non va applicato a qualsiasi esercizio. Alcuni esercizi come
 Ma, se sapientemente applicato può dare risultati eccezionali, nella metà del tempo.
 
 
-## 9 - GUARDA ALLA PRESTAZIONE
+## 📌 Principio 9 - GUARDA ALLA PRESTAZIONE
 
 Se dovessi lasciarti UNA sola cosa da questa guida, sarebbe questa:
 

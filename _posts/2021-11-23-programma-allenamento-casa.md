@@ -278,6 +278,7 @@ Si possono variare piccoli dettagli qua e là ogni tanto, certo, ma lo scheletro
 
 
 ## PASSARE ALL'AZIONE: PRONTI PER APPLICARE?
+============================================
 
 Abbiamo parlato abbastanza.
 
@@ -297,4 +298,5 @@ Iscriviti qui per iniziare subito, è gratuito.
 
 https://wildfitters.davegamba.com/
 
+[https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)
 

@@ -4,7 +4,7 @@ title: "La Guida Scientifica all'Allenamento a Casa per Dimagrire"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
-image: 2021-11-23-programma-allenamento-casa-2.jpg
+image: 2021-11-23-programma-allenamento-casa.jpg
 categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---

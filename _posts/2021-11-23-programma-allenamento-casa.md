@@ -293,6 +293,4 @@ Iscriviti qui per iniziare subito, è gratuito.
 
 https://wildfitters.davegamba.com/
 
-[Allenamento Aerobico per Dimagrire]({% https://wildfitters.davegamba.com/ %})
-
 

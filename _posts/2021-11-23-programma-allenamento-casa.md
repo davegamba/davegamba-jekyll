@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programma d'allenamento a Casa per Dimagrire: La Guida Scientifica"
+title: "La Guida Scientifica all'Allenamento a Casa per Dimagrire"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true

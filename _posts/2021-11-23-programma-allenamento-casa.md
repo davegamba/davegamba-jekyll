@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Guida Scientifica all'Allenamento a Casa per Dimagrire"
+title: "Allenamento A Casa Per Dimagrire: Le 9 Tecniche Più Avanzate Da Applicare"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
@@ -9,30 +9,45 @@ categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
 
-***Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?***
+***"Allenarsi a casa, e ottenere risultati concreti, è davvero possibile❓"***
 
-Non è una domanda scontata.
+Questa è la vera domanda che ci siamo fatti tutti dal periodo di lockdown in poi.
 
-Avere risultati *reali* a casa è molto più difficile di quello che sembra.
+E non è affatto una domanda scontata.
 
-Nel periodo di lockdown milioni di persone hanno sperimentato cosa significhi. E tutti hanno provato a creare e usare allenamenti di tutti i tipi.
+Perchè ci siamo accorti che avere risultati *reali*, di **Dimagrimento** e **Ricomposizione corporea** a casa è molto più complesso di quello che sembra.
 
-Ma poi in quanti hanno davvero avuto successo nei loro obiettivi?
+Negli ultimi anni tutti hanno provato a creare e usare allenamenti di qualsiasi tipo. Ma spesso senza una vera logica scientifica a monte.
 
-Per capire come farlo senza perdere tempo ed energie inutilmente, servono *Principi fondamentali* da conoscere. 
+Infatti in quanti hanno davvero avuto ***successo*** nel loro obiettivo fisico?
 
-Ed applicare.
+La maggioranza ha solo tenuto botta.
 
-**Vediamo insieme i Principi portanti di un vero allenamento a casa di successo.** E infine un percorso pratico da seguire.
+Come trainer e come atleta fitness questo ha impattato profondamente anche me. Dopo anni di lavoro fisico molto strutturato, sono rimasto come tutti senza lemie routine. E ho dovuto reinventare qualcosa di reale efficacia da casa, ripartndo da studio della fisiologia e tentativi.
 
-*NB - Ricorda che la Disciplina è il primo principio imprescindibile di ogni successo. In qualsiasi campo e particolarmente quello fisico.
-I Principi funzioneranno se tu li farai funzionare, applicandoli giorno dopo giorno.*
+In questa guida ti rivelerò le tecniche e il metodo che ho usato per continuare a migliorare fisicamente da casa, perdendo persino più kg di massa grassa e mantenendo la 
+
+Sono anche le stesse tecniche che uso abitualmente con i miei clienti del Coaching che seguo personalmente, e che ho visto funzionare nei casi più diversi.
+
+Perchè i Principi sono i fondamentali che funzionano sempre.
+
+Come vedremo, ci sono importanti differenze tra allenamenti in palestra e in casa.
+
+Il terreno di gioco e gli strumenti cambiano, e così cambiano anche le regole del gioco per farlo funzionare.
+
+Per questo è importante conoscerle prima possibile. Nel modo più pratico possibile.
+
+Se la leggerai fino in fondo avrai una cassetta degli attrezzi nuova di zecca. E il tuo modo di allenarti a casa cambierà per sempre.
+
+Perchè non basta fare qualche video a caso su Youtube per rivoluzionare fisico: Servono tecniche efficaci e strategia.
+
+Per questo in questa Guida non parleremo delle solite banalità che ti fanno vedere tutti
 
 **INIZIAMO**
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
-## 📌 Principio 1 - Il Dimagrimento non passa dal bruciare, ma dal stimolare. 
+## 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
 
 Il primo strumento per il Dimagrimento è il **Deficit Calorico.**
 
@@ -63,7 +78,7 @@ Dieta e Allenamento vanno sempre a braccetto.
 Questo ci porta al secondo principio:
 
 
-## 📌 Principio 2 - Devi direzionare il cibo che mangi verso il muscolo (e non verso il grasso).
+## 📌 Principio 2 - Direziona il cibo verso il muscolo (non verso il grasso).
 
 Lo stimolo dato dall’allenamento è fondamentale in questo. 
 
@@ -77,8 +92,20 @@ Serve innescare stimoli precisi.
 
 *Quali?*
 
+Anaerobico e Aerobico naturalmente.
 
-## 📌 Principio 3 - Il problema: Esistono solo 2 Stimoli allenanti vincenti.
+Aspetta te la faccio facile: devi fare un lavoro muscolare (con sovraccarichi) e un lavoro cardio (per il "fiato").
+
+Fare solo uno O l'altro, non basterà.
+
+Entrambi sono due facce della stessa medaglia e dedicarsi solo a uno, ad esemepio mettersi solo a correre tutto il tempo, non permetterà a certi meccanismi di mettersi in atto.
+
+Perchè entrambi produrrano STIMOLI fiiologici diversi.
+
+E questa pate ci interessa particolarmente, perchè...
+
+
+## 📌 Principio 3 - Esistono solo 2 Stimoli allenanti vincenti.
 
 Fare un allenamento davvero efficace a casa non è affatto facile.
 
@@ -119,7 +146,7 @@ Rimane ancora un fattore con cui possiamo lavorare efficacemente:
 Lo **Stimolo Metabolico.**
 
 
-## 📌 Principio 4 - Lo Stimolo Metabolico è la chiave di un Programma d'Allenamento a Casa scientifico.
+## 📌 Principio 4 - Lo Stimolo Metabolico è la chiave di un vero d'Allenamento a Casa.
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa.jpg" title="Allenarsi a casa" %}
 
@@ -152,7 +179,7 @@ Ma... *come?*
 Vediamo gli strumenti a nostra disposizione per farlo:
 
 
-## 📌 Principio 5 - SCELTA DI ESERCIZI EFFICIENTI 
+## 📌 Principio 5 - GLI ESERCIZI +EFFICIENTI 
 
 Per prima cosa bisogna saper scegliere gli esercizi più sensati ed efficaci per **dimagrimento** e **ricomposizione corporea.**
 
@@ -171,7 +198,7 @@ Dobbiamo prima usare esercizi più importanti, e poi condire il piatto con qualc
 Lo Stimolo Metabolico è uno stimolo di resistenza, quindi in linea di principio è meglio iniziare l’allenamento con esercizi più intensi,  per poi scendere gradualmente con la difficoltà.
 
 
-## 📌 Principio 6 - DENSITÀ ALLENANTE = TEMPI DI RECUPERO 
+## 📌 Principio 6 - DENSITÀ ALLENANTE
 
 Inizia a interiorizzare questo:
 
@@ -239,7 +266,7 @@ Questo è solo UN esempio dei numero allenamenti che abbiamo dentro il Programma
 Ti alleni sempre solo 15-20 min, ma la differenza sarà evidente da subito.
 
 
-## 📌 Principio 8 - RALLENTARE IL MOVIMENTO: IL TEMPO SOTTO TENSIONE
+## 📌 Principio 8 - IL TEMPO SOTTO TENSIONE
 
 Quando in palestra usiamo carichi alti, il muscolo deve impegnare molte fibre muscolari, e un grande stimolo nervoso, per spostare il carico.
 
@@ -264,7 +291,7 @@ Naturalmente questo non va applicato a qualsiasi esercizio. Alcuni esercizi come
 Ma, se sapientemente applicato può dare risultati eccezionali, nella metà del tempo.
 
 
-## 📌 Principio 9 - GUARDA ALLA PRESTAZIONE
+## 📌 Principio 9 - LA PERFORMANCE ATLETICA
 
 Se dovessi lasciarti UNA sola cosa da questa guida, sarebbe questa:
 
@@ -321,4 +348,10 @@ Ci vediamo dentro al Gruppo!
 Ai tuoi progressi, 
 
 Dave 
+
+
+*PS - 
+Non dimanticare mai il Principio base imprescendibile per ogni successo: la Disciplina.
+I Principi funzionano se tu li fai funzionare. Applicandoli giorno dopo giorno.
+Questo vale in qualsiasi campo, e particolarmente quello fisico.*
 

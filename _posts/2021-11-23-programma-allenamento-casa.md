@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allenamento A Casa Per Dimagrire: Le 9 Tecniche Più Avanzate Da Applicare"
+title: "Allenamento A Casa Per Dimagrire: I 9 Fondamentali Da Applicare (2022)"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
@@ -9,45 +9,51 @@ categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
 
-***"Allenarsi a casa, e ottenere risultati concreti, è davvero possibile❓"***
+***"E possibile allenarsi a casa e ottenere risultati fisici concreti❓"***
 
-Questa è la vera domanda che ci siamo fatti tutti dal periodo di lockdown in poi.
+Questa è la domanda che ci siamo fatti tutti dal lockdown in poi.
 
 E non è affatto una domanda scontata.
 
-Perchè ci siamo accorti che avere risultati *reali*, di **Dimagrimento** e **Ricomposizione corporea** a casa è molto più complesso di quello che sembra.
+Perchè ci siamo accorti che avere risultati reali, di **Dimagrimento** e Ricomposizione corporea a casa è molto più dura di quello che sembra.**
 
-Negli ultimi anni tutti hanno provato a creare e usare allenamenti di qualsiasi tipo. Ma spesso senza una vera logica scientifica a monte.
+In questo periodo tutti hanno provato a creare allenamenti di ogni tipo. Ma spesso senza una vera logica scientifica a monte.
 
-Infatti in quanti hanno davvero avuto ***successo*** nel loro obiettivo fisico?
+*Infatti in quanti hanno davvero avuto successo nel loro obiettivo fisico?*
 
-La maggioranza ha solo tenuto botta.
+La maggioranza ha al massimo tenuto botta.
 
-Come trainer e come atleta fitness questo ha impattato profondamente anche me. Dopo anni di lavoro fisico molto strutturato, sono rimasto come tutti senza lemie routine. E ho dovuto reinventare qualcosa di reale efficacia da casa, ripartndo da studio della fisiologia e tentativi.
+**Come trainer, e come atleta fitness, questo ha impattato profondamente anche me.**
 
-In questa guida ti rivelerò le tecniche e il metodo che ho usato per continuare a migliorare fisicamente da casa, perdendo persino più kg di massa grassa e mantenendo la 
+Dopo anni di lavoro fisico strutturato, sono rimasto senza mie routine. E ho dovuto reinventare qualcosa di realmente efficace da casa per me.
 
-Sono anche le stesse tecniche che uso abitualmente con i miei clienti del Coaching che seguo personalmente, e che ho visto funzionare nei casi più diversi.
+**In questa guida ti rivelerò tutte le tecniche e il metodo che ho usato per continuare a migliorare fisicamente da casa.** 
 
-Perchè i Principi sono i fondamentali che funzionano sempre.
+Perdendo persino oltre 3kg di Massa Grassa pura, e mantenendo intatta la Massa Magra.
 
-Come vedremo, ci sono importanti differenze tra allenamenti in palestra e in casa.
+Sono anche le stesse tecniche che uso abitualmente con i miei clienti del **Coaching** personale e nel mio programma completo d'allenamento.
 
-Il terreno di gioco e gli strumenti cambiano, e così cambiano anche le regole del gioco per farlo funzionare.
+Come vedremo, **ci sono importanti differenze tra allenamenti in palestra e in casa.**
+
+Il terreno di gioco e gli strumenti cambiano, e quidni cambiano anche le regole del gioco per farlo funzionare.
 
 Per questo è importante conoscerle prima possibile. Nel modo più pratico possibile.
 
-Se la leggerai fino in fondo avrai una cassetta degli attrezzi nuova di zecca. E il tuo modo di allenarti a casa cambierà per sempre.
+Se la leggerai fino in fondo avrai una cassetta di strumetni nuova di zecca. E il tuo modo di allenarti a casa cambierà per sempre.
 
-Perchè non basta fare qualche video a caso su Youtube per rivoluzionare fisico: Servono tecniche efficaci e strategia.
+Se pensi che basta seguire qualche video su Youtube per mettersi seriamente in forma e rivoluzionare fisico, temo che rimarrai a mani vuote.
 
-Per questo in questa Guida non parleremo delle solite banalità che ti fanno vedere tutti
+**Per questo in questa guida non vederemo le solite banalità che ti fanno vedere tutti.** Perchè non funzionano concretamente, altrimenti ora non saresti qui.
 
-**INIZIAMO**
+Servono *tecniche efficaci e strategia e disciplina.*
+
+**Cuore e cervello.**
+
+Ok, ora inziamo:
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
-## 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
+# 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
 
 Il primo strumento per il Dimagrimento è il **Deficit Calorico.**
 

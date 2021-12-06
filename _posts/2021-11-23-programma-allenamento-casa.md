@@ -11,41 +11,41 @@ excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?
 
 ***"E possibile allenarsi a casa e ottenere risultati fisici concreti❓"***
 
-Questa è la domanda che ci siamo fatti tutti dal lockdown in poi.
+Questa è la domanda che ci siamo fatti tutti, dal lockdown in poi.
 
 E non è affatto una domanda scontata.
 
-Perchè ci siamo accorti che avere risultati reali, di **Dimagrimento** e Ricomposizione corporea a casa è molto più dura di quello che sembra.**
+Perchè ci siamo accorti che avere risultati reali a casa, di **Dimagrimento e Ricomposizione corporea, a casa è molto più dura di quello che sembra.**
 
-In questo periodo tutti hanno provato a creare allenamenti di ogni tipo. Ma spesso senza una vera logica scientifica a monte.
+In questo periodo tutti hanno provato allenamenti di ogni tipo. Ma senza una vera logica scientifica a monte.
 
-*Infatti in quanti hanno davvero avuto successo nel loro obiettivo fisico?*
+***Infatti in quanti hanno davvero avuto successo nel loro obiettivo fisico?***
 
 La maggioranza ha al massimo tenuto botta.
 
 **Come trainer, e come atleta fitness, questo ha impattato profondamente anche me.**
 
-Dopo anni di lavoro fisico strutturato, sono rimasto senza mie routine. E ho dovuto reinventare qualcosa di realmente efficace da casa per me.
+Dopo anni di lavoro fisico strutturato, sono rimasto senza le mie routine. E ho dovuto reinventarmi e reiventare qualcosa di realmente efficace da casa.
 
-**In questa guida ti rivelerò tutte le tecniche e il metodo che ho usato per continuare a migliorare fisicamente da casa.** 
+**In questa guida ti rivelerò tutte le tecniche che ho usato per continuare a migliorare fisicamente da casa.** 
 
-Perdendo persino oltre 3kg di Massa Grassa pura, e mantenendo intatta la Massa Magra.
+Perdendo persino oltre 3kg di Massa Grassa pura, e mantenendo intatta la Massa Magra. 🎯
 
 Sono anche le stesse tecniche che uso abitualmente con i miei clienti del **Coaching** personale e nel mio programma completo d'allenamento.
 
 Come vedremo, **ci sono importanti differenze tra allenamenti in palestra e in casa.**
 
-Il terreno di gioco e gli strumenti cambiano, e quidni cambiano anche le regole del gioco per farlo funzionare.
+Il terreno di gioco e gli strumenti cambiano. E di conseguenza cambiano le regole del gioco.
 
 Per questo è importante conoscerle prima possibile. Nel modo più pratico possibile.
 
-Se la leggerai fino in fondo avrai una cassetta di strumetni nuova di zecca. E il tuo modo di allenarti a casa cambierà per sempre.
+**Se arriverai fino in fondo, ti ritroverai una nuova "cassetta degli attrezzi" di tecniche e il tuo modo di allenarti a casa non sarà più come prima.**
 
-Se pensi che basta seguire qualche video su Youtube per mettersi seriamente in forma e rivoluzionare fisico, temo che rimarrai a mani vuote.
+Se credi che basti seguire qualche video su Youtube per mettersi seriamente in forma e rivoluzionare fisico, temo che rimarrai sempre a mani vuote.
 
-**Per questo in questa guida non vederemo le solite banalità che ti fanno vedere tutti.** Perchè non funzionano concretamente, altrimenti ora non saresti qui.
+**Per questo non vederemo le solite banalità che dicono tutti. Perchè non funzionano concretamente. Altrimenti tu non saresti qui ora.**
 
-Servono *tecniche efficaci e strategia e disciplina.*
+Servono *tecniche efficaci, strategia, disciplina.*
 
 **Cuore e cervello.**
 
@@ -53,7 +53,7 @@ Ok, ora inziamo:
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
-# 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
+### 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
 
 Il primo strumento per il Dimagrimento è il **Deficit Calorico.**
 

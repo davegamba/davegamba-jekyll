@@ -53,63 +53,82 @@ Ok, ora inziamo:
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-2.jpg" title="Allenarsi a casa" %}
 
-### 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
+## 📌 Principio 1 - Il Dimagrimento non deve "bruciare": deve Stimolare. 
 
-Il primo strumento per il Dimagrimento è il **Deficit Calorico.**
+Se ti metti scarpe e pantaloncini pensando in primis di andare a *"bruciare calorie"*, allora purtroppo devo dirti che è normale che non sei ancora al fisico che desideri.
 
-*Sorpresa sorpresa.*
+L'allenamento non è questo. All'ultimo Principio scorprirai cosa è davvero invece. 
 
-Da qui non si scappa indipendentemente dall'allenamento o la dieta che sceglierai.
+Per ora iniziamo col capire *cosa fa.*
 
-Ora, potresti pensare che se ti alleni bene *brucerai molto.*
+**L'allenamento serve a innescare stimoli.** E per stimolare cosa? 
 
-Iniziamo a chiarire da qui:
+Un *cambiamento* nel nostro corpo naturalmente.
+
+Il cambiamento specifico che vogliamo innescare è in pratica **diminuire la Massa Grassa, e aumentare/mantenere la Massa Magra.**
+
+*(NB. in un dimagrimento sano, la Massa Magra non deve scendere mai o il meno possibile)*
+
+Tecnicamente chiamiamo questo processo **Ricomposizione Corporea.**
+
+Si è vero, **il primo passo del Dimagrimento e della Ricomposizione è il *Deficit Calorico.*
+
+Da qui non si scappa.
+
+Quindi ora potresti pensare *"Allora devo bruciare tanto per creare deficit!!"*
+
+Ecco, iniziamo a chiarire da qui:
 
 **l'Allenamento brucia tendenzialmente *MENO* di quello che si pensa.**
 
-Perchè  il vero deficit deve cominciare a tavola.
+Molto meno.
 
-*Quindi allenarsi è inutile e basta fare la dieta?*
+**Il VERO deficit deve cominciare a tavola.**
+
+*Quindi Dave allenarsi è inutile! Basta fare la dieta?*
 
 Assolutamente no. 
 
-L'Allenamento serve a fare qualcosa di molto più importante che bruciare: 
-
-**fornisce gli stimoli che indirizzano il corpo a perdere Massa Grassa e conservare Massa Magra.**
-
-E ti assicuro che questo fa tutta la differenza del mondo. Perché la cosa peggiore che succede alle persone che si mettono a dieta senza allenarsi è perdere acqua, muscolo… e non grasso.
-
 Dieta e Allenamento vanno sempre a braccetto.
+
+Come ti ho detto l'Allenamento serve a fare qualcosa di molto più importante che bruciare: 
+
+**fornire gli Stimoli ideali.**
 
 Questo ci porta al secondo principio:
 
 
 ## 📌 Principio 2 - Direziona il cibo verso il muscolo (non verso il grasso).
 
-Lo stimolo dato dall’allenamento è fondamentale in questo. 
+La prima reazione che vogliamo produrre con lo stimolo allenante è questo.
 
-Senza allenamento, possiamo anche fare un’alimentazione sana, ma il cibo ingerito viene sedimentato tra muscolo e grasso nel nostro corpo.
+Senza attività fisica, possiamo anche fare la dieta migliore del mondo ma il cibo ingerito verrà sedimentato facilmente nell'adipe del nostro corpo.
 
-Allenandoci invece, rendiamo **i nostri muscoli delle spugne pronte ad assorbire per prime il cibo ingerito.** In questo modo impediremo del tutto che si depositi sul nostro adipe.
+**Allenandoci invece, rendiamo i nostri muscoli delle spugne, pronte ad assorbire per prime il cibo ingerito.** 
 
-Ma per arrivare a questo  non basterà *"muoversi un po'"* o fare qualcosa a caso.
+In questo modo impediremo/limiteremo che si depositi nuovo adipe.
 
-Serve innescare stimoli precisi.
+**Ma per arrivare a questo  non basterà *"muoversi un po'"* o fare qualcosa a caso.**
+
+Servono attività specifiche.
 
 *Quali?*
 
-Anaerobico e Aerobico naturalmente.
+***Anaerobica e Aerobica naturalmente.***
 
-Aspetta te la faccio facile: devi fare un lavoro muscolare (con sovraccarichi) e un lavoro cardio (per il "fiato").
+Te la faccio più facile: 
 
-Fare solo uno O l'altro, non basterà.
+**devi fare un lavoro muscolare (con sovraccarichi) + un lavoro cardio (per il "fiato").**
 
-Entrambi sono due facce della stessa medaglia e dedicarsi solo a uno, ad esemepio mettersi solo a correre tutto il tempo, non permetterà a certi meccanismi di mettersi in atto.
+Fare *SOLO* uno o l'altro non basterà.
 
-Perchè entrambi produrrano STIMOLI fiiologici diversi.
+Perchè entrambi sono due facce della stessa medaglia. E dedicarsi solo a uno (ad esemepio mettersi solo a correre tutto il tempo), non permetterà a certi meccanismi di essere innescati.
 
-E questa pate ci interessa particolarmente, perchè...
+**Perchè entrambi produrrano STIMOLI fiiologici diversi.**
 
+Ora che abbiamo capito a cosa serve realmente un allenamento, dobbiamo capire che stimoli pratici ricerchiamo. 
+
+Sia durante attività aerobiche che anaeroibche.
 
 ## 📌 Principio 3 - Esistono solo 2 Stimoli allenanti vincenti.
 

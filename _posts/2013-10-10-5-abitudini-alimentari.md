@@ -9,7 +9,7 @@ categories: [Alimentazione, Dimagrimento]
 tags: [Abitudini Alimentari, Associazioni Alimentari, Dieta, Dimagrire, Perdere Peso]
 ---
 
-Come spesso dico e ri-dico fino alla nausea (a costo di dover perdere dei lettori per noia) **le diete dimagranti restrittive** possono essere in certe occasioni la cosa peggiore da fare. Infatti possono forse farci perdere qualche kg, ma il nostro corpo sarà pronto a riprenderseli appena la smetteremo.. e con gli interessi! Ne ho già parlato abbondantemente in questo articolo --> [La Dieta Iperproteica]({% post_url 2013-09-27-dieta-iperproteica %})   Come dico sempre
+Come spesso dico e ri-dico fino alla nausea (a costo di dover perdere dei lettori per noia) **le diete dimagranti restrittive** possono essere in certe occasioni la cosa peggiore da fare. Infatti possono forse farci perdere qualche kg, ma il nostro corpo sarà pronto a riprenderseli appena la smetteremo.. e con gli interessi!
 
 ### è più salutare costruirsi delle abitudini alimentari permanenti,
 ### piuttosto che affidarci a diete restrittive occasionali

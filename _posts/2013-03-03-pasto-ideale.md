@@ -81,7 +81,7 @@ Questi sono i punti-chiave nutrizionali più importanti dei migliori atleti e pr
 
 ### L'unica differenza tra loro e una persona normale non è conoscerli, è metterli in pratica
 
-Esistono molte persone che sanno molte cose di nutrizione, ma sono in pochi a usarle nella quotidianità. E questo fa la differenza tra un corpo asciutto e uno appannato ad esempio, ma anche tra una malattia e la sua assenza. O tra vincere una gara e perderla, naturalmente. Questi punti possono apparire poco appariscenti ed è proprio per questo che molte persone li trascurano, cercando sempre qualcos'altro di nuovo, qualche nuova scoperta, [la nuova Dieta del momento]({% post_url 2013-09-27-dieta-iperproteica %}). Ma alla fine, qualsiasi nuova scoperte finisce sempre solo con il riconfermare questi punti-chiave.
+Esistono molte persone che sanno molte cose di nutrizione, ma sono in pochi a usarle nella quotidianità. E questo fa la differenza tra un corpo asciutto e uno appannato ad esempio, ma anche tra una malattia e la sua assenza. O tra vincere una gara e perderla, naturalmente. Questi punti possono apparire poco appariscenti ed è proprio per questo che molte persone li trascurano, cercando sempre qualcos'altro di nuovo, qualche nuova scoperta, la nuova Dieta del momento. Ma alla fine, qualsiasi nuova scoperte finisce sempre solo con il riconfermare questi punti-chiave.
 
 PENSIERI CONCLUSIVI
 -------------------

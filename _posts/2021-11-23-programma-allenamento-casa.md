@@ -4,7 +4,7 @@ title: "Allenamento A Casa Per Dimagrire: Principi & Scheda (2022)"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true
-image: 2014-07-16-esercizi-addominali-allenamento-plank-laterale-1.jpg
+image: newmain-dg-2022.jpg
 categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---

@@ -277,17 +277,19 @@ Perchè sono una delle migliori tecniche per aumentare la Densità (e tagliare i
 
 *Che quando hai finito di fare un esercizio, passi a un altro (con pause minime), alternandoli continuamente.*
 
-Questo ti consentirà rimanere sempre in movimento, mantenendo i battiti alti, l’intensità altissima e il focus d’acciaio.
+**In pratica incastri un secondo esercizio nelle pause del primo.**
 
-Oltre che a garantirti gli allenamenti **CORTI** nei tempi.
+Questo ti consentirà di fare 2 esercizi nello stesso tempo di uno, rimanere sempre in movimento, mantenere i battiti alti, e il focus d’acciaio.
+
+Oltre che a garantirti gli allenamenti **CORTI nei tempi.**
 
 Se tra un serie e l’altra ci mettiamo a guardare il cellulare, parlare con qualcuno o anche solo rilassarci... l’efficacia di quella sessione scende inevitabilmente.
 
-Quando una SuperSerie è composta da più di 2 esercizi (3,4,5..) si chiama *Circuito.*
+**Quando una SuperSerie è composta da più di 2 esercizi (3,4,5..) si chiama *Circuito.***
 
 Per questo spesso i Circuiti sono molto usati in ambito dimagrante. Sono forti stimoli metabolici.
 
-Tuttavia è bene mantenere la Superserie sui 2-3 esercizi perché è molto più efficaci. 
+**Tuttavia è bene mantenere la Superserie sui 2-3 esercizi perché è molto più efficaci.**
 
 In quanto ogni muscolo allenato risposa meno e viene sollecitato con maggiore frequenza.
 
@@ -300,7 +302,7 @@ In quanto ogni muscolo allenato risposa meno e viene sollecitato con maggiore fr
 
 Riposo di 3min
 
-*Circuito 7min no stop:*
+***Circuito 7min no stop:***
 6 Rematori con manubrio
 10reps Stacco con manubri
 20 Climbers
@@ -309,32 +311,36 @@ Provalo e dimmi come va.
 
 Questo è solo UN esempio dei numero allenamenti che abbiamo dentro il Programma Completo BODYMASTERY.
 
-Ti alleni sempre solo 15-20 min, ma la differenza sarà evidente da subito.
+Ti allenerai sempre solo 15-20 min, ma la differenza sarà evidente da subito.
 
 
 ## 📌 Principio 8 - IL TEMPO SOTTO TENSIONE
 
-Quando in palestra usiamo carichi alti, il muscolo deve impegnare molte fibre muscolari, e un grande stimolo nervoso, per spostare il carico.
+Abbiamo detto che quando in palestra usiamo carichi alti, il muscolo deve impegnare molte fibre muscolari e stimoli nervosi, per spostare quel carico (lo Stimolo Meccanico appunto).
 
-In pratica applichiamo una forte **tensione muscolare.**
+E vero, a corpo libero o con attrezzi da casa non possiamo dare lo stesso stimolo 
 
-Per questo risulta così efficace.
+PERÒ
 
-A casa abbiamo carichi più bassi, però abbiamo un altro modo per simulare quell’effetto sui muscoli:
+possiamo avvicinarci un pochino **replicando una tensione muscolare simile in un altro modo.**
 
-***dosare la velocità dei movimenti.***
+*"Come Dave?"*
 
-Se ti è capitato di fare un esercizio i maniera più lenta, ti sarai senz’altro accorto/a che è più faticoso.
+***Dosando la velocità dei movimenti.***
 
-Questo capita perché, quando rallenti, non essendoci il favore dello slancio e dell’inerzia del movimento, il carico è totalmente a carico dei muscoli. E farlo muovere risulta più impegnativo.
+Se ti è capitato di fare un esercizio in maniera più *lenta* ti sarai senz’altro accorto/a di quanto sia più faticoso.
+
+Questo capita perché quando rallentiamo movimento, non essendoci il favore dell’inerzia, il numero di fibre muscolati che internvegono aumenta naturalmente.
 
 **Noi possiamo sfruttare questa caratteristica fisica a nostro favore.**
 
 Infatti, rallentando alcuni movimenti, riusciremo a creare una tensione molto buona, che come conseguenza porterà il muscolo ad essere stimolato come se stesse usando un peso più alto.
 
-Naturalmente questo non va applicato a qualsiasi esercizio. Alcuni esercizi come i *Jump Squat* o i *Burpees* per esempio, è giusto che siano esplosivi e rapidi.
+Naturalmente non sarà la stessa cosa, ma comunque **un movimento lento e controllato è un buon escamotage per richiamare più fibre.**
 
-Ma, se sapientemente applicato può dare risultati eccezionali, nella metà del tempo.
+Questa tecnica va applicata a qualsiasi esercizio. Alcuni esercizi come i *Jump Squat* o i *Burpees* per esempio, è giusto che siano esplosivi e rapidi.
+
+Ma, se sapientemente applicato può dare risultati eccezionali.
 
 
 ## 📌 Principio 9 - LA PERFORMANCE ATLETICA
@@ -343,43 +349,46 @@ Se dovessi lasciarti UNA sola cosa da questa guida, sarebbe questa:
 
 **L'ALLENAMENTO È UNA PERFORMANCE.**
 
-Intendo proprio una performance sportiva, come un atleta.
+Intendo proprio una performance sportiva. Come un atleta.
 
-Anche il semplice allenamento *"estetico".*
+Anche il semplice allenamento *"estetico"*, per così chiamarlo.
 
-Performance significa fare **la tua migliore prestazione possibile in quel giorno.**
+**Performance significa fare la tua migliore prestazione possibile in quel giorno.**
  
-Significa **tenere traccia** degli andamenti e cercare di superarsi seduta dopo seduta.
+Significa *tenere traccia* degli andamenti e cercare di *superarsi* seduta dopo seduta.
 
-Significa **migliorarsi di un 1% ogni volta** in qualcosa.
+**Significa migliorarsi di un 1% ogni volta in qualcosa.**
 
 O almeno provarci.
 
 E tenere duro.
 
-Non serve cambiare scheda in continuazione. **Serve scegliere gli esercizi giusti, e migliorare continuamente i quelli.**
+Non serve cambiare scheda in continuazione:
+
+**Serve scegliere gli esercizi giusti, e migliorare continuamente i quelli.**
 
 Chi vuole cambiare sempre scheda è perché non ha capito ancora l’allenamento:
 
-**Il vero allenamento è una performance dove si migliora continuamente la prestazione, negli esercizi che contano.**
+**Il vero allenamento è una performance dove si migliora continuamente la prestazione negli esercizi che contano.**
 
 Si possono variare piccoli dettagli qua e là ogni tanto, certo, ma lo scheletro di un allenamento di qualità rimane sempre intatto.
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa-3.jpg" title="Allenarsi a casa" %}
 
 
-PASSARE ALL'AZIONE: PRONTI PER APPLICARE?
-==========================================
+## - PASSARE ALL'AZIONE: PRONTI PER APPLICARE? -
 
 Ok, abbiamo parlato abbastanza.
 
-Credo che adesso tu abbia un bagaglio di strumenti diverso da quando hai iniziato a leggere questa Guida.
+**Penso adesso tu abbia un bagaglio di strumenti ben diverso da quando hai iniziato questa Guida.**
 
-Ora, per applicare tutti questi principi in maniera pratica ho creato un **Calendario d'Allenamenti Brevi-Intensi di 30 giorni per  tutto il mese di Dicembre**, totalmente gratuito.
+ORA
+
+per applicare tutti questi principi in maniera pratica ho creato un **Calendario d'Allenamenti Brevi-Intensi di 30 giorni per  tutto il mese di Dicembre**, totalmente gratuito.
 
 Una sorta di *Calendario dell'Avvento... FIT :D*
 
-Questo ci permetterà anche di **arrivare a Gennaio pronti** per fare Il Grande Salto di qualità fisico (e non molli e sbrodolati dalle feste).
+**Questo ci permetterà anche di arrivare a Gennaio prontissimi, e rendere il 2022 l'anno della nostra migiore Froma Fisica.**
 
 Seguendo questo Calendario con noi,  ti accorgerai che bastano veramente **pochi minuti al giorno** per fare un enorme differenza. 
 
@@ -387,7 +396,7 @@ Ma quando si fanno le cose con logica e scienza, i risultati sono semplicemente 
 
 **Iscriviti qui al nostro Gruppo per iniziare subito. È gratuito:**
 
-► [https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)
+► **[https://wildfitters.davegamba.com/](https://wildfitters.davegamba.com/)**
 
 Ci vediamo dentro al Gruppo!
 
@@ -397,7 +406,7 @@ Dave
 
 
 *PS - 
-Non dimanticare mai il Principio base imprescendibile per ogni successo: la Disciplina.
+Non dimenticare mai il Principio base imprescendibile per ogni successo: la Disciplina.
 I Principi funzionano se tu li fai funzionare. Applicandoli giorno dopo giorno.
 Questo vale in qualsiasi campo, e particolarmente quello fisico.*
 

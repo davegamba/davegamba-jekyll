@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Allenamento A Casa Per Dimagrire: I 9 Fondamentali Da Applicare (2022)"
+title: "Allenamento A Casa Per Dimagrire: Principi & Scheda (2022)"
 date: 2021-11-23 00:00
 author: davegamba
 comments: true

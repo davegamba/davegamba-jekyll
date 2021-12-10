@@ -204,55 +204,76 @@ Ma... ***come?***
 Vediamo le tecniche a nostra disposizione per farlo:
 
 
-## 📌 Principio 5 - GLI ESERCIZI +EFFICIENTI 
+## 📌 Principio 5 - GLI ESERCIZI + EFFICIENTI 
 
-Per prima cosa bisogna saper scegliere gli esercizi più sensati ed efficaci per **dimagrimento** e **ricomposizione corporea.**
+Per prima cosa bisogna saper scegliere gli esercizi più sensati ed efficaci per **Dimagrimento** e **Ricomposizione corporea.**
 
-Per esempio, a casa è importante scegliere esercizi *Multi-articolari*, ovvero che coinvolgano più catene muscolari:
+*Quali sono?* 
+Senza dubbio deve esserci un abbondante presenza di **Multi-articolari*, ovvero che coinvolgono più catene muscolari:
 
-pensa ad esempio a Squat, Affondi, Stacchi, Tirate, e similari. Con tutte le relative varianti.
+pensa ad esempio a *Squat, Affondi, Stacchi, Tirate,* etc etc. Con tutte le relative varianti.
 
-In questo modo saremo sicuri di fare uno sforzo impegnativo, far girare parecchio il sangue, l'ossigeno, e muovere "più corpo possibile".
+In questo modo saremo sicuri di fare uno sforzo impegnativo, facendo girare parecchio  Sangue e Ossigeno.
 
-Fare solo *Mono-articolari*, come Slanci glutei con cavigliere o Bicipiti con manubri, è molto limitante.
+**Non possiamo pensare di fare un allenamento *iper-efficace* solo con Slanci glutei e Bicipiti con pesetti.**
 
-Questo è il punto dove sbagliano anche gran parte dei trainer purtroppo.
+In questi esercizi di isolamento intervengono muscoli troppo piccoli, e l'intensità è troppo bassa.
 
-Dobbiamo prima usare esercizi più importanti, e poi condire il piatto con qualche esercizio più piccolo per completare il lavoro.
+Mentre invece è esattamente quello che fanno i principianti: cercando esercizi piccoli ipercifici solo per la "zona" che vogliono migliorare.
+
+**Per vedere una vera differenza fisica dobbiamo lavorare *"più corpo possibile"*.** Non zone isolate.
+
+PRIMA dobbiamo prima usare esercizi importanti, POI possiamo condire il piatto con qualche esercizio più piccolo per completare il lavoro.
 
 Lo Stimolo Metabolico è uno stimolo di resistenza, quindi in linea di principio è meglio iniziare l’allenamento con esercizi più intensi,  per poi scendere gradualmente con la difficoltà.
 
 
 ## 📌 Principio 6 - DENSITÀ ALLENANTE
 
-Inizia a interiorizzare questo:
+Questo principio è molto importante.
+
+Prima lo fai tuo, prima vedrai risultati:
 
 **Quando ti alleni a casa è TUTTO un a questione di *"tempi"*.**
 
-Non devono esistere *tempi morti*, e non esiste fare altro mentre di stai allenando.
+ALIAS:
+*Non devono esistere *tempi morti*.
 
-**A casa ci si allena intensi e focalizzati.** Per forza. Altrimenti è inutile.
+**A casa ci si allena intensi e focalizzati.** Punto. Non devi pensare ad altro che questo.
 
-La gente fa il contrario: allenamenti lunghi, diluiti, poco intensi, pensando *“visto che mi sono allenato 1 - 2 ore, ho bruciato tanto”.*
+Per questo per me l'approccio ***Breve-Intenso*** è così importante.
 
-Non funziona cosi.
+Perchè più sappiamo sarà breve l'allenamento, più energia vorremo emettere in quel tempo.
 
-Ed è il motivo per cui il mio approccio d’allenamento è *breve-intenso.*
+Di solito la gente fa il contrario: 
+allenamenti lunghi, diluiti,leggeri, pensando *“visto che mi sono allenato 1 - 2 ore, ho bruciato TANTO”.*
 
-**Aumentare la Densità dell'allenamento nel minor tempo possibile, è la base per uno Stimolo Metabolico di successo.**
+Non fare come loro.
+
+**Aumentare la Densità signfica fare la stessa quantità di lavoro, nella metà del tempo. Come un CONCENTRATO.
+
+È la base per uno Stimolo Metabolico di vero successo.
 
 Anche a livello psicologico mantenere la concentrazione a casa per tempi prolungati è veramente difficile, se non impossibile. Le distrazioni sono troppe e il focus si perde in tempi più brevi.
 
 Bisogna **tagliare i tempi** e bisogna farlo **con logica.**
 
-Questo ci porta al prossimo principio.
+Un esempio? 
+
+**Diminuire i tempi di riposo tra le serie.** Meno riposo, più lavoro.
+
+Certo, farlo nella pratica non è semplice come scriverlo. Perchè serve una **logica specifica.**
+
+Esistono diversi modi per farlo. Questo ci porta al prossimo principio.
 
 
 ## 📌 Principio 7 - LE SUPERSERIE
 
 **Le SuperSerie dovrebbero diventare le tue migliori amiche quando ti alleni a casa.**
 
-Cosa vuole dire *SuperSerie?*
+Perchè sono una delle migliori tecniche per aumentare la Densità (e tagliare i tempi)
+
+***Cosa vuole dire *SuperSerie?***
 
 *Che quando hai finito di fare un esercizio, passi a un altro (con pause minime), alternandoli continuamente.*
 

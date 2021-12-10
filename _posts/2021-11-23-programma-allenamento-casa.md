@@ -9,10 +9,6 @@ categories: [Allenamento]
 excerpt: "Allenarsi a casa, e ottenere risultati concreti, è davvero possibile?"
 ---
 
-{% include vimeo.html code="638376655/7717766a31" %}
-
-{% include vimeo.html code="424475214" %}
-
 ***"E possibile allenarsi a casa e ottenere risultati fisici concreti❓"***
 
 Questa è la domanda che ci siamo fatti tutti, dal lockdown in poi.

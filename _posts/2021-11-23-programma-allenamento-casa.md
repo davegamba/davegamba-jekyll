@@ -136,42 +136,41 @@ Fare un allenamento davvero efficace a casa non è affatto facile.
 
 Principalmente perché il muscolo e il corpo in generale migliora dopo un allenamento soprattutto grazie a 2 tipi di lavori specifici:
 
-***- STIMOLO MECCANICO (O CARICO)***
-***- STIMOLO METABOLICO***
+***● STIMOLO MECCANICO (O CARICO)***
+
+***● STIMOLO METABOLICO***
 
 Lo stimolo *Meccanico* è in pratica il peso che sollevi. Più un carico è pesante per le nostre possibilità (senza essere insostenibile) più la risposta del corpo è positiva nel post allenamento. 
 
-Questo vale esattamente allo stesso modo per le donne (e no, non si diventa grosse, anzi al contrario…)
+**Questo vale esattamente allo stesso modo per le donne** (e no, non si diventa *grosse*, anzi al contrario…)
 
 La palestra è fantastica in questo.
 
 Perché
-- hai tutti i pesi che vuoi
-- nel modo più sicuro
-- con macchine che ti guidano anche se non sei bravissimo/a nelle esecuzioni degli esercizi.
+*- hai tutti i pesi che vuoi*
+*- nel modo più sicuro*
+*- con macchine che ti guidano anche se non sei bravissimo/a nelle esecuzioni degli esercizi.*
 
-***A casa invece?***
+
+***E a casa invece?***
 
 Beh spesso si hanno solo elastici, pesetti leggeri, cavigliere, e nel migliore dei casi dei manubri (che però non superano i 10-12kg…)
 
-Questa strumentazione non fornisce uno stimolo meccanico sufficiente.
+**Questa strumentazione non fornisce uno Stimolo Meccanico sufficiente.**
 
-Anche se le donne in questo contesto sono più avvantaggiate.
-In quanto, rispetto ad un uomo, sentiranno prima lo stimolo meccanico nonostante i pesi più bassi.
+Anche se le donne in questo contesto sono più avvantaggiate. In quanto, rispetto ad un uomo, avranno prima lo stimolo meccanico nonostante i pesi più bassi.
 
-Un ottimo stimolo meccanico a casa lo abbiamo quando iniziamo ad avere attrezzatura come panca, bilanciere, sbarra per trazioni, etc
+**Un ottimo stimolo meccanico a casa lo abbiamo quando iniziamo ad avere attrezzatura come panca, bilanciere, sbarra per trazioni, etc**
 
 In questo caso si potrà fare un lavoro molto più completo e raggiugnere lo stimolo meccanico.
 
 ***"Ma quindi Dave se non ho questra attrezzatura non c'è niente da fare?"***
 
 Calma. 
-Rimane ancora un fattore con cui possiamo lavorare efficacemente:
-
-Lo **Stimolo Metabolico.**
+Rimane ancora un fattore con cui possiamo lavorare efficacemente
 
 
-## 📌 Principio 4 - Lo Stimolo Metabolico è la chiave di un vero d'Allenamento a Casa.
+## 📌 Principio 4 - Lo Stimolo Metabolico è la chiave dell'Allenamento a Casa.
 
 {% include file-image.html src="2021-11-23-programma-allenamento-casa.jpg" title="Allenarsi a casa" %}
 
@@ -181,27 +180,28 @@ Non è una passeggiata.
 
 Perché richiede impegno e astuzia per raggiungerlo senza massacrarsi inutilmente e perdere tempo a vuoto.
 
-Per capirci, lo stimolo Metabolico è in pratica lo sforzo *prolungato*. 
+**Per capirci, lo stimolo Metabolico è in pratica lo sforzo *prolungato*.**
 
-Dove portiamo i nostri muscoli a cedimento o comunque vicini al cedimento.
+Dove portiamo i nostri muscoli *a cedimento*, o comunque vicini al cedimento.
 
 È maggiormente aerobico di quello meccanico (che è quasi tutto anaerobico).
 
 ***E perché non è così semplice la faccenda?***
 
-Perché  utilizzando bassi carichi arrivare a cedimento è difficilmente realizzabile. In quanto spesso cede prima la testa del corpo. 
+👉 Perché  utilizzando bassi carichi arrivare a cedimento è difficilmente realizzabile. 
+In quanto spesso la etsa cede prima del corpo (mi spiace, ma  è la verità).
 
 Non basta fare uno un video allenamento a caso, *muoversi un po’*, e pensare di avere grandi risultati.
 
-Dobbiamo diventare bravi noi a fare le cose giuste. Le poche cose che funzionano.
+**Dobbiamo diventare bravi noi a fare le cose giuste. Le cose che *funzionano*.**
 
-E serve un percorso **studiato e progressivo.**
+E serve un percorso *studiato e progressivo.*
 
 Insomma, dobbiamo innescare questo benedetto Stimolo Metabolico. 
 
-Ma... *come?*
+Ma... ***come?***
 
-Vediamo gli strumenti a nostra disposizione per farlo:
+Vediamo le tecniche a nostra disposizione per farlo:
 
 
 ## 📌 Principio 5 - GLI ESERCIZI +EFFICIENTI 
